@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Document with Text and Grid of Black and W
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1536x1086"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 - [[knowledge/wiki/images/Coyote by Joseph Beuys (1974) 6ca766fe|Coyote by Joseph Beuys (1974)]] — shared language: coyote
-- [[knowledge/wiki/images/Photograph Museum Installation View of Photographs and Text Behind Reflective Glass fed3cb53|Photograph Museum Installation View of Photographs and Text Behind Reflective Glass]] — shared language: photographs, text
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
+- [[knowledge/wiki/images/Photograph Museum Installation View of Photographs and Text Behind Reflective Glass fed3cb53|Photograph Museum Installation View of Photographs and Text Behind Reflective Glass]] — shared language: photographs, text
 <!-- vault-crosslinks:end -->

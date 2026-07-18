@@ -6,7 +6,7 @@ source_relpath: "1600s/susanna_and_the_elders_by_peter_paul_rubens_c_1607_2.jpg"
 collection: "1600s"
 inferred_year: "1607"
 artist: "peter paul rubens"
-dimensions: "2453x3093"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

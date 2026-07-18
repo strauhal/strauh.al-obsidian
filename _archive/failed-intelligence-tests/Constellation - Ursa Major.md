@@ -25,7 +25,7 @@ The Great Bear asterism forms a recognizable plow shape.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: stars, archived, gemma
+- [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: stars, gemma, interpreted
 - [[knowledge/wiki/images/the death of major peirson 6 january 1781 by john singleton copley 1783 a1c395b3|the death of major peirson 6 january 1781 by john singleton copley 1783]] — shared language: major
 - [[knowledge/wiki/images/Comic Major Grubert's Bubble Ship Flying Over Forest Landscape by Jean Giraud (Moebius) 10f0632c|Comic Major Grubert's Bubble Ship Flying Over Forest Landscape by Jean Giraud (Moebius)]] — shared language: major
 - [[knowledge/wiki/images/Illustration Abstract Painting with Yellow Shape and Intersecting Black Lines e2602731|Illustration Abstract Painting with Yellow Shape and Intersecting Black Lines]] — shared language: shape

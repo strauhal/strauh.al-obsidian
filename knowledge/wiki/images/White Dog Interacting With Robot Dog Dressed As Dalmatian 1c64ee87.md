@@ -6,7 +6,7 @@ source_relpath: "photography/White Dog Interacting With Robot Dog Dressed As Dal
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "720x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

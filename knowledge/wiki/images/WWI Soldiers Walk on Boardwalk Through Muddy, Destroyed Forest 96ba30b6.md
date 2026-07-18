@@ -6,7 +6,7 @@ source_relpath: "photography/WWI Soldiers Walk on Boardwalk Through Muddy, Destr
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2560x1536"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

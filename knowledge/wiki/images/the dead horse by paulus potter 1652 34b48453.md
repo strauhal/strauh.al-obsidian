@@ -6,7 +6,7 @@ source_relpath: "1600s/the_dead_horse_by_paulus_potter_1652.jpeg"
 collection: "1600s"
 inferred_year: "1652"
 artist: "paulus potter"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Composition of Blue, Red, Yellow,
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: fluid
 - [[knowledge/wiki/images/Illustration Abstract Composition with Geometric and Organic Shapes on Yellow and Brown Backgrounds f0a53489|Illustration Abstract Composition with Geometric and Organic Shapes on Yellow and Brown Backgrounds]] — shared language: composition, shapes, yellow
-- [[knowledge/wiki/images/Illustration Abstract Painting of Layered Geometric Shapes in Yellow, Green, Blue 0e042ece|Illustration Abstract Painting of Layered Geometric Shapes in Yellow, Green, Blue]] — shared language: shapes, yellow
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: composition
 <!-- vault-crosslinks:end -->

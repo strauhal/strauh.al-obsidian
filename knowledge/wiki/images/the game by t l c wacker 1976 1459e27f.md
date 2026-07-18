@@ -6,7 +6,7 @@ source_relpath: "1900s/the_game_by_t_l_c_wacker_1976.jpg"
 collection: "1900s"
 inferred_year: "1976"
 artist: "t l"
-dimensions: "1398x1866"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

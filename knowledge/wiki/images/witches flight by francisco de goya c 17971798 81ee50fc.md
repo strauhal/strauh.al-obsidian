@@ -6,7 +6,7 @@ source_relpath: "1700s/witches_flight_by_francisco_de_goya_c_17971798.jpg"
 collection: "1700s"
 inferred_year: "1700s"
 artist: "francisco de goya"
-dimensions: "1340x1920"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

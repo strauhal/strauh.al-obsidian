@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Sol (The Sun) by Hendrick Goltzius (1590) 55c5296f|Sol (The Sun) by Hendrick Goltzius (1590)]] — shared language: sol
-- [[knowledge/wiki/pages/knowledge base 2024 misc bookmarks|knowledge base 2024 misc bookmarks]] — shared language: lewitt, sol
 - [[knowledge/wiki/pages/knowledge base art|knowledge base art]] — shared language: lewitt, sol
 - [[knowledge/wiki/images/Photograph Layered Abstract Photograph with Distorted Figures in Blue and White fe530814|Photograph Layered Abstract Photograph with Distorted Figures in Blue and White]] — shared language: distorted
 - [[knowledge/wiki/images/Illustration Textured Abstract Painting of Distorted Black Grid on White 70b7ca84|Illustration Textured Abstract Painting of Distorted Black Grid on White]] — shared language: distorted
 - [[knowledge/wiki/images/Illustration Distorted Colorful Words on a White Background 1f297fd3|Illustration Distorted Colorful Words on a White Background]] — shared language: distorted
+- [[knowledge/wiki/images/Illustration Scribbled Line Drawing Of A Distorted Face e09a4c05|Illustration Scribbled Line Drawing Of A Distorted Face]] — shared language: distorted
 <!-- vault-crosslinks:end -->

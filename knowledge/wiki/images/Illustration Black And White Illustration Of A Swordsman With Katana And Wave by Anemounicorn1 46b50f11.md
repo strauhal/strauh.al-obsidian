@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White Illustration Of A Sword
 collection: "unsorted"
 inferred_year: ""
 artist: "Anemounicorn1"
-dimensions: "2892x4096"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

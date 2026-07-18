@@ -6,7 +6,7 @@ source_relpath: "1900s/black_and_white_ink_drawing_of_a_man_covered_in_wires_hol
 collection: "1900s"
 inferred_year: "1990"
 artist: ""
-dimensions: "1648x2523"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

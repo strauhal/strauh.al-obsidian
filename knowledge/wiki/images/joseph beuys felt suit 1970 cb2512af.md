@@ -6,7 +6,7 @@ source_relpath: "1900s/joseph_beuys_felt_suit_1970.jpg"
 collection: "1900s"
 inferred_year: "1970"
 artist: ""
-dimensions: "1111x1536"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

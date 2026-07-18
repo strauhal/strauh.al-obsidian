@@ -6,7 +6,7 @@ source_relpath: "photography/Large Ocean Wave Breaking in Blue Water.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1000x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

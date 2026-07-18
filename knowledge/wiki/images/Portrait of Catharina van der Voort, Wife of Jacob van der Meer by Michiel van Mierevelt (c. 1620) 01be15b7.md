@@ -6,7 +6,7 @@ source_relpath: "1600s/Portrait of Catharina van der Voort, Wife of Jacob van de
 collection: "1600s"
 inferred_year: "1620"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

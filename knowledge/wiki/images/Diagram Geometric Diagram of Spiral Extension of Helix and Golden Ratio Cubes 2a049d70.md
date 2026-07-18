@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Geometric Diagram of Spiral Extension of Helix 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "832x1133"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

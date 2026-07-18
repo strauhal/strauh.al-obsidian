@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Blue Illustration of Person and Cat Loo
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "736x736"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

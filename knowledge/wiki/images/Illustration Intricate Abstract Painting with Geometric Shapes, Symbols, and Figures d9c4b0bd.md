@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Intricate Abstract Painting with Geomet
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "382x384"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

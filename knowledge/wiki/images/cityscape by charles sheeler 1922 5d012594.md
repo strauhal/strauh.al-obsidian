@@ -6,7 +6,7 @@ source_relpath: "1900s/cityscape_by_charles_sheeler_1922.jpeg"
 collection: "1900s"
 inferred_year: "1922"
 artist: "charles sheeler"
-dimensions: "5712x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

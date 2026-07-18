@@ -6,7 +6,7 @@ source_relpath: "diagrams/Color_Mixing_and_Gamut_Diagrams_by_David_Briggs.jpg"
 collection: "diagrams"
 inferred_year: ""
 artist: "David Briggs"
-dimensions: "600x651"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

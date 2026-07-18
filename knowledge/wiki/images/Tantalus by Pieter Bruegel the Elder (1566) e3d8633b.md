@@ -6,7 +6,7 @@ source_relpath: "1500s/Tantalus by Pieter Bruegel the Elder (1566).jpg"
 collection: "1500s"
 inferred_year: "1566"
 artist: ""
-dimensions: "1185x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Behind-The-Scenes Of Windows 10 Logo Creation.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "700x1214"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

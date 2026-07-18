@@ -6,7 +6,7 @@ source_relpath: "1900s/oil_painting_of_a_twin_peaked_orange_citadel_in_a_desolat
 collection: "1900s"
 inferred_year: "1973"
 artist: "zdzisaw beksinski"
-dimensions: "2723x2748"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

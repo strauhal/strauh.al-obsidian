@@ -6,7 +6,7 @@ source_relpath: "diagrams/Graph_of_Piano_Tuning_Deviation_(Railsback_Curve)_with
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "850x474"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

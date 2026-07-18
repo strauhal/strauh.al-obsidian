@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Definitions of Knowledge, Ethics, Vision,
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "958x1594"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

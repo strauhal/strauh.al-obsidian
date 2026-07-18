@@ -6,7 +6,7 @@ source_relpath: "1400s/head_of_a_warrior_in_profile_by_leonardo_da_vinci_c_1472_
 collection: "1400s"
 inferred_year: "1475"
 artist: "leonardo da vinci"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

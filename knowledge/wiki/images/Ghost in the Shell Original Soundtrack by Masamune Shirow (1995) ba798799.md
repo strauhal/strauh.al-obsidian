@@ -6,7 +6,7 @@ source_relpath: "1900s/Ghost in the Shell Original Soundtrack by Masamune Shirow
 collection: "1900s"
 inferred_year: "1995"
 artist: ""
-dimensions: "1080x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

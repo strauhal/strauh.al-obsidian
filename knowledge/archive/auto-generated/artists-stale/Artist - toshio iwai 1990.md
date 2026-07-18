@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/books-stale/schopenhauer-world-as-will|schopenhauer world as will]] — shared language: world
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: world
 - [[_archive/auto-generated/books-stale/my-twisted-world|My Twisted World]] — shared language: world
-- [[knowledge/archive/auto-generated/artists-stale/Artist - gray lines and the word smac|Artist - gray lines and the word smac]] — shared language: word
+- [[knowledge/wiki/images/mc escher other world 1947 9ee92a93|mc escher other world 1947]] — shared language: world
 <!-- vault-crosslinks:end -->

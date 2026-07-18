@@ -6,7 +6,7 @@ source_relpath: "1900s/le_bonheur_de_vivre_the_joy_of_life_by_henri_matisse_1905
 collection: "1900s"
 inferred_year: "1906"
 artist: "henri matisse"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Detailed Isometric View of a Bustling Stea
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1298x1920"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

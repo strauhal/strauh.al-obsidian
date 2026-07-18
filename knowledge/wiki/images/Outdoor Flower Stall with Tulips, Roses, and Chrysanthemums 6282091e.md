@@ -6,7 +6,7 @@ source_relpath: "photography/Outdoor Flower Stall with Tulips, Roses, and Chrysa
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2048x2416"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Outdoor Fl
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/People Ascending And Descending Large Outdoor Staircase With Flower Beds 63b5ae57|People Ascending And Descending Large Outdoor Staircase With Flower Beds]] — shared language: outdoor, flower
 - [[knowledge/wiki/images/Illustration Black And White Image Of Two Figures In Outdoor Gear With Text 3df98f58|Illustration Black And White Image Of Two Figures In Outdoor Gear With Text]] — shared language: outdoor
+- [[knowledge/wiki/images/People Ascending And Descending Large Outdoor Staircase With Flower Beds 63b5ae57|People Ascending And Descending Large Outdoor Staircase With Flower Beds]] — shared language: outdoor, flower
 - [[knowledge/wiki/images/sir lawrence almatadema the roses of heliogabalus 1888 7671b476|sir lawrence almatadema the roses of heliogabalus 1888]] — shared language: roses
 - [[knowledge/wiki/images/Illustration Oil Painting of Pink Roses in a Garden f171b4f7|Illustration Oil Painting of Pink Roses in a Garden]] — shared language: roses
 - [[knowledge/wiki/images/Painting of a Market Fruit Stall Displayed on Gallery Wall 8ae0c6f8|Painting of a Market Fruit Stall Displayed on Gallery Wall]] — shared language: stall

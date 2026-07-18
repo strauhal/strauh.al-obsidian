@@ -6,7 +6,7 @@ source_relpath: "photography/Damaged MacBook with Bent Corner on Table.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "680x680"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

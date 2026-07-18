@@ -6,7 +6,7 @@ source_relpath: "1900s/Death and the Maiden by Egon Schiele (1915).avif"
 collection: "1900s"
 inferred_year: "1915"
 artist: ""
-dimensions: "2048x1723"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

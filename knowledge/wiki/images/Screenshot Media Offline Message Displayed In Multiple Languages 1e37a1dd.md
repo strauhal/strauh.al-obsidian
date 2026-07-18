@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Media Offline Message Displayed In Multip
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1048x1050"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

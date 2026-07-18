@@ -6,7 +6,7 @@ source_relpath: "unsorted/Photograph - Grey Fabric with Pixelated Anti-Surveilla
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "799x1500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

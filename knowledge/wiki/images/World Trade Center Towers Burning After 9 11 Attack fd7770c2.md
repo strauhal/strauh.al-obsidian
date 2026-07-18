@@ -6,7 +6,7 @@ source_relpath: "photography/World Trade Center Towers Burning After 9-11 Attack
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1170x766"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

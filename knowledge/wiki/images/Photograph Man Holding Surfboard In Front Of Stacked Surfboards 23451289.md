@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Man Holding Surfboard In Front Of Stacked Su
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "860x573"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/ada_in_the_landscape_by_alex_katz_1990.jpeg"
 collection: "1900s"
 inferred_year: "1990"
 artist: "alex katz"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Close-Up Of Face With Red Line And Coca
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "623x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

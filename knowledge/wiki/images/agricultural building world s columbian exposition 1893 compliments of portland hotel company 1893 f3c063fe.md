@@ -6,7 +6,7 @@ source_relpath: "1800s/agricultural_building_world_s_columbian_exposition_1893_c
 collection: "1800s"
 inferred_year: "1893"
 artist: ""
-dimensions: "3261x2090"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

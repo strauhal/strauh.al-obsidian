@@ -6,7 +6,7 @@ source_relpath: "1700s/the_education_of_bacchus_by_francois_boucher_c_1745.jpeg"
 collection: "1700s"
 inferred_year: "1745"
 artist: "francois boucher"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

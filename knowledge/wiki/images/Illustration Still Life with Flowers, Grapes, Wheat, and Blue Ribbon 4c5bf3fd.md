@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Still Life with Flowers, Grapes, Wheat, an
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Still Life with Pink Flowers, Green Grapes, and Blue Jar e0c2cdcd|Illustration Still Life with Pink Flowers, Green Grapes, and Blue Jar]] — shared language: grapes, still, flowers
 - [[knowledge/wiki/images/Illustration Still Life Painting of Red Grapes and Leaves 0e1ec0ae|Illustration Still Life Painting of Red Grapes and Leaves]] — shared language: grapes, still, life
-- [[knowledge/wiki/images/Illustration Abstract Still Life With Two Vases And Flowers (2) 0b134958|Illustration Abstract Still Life With Two Vases And Flowers (2)]] — shared language: still, flowers, life
+- [[knowledge/wiki/images/Illustration Still Life with Pink Flowers, Green Grapes, and Blue Jar e0c2cdcd|Illustration Still Life with Pink Flowers, Green Grapes, and Blue Jar]] — shared language: grapes, flowers, still
+- [[knowledge/wiki/images/Illustration Abstract Still Life With Two Vases And Flowers (2) 0b134958|Illustration Abstract Still Life With Two Vases And Flowers (2)]] — shared language: flowers, still, life
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
 - [[knowledge/wiki/images/Illustration Abstract Still Life With Two Vases And Flowers f234afe1|Illustration Abstract Still Life With Two Vases And Flowers]] — shared language: still, flowers, life
 <!-- vault-crosslinks:end -->

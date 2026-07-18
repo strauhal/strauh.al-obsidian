@@ -6,7 +6,7 @@ source_relpath: "1900s/anthuriums_and_postcard_by_paul_wonner_1978.jpg"
 collection: "1900s"
 inferred_year: "1978"
 artist: "paul wonner"
-dimensions: "2048x2947"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

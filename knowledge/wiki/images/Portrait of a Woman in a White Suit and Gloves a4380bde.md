@@ -6,7 +6,7 @@ source_relpath: "photography/Portrait of a Woman in a White Suit and Gloves.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

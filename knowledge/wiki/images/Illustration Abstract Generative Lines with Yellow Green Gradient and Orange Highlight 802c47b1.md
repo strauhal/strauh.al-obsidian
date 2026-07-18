@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Generative Lines with Yellow-Gree
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1652x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

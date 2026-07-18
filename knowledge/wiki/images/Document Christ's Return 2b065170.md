@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Christ's Return.jpeg"
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1726"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

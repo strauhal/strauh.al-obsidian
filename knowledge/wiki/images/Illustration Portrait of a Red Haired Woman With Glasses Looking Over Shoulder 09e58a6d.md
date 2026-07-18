@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Portrait of a Red-Haired Woman With Gla
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1771x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

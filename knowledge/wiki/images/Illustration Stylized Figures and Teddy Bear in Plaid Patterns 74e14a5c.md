@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Figures and Teddy Bear in Plaid P
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1560x1259"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

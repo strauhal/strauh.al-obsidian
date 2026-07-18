@@ -6,7 +6,7 @@ source_relpath: "diagrams/North_American_Map_Showing_Multi-Colored_Network_Lines
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "2020x1504"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Purple Line Sketch of Armored Winged Creat
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1800x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

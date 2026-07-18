@@ -6,7 +6,7 @@ source_relpath: "photography/Three Shirtless Young Men With Trading Cards Flying
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1284x1547"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

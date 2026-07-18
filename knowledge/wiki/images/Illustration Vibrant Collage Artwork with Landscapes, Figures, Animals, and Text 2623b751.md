@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Vibrant Collage Artwork with Landscapes, F
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - V
 - [[knowledge/wiki/images/Illustration Colorful Multi Panel Artwork Featuring Horses, Landscapes, and Abstract Forms ff9d6566|Illustration Colorful Multi Panel Artwork Featuring Horses, Landscapes, and Abstract Forms]] — shared language: landscapes, artwork
 - [[knowledge/wiki/images/Illustration Abstract Artwork With Vibrant Colors And Contour Lines 73c090e6|Illustration Abstract Artwork With Vibrant Colors And Contour Lines]] — shared language: artwork, vibrant
 - [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text, text.jpeg
-- [[knowledge/wiki/images/Illustration Long Artwork Showing Continuous Transformation Of Patterns, Animals, And Townscape fd5d2b4a|Illustration Long Artwork Showing Continuous Transformation Of Patterns, Animals, And Townscape]] — shared language: animals, artwork
+- [[knowledge/wiki/images/Illustration Fantastical Jigsaw Puzzle Collage of Landscapes, Castles, and Ships 6f5979dd|Illustration Fantastical Jigsaw Puzzle Collage of Landscapes, Castles, and Ships]] — shared language: landscapes, collage
 <!-- vault-crosslinks:end -->

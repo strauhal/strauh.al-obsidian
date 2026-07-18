@@ -6,7 +6,7 @@ source_relpath: "diagrams/Complex_Network_Graph_With_Colored_Nodes_And_Numerical
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1240x738"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1600s/portrait_of_a_man_by_frans_hals_c_1635.jpeg"
 collection: "1600s"
 inferred_year: "1635"
 artist: "frans hals"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pixelated Black And White Space Scene With
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Bert Monroy"
-dimensions: "576x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

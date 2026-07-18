@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Screenshot Headshot Of A Young Man Wearing Glasses 9fae7c1e|Screenshot Headshot Of A Young Man Wearing Glasses]] — shared language: glasses, wearing
 - [[knowledge/wiki/images/Greta Thunberg Wearing Keffiyeh And 'Autism' T Shirt 53ac89db|Greta Thunberg Wearing Keffiyeh And 'Autism' T Shirt]] — shared language: keffiyeh, wearing
 - [[_archive/auto-generated/images-stale/Photograph Greta Thunberg Wearing Keffiyeh And 'Autism' T Shirt 66281d50|Photograph Greta Thunberg Wearing Keffiyeh And 'Autism' T Shirt]] — shared language: keffiyeh, wearing
-- [[_archive/auto-generated/images-stale/oil painting portrait of a woman with red hair glasses and a shoulder tattoo 490c2e1f|oil painting portrait of a woman with red hair glasses and a shoulder tattoo]] — shared language: glasses, oil
+- [[knowledge/wiki/images/Black and White Portrait of Olivier Messiaen Wearing Glasses 710c7f2a|Black and White Portrait of Olivier Messiaen Wearing Glasses]] — shared language: glasses, wearing
 <!-- vault-crosslinks:end -->

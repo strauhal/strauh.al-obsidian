@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Colorful, Multi-Tiered South Indian Temple G
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1500x993"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

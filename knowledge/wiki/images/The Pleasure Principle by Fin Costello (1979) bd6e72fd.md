@@ -6,7 +6,7 @@ source_relpath: "1900s/The Pleasure Principle by Fin Costello (1979).jpg"
 collection: "1900s"
 inferred_year: "1979"
 artist: ""
-dimensions: "960x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -30,4 +30,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/The Pleasure Pri
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: pleasure
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: pleasure
 - [[knowledge/private/fanmail/threads/16-pleasure-to-meet-you-peets|Private Correspondence - 16 - Pleasure to Meet you (Peets)]] — shared language: pleasure
+- [[knowledge/private/fanmail/threads/31-pleasure-to-meet-you-peets|Private Correspondence - 31 - Pleasure to Meet you (Peets)]] — shared language: pleasure
 <!-- vault-crosslinks:end -->

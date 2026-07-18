@@ -6,7 +6,7 @@ source_relpath: "photography/Apple iMac G3 Advertisement with 'The Rebirth of Co
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1526"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

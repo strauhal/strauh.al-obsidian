@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Vaulted Brick Interior Repurposed as Office 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "602x400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

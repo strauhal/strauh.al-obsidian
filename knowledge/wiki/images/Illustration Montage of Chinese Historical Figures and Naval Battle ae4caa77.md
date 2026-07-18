@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Montage of Chinese Historical Figures a
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "5305x6877"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

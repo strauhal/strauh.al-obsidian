@@ -6,7 +6,7 @@ source_relpath: "1900s/An Uncontrollable Fury by Jean-Michel Basquiat (1982).jpe
 collection: "1900s"
 inferred_year: "1982"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

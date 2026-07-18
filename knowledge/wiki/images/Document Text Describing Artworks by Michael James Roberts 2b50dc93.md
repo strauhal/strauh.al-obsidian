@@ -6,7 +6,7 @@ source_relpath: "2000s/Document - Text Describing Artworks by Michael James Robe
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Michael James Roberts"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Document - Text 
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: describing
 - [[knowledge/wiki/images/Screenshot Screenshot of Text Describing Euthanasia Coaster with Diagram e02b6883|Screenshot Screenshot of Text Describing Euthanasia Coaster with Diagram]] — shared language: describing, text
 - [[knowledge/wiki/images/Document Profile Drawing with Text Describing Patient's Artistic Process 9287383b|Document Profile Drawing with Text Describing Patient's Artistic Process]] — shared language: describing, document, text
-- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: james, document
+- [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 <!-- vault-crosslinks:end -->

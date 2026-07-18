@@ -6,7 +6,7 @@ source_relpath: "1900s/Youth Portrait (Jugendbildnis) by Gerhard Richter (1988).
 collection: "1900s"
 inferred_year: "1988"
 artist: ""
-dimensions: "1018x888"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

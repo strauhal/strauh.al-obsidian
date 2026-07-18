@@ -6,7 +6,7 @@ source_relpath: "2000s/i_m_happy_to_see_you_by_javier_calleja_2021.jpeg"
 collection: "2000s"
 inferred_year: "2021"
 artist: "javier calleja"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

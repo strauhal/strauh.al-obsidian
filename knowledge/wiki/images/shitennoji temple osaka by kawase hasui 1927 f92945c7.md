@@ -6,7 +6,7 @@ source_relpath: "1900s/shitennoji_temple_osaka_by_kawase_hasui_1927.jpg"
 collection: "1900s"
 inferred_year: "1927"
 artist: "kawase hasui"
-dimensions: "2048x3056"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

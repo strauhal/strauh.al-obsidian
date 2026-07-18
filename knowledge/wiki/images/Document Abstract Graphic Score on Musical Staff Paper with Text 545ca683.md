@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Abstract Graphic Score on Musical Staff Pap
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1424x1744"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

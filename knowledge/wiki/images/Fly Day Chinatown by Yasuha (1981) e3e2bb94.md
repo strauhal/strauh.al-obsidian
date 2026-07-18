@@ -6,7 +6,7 @@ source_relpath: "1900s/Fly-Day Chinatown by Yasuha (1981).png"
 collection: "1900s"
 inferred_year: "1981"
 artist: ""
-dimensions: "1198x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

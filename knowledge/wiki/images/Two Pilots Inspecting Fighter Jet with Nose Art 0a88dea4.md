@@ -6,7 +6,7 @@ source_relpath: "photography/Two Pilots Inspecting Fighter Jet with Nose Art.jpe
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1366"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Two Pilots
 - [[knowledge/wiki/images/Illustration Chaotic Colorful Drawing with Yellow Figure, Blue Figure, and Red Nose 7b6ab8a6|Illustration Chaotic Colorful Drawing with Yellow Figure, Blue Figure, and Red Nose]] — shared language: nose
 - [[knowledge/wiki/images/Photograph Two Pilots in Orange Pressure Suits Next to Black Aircraft bb357723|Photograph Two Pilots in Orange Pressure Suits Next to Black Aircraft]] — shared language: pilots
 - [[knowledge/wiki/images/Man In White Shirt And Tie Holding Food On Private Jet 8e057f43|Man In White Shirt And Tie Holding Food On Private Jet]] — shared language: jet
-- [[knowledge/wiki/images/Screenshot Close Up Of Face With Red Triangle Over Nose And Mouth 61057e28|Screenshot Close Up Of Face With Red Triangle Over Nose And Mouth]] — shared language: nose
+- [[knowledge/wiki/images/Luxury Private Jet Interior with Velvet Seating and Bar 58973b98|Luxury Private Jet Interior with Velvet Seating and Bar]] — shared language: jet
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Hooded Figure Holding Scythe Against Ye
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "504x630"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

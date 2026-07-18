@@ -6,7 +6,7 @@ source_relpath: "photography/Man In Suit Carries Wheeled Cross Through Stadium.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "792x688"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

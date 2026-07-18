@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - 3D Software Interface With Geometric Shap
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1874x648"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

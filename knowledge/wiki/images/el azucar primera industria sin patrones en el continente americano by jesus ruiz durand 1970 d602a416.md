@@ -6,7 +6,7 @@ source_relpath: "1900s/el_azucar_primera_industria_sin_patrones_en_el_continente
 collection: "1900s"
 inferred_year: "1970"
 artist: "jesus ruiz durand"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

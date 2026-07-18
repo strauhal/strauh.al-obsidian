@@ -6,7 +6,7 @@ source_relpath: "1800s/sir_william_quiller_orchardson_napoleon_on_st_helena_1892
 collection: "1800s"
 inferred_year: "1892"
 artist: ""
-dimensions: "1600x1195"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

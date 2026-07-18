@@ -6,7 +6,7 @@ source_relpath: "photography/Large Crowd At Peace And Freedom Rally, San Francis
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "740x390"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Man's Face with Speech Bubble: 'Everything's W
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "782x2363"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

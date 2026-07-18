@@ -6,7 +6,7 @@ source_relpath: "1900s/elegy_by_arshile_gorky_ca_1939.jpeg"
 collection: "1900s"
 inferred_year: "1939"
 artist: "arshile gorky"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

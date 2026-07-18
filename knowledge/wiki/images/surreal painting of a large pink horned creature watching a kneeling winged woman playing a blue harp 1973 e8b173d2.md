@@ -6,7 +6,7 @@ source_relpath: "1900s/surreal_painting_of_a_large_pink_horned_creature_watching
 collection: "1900s"
 inferred_year: "1973"
 artist: ""
-dimensions: "3251x3000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

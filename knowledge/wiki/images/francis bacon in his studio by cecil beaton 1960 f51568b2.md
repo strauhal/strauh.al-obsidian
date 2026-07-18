@@ -6,7 +6,7 @@ source_relpath: "1900s/francis_bacon_in_his_studio_by_cecil_beaton_1960.jpeg"
 collection: "1900s"
 inferred_year: "1960"
 artist: "cecil beaton"
-dimensions: "600x780"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

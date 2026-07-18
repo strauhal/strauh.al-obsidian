@@ -9,8 +9,8 @@ metadata: curated
 aliases: [aesops-fables-030--the-fox-and-the-grapes]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/aesops-fables-030--the-fox-and-the-grapes.pdf"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Aesop's Fables: The Fox and the Grapes
@@ -43,7 +43,7 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/albert-camus-the-plague|The Plague]] — same category: literature
 - [[knowledge/wiki/books/william-zinsser-on-writing-well|On Writing Well]] — same category: literature
 - [[knowledge/wiki/books/harry-martinson-aniara|Aniara]] — same category: literature
-- [[knowledge/wiki/books/michel-de-montaigne-the-complete-essays|The Complete Essays]] — same category: literature
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — same category: literature
+- [[knowledge/wiki/books/michel-de-montaigne-the-complete-essays|The Complete Essays]] — same category: literature
 - [[knowledge/wiki/books/jean-raspail-the-camp-of-the-saints|The Camp of the Saints]] — same category: literature
 <!-- vault-crosslinks:end -->

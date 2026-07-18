@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White Ink Illustration Of Two
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3086x2159"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of a Landscape with a Path 593f0069|Illustration Black and White Ink Drawing of a Landscape with a Path]] — shared language: ink, landscape
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink, landscape
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: ink
 - [[knowledge/wiki/images/Illustration Black and White Illustration of Ruined Factory with Bold Text f40ee22c|Illustration Black and White Illustration of Ruined Factory with Bold Text]] — shared language: ruined
-- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: ink
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "2000s/Pagoda in Kyoto by Toshi Yoshida.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Toshi Yoshida"
-dimensions: "1494x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

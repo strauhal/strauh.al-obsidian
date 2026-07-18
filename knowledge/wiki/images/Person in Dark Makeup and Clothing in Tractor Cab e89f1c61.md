@@ -6,7 +6,7 @@ source_relpath: "photography/Person in Dark Makeup and Clothing in Tractor Cab.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "985x1591"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

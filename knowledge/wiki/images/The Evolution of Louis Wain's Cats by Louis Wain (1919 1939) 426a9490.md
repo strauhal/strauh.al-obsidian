@@ -6,7 +6,7 @@ source_relpath: "2000s/The Evolution of Louis Wain's Cats by Louis Wain (1919-19
 collection: "2000s"
 inferred_year: "1939"
 artist: ""
-dimensions: "550x2100"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

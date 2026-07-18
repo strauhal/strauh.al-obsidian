@@ -6,7 +6,7 @@ source_relpath: "1800s/The Voyage of Life by Gustave Doré (1870).jpg"
 collection: "1800s"
 inferred_year: "1870"
 artist: ""
-dimensions: "803x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

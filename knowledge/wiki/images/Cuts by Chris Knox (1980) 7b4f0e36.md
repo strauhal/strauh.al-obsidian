@@ -6,7 +6,7 @@ source_relpath: "2000s/Cuts by Chris Knox (1980).jpeg"
 collection: "2000s"
 inferred_year: "1980"
 artist: ""
-dimensions: "600x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

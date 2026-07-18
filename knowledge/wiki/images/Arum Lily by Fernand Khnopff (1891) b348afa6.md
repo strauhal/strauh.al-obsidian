@@ -6,7 +6,7 @@ source_relpath: "1800s/Arum Lily by Fernand Khnopff (1891).png"
 collection: "1800s"
 inferred_year: "1891"
 artist: ""
-dimensions: "987x1089"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

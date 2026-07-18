@@ -6,7 +6,7 @@ source_relpath: "photography/fan_ho/09-the-search1960.jpg"
 collection: "photography"
 inferred_year: "1960"
 artist: ""
-dimensions: "1123x1500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/edgar_degas_dancer_adjusting_her_strap_c_1883.jpg"
 collection: "1800s"
 inferred_year: "1883"
 artist: ""
-dimensions: "1686x2207"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

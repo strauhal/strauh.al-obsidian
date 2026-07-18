@@ -6,7 +6,7 @@ source_relpath: "influences/yohji_yamamoto.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "690x360"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

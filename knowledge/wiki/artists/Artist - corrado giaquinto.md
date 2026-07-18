@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/books/powers-richard-galatea-2-2|Galatea 2 2]] — named in this note
 - [[knowledge/wiki/images/assumption of the virgin by correggio c 1526 1530 98fe2416|assumption of the virgin by correggio c 1526 1530]] — shared language: assumption, virgin
 - [[knowledge/wiki/images/The Assumption of the Virgin by Francesco Botticini (c. 1475 1476) b4314777|The Assumption of the Virgin by Francesco Botticini (c. 1475 1476)]] — shared language: assumption, virgin
+- [[knowledge/wiki/collections/Collection - 1700s|Collection - 1700s]] — shared language: corrado, giaquinto
 - [[knowledge/wiki/culture/reading-galatea-2-2|Reading - Galatea 2.2]] — shared language: galatea
 - [[knowledge/wiki/images/Galatea by Jesse Kanda (2017) 236e3bfe|Galatea by Jesse Kanda (2017)]] — shared language: galatea
-- [[knowledge/wiki/artists/Artist - correggio|Artist - correggio]] — shared language: assumption, virgin
 <!-- vault-crosslinks:end -->

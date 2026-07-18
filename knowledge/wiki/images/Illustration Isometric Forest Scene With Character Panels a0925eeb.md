@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Isometric Forest Scene With Character Pane
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2048x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panels
 - [[knowledge/wiki/images/Illustration Detailed Isometric Cyberpunk City Street Scene c82cd53b|Illustration Detailed Isometric Cyberpunk City Street Scene]] — shared language: isometric, scene
-- [[knowledge/wiki/artists/Artist - FOREST|Artist - FOREST]] — shared language: forest
 - [[knowledge/wiki/images/Comic Black and White Comic Art with Figures in Multiple Panels a7b76d96|Comic Black and White Comic Art with Figures in Multiple Panels]] — shared language: panels, panels.jpeg
+- [[knowledge/wiki/artists/Artist - FOREST|Artist - FOREST]] — shared language: forest
 - [[knowledge/wiki/images/Isometric Diagram of a Terraced Building 9e5385a2|Isometric Diagram of a Terraced Building]] — shared language: isometric
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "photography/Modern Grey Building with External Staircases and B
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1349"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

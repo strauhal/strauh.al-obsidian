@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Colored Sketch of a Woman's Face with T
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "960x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

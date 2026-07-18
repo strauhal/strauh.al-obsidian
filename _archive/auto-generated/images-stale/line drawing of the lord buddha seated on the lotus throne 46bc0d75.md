@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/miniature painting of a red seated buddha figure on a lotus throne 420624e7|miniature painting of a red seated buddha figure on a lotus throne]] — shared language: throne, lotus, buddha
 - [[knowledge/wiki/images/Illustration Line Drawing Of Buddha Seated On Lotus Throne With Attendants 61280711|Illustration Line Drawing Of Buddha Seated On Lotus Throne With Attendants]] — shared language: throne, lotus, buddha
+- [[_archive/auto-generated/images-stale/miniature painting of a red seated buddha figure on a lotus throne 420624e7|miniature painting of a red seated buddha figure on a lotus throne]] — shared language: throne, lotus, buddha
 - [[_archive/auto-generated/images-stale/miniature painting of a red seated buddha figure on a lotus throne 2 807f8e7e|miniature painting of a red seated buddha figure on a lotus throne 2]] — shared language: throne, lotus, buddha
 - [[knowledge/wiki/images/Illustration Red Seated Buddha Figure on Lotus Throne with Halo (2) d5606f86|Illustration Red Seated Buddha Figure on Lotus Throne with Halo (2)]] — shared language: throne, lotus, buddha
 - [[knowledge/wiki/images/Illustration Red Seated Buddha Figure on Lotus Throne with Halo 5492bc5f|Illustration Red Seated Buddha Figure on Lotus Throne with Halo]] — shared language: throne, lotus, buddha

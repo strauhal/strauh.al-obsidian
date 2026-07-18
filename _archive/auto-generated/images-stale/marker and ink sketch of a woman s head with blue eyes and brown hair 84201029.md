@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Marker and Ink Sketch of a Woman's Head with Blue Eyes e6cc8dbb|Illustration Marker and Ink Sketch of a Woman's Head with Blue Eyes]] — shared language: marker, eyes, sketch
 - [[_archive/auto-generated/images-stale/two sketches of a woman s head in blue ink and reddish brown marker on brown paper 33271e4f|two sketches of a woman s head in blue ink and reddish brown marker on brown paper]] — shared language: marker, brown, head
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch, ink
 - [[_archive/auto-generated/images-stale/pen and marker sketch of a woman s head with hatching 7dd5e7eb|pen and marker sketch of a woman s head with hatching]] — shared language: marker, sketch, head
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/lapis philosophorum diagram by carl gustav jung 1919 5ec13172|lapis philosophorum diagram by carl gustav jung 1919]] — shared language: jung, carl
 - [[knowledge/wiki/books/carl-gustav-jung-man-and-his-symbols-doubleday|Man and His Symbols-Doubleday]] — shared language: jung, carl
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: jung, carl
-- [[knowledge/wiki/books/carl-gustav-jung-modern-man-in-search-of-a-soul-routledge|Modern Man in Search of a Soul -Routledge]] — shared language: jung, carl
+- [[knowledge/wiki/images/Illustration Intricate Serpent and Tree Illustration with German Script by Carl Jung dee44756|Illustration Intricate Serpent and Tree Illustration with German Script by Carl Jung]] — shared language: jung, carl
 <!-- vault-crosslinks:end -->

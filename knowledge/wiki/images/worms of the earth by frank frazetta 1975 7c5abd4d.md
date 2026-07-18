@@ -6,7 +6,7 @@ source_relpath: "1900s/worms_of_the_earth_by_frank_frazetta_1975.jpg"
 collection: "1900s"
 inferred_year: "1975"
 artist: "frank frazetta"
-dimensions: "1238x2051"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Man Walking Towards Atomium Under Construction.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1184"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

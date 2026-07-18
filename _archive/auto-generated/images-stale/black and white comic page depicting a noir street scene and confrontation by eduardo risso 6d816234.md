@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Comic Black and White Comic Page of Noir Street Confrontation 05943c8b|Comic Black and White Comic Page of Noir Street Confrontation]] — shared language: noir, comic, page
+- [[knowledge/wiki/images/Comic Black and White Comic Page of Noir Street Confrontation 05943c8b|Comic Black and White Comic Page of Noir Street Confrontation]] — shared language: noir, comic, street
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, scene, comic
 - [[_archive/auto-generated/images-stale/black and white comic book page original art depicting a chaotic scene of falling figures and debris 5a47d303|black and white comic book page original art depicting a chaotic scene of falling figures and debris]] — shared language: depicting, scene, comic
 - [[knowledge/wiki/artists/Artist - eduardo paolozzi|Artist - eduardo paolozzi]] — shared language: eduardo

@@ -6,7 +6,7 @@ source_relpath: "pictures_of_musicians/death grips/mc ride picture.jpg"
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: "771x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---

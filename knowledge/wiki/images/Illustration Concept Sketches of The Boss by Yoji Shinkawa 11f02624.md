@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Concept Sketches of The Boss by Yoji Shink
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Yoji Shinkawa"
-dimensions: "1280x1902"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

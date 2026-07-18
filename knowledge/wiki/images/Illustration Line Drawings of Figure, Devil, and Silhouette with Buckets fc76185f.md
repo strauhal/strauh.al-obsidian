@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Line Drawings of Figure, Devil, and Silhou
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: line, drawings
 - [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: drawings
 - [[knowledge/wiki/artists/Artist - Nude Nymphs and a Devil Figure|Artist - Nude Nymphs and a Devil Figure]] — shared language: devil
+- [[knowledge/wiki/images/Illustration Four Line Drawings of a Man with Glasses and Mustache 754ed340|Illustration Four Line Drawings of a Man with Glasses and Mustache]] — shared language: drawings, line
 <!-- vault-crosslinks:end -->

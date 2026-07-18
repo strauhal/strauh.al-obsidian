@@ -6,7 +6,7 @@ source_relpath: "artists/kawase_husui/enoshima-island-kawase-hasui-5.gif.jpeg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "1595x1097"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

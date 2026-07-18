@@ -6,7 +6,7 @@ source_relpath: "1600s/madonna_and_child_by_giovanni_battista_salvi_c_1650.jpg"
 collection: "1600s"
 inferred_year: "1650"
 artist: "giovanni battista salvi"
-dimensions: "1280x1881"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

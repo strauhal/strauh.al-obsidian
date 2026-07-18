@@ -6,7 +6,7 @@ source_relpath: "1700s/immanuel_kant_by_johann_friedrich_bause_1791.jpg"
 collection: "1700s"
 inferred_year: "1791"
 artist: "johann friedrich bause"
-dimensions: "677x845"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/hunter_s_thompson_shooting_his_typewriter_by_al_satterwhi
 collection: "1900s"
 inferred_year: "1977"
 artist: "al satterwhite"
-dimensions: "1200x1010"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

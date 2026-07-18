@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - ASCII Art Cat With 'MEOW' Text.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "250x250"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

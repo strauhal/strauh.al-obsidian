@@ -6,7 +6,7 @@ source_relpath: "1900s/el_huevo_the_egg_by_remedios_varo_1960.jpeg"
 collection: "1900s"
 inferred_year: "1960"
 artist: "remedios varo"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

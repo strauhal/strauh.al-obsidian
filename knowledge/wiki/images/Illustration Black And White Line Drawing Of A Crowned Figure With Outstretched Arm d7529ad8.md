@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White Line Drawing Of A Crown
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "400x400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

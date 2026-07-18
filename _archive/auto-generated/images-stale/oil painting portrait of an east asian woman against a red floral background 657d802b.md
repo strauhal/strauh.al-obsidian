@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Oil Painting Portrait of an East Asian Woman with Floral Background 9c3c5857|Illustration Oil Painting Portrait of an East Asian Woman with Floral Background]] — shared language: asian, east, floral
+- [[knowledge/wiki/images/Illustration Oil Painting Portrait of an East Asian Woman with Floral Background 9c3c5857|Illustration Oil Painting Portrait of an East Asian Woman with Floral Background]] — shared language: east, asian, floral
 - [[knowledge/wiki/images/Illustration Abstract Floral Painting on Blue Green Background a677fd0b|Illustration Abstract Floral Painting on Blue Green Background]] — shared language: floral, background, background.jpeg
-- [[knowledge/wiki/images/Illustration Detailed Ink And Wash Painting Of An East Asian City 0ec4adfa|Illustration Detailed Ink And Wash Painting Of An East Asian City]] — shared language: asian, east
+- [[knowledge/wiki/images/Illustration Detailed Ink And Wash Painting Of An East Asian City 0ec4adfa|Illustration Detailed Ink And Wash Painting Of An East Asian City]] — shared language: east, asian
 - [[knowledge/wiki/images/Illustration Oil Painting of Two Female Figures Against a Yellow Background fc753884|Illustration Oil Painting of Two Female Figures Against a Yellow Background]] — shared language: oil, against, background
 - [[_archive/auto-generated/images-stale/oil painting style portrait of a man in a suit against a black background d0277148|oil painting style portrait of a man in a suit against a black background]] — shared language: oil, against, background
 <!-- vault-crosslinks:end -->

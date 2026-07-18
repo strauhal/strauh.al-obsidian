@@ -6,7 +6,7 @@ source_relpath: "photography/Silhouetted Samurai on Horseback in Fog.png"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1145"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

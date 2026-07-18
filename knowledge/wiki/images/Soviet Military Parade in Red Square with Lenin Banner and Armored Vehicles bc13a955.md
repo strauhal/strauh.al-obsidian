@@ -6,7 +6,7 @@ source_relpath: "photography/Soviet Military Parade in Red Square with Lenin Ban
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1600x899"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

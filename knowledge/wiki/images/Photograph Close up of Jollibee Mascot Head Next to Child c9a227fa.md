@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Close-up of Jollibee Mascot Head Next to Chi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "959x1534"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Piss Christ by Andres Serrano.jpg"
 collection: "photography"
 inferred_year: ""
 artist: "Andres Serrano"
-dimensions: "718x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

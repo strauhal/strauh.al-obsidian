@@ -6,7 +6,7 @@ source_relpath: "diagrams/Colorful_QR_Code_Structure_Diagram_With_Legend.png"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "2024x1012"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

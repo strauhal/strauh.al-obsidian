@@ -6,7 +6,7 @@ source_relpath: "photography/Diorama of Graham Cracker Buildings, Toy Plane, Min
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1536x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

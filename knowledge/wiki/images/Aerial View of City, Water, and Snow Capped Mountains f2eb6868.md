@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of City, Water, and Snow-Capped Mountai
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "680x680"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Car Dashboard With Green Digital Gauges And Control
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1000x750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Car Dashbo
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Screenshot Digital Audio Workstation Interface with Tracks, Effects, and Mixer Controls 79635fbc|Screenshot Digital Audio Workstation Interface with Tracks, Effects, and Mixer Controls]] — shared language: controls, digital, controls.jpeg
 - [[knowledge/wiki/images/Illustration Digital Illustration of a Woman in Green Dress 19879809|Illustration Digital Illustration of a Woman in Green Dress]] — shared language: digital, green
+- [[knowledge/wiki/images/Screenshot Digital Audio Workstation Interface with Tracks, Effects, and Mixer Controls 79635fbc|Screenshot Digital Audio Workstation Interface with Tracks, Effects, and Mixer Controls]] — shared language: controls, digital, controls.jpeg
 - [[knowledge/wiki/images/Illustration Abstract Digital Glitch Art with Green and Black on Purple 65ea1f78|Illustration Abstract Digital Glitch Art with Green and Black on Purple]] — shared language: digital, green
 - [[knowledge/wiki/books/the-best-of-amp-digital|the best of amp digital]] — shared language: digital
-- [[knowledge/wiki/images/Screenshot Soundscape Editor Digital Audio Workstation Interface with Waveforms and Controls 6ca2969e|Screenshot Soundscape Editor Digital Audio Workstation Interface with Waveforms and Controls]] — shared language: controls, digital
+- [[knowledge/wiki/images/Illustration Abstract Digital Image with Green and Blue Glitch Texture 3c52b142|Illustration Abstract Digital Image with Green and Blue Glitch Texture]] — shared language: digital, green
 <!-- vault-crosslinks:end -->

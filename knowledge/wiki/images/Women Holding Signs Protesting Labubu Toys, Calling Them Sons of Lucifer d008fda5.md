@@ -6,7 +6,7 @@ source_relpath: "photography/Women Holding Signs Protesting Labubu Toys, Calling
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "670x457"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

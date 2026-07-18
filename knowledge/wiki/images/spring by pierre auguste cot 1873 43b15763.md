@@ -6,7 +6,7 @@ source_relpath: "1800s/spring_by_pierre_auguste_cot_1873.jpg"
 collection: "1800s"
 inferred_year: "1873"
 artist: "pierre auguste cot"
-dimensions: "1724x3000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

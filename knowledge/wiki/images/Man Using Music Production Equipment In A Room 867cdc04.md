@@ -6,7 +6,7 @@ source_relpath: "photography/Man Using Music Production Equipment In A Room.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2400x1800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

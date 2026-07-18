@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Scientific Visualization of Green Ribbon Protein Structure, Magenta Center bfb9d14c|Diagram Scientific Visualization of Green Ribbon Protein Structure, Magenta Center]] — shared language: scientific, ribbon, protein
+- [[knowledge/wiki/images/Diagram Scientific Visualization of Green Ribbon Protein Structure, Magenta Center bfb9d14c|Diagram Scientific Visualization of Green Ribbon Protein Structure, Magenta Center]] — shared language: protein, scientific, ribbon
 - [[knowledge/wiki/images/Illustration 3D Model of a Protein Structure with Bound Ligand c93a551c|Illustration 3D Model of a Protein Structure with Bound Ligand]] — shared language: protein, structure
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: ribbon
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Aesthetic of Process and Control|Constellation - The Aesthetic of Process and Control]] — shared language: structure, complex

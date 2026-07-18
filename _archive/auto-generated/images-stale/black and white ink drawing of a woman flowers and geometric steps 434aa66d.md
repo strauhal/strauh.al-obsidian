@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Woman, Flowers, and Geometric Steps 38852ae7|Illustration Black and White Ink Drawing of Woman, Flowers, and Geometric Steps]] — shared language: steps, flowers, geometric
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
-- [[_archive/auto-generated/images-stale/geometric pattern of vertical black and white stripes shifting diagonally in steps 2f8726a2|geometric pattern of vertical black and white stripes shifting diagonally in steps]] — shared language: steps, geometric
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
+- [[_archive/auto-generated/images-stale/geometric pattern of vertical black and white stripes shifting diagonally in steps 2f8726a2|geometric pattern of vertical black and white stripes shifting diagonally in steps]] — shared language: steps, geometric
 - [[knowledge/archive/auto-generated/artists-stale/Artist - red flowers|Artist - red flowers]] — shared language: flowers
 <!-- vault-crosslinks:end -->

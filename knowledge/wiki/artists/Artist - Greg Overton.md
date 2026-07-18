@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - Greg Girard|Artist - Greg Girard]] — shared language: greg
 - [[knowledge/wiki/images/Photograph Rainy Tokyo Street at Night with Neon Signs by Greg Girard 07e08a06|Photograph Rainy Tokyo Street at Night with Neon Signs by Greg Girard]] — shared language: greg
-- [[knowledge/wiki/images/black and white dithered image of a space shuttle launch 1984 f177ed3d|black and white dithered image of a space shuttle launch 1984]] — shared language: dithered
 - [[knowledge/wiki/images/Dithered Photograph of a Cat Looking Upwards 3e6c4494|Dithered Photograph of a Cat Looking Upwards]] — shared language: dithered
 - [[knowledge/wiki/images/Comparison Chart of Dithered Cloud Images 6c63a4a3|Comparison Chart of Dithered Cloud Images]] — shared language: dithered
 - [[knowledge/wiki/images/Porsche 356 Speedster 2 by Eizin Suzuki 5447b010|Porsche 356 Speedster 2 by Eizin Suzuki]] — shared language: porsche
+- [[knowledge/wiki/images/Illustration Dithered Noise Pattern With Greenish Grey Shapes 7ce47023|Illustration Dithered Noise Pattern With Greenish Grey Shapes]] — shared language: dithered
 <!-- vault-crosslinks:end -->

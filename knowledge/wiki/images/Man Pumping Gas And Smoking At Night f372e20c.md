@@ -6,7 +6,7 @@ source_relpath: "photography/Man Pumping Gas And Smoking At Night.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "604x802"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

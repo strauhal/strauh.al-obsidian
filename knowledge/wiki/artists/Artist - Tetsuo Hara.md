@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/pages/random quote blobby|random quote blobby]] — shared language: quote
 - [[knowledge/wiki/images/Illustration Painting of a Suicide with an 18th Century Quote Below a78880df|Illustration Painting of a Suicide with an 18th Century Quote Below]] — shared language: quote
 - [[knowledge/wiki/images/Document White Text Quote About Film Frames On Black Background 471b2e16|Document White Text Quote About Film Frames On Black Background]] — shared language: quote
-- [[knowledge/wiki/images/Illustration Brian Eno Quote on Art as Triggers for Experiences fc62d9e9|Illustration Brian Eno Quote on Art as Triggers for Experiences]] — shared language: quote
+- [[knowledge/wiki/images/Photograph Man Standing Next to Abstract Blue and Black Sculpture 5f5d5193|Photograph Man Standing Next to Abstract Blue and Black Sculpture]] — shared language: next
 <!-- vault-crosslinks:end -->

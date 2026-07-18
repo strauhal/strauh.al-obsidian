@@ -6,7 +6,7 @@ source_relpath: "900s/folio_from_a_qur_an_9th10th_century.jpg"
 collection: "900s"
 inferred_year: "900s"
 artist: ""
-dimensions: "600x676"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/900s"]
 ---

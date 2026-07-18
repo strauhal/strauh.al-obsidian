@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Landscape with Fields, Trees, 
 collection: "unsorted"
 inferred_year: ""
 artist: "Hiroshi Nagai"
-dimensions: "1920x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

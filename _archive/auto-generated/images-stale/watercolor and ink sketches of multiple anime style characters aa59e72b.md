@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/digital sketch compilation of multiple anime style female characters f84503ed|digital sketch compilation of multiple anime style female characters]] — shared language: anime, style, multiple
 - [[knowledge/wiki/images/Photograph Photograph of Framed Sheet with Multiple Blue Ink Sketches 1cc1c4f4|Photograph Photograph of Framed Sheet with Multiple Blue Ink Sketches]] — shared language: multiple, sketches, ink
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
-- [[knowledge/wiki/images/Illustration Abstract Watercolor and Ink Sketch of a Woman dca3f6d7|Illustration Abstract Watercolor and Ink Sketch of a Woman]] — shared language: watercolor, ink
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: anime
 <!-- vault-crosslinks:end -->

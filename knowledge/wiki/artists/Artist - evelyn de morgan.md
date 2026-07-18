@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Morgan Housel Quote Graphic on Excel and Word 9031e9d2|Illustration Morgan Housel Quote Graphic on Excel and Word]] — shared language: morgan
 - [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — shared language: death
 - [[knowledge/wiki/images/the angel of death by hugo simberg 1895 46a9343d|the angel of death by hugo simberg 1895]] — shared language: angel, death
-- [[knowledge/wiki/images/alexandre cabanel the fallen angel 1847 e4b7fbe6|alexandre cabanel the fallen angel 1847]] — shared language: angel
+- [[knowledge/private/fanmail/threads/43-angel|Private Correspondence - 43 - 天使 (Angel)]] — shared language: angel
 <!-- vault-crosslinks:end -->

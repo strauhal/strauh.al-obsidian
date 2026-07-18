@@ -6,7 +6,7 @@ source_relpath: "1600s/the_virgin_and_child_with_the_infant_saint_john_the_bapti
 collection: "1600s"
 inferred_year: "1633"
 artist: "peter paul rubens"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Standing_Wave_Patterns_and_Musical_Notation_Diagram.pn
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "831x640"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

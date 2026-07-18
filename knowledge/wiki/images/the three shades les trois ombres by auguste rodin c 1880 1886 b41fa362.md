@@ -6,7 +6,7 @@ source_relpath: "1800s/the_three_shades_les_trois_ombres_by_auguste_rodin_c_1880
 collection: "1800s"
 inferred_year: "1886"
 artist: "auguste rodin"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Modern Library Interior With Large Domed Light Fixt
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "736x460"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

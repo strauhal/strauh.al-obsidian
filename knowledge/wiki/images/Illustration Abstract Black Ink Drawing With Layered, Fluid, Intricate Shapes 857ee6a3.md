@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Black Ink Drawing With Layered
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1440x1800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

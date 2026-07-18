@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Blonde Woman From Behind Looking At Four Pai
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1080x1251"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

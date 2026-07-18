@@ -6,7 +6,7 @@ source_relpath: "1900s/the_sleeper_la_siesta_by_john_singer_sargent_c_1911.jpg"
 collection: "1900s"
 inferred_year: "1911"
 artist: "john singer sargent"
-dimensions: "1085x715"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

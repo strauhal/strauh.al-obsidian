@@ -6,7 +6,7 @@ source_relpath: "photography/Hunter Biden Posing In His Art Studio With Painting
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1024x576"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

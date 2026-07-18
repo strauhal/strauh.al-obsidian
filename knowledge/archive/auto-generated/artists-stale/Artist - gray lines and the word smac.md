@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - Gray Lines and 'smac' Text|Artist - Gray Lines and 'smac' Text]] — shared language: smac, gray, lines
 - [[knowledge/wiki/images/Illustration Stylized Animal Formed by Gray Lines and 'smac' Text e6e62f19|Illustration Stylized Animal Formed by Gray Lines and 'smac' Text]] — shared language: smac, gray, lines
-- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: word
 - [[knowledge/wiki/images/Illustration Op Art Pattern of Wavy Lines in Dark Gray and White bb9a007c|Illustration Op Art Pattern of Wavy Lines in Dark Gray and White]] — shared language: gray, lines
-- [[_archive/auto-generated/images-stale/not straight lines jpg 75de846e|not straight lines jpg]] — shared language: lines
+- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: word
 - [[_archive/auto-generated/images-stale/abstract drawing of overlapping black and gray gestural lines d595cacf|abstract drawing of overlapping black and gray gestural lines]] — shared language: gray, lines
+- [[knowledge/wiki/images/Illustration Abstract Drawing of Overlapping Black and Gray Gestural Lines f7ed9174|Illustration Abstract Drawing of Overlapping Black and Gray Gestural Lines]] — shared language: gray, lines
 <!-- vault-crosslinks:end -->

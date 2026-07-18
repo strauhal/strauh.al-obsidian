@@ -6,7 +6,7 @@ source_relpath: "1900s/akira_manga_panel_from_episode_041_by_katsuhiro_otomo_198
 collection: "1900s"
 inferred_year: "1984"
 artist: "katsuhiro otomo"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Two Blue And Yellow Jets Flying Past A Modern Skysc
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "7022x4684"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

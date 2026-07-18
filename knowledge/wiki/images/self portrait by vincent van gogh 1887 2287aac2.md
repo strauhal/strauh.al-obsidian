@@ -6,7 +6,7 @@ source_relpath: "1800s/self_portrait_by_vincent_van_gogh_1887.jpg"
 collection: "1800s"
 inferred_year: "1887"
 artist: "vincent van gogh"
-dimensions: "444x599"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

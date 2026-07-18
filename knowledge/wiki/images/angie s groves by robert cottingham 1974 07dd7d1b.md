@@ -6,7 +6,7 @@ source_relpath: "1900s/angie_s_groves_by_robert_cottingham_1974.png"
 collection: "1900s"
 inferred_year: "1974"
 artist: "robert cottingham"
-dimensions: "1600x900"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

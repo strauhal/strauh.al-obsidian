@@ -6,7 +6,7 @@ source_relpath: "1900s/terrace_with_piano_by_michael_dahlen_1986.jpg"
 collection: "1900s"
 inferred_year: "1986"
 artist: "michael dahlen"
-dimensions: "1280x1264"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

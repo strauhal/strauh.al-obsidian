@@ -6,7 +6,7 @@ source_relpath: "wallpapers/bliss.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "3840x2160"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

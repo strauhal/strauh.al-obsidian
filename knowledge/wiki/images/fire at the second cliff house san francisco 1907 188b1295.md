@@ -6,7 +6,7 @@ source_relpath: "1900s/fire_at_the_second_cliff_house_san_francisco_1907.jpg"
 collection: "1900s"
 inferred_year: "1907"
 artist: ""
-dimensions: "1600x1229"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

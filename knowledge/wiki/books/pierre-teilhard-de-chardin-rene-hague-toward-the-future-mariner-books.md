@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Pierre Teilhard de Chardin_ René Hague - Toward The Future-Mariner Books (1975).pdf"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Toward The Future-Mariner Books

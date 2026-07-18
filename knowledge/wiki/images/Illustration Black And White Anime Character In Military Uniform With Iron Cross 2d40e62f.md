@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White Anime Character In Mili
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1449x1400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

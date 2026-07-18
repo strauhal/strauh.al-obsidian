@@ -6,7 +6,7 @@ source_relpath: "1800s/leo_von_klenze_the_acropolis_of_athens_restored_1846.jpg"
 collection: "1800s"
 inferred_year: "1846"
 artist: ""
-dimensions: "1428x977"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

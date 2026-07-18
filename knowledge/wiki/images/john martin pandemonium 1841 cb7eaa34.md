@@ -6,7 +6,7 @@ source_relpath: "1800s/john_martin_pandemonium_1841.jpg"
 collection: "1800s"
 inferred_year: "1841"
 artist: ""
-dimensions: "1600x1056"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/john_martin_pand
 - [[knowledge/wiki/images/pandemonium by john martin 1841 9e0ff65b|pandemonium by john martin 1841]] — shared language: pandemonium, martin, john
 - [[knowledge/wiki/artists/Artist - john martin|Artist - john martin]] — shared language: martin, john, pandemonium
 - [[knowledge/wiki/images/the rainbow by john martin 1837 fe2de1d9|the rainbow by john martin 1837]] — shared language: martin, john
-- [[knowledge/wiki/images/the bard by john martin 1817 70385a39|the bard by john martin 1817]] — shared language: martin, john
 - [[knowledge/wiki/images/john martin belshazzars feast 1821 011bcb64|john martin belshazzars feast 1821]] — shared language: martin, john
+- [[knowledge/wiki/images/the bard by john martin 1817 70385a39|the bard by john martin 1817]] — shared language: martin, john
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "influences/tim_hecker.jpeg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "640x427"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

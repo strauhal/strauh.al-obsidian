@@ -6,7 +6,7 @@ source_relpath: "1900s/poster_for_the_opera_el_greco_by_jorge_fick_1993.jpeg"
 collection: "1900s"
 inferred_year: "1993"
 artist: "jorge fick"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

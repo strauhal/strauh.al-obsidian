@@ -6,7 +6,7 @@ source_relpath: "1800s/circe_by_briton_riviere_1889.jpg"
 collection: "1800s"
 inferred_year: "1889"
 artist: "briton riviere"
-dimensions: "1280x1407"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

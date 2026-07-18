@@ -6,7 +6,7 @@ source_relpath: "unsorted/Diagram - Diagram of Spider Webs Spun Under Influence 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1600x485"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

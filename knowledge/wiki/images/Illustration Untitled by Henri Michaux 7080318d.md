@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Untitled by Henri Michaux.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Henri Michaux"
-dimensions: "1280x899"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Trees with White Bands in a Grassy Landscape by Zan
 collection: "photography"
 inferred_year: ""
 artist: "Zander Olsen"
-dimensions: "486x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

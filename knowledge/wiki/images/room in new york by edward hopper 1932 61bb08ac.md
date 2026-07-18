@@ -6,7 +6,7 @@ source_relpath: "1900s/room_in_new_york_by_edward_hopper_1932.jpeg"
 collection: "1900s"
 inferred_year: "1932"
 artist: "edward hopper"
-dimensions: "2400x1927"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

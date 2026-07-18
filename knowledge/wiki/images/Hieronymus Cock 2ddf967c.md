@@ -6,7 +6,7 @@ source_relpath: "artists/hieronymous_cock/Hieronymus_Cock.jpg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "1014x1420"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

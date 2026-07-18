@@ -6,7 +6,7 @@ source_relpath: "photography/Two Statues On Building Roof Amidst Power Lines.jpe
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "565x543"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

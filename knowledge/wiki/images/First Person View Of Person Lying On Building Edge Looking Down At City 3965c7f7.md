@@ -6,7 +6,7 @@ source_relpath: "photography/First-Person View Of Person Lying On Building Edge 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1280x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

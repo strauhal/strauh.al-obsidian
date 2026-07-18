@@ -6,7 +6,7 @@ source_relpath: "diagrams/Chart_of_Various_Neural_Network_Architectures_by_Fjodo
 collection: "diagrams"
 inferred_year: ""
 artist: "Fjodor van Veen and Stefan Leijnen copy"
-dimensions: "2000x3400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

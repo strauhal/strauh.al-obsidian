@@ -6,7 +6,7 @@ source_relpath: "photography/Bearded Man in Teal Wig and Costume Using Bong in F
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "680x676"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/Olive Trees with Two Olive Pickers by Vincent van Gogh (1
 collection: "1800s"
 inferred_year: "1889"
 artist: ""
-dimensions: "1908x1528"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

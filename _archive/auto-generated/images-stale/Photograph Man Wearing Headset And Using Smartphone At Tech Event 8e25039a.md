@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Man Wearing Headset And Using Smartphone At Tech Event 01b27849|Man Wearing Headset And Using Smartphone At Tech Event]] — shared language: tech, smartphone, headset
+- [[knowledge/wiki/images/Man Wearing Headset And Using Smartphone At Tech Event 01b27849|Man Wearing Headset And Using Smartphone At Tech Event]] — shared language: smartphone, tech, headset
 - [[knowledge/wiki/images/Man Wearing VR Headset Playing Video Game 6819790d|Man Wearing VR Headset Playing Video Game]] — shared language: headset, wearing
 - [[_archive/auto-generated/images-stale/Photograph Man Wearing VR Headset Playing Video Game 0eed6dae|Photograph Man Wearing VR Headset Playing Video Game]] — shared language: headset, wearing
 - [[_archive/auto-generated/images-stale/Photograph Side Profile of Person Wearing a Modern VR Headset 46d4e0e6|Photograph Side Profile of Person Wearing a Modern VR Headset]] — shared language: headset, wearing

@@ -6,7 +6,7 @@ source_relpath: "1900s/The Sermon on the Mount by Eugène Burnand (1911).jpg"
 collection: "1900s"
 inferred_year: "1911"
 artist: ""
-dimensions: "3543x3509"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

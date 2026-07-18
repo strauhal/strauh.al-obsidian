@@ -6,7 +6,7 @@ source_relpath: "1900s/blue_door_by_john_g_hall_1980.jpg"
 collection: "1900s"
 inferred_year: "1980"
 artist: "john g hall"
-dimensions: "1280x939"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

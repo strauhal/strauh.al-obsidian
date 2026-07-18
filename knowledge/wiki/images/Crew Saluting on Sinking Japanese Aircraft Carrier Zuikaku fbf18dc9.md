@@ -6,7 +6,7 @@ source_relpath: "photography/Crew Saluting on Sinking Japanese Aircraft Carrier 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2560x1794"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

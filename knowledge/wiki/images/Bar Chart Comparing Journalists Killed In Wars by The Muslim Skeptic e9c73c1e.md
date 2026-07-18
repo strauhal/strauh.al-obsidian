@@ -6,7 +6,7 @@ source_relpath: "diagrams/Bar_Chart_Comparing_Journalists_Killed_In_Wars_by_The_
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "959x1048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

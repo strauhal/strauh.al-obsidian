@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Aerial View of Police Officers on Modern 
 collection: "unsorted"
 inferred_year: ""
 artist: "KTLA"
-dimensions: "1280x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

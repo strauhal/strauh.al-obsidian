@@ -6,7 +6,7 @@ source_relpath: "1900s/Nightcap by Shigeo Okumura (1970).jpg"
 collection: "1900s"
 inferred_year: "1970"
 artist: ""
-dimensions: "640x429"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

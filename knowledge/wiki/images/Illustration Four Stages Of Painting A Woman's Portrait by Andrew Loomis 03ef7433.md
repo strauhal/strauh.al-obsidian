@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Four Stages Of Painting A Woman's Portr
 collection: "unsorted"
 inferred_year: ""
 artist: "Andrew Loomis"
-dimensions: "768x1023"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

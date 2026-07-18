@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Engraving Style Drawing Vol. 1.pdf"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Engraving Style Drawing Vol. 1

@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - eadweard muybridge|Artist - eadweard muybridge]] — named in this note
 - [[_archive/auto-generated/images-stale/white oval plate with blue and white transferware pattern 2bb95f8b|white oval plate with blue and white transferware pattern]] — shared language: plate
 - [[_archive/auto-generated/images-stale/dark mythological scene of figures suspended over a black animal 0829a150|dark mythological scene of figures suspended over a black animal]] — shared language: animal
+- [[knowledge/wiki/images/plate 97 by carl jung c 19151930 23e3cedd|plate 97 by carl jung c 19151930]] — shared language: plate
 - [[_archive/auto-generated/images-stale/Photograph White Animal Artworks Displayed in a Gallery or Studio Space fa30afe5|Photograph White Animal Artworks Displayed in a Gallery or Studio Space]] — shared language: animal
 - [[knowledge/wiki/images/White Animal Artworks Displayed in a Gallery or Studio Space dbdf5e36|White Animal Artworks Displayed in a Gallery or Studio Space]] — shared language: animal
-- [[knowledge/wiki/images/plate 97 by carl jung c 19151930 23e3cedd|plate 97 by carl jung c 19151930]] — shared language: plate
 <!-- vault-crosslinks:end -->

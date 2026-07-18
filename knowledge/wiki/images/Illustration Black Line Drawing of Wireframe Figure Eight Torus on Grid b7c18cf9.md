@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black Line Drawing of Wireframe Figure-Eig
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1241x898"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

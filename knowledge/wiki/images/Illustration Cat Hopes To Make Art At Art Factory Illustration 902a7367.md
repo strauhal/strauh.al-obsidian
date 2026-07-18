@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Cat Hopes To Make Art At Art Factory Il
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3000x3000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

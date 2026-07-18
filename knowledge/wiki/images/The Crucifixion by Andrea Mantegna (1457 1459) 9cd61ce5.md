@@ -6,7 +6,7 @@ source_relpath: "1400s/The Crucifixion by Andrea Mantegna (1457–1459).jpg"
 collection: "1400s"
 inferred_year: "1459"
 artist: ""
-dimensions: "1904x1374"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---
@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1400s/The Crucifixion 
 - [[knowledge/wiki/artists/Artist - Andrea Pozzo|Artist - Andrea Pozzo]] — shared language: andrea
 - [[knowledge/wiki/images/Crucifixion by Egon Schiele (1907) d023adfe|Crucifixion by Egon Schiele (1907)]] — shared language: crucifixion
 - [[knowledge/wiki/images/The Crucifixion by Gerard David (c. 1495) 47b51192|The Crucifixion by Gerard David (c. 1495)]] — shared language: crucifixion
-- [[knowledge/wiki/images/The Crucifixion by Jean Fouquet (c. 1452 1460) b3ba7eff|The Crucifixion by Jean Fouquet (c. 1452 1460)]] — shared language: crucifixion
+- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: andrea
 <!-- vault-crosslinks:end -->

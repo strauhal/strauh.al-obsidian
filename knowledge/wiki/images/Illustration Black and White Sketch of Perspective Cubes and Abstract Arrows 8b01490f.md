@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black and White Sketch of Perspective C
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1920x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

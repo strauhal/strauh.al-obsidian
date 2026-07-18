@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Aerial View of New Uniform Suburban Housing 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "ONX Homes"
-dimensions: "1280x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

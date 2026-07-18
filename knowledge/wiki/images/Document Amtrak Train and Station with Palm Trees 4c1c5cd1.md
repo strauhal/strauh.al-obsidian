@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Amtrak Train and Station with Palm Trees.jp
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "908x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

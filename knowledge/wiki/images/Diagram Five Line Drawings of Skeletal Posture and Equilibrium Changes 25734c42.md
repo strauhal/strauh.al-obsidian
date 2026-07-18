@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Five Line Drawings of Skeletal Posture and Equi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Five L
 - [[knowledge/wiki/images/Equilibrium b8438ef3|Equilibrium]] — named in this note
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: line, drawings
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: changes
-- [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: changes
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: drawings
+- [[knowledge/wiki/images/Illustration Line Drawing of Five Groups of Abstract and Geometric Shapes 8d4a3c6b|Illustration Line Drawing of Five Groups of Abstract and Geometric Shapes]] — shared language: five, line
 <!-- vault-crosslinks:end -->

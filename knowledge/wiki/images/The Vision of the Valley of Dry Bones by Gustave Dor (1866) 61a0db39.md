@@ -6,7 +6,7 @@ source_relpath: "1800s/The Vision of the Valley of Dry Bones by Gustave Doré (1
 collection: "1800s"
 inferred_year: "1866"
 artist: ""
-dimensions: "1009x1305"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

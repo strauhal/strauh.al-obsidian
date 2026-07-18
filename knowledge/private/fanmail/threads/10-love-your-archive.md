@@ -25,12 +25,12 @@ Saw the banner on 4chan. Just want to say this is IT. Keep doing your thing
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/private/fanmail/threads/21-love-your-archive|Private Correspondence - 21 - Love your archive]] — same category: audience-response
 - [[knowledge/private/fanmail/threads/22-you-the-beholder|Private Correspondence - 22 - You, The Beholder]] — same category: audience-response
+- [[knowledge/private/fanmail/threads/42-you-the-beholder|Private Correspondence - 42 - You, The Beholder]] — same category: audience-response
 - [[knowledge/wiki/images/banner 46fc8e74|banner]] — named in this note
 - [[knowledge/private/fanmail/threads/17-saw-your-ads-clicked-the-about-page|Private Correspondence - 17 - saw your ads, clicked the about page]] — same category: audience-response
+- [[knowledge/private/fanmail/threads/32-saw-your-ads-clicked-the-about-page|Private Correspondence - 32 - saw your ads, clicked the about page]] — same category: audience-response
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: thing, say
-- [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — shared language: private, incoming, direction
-- [[knowledge/private/fanmail/threads/01-no-subject|Private Correspondence - 01 - (No Subject)]] — shared language: private, incoming, direction
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: incoming, private
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: private
+- [[knowledge/private/fanmail/threads/01-no-subject|Private Correspondence - 01 - (No Subject)]] — shared language: private, love, incoming
 <!-- vault-crosslinks:end -->

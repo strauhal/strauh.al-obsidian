@@ -6,7 +6,7 @@ source_relpath: "1500s/mutius_excellens_virtute_reliquit_eremum_st_mutius_by_mae
 collection: "1500s"
 inferred_year: "1585"
 artist: "maerten de vos"
-dimensions: "3700x2974"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

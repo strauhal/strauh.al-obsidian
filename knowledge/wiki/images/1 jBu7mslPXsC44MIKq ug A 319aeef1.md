@@ -6,7 +6,7 @@ source_relpath: "artists/moebius/1*jBu7mslPXsC44MIKq_ug_A.png"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "1100x808"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

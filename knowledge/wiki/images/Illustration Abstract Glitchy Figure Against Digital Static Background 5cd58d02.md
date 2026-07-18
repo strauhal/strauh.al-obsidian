@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Glitchy Figure Against Digital
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2000x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

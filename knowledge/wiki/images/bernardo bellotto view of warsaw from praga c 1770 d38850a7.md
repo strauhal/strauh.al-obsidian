@@ -6,7 +6,7 @@ source_relpath: "1700s/bernardo_bellotto_view_of_warsaw_from_praga_c_1770.jpg"
 collection: "1700s"
 inferred_year: "1770"
 artist: ""
-dimensions: "4935x3225"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

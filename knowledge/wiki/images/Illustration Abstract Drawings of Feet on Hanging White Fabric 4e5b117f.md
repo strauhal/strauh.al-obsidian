@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Drawings of Feet on Hanging White
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Stylized House, Figures, And Framed Mechanical Drawings On Fabric a34f4445|Illustration Stylized House, Figures, And Framed Mechanical Drawings On Fabric]] — shared language: fabric, drawings
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: drawings
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: drawings
 - [[knowledge/wiki/images/drawings 9e5f53ad|drawings]] — shared language: drawings
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: drawings
+- [[knowledge/wiki/images/Illustration Feet In Bathtub With Running Water 03b309f0|Illustration Feet In Bathtub With Running Water]] — shared language: feet
 <!-- vault-crosslinks:end -->

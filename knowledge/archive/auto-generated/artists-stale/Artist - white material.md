@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - White Material|Artist - White Material]] — named in this note
 - [[_archive/auto-generated/images-stale/digital painting of a woman s face surrounded by white material 45d64b8c|digital painting of a woman s face surrounded by white material]] — shared language: material, surrounded, face
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: material
 - [[_archive/auto-generated/images-stale/Photograph Skeleton with material on head, dark background b1cd0aa9|Photograph Skeleton with material on head, dark background]] — shared language: material
 - [[knowledge/wiki/images/Skeleton with material on head, dark background ba1af680|Skeleton with material on head, dark background]] — shared language: material
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: material
 - [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: material
 <!-- vault-crosslinks:end -->

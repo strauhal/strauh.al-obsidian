@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black and Red Fantasy Illustration of D
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3984x5712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

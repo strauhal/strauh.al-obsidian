@@ -6,7 +6,7 @@ source_relpath: "1800s/Nude Study (The Bather) by John Singer Sargent (c. 1880-1
 collection: "1800s"
 inferred_year: "1882"
 artist: ""
-dimensions: "1430x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

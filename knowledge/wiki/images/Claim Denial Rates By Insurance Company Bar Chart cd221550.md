@@ -6,7 +6,7 @@ source_relpath: "diagrams/Claim_Denial_Rates_By_Insurance_Company_Bar_Chart.jpg"
 collection: "diagrams"
 inferred_year: ""
 artist: "Insurance Company Bar Chart"
-dimensions: "1170x1879"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

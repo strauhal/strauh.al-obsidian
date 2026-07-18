@@ -6,7 +6,7 @@ source_relpath: "photography/Four Men In Neon Clothing With Explicit Slogans.jpe
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1055"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

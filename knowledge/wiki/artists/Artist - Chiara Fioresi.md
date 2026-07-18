@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Pixelated Black And White Image Of A Woman In A Dress 59dd1095|Illustration Pixelated Black And White Image Of A Woman In A Dress]] — shared language: pixelated
 - [[knowledge/wiki/images/palazzo della civilta italiana by giovanni guerrini ernesto bruno la padula mario romano 19381943 8d6fc0b7|palazzo della civilta italiana by giovanni guerrini ernesto bruno la padula mario romano 19381943]] — shared language: palazzo
 - [[knowledge/wiki/images/Illustration Abstract Black And White Pixelated Geometric Pattern 7b97ac9c|Illustration Abstract Black And White Pixelated Geometric Pattern]] — shared language: pixelated
-- [[knowledge/wiki/images/Illustration Abstract Painting with Dense Red and Blue Pixelated Pattern 1b372088|Illustration Abstract Painting with Dense Red and Blue Pixelated Pattern]] — shared language: pixelated
 - [[knowledge/wiki/images/Illustration Pixelated Black And White Drawing Of A Duck 2dc41d77|Illustration Pixelated Black And White Drawing Of A Duck]] — shared language: pixelated
+- [[knowledge/wiki/images/Illustration Abstract Painting with Dense Red and Blue Pixelated Pattern 1b372088|Illustration Abstract Painting with Dense Red and Blue Pixelated Pattern]] — shared language: pixelated
 <!-- vault-crosslinks:end -->

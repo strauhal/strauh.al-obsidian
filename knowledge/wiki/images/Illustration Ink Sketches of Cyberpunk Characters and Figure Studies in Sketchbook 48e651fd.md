@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Ink Sketches of Cyberpunk Characters and F
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2000x1308"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

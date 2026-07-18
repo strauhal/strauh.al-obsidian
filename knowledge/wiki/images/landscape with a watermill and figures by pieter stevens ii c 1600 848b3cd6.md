@@ -6,7 +6,7 @@ source_relpath: "1600s/landscape_with_a_watermill_and_figures_by_pieter_stevens_
 collection: "1600s"
 inferred_year: "1600"
 artist: "pieter stevens ii"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

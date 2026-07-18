@@ -6,7 +6,7 @@ source_relpath: "1800s/christian_krohg_the_sick_child_1881.jpg"
 collection: "1800s"
 inferred_year: "1881"
 artist: ""
-dimensions: "2660x2992"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

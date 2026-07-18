@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Sleeping Man Dreams of Ladder to Heaven
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "464x638"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

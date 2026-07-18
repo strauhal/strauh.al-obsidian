@@ -6,7 +6,7 @@ source_relpath: "computers/tumblr_36d8bf46ebb39fb6b4dea1e89d82dc2b_5dbc82c4_540.
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: "536x383"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---

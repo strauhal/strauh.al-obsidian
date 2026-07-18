@@ -6,7 +6,7 @@ source_relpath: "2000s/The Pink Panther by Victor Moscoso (1967).jpg"
 collection: "2000s"
 inferred_year: "1967"
 artist: ""
-dimensions: "1461x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

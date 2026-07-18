@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pavel tchelitchew 1920|Artist - pavel tchelitchew 1920]] — shared language: pavel, tchelitchew
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pavel tchelitchew 1932|Artist - pavel tchelitchew 1932]] — shared language: pavel, tchelitchew
 - [[knowledge/wiki/artists/Artist - pavel tchelitchew|Artist - pavel tchelitchew]] — shared language: pavel, tchelitchew, concert
-- [[knowledge/wiki/images/st george by pavel tchelitchew 1920 bc2b53dc|st george by pavel tchelitchew 1920]] — shared language: pavel, tchelitchew
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pavel tchelitchew 1948|Artist - pavel tchelitchew 1948]] — shared language: pavel, tchelitchew
+- [[knowledge/wiki/images/st george by pavel tchelitchew 1920 bc2b53dc|st george by pavel tchelitchew 1920]] — shared language: pavel, tchelitchew
 - [[knowledge/wiki/images/self portrait with two horses by pavel tchelitchew 1932 a73a4a25|self portrait with two horses by pavel tchelitchew 1932]] — shared language: pavel, tchelitchew
 <!-- vault-crosslinks:end -->

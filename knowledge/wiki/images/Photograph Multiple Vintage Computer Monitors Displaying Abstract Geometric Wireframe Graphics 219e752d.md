@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Multiple Vintage Computer Monitors Displayin
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1149x878"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Mul
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: wireframe
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/images/Photograph Vintage Apple PenLite Prototype Computer Displaying Classic OS f997ba85|Photograph Vintage Apple PenLite Prototype Computer Displaying Classic OS]] — shared language: vintage, displaying, computer
-- [[knowledge/wiki/images/Illustration Black and White Print of Two Stacked Wireframe Waveform Graphics e5bc7be4|Illustration Black and White Print of Two Stacked Wireframe Waveform Graphics]] — shared language: wireframe, graphics, graphics.jpeg
+- [[knowledge/wiki/artists/Artist - Computer Circuit Boards and Monitors|Artist - Computer Circuit Boards and Monitors]] — shared language: monitors, computer
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Person with Red Headband Holding Glowing G
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2048x1447"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

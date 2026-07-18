@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Vintage Winston Cigarettes Advertisemen
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "420x571"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

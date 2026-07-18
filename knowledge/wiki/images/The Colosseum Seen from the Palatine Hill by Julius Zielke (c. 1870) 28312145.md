@@ -6,7 +6,7 @@ source_relpath: "2000s/The Colosseum Seen from the Palatine Hill by Julius Zielk
 collection: "2000s"
 inferred_year: "1870"
 artist: ""
-dimensions: "2904x1784"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

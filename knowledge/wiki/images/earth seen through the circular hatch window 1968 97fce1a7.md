@@ -6,7 +6,7 @@ source_relpath: "1900s/earth_seen_through_the_circular_hatch_window_1968.jpg"
 collection: "1900s"
 inferred_year: "1968"
 artist: ""
-dimensions: "3900x3900"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

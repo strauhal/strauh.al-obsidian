@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pixel Art Illustration of a Street Scene w
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3840x2560"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

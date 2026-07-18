@@ -32,7 +32,7 @@ Tracing sensory cross-pollinations—where color is treated as sound, or movemen
 - [[_archive/auto-generated/images-stale/processing 94d5794d|processing]] — named in this note
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: latent, space, distance
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color, implicit, distance
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: movement, implicit, latent
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: implicit, movement, latent
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: color, implicit, latent
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: implicit, sound, latent
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: latent, space, structural

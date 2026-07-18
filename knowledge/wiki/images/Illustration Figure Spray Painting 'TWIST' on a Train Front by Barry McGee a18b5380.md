@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Figure Spray-Painting 'TWIST' on a Trai
 collection: "unsorted"
 inferred_year: ""
 artist: "Barry McGee"
-dimensions: "1080x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

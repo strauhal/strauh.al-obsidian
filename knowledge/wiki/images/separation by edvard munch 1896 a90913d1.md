@@ -6,7 +6,7 @@ source_relpath: "1800s/separation_by_edvard_munch_1896.jpeg"
 collection: "1800s"
 inferred_year: "1896"
 artist: "edvard munch"
-dimensions: "2048x1543"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

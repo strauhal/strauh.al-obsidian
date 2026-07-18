@@ -6,7 +6,7 @@ source_relpath: "photography/Horse In Snowy Landscape With Red Light.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1548x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

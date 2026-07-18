@@ -6,7 +6,7 @@ source_relpath: "1600s/study_of_a_nude_man_seen_from_behind_by_peter_paul_rubens
 collection: "1600s"
 inferred_year: "1600s"
 artist: "peter paul rubens"
-dimensions: "740x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

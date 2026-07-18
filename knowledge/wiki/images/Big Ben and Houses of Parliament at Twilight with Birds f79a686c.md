@@ -6,7 +6,7 @@ source_relpath: "photography/Big Ben and Houses of Parliament at Twilight with B
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "3130x2075"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

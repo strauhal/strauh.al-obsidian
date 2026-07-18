@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Two Clear Rectangular Boxes with Red Flowe
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Luca Ricci"
-dimensions: "1440x1795"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

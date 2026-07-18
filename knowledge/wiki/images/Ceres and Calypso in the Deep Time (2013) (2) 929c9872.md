@@ -6,7 +6,7 @@ source_relpath: "2000s/Ceres & Calypso in the Deep Time (2013) (2).jpg"
 collection: "2000s"
 inferred_year: "2013"
 artist: ""
-dimensions: "1000x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

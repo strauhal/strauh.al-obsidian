@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph World's Columbian Exposition, Administration Building and Palace of Mechanic Arts 5258293c|Photograph World's Columbian Exposition, Administration Building and Palace of Mechanic Arts]] — shared language: mechanic, palace, arts
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: sepia
 - [[knowledge/wiki/images/black and white photograph of a crowded bridge leading to a large domed neoclassical building 1893 0e9d54e0|black and white photograph of a crowded bridge leading to a large domed neoclassical building 1893]] — shared language: domed, bridge, building
 - [[knowledge/wiki/images/palace of mechanic arts and lagoon world s columbian exposition chicago 1893 481e1426|palace of mechanic arts and lagoon world s columbian exposition chicago 1893]] — shared language: mechanic, palace, arts
 - [[knowledge/wiki/images/palace of mechanic arts world s columbian exposition chicago by c d arnold 1893 0fd25551|palace of mechanic arts world s columbian exposition chicago by c d arnold 1893]] — shared language: mechanic, palace, arts
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Grand Neoclassical Building with Crowds f9257c1a|Photograph Black and White Photograph of Grand Neoclassical Building with Crowds]] — shared language: crowds, building
 <!-- vault-crosslinks:end -->

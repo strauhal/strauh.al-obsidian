@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Split Image of Tree Rings and Fingerpri
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "564x564"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

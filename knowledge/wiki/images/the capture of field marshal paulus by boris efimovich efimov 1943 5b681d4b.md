@@ -6,7 +6,7 @@ source_relpath: "1900s/the_capture_of_field_marshal_paulus_by_boris_efimovich_ef
 collection: "1900s"
 inferred_year: "1943"
 artist: "boris efimovich efimov"
-dimensions: "1819x1780"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "album_covers/the-beach-boys-surf-s-up-vinile-lp2.jpg"
 collection: "album_covers"
 inferred_year: ""
 artist: ""
-dimensions: "600x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/album_covers"]
 ---

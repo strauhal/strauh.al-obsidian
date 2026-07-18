@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Anime-style Character Holding Sword in Fro
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Elyvees"
-dimensions: "2574x2832"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

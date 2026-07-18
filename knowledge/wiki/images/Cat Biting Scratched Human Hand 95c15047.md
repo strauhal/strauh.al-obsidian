@@ -6,7 +6,7 @@ source_relpath: "photography/Cat Biting Scratched Human Hand.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1125x1128"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

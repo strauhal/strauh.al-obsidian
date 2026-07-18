@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Illustrating_A_Three-Stage_Geometric_Transform
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1189x431"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Dark Mode Text Message Conversation with Fin
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1014x1381"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

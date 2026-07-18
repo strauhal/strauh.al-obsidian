@@ -6,7 +6,7 @@ source_relpath: "diagrams/Chalkboard_Drawing_With_Figures,_Text,_And_Geometric_S
 collection: "diagrams"
 inferred_year: ""
 artist: "Joseph Beuys"
-dimensions: "340x260"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

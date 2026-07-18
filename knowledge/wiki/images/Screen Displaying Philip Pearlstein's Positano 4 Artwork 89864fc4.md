@@ -6,7 +6,7 @@ source_relpath: "photography/Screen Displaying Philip Pearlstein's \"Positano #4
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

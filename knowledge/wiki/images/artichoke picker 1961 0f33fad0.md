@@ -6,7 +6,7 @@ source_relpath: "1900s/artichoke_picker_1961.jpeg"
 collection: "1900s"
 inferred_year: "1961"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

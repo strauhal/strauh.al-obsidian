@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/philosophical_texts/phenomenology_of_spirit.html"
 source_relpath: "philosophical_texts/phenomenology_of_spirit.html"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:40"
+compiled_at: "2026-07-18T00:07:16"
 tags: ["strauhal", "source/html"]
 ---
 # philosophical texts phenomenology of spirit

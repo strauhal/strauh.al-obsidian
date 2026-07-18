@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black and White Geometric Pattern of Ov
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "594x621"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

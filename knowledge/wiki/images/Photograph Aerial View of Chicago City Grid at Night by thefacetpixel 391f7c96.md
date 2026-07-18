@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Aerial View of Chicago City Grid at Night by
 collection: "2000s"
 inferred_year: "2000s"
 artist: "thefacetpixel"
-dimensions: "1000x662"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

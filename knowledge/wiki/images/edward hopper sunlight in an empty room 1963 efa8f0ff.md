@@ -6,7 +6,7 @@ source_relpath: "1900s/edward_hopper_sunlight_in_an_empty_room_1963.jpeg"
 collection: "1900s"
 inferred_year: "1963"
 artist: ""
-dimensions: "1071x775"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

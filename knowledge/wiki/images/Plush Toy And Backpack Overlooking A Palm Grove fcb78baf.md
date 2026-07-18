@@ -6,7 +6,7 @@ source_relpath: "photography/Plush Toy And Backpack Overlooking A Palm Grove.jpg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "4000x3000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Metal Panel Covered in Layers of Stickers, G
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

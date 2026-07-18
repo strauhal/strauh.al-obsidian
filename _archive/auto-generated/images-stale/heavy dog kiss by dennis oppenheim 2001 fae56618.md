@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - dennis oppenheim 2001|Artist - dennis oppenheim 2001]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - dennis vorres|Artist - dennis vorres]] — shared language: dennis
 - [[knowledge/wiki/artists/Artist - dennis stock|Artist - dennis stock]] — shared language: dennis
 - [[knowledge/archive/auto-generated/artists-stale/Artist - dennis stock 1955|Artist - dennis stock 1955]] — shared language: dennis
+- [[knowledge/archive/auto-generated/artists-stale/Artist - dennis vorres|Artist - dennis vorres]] — shared language: dennis
 - [[knowledge/wiki/artists/Artist - Danfung Dennis|Artist - Danfung Dennis]] — shared language: dennis
 <!-- vault-crosslinks:end -->

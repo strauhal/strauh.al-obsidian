@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Grid of White SUV and Crossover Vehicle
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "500x325"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

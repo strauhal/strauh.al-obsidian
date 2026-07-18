@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black and White Stipple Drawing of Thre
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1000x1014"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

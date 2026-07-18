@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Four-Panel Digital Drawing Tutorial Of 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "736x730"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

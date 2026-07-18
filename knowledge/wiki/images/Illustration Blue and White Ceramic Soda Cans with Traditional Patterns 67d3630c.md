@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Blue and White Ceramic Soda Cans with T
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "960x650"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

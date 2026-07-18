@@ -6,7 +6,7 @@ source_relpath: "photography/Close-Up of Ornate Dragon Figurine with Glowing Red
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "400x497"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

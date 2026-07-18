@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/psychology.html"
 source_relpath: "knowledge_base/psychology.html"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:40"
+compiled_at: "2026-07-18T00:07:16"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base psychology
@@ -65,6 +65,56 @@ strauh.al/knowledge_base/psychology
 [Bollingen Tower - Wikipedia](https://en.wikipedia.org/wiki/Bollingen_Tower)
 [Debunking the Internet Myth of the A.T. Field - HubPages](https://discover.hubpages.com/entertainment/Why-the-AT-Field-is-Not-a-Real-Psychological-Term?fbclid=IwAR0hBxO6S3yE-NsFb1drCC3QhJ8jM0kBpYbS7tSTCUGElCaMpbfZKy6loD4)
 
+## brain, cognition & mental health
+
+[stretches-for-carpal-tunnel](https://www.carpalrx.com/stretches-for-carpal-tunnel)
+[First-ever recording of a dying human brain reveals what happens right before death | Daily Mail Online](https://www.dailymail.co.uk/sciencetech/article-14356349/first-recording-dying-human-brain-revealed-death.html)
+[Steve Jobs (and Neuroscience) Says This Is What Makes Remarkably Intelligent People Different](https://www.inc.com/jeff-haden/steve-jobs-and-neuroscience-says-this-is-what-makes-remarkably-intelligent-people-different/91236395)
+[Microdosing for Depression Appears to Work About as Well as Drinking Coffee | WIRED](https://www.wired.com/story/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee/)
+[What the metaphor of ‘rewiring’ gets wrong about neuroplasticity | Aeon Essays](https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity)
+[Neuroscientist warns Gen Z first generation less cognitively capable than their parents | Fortune](https://fortune.com/2026/02/21/laptops-tablets-schools-gen-z-less-cognitively-capable-parents-first-time-cellphone-bans-standardized-test-scores/)
+['Dopamine Kids' helps parents deal with kids' cravings for screens and sweets : NPR](https://www.npr.org/2026/03/06/nx-s1-5737901/dopamine-kids-parenting-screens)
+[Lorwen Harris Nagle, PhD on X: "A Stanford neuroscientist warns high cortisol wrecks memory, enlarges your fear center, and make your brain feel broken. If I wanted to fix it naturally, I'd do these 8 things every day: 1. Walk barefoot on grass for 5–7 minutes. https://t.co/fFxBEh94Ky" / X](https://x.com/LORWEN108/status/2061066986554286116)
+
+## ai companionship, delusion & attachment
+
+[Nation Cringes as Man Goes on TV to Declare That He's in Love With ChatGPT](https://futurism.com/televised-love-declaration-chatgpt)
+[A flirty Meta AI bot invited a retiree to meet. He never made it home.](https://www.reuters.com/investigates/special-report/meta-ai-chatbot-death/)
+[A Teen Was Suicidal. ChatGPT Was the Friend He Confided In. - The New York Times](https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html)
+[I Hate My AI Friend | WIRED](https://www.wired.com/story/i-hate-my-ai-friend/)
+[Man Killed by Police After Spiraling Into ChatGPT-Driven Psychosis](https://futurism.com/man-killed-police-chatgpt)
+[My uncanny AI valentines | The Verge](https://www.theverge.com/report/879327/eva-ai-cafe-dating-ai-companions)
+[A chatbot convinced her she’d find love. Then it betrayed her : NPR](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot)
+[Her husband wanted to use ChatGPT to create sustainable housing. Then it took over his life. | AI (artificial intelligence) | The Guardian](https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health)
+
+## psychedelics, cognition & mental health
+
+[Endocrine Disruptors](https://www.niehs.nih.gov/health/topics/agents/endocrine/index.cfm)
+[Understanding Reality: What Hallucinations Reveal - The Atlantic](https://www.theatlantic.com/health/archive/2018/10/hallucinations-hearing-voices-reality-debate/571819/)
+[A Brief History Of Mind-Altering Drugs In Ancient India](https://edtimes.in/a-brief-history-of-mind-altering-drugs-in-ancient-india/)
+[Deep depression after ten day vipassana retreat. : r/vipassana](https://www.reddit.com/r/vipassana/comments/91hj9w/deep_depression_after_ten_day_vipassana_retreat/)
+[Millions more are tripping on psychedelic drugs than ever before: study](https://nypost.com/2022/08/19/millions-more-are-tripping-on-psychedelic-drugs-than-ever-before-study/)
+[San Francisco moves to decriminalize plant-based psychedelics - CNN](https://www.cnn.com/2022/09/10/us/san-francisco-decriminalization-psychedelics-trnd/index.html)
+[Is Permatripping Real?](https://gizmodo.com/is-permatripping-real-1832321996)
+[Serotonin’s link to autism, explained | Spectrum | Autism Research News](https://www.spectrumnews.org/news/serotonins-link-autism-explained/)
+[Developmental changes in brain serotonin synthesis capacity in autistic and nonautistic children - PubMed](https://pubmed.ncbi.nlm.nih.gov/10072042/)
+[The Role of Serotonin in Schizophrenia](https://www.acnp.org/g4/GN401000117/CH115.html)
+[The social ties between autism and schizophrenia | Spectrum | Autism Research News](https://www.spectrumnews.org/features/deep-dive/social-ties-autism-schizophrenia/)
+[Schizophrenia and Autism: Both Shared and Disorder-Specific Pathogenesis Via Perinatal Inflammation? | Pediatric Research](https://www.nature.com/articles/pr9201190)
+[What Is the Sense of Agency and Why Does it Matter?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5002400/)
+[Frontiers | Psychedelic Experiences During the Early COVID-19 Pandemic: Findings From an International Online Survey](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.732028/full)
+[Psychedelic Experiences During the Early COVID-19 Pandemic: Findings From an International Online Survey - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8599818/)
+[Psychoactives | Free Full-Text | Tripping to Cope: Coping Strategies and Use of Hallucinogens during the COVID-19 Pandemic in Three Cultural Contexts](https://www.mdpi.com/2813-1851/1/1/3)
+[Lifetime use of psychedelics is associated with better mental health indicators during the COVID-19 pandemic in: Journal of Psychedelic Studies Volume 5 Issue 2 (2021)](https://akjournals.com/view/journals/2054/5/2/article-p83.xml)
+[When the Trip Never Ends | Dana Foundation](https://www.dana.org/article/when-the-trip-never-ends/)
+[Emotional Abuse | Psychology Today](https://www.psychologytoday.com/us/basics/emotional-abuse)
+[Towards an understanding of psychedelic-induced neuroplasticity | Neuropsychopharmacology](https://www.nature.com/articles/s41386-022-01389-z)
+[Psychedelics open your brain. You might not like what falls in. - The Atlantic](https://www.theatlantic.com/health/archive/2023/02/psychedelic-drug-therapy-effects-brain-neuroplasticity/672910/)
+[LSD May Chip Away at the Brain's "Sense of Self" Network - Scientific American](https://www.scientificamerican.com/article/lsd-may-chip-away-at-the-brain-s-sense-of-self-network/)
+[Opinion | Whatever the Problem, It’s Probably Solved by Walking - The New York Times](https://www.nytimes.com/2023/03/25/opinion/walking-hiking-spring.html)
+[A woman took 550 times the usual dose of LSD, with surprisingly positive consequences - CNN](https://www.cnn.com/2020/02/27/health/lsd-overdoses-case-studies-wellness/index.html)
+[‘With brain preservation, nobody has to die’: meet the neuroscientist who believes life could be eternal | Neuroscience | The Guardian](https://www.theguardian.com/science/2024/dec/01/with-brain-preservation-nobody-has-to-die-meet-the-neuroscientist-who-believes-life-could-be-eternal)
+
 ## Related Local Pages
 
 - None yet
@@ -72,11 +122,21 @@ strauh.al/knowledge_base/psychology
 <!-- kb-links:start -->
 ## Connections
 
-*Every bookmark on this page wired to the ideas, people, and books it touches — 8 of 45 links connected (2 nodes).*
+*Every bookmark on this page wired to the ideas, people, and books it touches — 25 of 86 links connected (7 nodes).*
+
+**[[Art Fills the God-Shaped Hole]]** — [Millions more are tripping on psychedelic drugs than ever before: study](https://nypost.com/2022/08/19/millions-more-are-tripping-on-psychedelic-drugs-than-ever-before-study/) · [Frontiers / Psychedelic Experiences During the Early COVID-19 Pandemic: Findings From an International Online Survey](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.732028/full) · [Psychedelic Experiences During the Early COVID-19 Pandemic: Findings From an International Online Survey - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8599818/) · [Lifetime use of psychedelics is associated with better mental health indicators during the COVID-19 pandemic in: Journal of Psychedelic Studies Volume 5 Issue 2 (2021)](https://akjournals.com/view/journals/2054/5/2/article-p83.xml) · [Towards an understanding of psychedelic-induced neuroplasticity / Neuropsychopharmacology](https://www.nature.com/articles/s41386-022-01389-z) · [Psychedelics open your brain. You might not like what falls in. - The Atlantic](https://www.theatlantic.com/health/archive/2023/02/psychedelic-drug-therapy-effects-brain-neuroplasticity/672910/)
+
+**[[The Internet as Confidant]]** — [Distorted Grief: 10 Things to Know When Grief Turns Hostile » Urns / Online](https://www.usurnsonline.com/grief-loss/distorted-grief/) · [Debunking the Internet Myth of the A.T. Field - HubPages](https://discover.hubpages.com/entertainment/Why-the-AT-Field-is-Not-a-Real-Psychological-Term?fbclid=IwAR0hBxO6S3yE-NsFb1drCC3QhJ8jM0kBpYbS7tSTCUGElCaMpbfZKy6loD4) · [First-ever recording of a dying human brain reveals what happens right before death / Daily Mail Online](https://www.dailymail.co.uk/sciencetech/article-14356349/first-recording-dying-human-brain-revealed-death.html) · [Deep depression after ten day vipassana retreat. : r/vipassana](https://www.reddit.com/r/vipassana/comments/91hj9w/deep_depression_after_ten_day_vipassana_retreat/) · [Frontiers / Psychedelic Experiences During the Early COVID-19 Pandemic: Findings From an International Online Survey](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.732028/full) · [Psychedelic Experiences During the Early COVID-19 Pandemic: Findings From an International Online Survey - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8599818/)
 
 **[[The Oedipal Screen]]** — [paranoiac knowledge](https://www.processpsychology.com/new-articles/Lacan-PP-revised.htm) · [Lacan: The Mirror Stage](http://www.english.hawaii.edu/criticalink/lacan/index.html) · [Scopophilia - Wikipedia](https://en.wikipedia.org/wiki/Scopophilia) · [Signifier - No Subject - Encyclopedia of Psychoanalysis - Encyclopedia of Lacanian Psychoanalysis](https://nosubject.com/Signifier) · [Psychoanalysis Behind The Cake Mix - Life Changing Ideas E02 / by Bugra Celik / Medium](https://medium.com/@CelikBugra/psychoanalytics-behind-the-cake-mix-life-changing-ideas-e02-412e8d4e54e4) · [Edward Bernays, Uncle Freud, and Betty Crocker / Psychology Today](https://www.psychologytoday.com/us/blog/the-secular-shepherd/201604/edward-bernays-uncle-freud-and-betty-crocker)
 
-**[[The Internet as Confidant]]** — [Distorted Grief: 10 Things to Know When Grief Turns Hostile » Urns / Online](https://www.usurnsonline.com/grief-loss/distorted-grief/) · [Debunking the Internet Myth of the A.T. Field - HubPages](https://discover.hubpages.com/entertainment/Why-the-AT-Field-is-Not-a-Real-Psychological-Term?fbclid=IwAR0hBxO6S3yE-NsFb1drCC3QhJ8jM0kBpYbS7tSTCUGElCaMpbfZKy6loD4)
+**[[AI Slop]]** — [Nation Cringes as Man Goes on TV to Declare That He's in Love With ChatGPT](https://futurism.com/televised-love-declaration-chatgpt) · [A Teen Was Suicidal. ChatGPT Was the Friend He Confided In. - The New York Times](https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html) · [Man Killed by Police After Spiraling Into ChatGPT-Driven Psychosis](https://futurism.com/man-killed-police-chatgpt) · [A chatbot convinced her she’d find love. Then it betrayed her : NPR](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot) · [Her husband wanted to use ChatGPT to create sustainable housing. Then it took over his life. / AI (artificial intelligence) / The Guardian](https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health)
+
+**[[Memory and Preservation]]** — [Lorwen Harris Nagle, PhD on X: "A Stanford neuroscientist warns high cortisol wrecks memory, enlarges your fear center, and make your brain feel broken. If I wanted to fix it naturally, I'd do these 8 things every day: 1. Walk barefoot on grass for 5–7 minutes. https://t.co/fFxBEh94Ky" / X](https://x.com/LORWEN108/status/2061066986554286116) · [‘With brain preservation, nobody has to die’: meet the neuroscientist who believes life could be eternal / Neuroscience / The Guardian](https://www.theguardian.com/science/2024/dec/01/with-brain-preservation-nobody-has-to-die-meet-the-neuroscientist-who-believes-life-could-be-eternal)
+
+**[[The Atlantic]]** — [Understanding Reality: What Hallucinations Reveal - The Atlantic](https://www.theatlantic.com/health/archive/2018/10/hallucinations-hearing-voices-reality-debate/571819/) · [Psychedelics open your brain. You might not like what falls in. - The Atlantic](https://www.theatlantic.com/health/archive/2023/02/psychedelic-drug-therapy-effects-brain-neuroplasticity/672910/)
+
+**[[The Attention Economy]]** — ['Dopamine Kids' helps parents deal with kids' cravings for screens and sweets : NPR](https://www.npr.org/2026/03/06/nx-s1-5737901/dopamine-kids-parenting-screens)
 
 <!-- kb-links:end -->
 
@@ -84,11 +144,11 @@ strauh.al/knowledge_base/psychology
 ## Discovered Connections
 
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
+- [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
 - [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
+- [[knowledge/wiki/books/the-end-of-reading-is-here-the-atlantic|The Atlantic]] — named in this note
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
 - [[knowledge/wiki/books/luke-caldwell-schizophrenizing-lacan|Schizophrenizing Lacan]] — named in this note
-- [[knowledge/wiki/books/filmstudents-attentionspan|filmstudents attentionspan]] — shared language: psychology
-- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: psychology, knowledge, thinking
-- [[knowledge/wiki/life/Personality (PAS)|Personality (PAS)]] — shared language: personality, thinking
-- [[knowledge/wiki/books/jacques-lacan-lacan-on-paranoiac-knowledge|Lacan on Paranoiac Knowledge]] — shared language: psychology, knowledge, paranoiac
 <!-- vault-crosslinks:end -->

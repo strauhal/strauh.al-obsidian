@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Blonde Man Pumping Gas At Family Expres
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1440x2560"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Man Pumping Gas And Smoking At Night f372e20c|Man Pumping Gas And Smoking At Night]] — shared language: pumping, gas
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: station, family
 - [[knowledge/wiki/images/Black And White Photograph Of A Gas Station At Night 7d4d415b|Black And White Photograph Of A Gas Station At Night]] — shared language: gas, station
-- [[knowledge/wiki/images/Military Vehicles And Civilian Cars At A Gas Station At Night 2a2a088f|Military Vehicles And Civilian Cars At A Gas Station At Night]] — shared language: gas, station
+- [[knowledge/wiki/images/McDonald's and Eneos Gas Station at Night in Japan 8c4ee620|McDonald's and Eneos Gas Station at Night in Japan]] — shared language: gas, station
 <!-- vault-crosslinks:end -->

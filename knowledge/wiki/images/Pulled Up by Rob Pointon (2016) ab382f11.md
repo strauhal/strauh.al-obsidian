@@ -6,7 +6,7 @@ source_relpath: "2000s/Pulled Up by Rob Pointon (2016).jpeg"
 collection: "2000s"
 inferred_year: "2016"
 artist: ""
-dimensions: "1152x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Skull-like Sun Setting Over Dark Forest
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "821x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

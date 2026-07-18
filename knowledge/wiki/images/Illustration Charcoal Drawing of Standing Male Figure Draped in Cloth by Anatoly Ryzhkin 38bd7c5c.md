@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Charcoal Drawing of Standing Male Figure D
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Anatoly Ryzhkin"
-dimensions: "670x1042"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Nausicaa by William McGregor Paxton (c. 1941).jpg"
 collection: "1900s"
 inferred_year: "1941"
 artist: ""
-dimensions: "1600x1399"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Ami Mizuno In Gym Clothes Holding A Baske
 collection: "unsorted"
 inferred_year: ""
 artist: "Toei Animation"
-dimensions: "1012x1742"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

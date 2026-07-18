@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Intricate Pixelated Pattern Forming A L
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "972x972"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

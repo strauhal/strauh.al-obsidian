@@ -6,7 +6,7 @@ source_relpath: "1900s/dancing_at_the_st_regis_by_garry_winogrand_1957.jpg"
 collection: "1900s"
 inferred_year: "1957"
 artist: "garry winogrand"
-dimensions: "1375x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

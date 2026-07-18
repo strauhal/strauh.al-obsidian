@@ -6,7 +6,7 @@ source_relpath: "1900s/regression_group_4_by_charles_gaines_197374.jpeg"
 collection: "1900s"
 inferred_year: "1900s"
 artist: "charles gaines 197374"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

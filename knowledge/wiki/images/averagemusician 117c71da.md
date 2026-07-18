@@ -6,7 +6,7 @@ source_relpath: "diary/averagemusician.JPG"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1024x759"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

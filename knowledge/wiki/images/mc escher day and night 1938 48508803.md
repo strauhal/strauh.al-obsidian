@@ -6,7 +6,7 @@ source_relpath: "1900s/mc_escher_day_and_night_1938.jpg"
 collection: "1900s"
 inferred_year: "1938"
 artist: ""
-dimensions: "2000x1194"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_desk_by_egon_schiele_1910.jpg"
 collection: "1900s"
 inferred_year: "1910"
 artist: "egon schiele"
-dimensions: "573x882"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized City Skyline and Highway with 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2048x970"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

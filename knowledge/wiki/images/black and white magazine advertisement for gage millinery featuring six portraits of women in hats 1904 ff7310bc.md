@@ -6,7 +6,7 @@ source_relpath: "1900s/black_and_white_magazine_advertisement_for_gage_millinery
 collection: "1900s"
 inferred_year: "1904"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

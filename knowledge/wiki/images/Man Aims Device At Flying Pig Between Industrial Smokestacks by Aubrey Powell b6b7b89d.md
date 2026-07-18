@@ -6,7 +6,7 @@ source_relpath: "photography/Man Aims Device At Flying Pig Between Industrial Sm
 collection: "photography"
 inferred_year: ""
 artist: "Aubrey Powell"
-dimensions: "960x711"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Graffiti of Kanye West's Face as Kirby 
 collection: "unsorted"
 inferred_year: ""
 artist: "FOREST"
-dimensions: "1080x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

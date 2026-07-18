@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Kaczynski Anti-Tech Revolution Why and How]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Kaczynski Anti-Tech Revolution Why and How.pdf"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Anti-Tech Revolution: Why and How

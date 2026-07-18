@@ -6,7 +6,7 @@ source_relpath: "photography/Man In Racing Suit With Woman Adjusting Collar.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "720x676"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

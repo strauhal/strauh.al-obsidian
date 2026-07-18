@@ -6,7 +6,7 @@ source_relpath: "1600s/portrait_of_louis_grand_dauphin_in_armor_by_pierre_mignar
 collection: "1600s"
 inferred_year: "1679"
 artist: "pierre mignard"
-dimensions: "931x1180"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

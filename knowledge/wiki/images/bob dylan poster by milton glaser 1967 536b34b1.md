@@ -6,7 +6,7 @@ source_relpath: "1900s/bob_dylan_poster_by_milton_glaser_1967.jpeg"
 collection: "1900s"
 inferred_year: "1967"
 artist: "milton glaser"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Modern Auditorium Interior with Swirling Textured C
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1096"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

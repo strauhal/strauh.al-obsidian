@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The Corporeal Fantasy by Martin Butler [Butler, Martin] (z-lib.org).epub"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # The Corporeal Fantasy
@@ -43,6 +43,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/ambient-art|Ambient art]] — same category: art aesthetics
 - [[knowledge/wiki/books/9009675-01-ab-9009700-01-art-as-a-form-of-reality|9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]] — same category: art aesthetics
 - [[knowledge/wiki/books/co2-artbookdigitalcomplete|CO2 ArtbookDigitalComplete]] — same category: art aesthetics
+- [[knowledge/wiki/books/martin-heidegger-hegels-phenomenology-of-spirit|martin-heidegger-hegels-phenomenology-of-spirit]] — same category: art aesthetics
 - [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — same category: art aesthetics
-- [[knowledge/wiki/books/sauer-notations-selections-part-1-2-1|Sauer-Notations-selections-part-1&2 (1)]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

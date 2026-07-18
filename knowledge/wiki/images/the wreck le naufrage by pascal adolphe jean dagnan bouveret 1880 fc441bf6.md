@@ -6,7 +6,7 @@ source_relpath: "1800s/the_wreck_le_naufrage_by_pascal_adolphe_jean_dagnan_bouve
 collection: "1800s"
 inferred_year: "1880"
 artist: "pascal adolphe jean dagnan bouveret"
-dimensions: "4096x2858"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

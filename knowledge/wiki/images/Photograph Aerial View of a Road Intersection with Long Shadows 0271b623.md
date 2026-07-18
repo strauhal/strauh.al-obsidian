@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Aerial View of a Road Intersection with Long
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "958x958"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

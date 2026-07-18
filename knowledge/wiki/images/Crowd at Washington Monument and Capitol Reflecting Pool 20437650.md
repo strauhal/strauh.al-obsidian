@@ -6,7 +6,7 @@ source_relpath: "photography/Crowd at Washington Monument and Capitol Reflecting
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "804x1205"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

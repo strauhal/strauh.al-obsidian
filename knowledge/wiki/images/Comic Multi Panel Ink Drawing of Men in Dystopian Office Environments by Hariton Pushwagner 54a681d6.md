@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Multi-Panel Ink Drawing of Men in Dystopian Offic
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Hariton Pushwagner"
-dimensions: "1400x1001"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

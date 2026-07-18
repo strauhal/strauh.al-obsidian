@@ -6,7 +6,7 @@ source_relpath: "influences/escher.jpeg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "700x593"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/seiken_densetsu_3_trials_of_mana_cover_art_by_hiroo_isono
 collection: "1900s"
 inferred_year: "1995"
 artist: "hiroo isono"
-dimensions: "1000x1299"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

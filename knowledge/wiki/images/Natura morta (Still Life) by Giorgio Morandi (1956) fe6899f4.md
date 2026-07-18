@@ -6,7 +6,7 @@ source_relpath: "1900s/Natura morta (Still Life) by Giorgio Morandi (1956).jpg"
 collection: "1900s"
 inferred_year: "1956"
 artist: ""
-dimensions: "1440x961"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

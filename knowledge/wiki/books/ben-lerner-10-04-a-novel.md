@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/10_04_ A Novel -- Ben Lerner -- 2014 -- Farrar, Straus and Giroux -- 9780374711344 -- f148def5a37ec25e07d999f1a68eee7d -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # 10 04 A Novel
@@ -46,5 +46,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/albert-camus-the-plague|The Plague]] — same category: literature
 - [[knowledge/wiki/books/william-zinsser-on-writing-well|On Writing Well]] — same category: literature
 - [[knowledge/wiki/books/harry-martinson-aniara|Aniara]] — same category: literature
-- [[knowledge/wiki/books/gatsby-sexualdrama|gatsby sexualdrama]] — same category: literature
+- [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — same category: literature
 <!-- vault-crosslinks:end -->

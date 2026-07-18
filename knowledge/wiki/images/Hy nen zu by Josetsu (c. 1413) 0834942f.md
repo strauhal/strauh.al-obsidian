@@ -6,7 +6,7 @@ source_relpath: "1400s/Hyōnen zu by Josetsu (c. 1413).jpg"
 collection: "1400s"
 inferred_year: "1413"
 artist: ""
-dimensions: "2434x1738"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

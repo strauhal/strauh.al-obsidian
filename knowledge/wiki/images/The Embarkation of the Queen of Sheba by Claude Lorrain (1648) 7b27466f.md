@@ -6,7 +6,7 @@ source_relpath: "1600s/The Embarkation of the Queen of Sheba by Claude Lorrain (
 collection: "1600s"
 inferred_year: "1648"
 artist: ""
-dimensions: "1920x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_art_of_painting_by_david_bardia_1997.jpg"
 collection: "1900s"
 inferred_year: "1997"
 artist: "david bardia"
-dimensions: "1710x2200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

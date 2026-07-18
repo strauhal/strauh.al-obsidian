@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Page Listing 60 Lies With Bible Verses.jpeg
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2479x3571"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Pa
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: page
 - [[knowledge/wiki/images/Photograph of a Bible Page With 'The Old Testament' Title d8b7d015|Photograph of a Bible Page With 'The Old Testament' Title]] — shared language: bible, page
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
-- [[knowledge/wiki/images/Document Title Page with Stylized Figures and Text 0a3a6470|Document Title Page with Stylized Figures and Text]] — shared language: document, page
+- [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
 <!-- vault-crosslinks:end -->

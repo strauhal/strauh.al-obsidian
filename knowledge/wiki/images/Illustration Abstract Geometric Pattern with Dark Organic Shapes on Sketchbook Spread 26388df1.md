@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Geometric Pattern with Dark Organ
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1448x1101"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Man With Raised Hands Holding Documents Walks Past Female Soldier 55fb4398|Man With Raised Hands Holding Documents Walks Past Female Soldier]] — shared language: walks, documents, raised
-- [[_archive/auto-generated/images-stale/photograph of a man with hands raised holding documents walking past a female soldier in a debris strewn street ed53c2e4|photograph of a man with hands raised holding documents walking past a female soldier in a debris strewn street]] — shared language: documents, raised, past
+- [[_archive/auto-generated/images-stale/photograph of a man with hands raised holding documents walking past a female soldier in a debris strewn street ed53c2e4|photograph of a man with hands raised holding documents walking past a female soldier in a debris strewn street]] — shared language: documents, raised, soldier
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: past
 - [[knowledge/wiki/images/Black And White Portrait Of An Older Man With Hands Raised 669e2955|Black And White Portrait Of An Older Man With Hands Raised]] — shared language: raised, hands
 - [[_archive/auto-generated/images-stale/Photograph Black And White Portrait Of An Older Man With Hands Raised 073ecd0b|Photograph Black And White Portrait Of An Older Man With Hands Raised]] — shared language: raised, hands

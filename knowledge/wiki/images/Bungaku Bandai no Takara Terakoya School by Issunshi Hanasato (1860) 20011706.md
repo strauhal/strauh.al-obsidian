@@ -6,7 +6,7 @@ source_relpath: "1800s/Bungaku Bandai no Takara: Terakoya School by Issunshi Han
 collection: "1800s"
 inferred_year: "1860"
 artist: ""
-dimensions: "2594x1903"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

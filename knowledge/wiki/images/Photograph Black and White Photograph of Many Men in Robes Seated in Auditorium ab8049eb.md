@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Black and White Photograph of Many Men in Ro
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 - [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
 - [[knowledge/wiki/images/Illustration Figures in Red Robes at Table on Beach 5890d09f|Illustration Figures in Red Robes at Table on Beach]] — shared language: robes
 - [[knowledge/wiki/images/Photograph Research Paper Title Slide Projected in Auditorium df95e62b|Photograph Research Paper Title Slide Projected in Auditorium]] — shared language: auditorium, auditorium.jpeg
-- [[knowledge/wiki/images/Illustration Illustration of Many Red, White, and Blue Kittens 6a2e3a18|Illustration Illustration of Many Red, White, and Blue Kittens]] — shared language: many
+- [[knowledge/wiki/images/Black And White Portrait Of A Seated Man In A Suit 3f78b4fd|Black And White Portrait Of A Seated Man In A Suit]] — shared language: seated
 <!-- vault-crosslinks:end -->

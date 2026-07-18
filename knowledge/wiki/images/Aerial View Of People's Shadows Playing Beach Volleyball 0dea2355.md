@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View Of People's Shadows Playing Beach Volle
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "828x1071"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

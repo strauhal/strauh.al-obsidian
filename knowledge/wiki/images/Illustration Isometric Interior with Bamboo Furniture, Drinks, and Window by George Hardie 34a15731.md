@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Isometric Interior with Bamboo Furnitur
 collection: "unsorted"
 inferred_year: ""
 artist: "George Hardie"
-dimensions: "550x852"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

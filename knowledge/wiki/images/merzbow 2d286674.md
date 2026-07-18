@@ -6,7 +6,7 @@ source_relpath: "pictures_of_musicians/merzbow.jpeg"
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: "1536x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---

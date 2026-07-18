@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Painting of a Chevron Sign with an Airplan
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Robert Vancas"
-dimensions: "2927x2169"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

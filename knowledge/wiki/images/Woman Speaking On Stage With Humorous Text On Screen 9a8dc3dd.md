@@ -6,7 +6,7 @@ source_relpath: "photography/Woman Speaking On Stage With Humorous Text On Scree
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "360x253"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

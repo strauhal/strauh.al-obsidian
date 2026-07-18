@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - CD-R Disc Wall Decor with Plant and Skincare
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "488x680"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

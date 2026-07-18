@@ -6,7 +6,7 @@ source_relpath: "1800s/christen_dalsgaard_two_girls_at_a_boat_pier_1859.jpg"
 collection: "1800s"
 inferred_year: "1859"
 artist: ""
-dimensions: "6411x4658"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

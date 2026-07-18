@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Anime Character In Straw Hat Holding Ba
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1518x2150"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

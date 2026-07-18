@@ -6,7 +6,7 @@ source_relpath: "photography/Busy Street Scene with Numerous Neon Signs and Traf
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "650x653"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

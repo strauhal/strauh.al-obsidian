@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[_archive/auto-generated/images-stale/painting of a crouching hairless cat with large ears against a purple floral background 688b2131|painting of a crouching hairless cat with large ears against a purple floral background]] — shared language: hairless, ears
 - [[knowledge/wiki/images/Illustration Detailed Ink Drawing of Figure with Pointed Head and Symbols 0916bc17|Illustration Detailed Ink Drawing of Figure with Pointed Head and Symbols]] — shared language: pointed
 - [[knowledge/wiki/images/Illustration Girl With Cat Ears Holding Black Cat With Red Eyes 5d1953cd|Illustration Girl With Cat Ears Holding Black Cat With Red Eyes]] — shared language: ears
-- [[knowledge/wiki/images/Illustration Figure in Pointed Hat Gazing at Smoking Orange Orb 5c87b101|Illustration Figure in Pointed Hat Gazing at Smoking Orange Orb]] — shared language: pointed
+- [[knowledge/wiki/images/Dog Sitting on Stool with Pipe in Mouth 1491abde|Dog Sitting on Stool with Pipe in Mouth]] — shared language: dog, sitting
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1700s/the_death_of_general_wolfe_by_benjamin_west_1770_2.jpeg"
 collection: "1700s"
 inferred_year: "1770"
 artist: "benjamin west"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

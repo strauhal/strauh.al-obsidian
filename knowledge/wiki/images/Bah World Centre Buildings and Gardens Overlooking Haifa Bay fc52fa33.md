@@ -6,7 +6,7 @@ source_relpath: "photography/Baháʼí World Centre Buildings and Gardens Overlo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1280x719"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

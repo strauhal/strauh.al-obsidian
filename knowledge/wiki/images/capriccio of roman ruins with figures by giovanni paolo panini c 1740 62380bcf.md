@@ -6,7 +6,7 @@ source_relpath: "1700s/capriccio_of_roman_ruins_with_figures_by_giovanni_paolo_p
 collection: "1700s"
 inferred_year: "1740"
 artist: "giovanni paolo panini"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

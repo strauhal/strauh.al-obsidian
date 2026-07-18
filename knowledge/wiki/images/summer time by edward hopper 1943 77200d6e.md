@@ -6,7 +6,7 @@ source_relpath: "1900s/summer_time_by_edward_hopper_1943.jpeg"
 collection: "1900s"
 inferred_year: "1943"
 artist: "edward hopper"
-dimensions: "5712x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

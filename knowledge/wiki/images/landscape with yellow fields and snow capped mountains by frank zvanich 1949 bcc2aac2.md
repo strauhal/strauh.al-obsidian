@@ -6,7 +6,7 @@ source_relpath: "1900s/landscape_with_yellow_fields_and_snow_capped_mountains_by
 collection: "1900s"
 inferred_year: "1949"
 artist: "frank zvanich"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

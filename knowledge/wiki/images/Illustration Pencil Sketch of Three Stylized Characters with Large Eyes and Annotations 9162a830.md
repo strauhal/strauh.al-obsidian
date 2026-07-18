@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pencil Sketch of Three Stylized Characters
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1297x1530"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

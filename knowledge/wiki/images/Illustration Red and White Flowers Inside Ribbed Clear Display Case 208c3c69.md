@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Red and White Flowers Inside Ribbed Clear 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1440x1795"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - R
 - [[knowledge/wiki/images/Illustration Two Clear Rectangular Boxes with Red Flowers Inside by Luca Ricci 7c5facfc|Illustration Two Clear Rectangular Boxes with Red Flowers Inside by Luca Ricci]] — shared language: clear, inside, flowers
 - [[knowledge/wiki/images/Photograph Brown Porous Organic Sculpture in Museum Display Case 98705f88|Photograph Brown Porous Organic Sculpture in Museum Display Case]] — shared language: case, display, case.jpeg
 - [[knowledge/wiki/images/Raspberry Pi Board Inside Empty Computer Case With Notebook 1b7d5d84|Raspberry Pi Board Inside Empty Computer Case With Notebook]] — shared language: case, inside
-- [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: clear
+- [[knowledge/wiki/images/flowers 9ddd69be|flowers]] — shared language: flowers
 <!-- vault-crosslinks:end -->

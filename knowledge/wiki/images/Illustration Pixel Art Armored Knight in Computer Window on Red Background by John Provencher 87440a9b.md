@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pixel Art Armored Knight in Computer Wi
 collection: "unsorted"
 inferred_year: ""
 artist: "John Provencher"
-dimensions: "1917x1987"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

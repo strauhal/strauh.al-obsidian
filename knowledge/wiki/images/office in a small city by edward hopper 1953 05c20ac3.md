@@ -6,7 +6,7 @@ source_relpath: "1900s/office_in_a_small_city_by_edward_hopper_1953.jpeg"
 collection: "1900s"
 inferred_year: "1953"
 artist: "edward hopper"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

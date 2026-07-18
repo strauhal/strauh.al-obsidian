@@ -6,7 +6,7 @@ source_relpath: "photography/Close-Up Of Older Man In Suit Against American Flag
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "640x480"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

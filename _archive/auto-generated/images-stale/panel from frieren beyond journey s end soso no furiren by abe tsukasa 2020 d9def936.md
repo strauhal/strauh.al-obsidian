@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/artists/Artist - Abe Tsukasa|Artist - Abe Tsukasa]] — named in this note
 - [[knowledge/wiki/images/Comic Black and White Manga Panel of Long Haired Woman Lying Down by Abe Tsukasa e7a6f9ce|Comic Black and White Manga Panel of Long Haired Woman Lying Down by Abe Tsukasa]] — same artist: abe tsukasa
 - [[_archive/auto-generated/books-stale/beyond-good-evil|beyond good & evil]] — shared language: beyond
-- [[knowledge/wiki/books/friedrich-nietzsche-beyond-good-and-evil|Beyond Good and Evil]] — shared language: beyond
+- [[knowledge/wiki/books/the-end-of-reading-is-here-the-atlantic|The Atlantic]] — shared language: end
 <!-- vault-crosslinks:end -->

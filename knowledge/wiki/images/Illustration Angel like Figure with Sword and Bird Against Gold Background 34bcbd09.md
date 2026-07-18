@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Angel-like Figure with Sword and Bird A
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: angel, gold, like
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: gold, angel, like
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: bird
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
 - [[knowledge/wiki/images/Illustration Stylized Man With Large Mustache Holding Sword Against Red Background 49acfe2c|Illustration Stylized Man With Large Mustache Holding Sword Against Red Background]] — shared language: sword, against, background

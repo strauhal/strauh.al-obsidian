@@ -6,7 +6,7 @@ source_relpath: "1900s/shack_by_mike_kelley_1991.jpg"
 collection: "1900s"
 inferred_year: "1991"
 artist: "mike kelley"
-dimensions: "1584x1255"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

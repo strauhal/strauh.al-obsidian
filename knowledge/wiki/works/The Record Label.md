@@ -35,7 +35,7 @@ hollowed out the audience for sustained creative work.
 - [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: attention, economy, feed
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: creative, attention, summary
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: diary, summary, sources
-- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: got, diary, summary
+- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: diary, got, summary
 - [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: diary, work, reason
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: attention, economy, diary
 <!-- vault-crosslinks:end -->

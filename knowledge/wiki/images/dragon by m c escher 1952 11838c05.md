@@ -6,7 +6,7 @@ source_relpath: "1900s/dragon_by_m_c_escher_1952.jpg"
 collection: "1900s"
 inferred_year: "1952"
 artist: "m c escher"
-dimensions: "856x1127"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

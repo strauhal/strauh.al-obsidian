@@ -6,7 +6,7 @@ source_relpath: "1900s/the_yellow_dress_by_john_currin_1994.jpg"
 collection: "1900s"
 inferred_year: "1994"
 artist: "john currin"
-dimensions: "1200x1459"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

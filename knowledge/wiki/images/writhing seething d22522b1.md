@@ -6,7 +6,7 @@ source_relpath: "diary/writhing-seething.gif"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "220x389"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

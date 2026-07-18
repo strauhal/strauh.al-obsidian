@@ -6,7 +6,7 @@ source_relpath: "1900s/two_brothers_by_pablo_picasso_1905.jpg"
 collection: "1900s"
 inferred_year: "1905"
 artist: "pablo picasso"
-dimensions: "678x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

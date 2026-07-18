@@ -6,7 +6,7 @@ source_relpath: "1900s/cover_illustration_for_six_magazine_issue_1_comme_des_gar
 collection: "1900s"
 inferred_year: "1988"
 artist: "katsuhiro otomo"
-dimensions: "2048x2866"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

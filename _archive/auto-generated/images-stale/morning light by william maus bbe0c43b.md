@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/The Morning Visitor by Dino Buzzati (1963) 1c418e93|The Morning Visitor by Dino Buzzati (1963)]] — shared language: morning
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: william
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: william
-- [[knowledge/wiki/images/Morning by Caspar David Friedrich (c. 1820) 1cb277d2|Morning by Caspar David Friedrich (c. 1820)]] — shared language: morning
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pink and blue light|Artist - pink and blue light]] — shared language: light
+- [[knowledge/wiki/images/Morning by Caspar David Friedrich (c. 1820) 1cb277d2|Morning by Caspar David Friedrich (c. 1820)]] — shared language: morning
 <!-- vault-crosslinks:end -->

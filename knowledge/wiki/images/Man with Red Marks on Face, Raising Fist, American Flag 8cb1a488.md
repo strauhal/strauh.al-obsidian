@@ -6,7 +6,7 @@ source_relpath: "photography/Man with Red Marks on Face, Raising Fist, American 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "4189x2793"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Man with R
 
 - [[knowledge/wiki/images/Close Up Of Older Man In Suit Against American Flag d726f08d|Close Up Of Older Man In Suit Against American Flag]] — shared language: american, flag, flag.jpg
 - [[knowledge/wiki/images/Illustration Abstract Painting Of Dense Orange Marks On Black Background 47531862|Illustration Abstract Painting Of Dense Orange Marks On Black Background]] — shared language: marks
-- [[knowledge/wiki/images/Illustration Abstract Graphic Design with Warped American Flag Elements cbdc758e|Illustration Abstract Graphic Design with Warped American Flag Elements]] — shared language: flag, american
 - [[knowledge/wiki/books/john-marks-the-search-for-the-manchurian-candidate|The Search for the Manchurian Candidate]] — shared language: marks
+- [[knowledge/wiki/images/Illustration Abstract Graphic Design with Warped American Flag Elements cbdc758e|Illustration Abstract Graphic Design with Warped American Flag Elements]] — shared language: flag, american
 - [[knowledge/wiki/images/first flag raising on iwo jima by louis r lowery 1945 628828e1|first flag raising on iwo jima by louis r lowery 1945]] — shared language: raising, flag
 <!-- vault-crosslinks:end -->

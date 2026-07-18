@@ -6,7 +6,7 @@ source_relpath: "photography/Music Studio Setup with Mountain View.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "963x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Abstract Painting with Black Calligraphic Shapes and Colorful Forms 994a4a17|Illustration Abstract Painting with Black Calligraphic Shapes and Colorful Forms]] — shared language: shapes, forms, forms.jpeg
 - [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting With Various Colored Shapes 530e7213|Illustration Abstract Geometric Painting With Various Colored Shapes]] — shared language: colored, shapes
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: composition
 - [[_archive/auto-generated/images-stale/abstract composition of blue red and yellow fluid shapes 6be2015a|abstract composition of blue red and yellow fluid shapes]] — shared language: composition, shapes
-- [[knowledge/wiki/images/Illustration Abstract Composition of Blue, Red, Yellow, and Black Fluid Shapes 19b134c0|Illustration Abstract Composition of Blue, Red, Yellow, and Black Fluid Shapes]] — shared language: composition, shapes
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1800s/the_angel_appearing_to_the_shepherds_by_thomas_cole_18331
 collection: "1800s"
 inferred_year: "1800s"
 artist: "thomas cole 18331834"
-dimensions: "2066x1125"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

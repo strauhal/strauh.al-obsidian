@@ -6,7 +6,7 @@ source_relpath: "diagrams/Geometric_Diagram_with_Labeled_Lines_and_Central_Starb
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

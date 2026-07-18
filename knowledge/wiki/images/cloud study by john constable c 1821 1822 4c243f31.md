@@ -6,7 +6,7 @@ source_relpath: "1800s/cloud_study_by_john_constable_c_1821_1822.jpg"
 collection: "1800s"
 inferred_year: "1822"
 artist: "john constable"
-dimensions: "1280x861"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

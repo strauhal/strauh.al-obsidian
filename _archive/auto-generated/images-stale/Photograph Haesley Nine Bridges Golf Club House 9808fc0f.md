@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: club
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: bridges
 - [[knowledge/private/fanmail/threads/07-draw-club|Private Correspondence - 07 - Draw club]] — shared language: club
-- [[knowledge/wiki/images/DJ Playing Music In A Club With Vintage Equipment fcb087d6|DJ Playing Music In A Club With Vintage Equipment]] — shared language: club
+- [[knowledge/private/fanmail/threads/10-draw-club|Private Correspondence - 10 - Draw club]] — shared language: club
 <!-- vault-crosslinks:end -->

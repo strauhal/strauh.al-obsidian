@@ -6,7 +6,7 @@ source_relpath: "photography/Casio Wrist Camera on wrist displaying a person's f
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1144x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

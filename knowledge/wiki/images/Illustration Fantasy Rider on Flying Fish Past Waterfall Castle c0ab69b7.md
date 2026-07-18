@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Fantasy Rider on Flying Fish Past Waterfal
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3687x2500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

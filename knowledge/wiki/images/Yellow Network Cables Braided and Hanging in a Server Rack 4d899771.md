@@ -6,7 +6,7 @@ source_relpath: "photography/Yellow Network Cables Braided and Hanging in a Serv
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Stadia II by Julie Mehretu (2004).jpeg"
 collection: "2000s"
 inferred_year: "2004"
 artist: ""
-dimensions: "4096x3103"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

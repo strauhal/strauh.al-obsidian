@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Kikan Firumu (Quarterly Film) No. 2.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1052x1500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

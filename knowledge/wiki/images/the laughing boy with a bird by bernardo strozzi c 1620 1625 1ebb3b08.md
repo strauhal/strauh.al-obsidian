@@ -6,7 +6,7 @@ source_relpath: "1600s/the_laughing_boy_with_a_bird_by_bernardo_strozzi_c_1620_1
 collection: "1600s"
 inferred_year: "1625"
 artist: "bernardo strozzi"
-dimensions: "1471x1920"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

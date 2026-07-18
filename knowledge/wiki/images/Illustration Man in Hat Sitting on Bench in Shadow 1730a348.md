@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Man in Hat Sitting on Bench in Shadow.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "915x1139"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

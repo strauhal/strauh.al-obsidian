@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/The Flight of the Prisoners by James Tissot (1896 1902) 28f77d95|The Flight of the Prisoners by James Tissot (1896 1902)]] — shared language: tissot, james
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people
 - [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — shared language: james
-- [[knowledge/archive/auto-generated/artists-stale/Artist - james fletcher|Artist - james fletcher]] — shared language: james
-- [[knowledge/archive/auto-generated/artists-stale/Artist - james fletcher 2018|Artist - james fletcher 2018]] — shared language: james
+- [[knowledge/wiki/books/james-bridle-ways-of-being-penguin-books-ltd|Ways of Being-Penguin Books Ltd]] — shared language: james
+- [[knowledge/wiki/books/james-gleick-chaos-making-a-new-science|Chaos Making a New Science]] — shared language: james
+- [[knowledge/wiki/books/james-bridle-new-dark-age-technology-and-the-end-of-the-future-verso-books|New Dark Age - Technology and the End of the Future-Verso Books]] — shared language: james
 <!-- vault-crosslinks:end -->

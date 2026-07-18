@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Full-Length Portrait Of A Woman In A Bl
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2268x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

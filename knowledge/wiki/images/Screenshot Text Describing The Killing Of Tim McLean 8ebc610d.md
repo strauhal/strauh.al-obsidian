@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Text Describing The Killing Of Tim McLean
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1080x907"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Scenic View of Cliffside Town with White and Pastel
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "720x480"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Scenic Vie
 - [[knowledge/wiki/images/Illustration Charcoal and Pastel Drawing of a Young Woman bc68a6f2|Illustration Charcoal and Pastel Drawing of a Young Woman]] — shared language: pastel
 - [[knowledge/wiki/images/Photograph Minimalist Concrete Interior with Skylight and Scenic Window View by Claus Brechenmacher and Reiner Baumann 2ca5c871|Photograph Minimalist Concrete Interior with Skylight and Scenic Window View by Claus Brechenmacher and Reiner Baumann]] — shared language: scenic, view
 - [[knowledge/wiki/images/Street View Of Buildings And Parked Cars Under Blue Sky 486d2b9b|Street View Of Buildings And Parked Cars Under Blue Sky]] — shared language: buildings, view
-- [[knowledge/wiki/images/Photograph Aerial View of Mont Saint Michel Abbey and Town on Island f6ff9e3d|Photograph Aerial View of Mont Saint Michel Abbey and Town on Island]] — shared language: town, view
+- [[knowledge/wiki/images/Illustration Multiple Abstract Faces in Textured Pastel Colors e04d0b48|Illustration Multiple Abstract Faces in Textured Pastel Colors]] — shared language: pastel
 <!-- vault-crosslinks:end -->

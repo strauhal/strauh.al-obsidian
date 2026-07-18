@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Anime-Style Character with Green Hair, Clo
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "500x500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

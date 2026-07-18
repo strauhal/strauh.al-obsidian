@@ -6,7 +6,7 @@ source_relpath: "1900s/Woman at the Piano by Vilhelm Hammershøi (1901).jpg"
 collection: "1900s"
 inferred_year: "1901"
 artist: ""
-dimensions: "1209x1517"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

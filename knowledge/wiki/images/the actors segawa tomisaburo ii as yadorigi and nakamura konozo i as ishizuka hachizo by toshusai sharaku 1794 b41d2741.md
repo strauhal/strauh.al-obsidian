@@ -6,7 +6,7 @@ source_relpath: "1700s/the_actors_segawa_tomisaburo_ii_as_yadorigi_and_nakamura_
 collection: "1700s"
 inferred_year: "1794"
 artist: "toshusai sharaku"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

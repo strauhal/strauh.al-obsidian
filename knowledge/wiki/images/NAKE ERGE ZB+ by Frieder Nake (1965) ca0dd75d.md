@@ -6,7 +6,7 @@ source_relpath: "1900s/NAKE-ERGE-ZB+ by Frieder Nake (1965).jpg"
 collection: "1900s"
 inferred_year: "1965"
 artist: ""
-dimensions: "2500x2492"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

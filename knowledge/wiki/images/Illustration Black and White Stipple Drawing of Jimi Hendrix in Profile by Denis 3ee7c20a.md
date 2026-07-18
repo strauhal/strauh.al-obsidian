@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black and White Stipple Drawing of Jimi He
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Denis"
-dimensions: "2880x3600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

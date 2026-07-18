@@ -6,7 +6,7 @@ source_relpath: "1800s/head_of_a_young_woman_by_samuel_worcester_rowse_1874.jpeg
 collection: "1800s"
 inferred_year: "1874"
 artist: "samuel worcester rowse"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

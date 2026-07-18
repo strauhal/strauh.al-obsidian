@@ -6,7 +6,7 @@ source_relpath: "1500s/The Fall of Phaeton, plate 3 by Hendrick Goltzius (1588).
 collection: "1500s"
 inferred_year: "1588"
 artist: ""
-dimensions: "1200x868"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

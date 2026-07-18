@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/By the Spring by Henryk Siemiradzki (1880) 90581f33|By the Spring by Henryk Siemiradzki (1880)]] — shared language: henryk, siemiradzki
 - [[knowledge/wiki/images/henryk siemiradzki christ in the house of martha and mary 1886 29e1e31b|henryk siemiradzki christ in the house of martha and mary 1886]] — shared language: henryk, siemiradzki
 - [[knowledge/wiki/images/nero s torches pochodnie nerona by henryk siemiradzki 1876 b23bab83|nero s torches pochodnie nerona by henryk siemiradzki 1876]] — shared language: henryk, siemiradzki
-- [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: christian
+- [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: christian
 <!-- vault-crosslinks:end -->

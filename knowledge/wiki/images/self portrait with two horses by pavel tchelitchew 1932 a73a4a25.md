@@ -6,7 +6,7 @@ source_relpath: "1900s/self_portrait_with_two_horses_by_pavel_tchelitchew_1932.j
 collection: "1900s"
 inferred_year: "1932"
 artist: "pavel tchelitchew"
-dimensions: "721x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

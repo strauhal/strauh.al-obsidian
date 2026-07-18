@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Video Game Scene With Character In Sungla
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1122x1496"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

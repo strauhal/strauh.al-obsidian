@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Detailed Diagram of the Mandelbrot Set and Rela
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Bill Tavis and Leonard Massin"
-dimensions: "1600x1067"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

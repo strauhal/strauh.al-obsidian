@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Embroidered Wikipedia Article About Emb
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2048x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

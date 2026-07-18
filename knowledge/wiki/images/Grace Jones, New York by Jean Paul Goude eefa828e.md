@@ -6,7 +6,7 @@ source_relpath: "photography/Grace Jones, New York by Jean-Paul Goude.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: "Jean Paul Goude"
-dimensions: "1280x1431"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Grace Jone
 - [[knowledge/wiki/artists/Artist - paul haller jones|Artist - paul haller jones]] — shared language: jones, paul
 - [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: paul, jean
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
-- [[knowledge/wiki/books/paul-auster-the-new-york-trilogy-city-of-glass-ghosts-the-locked-room-contemporary-american-fiction-series-penguin-non-classics|The New York Trilogy City of Glass Ghosts The Locked Room (Contemporary American Fiction Series) -Penguin (Non-Classics)]] — shared language: york, paul, new
+- [[knowledge/wiki/images/twilight by paul haller jones 1956 14e63886|twilight by paul haller jones 1956]] — shared language: jones, paul
 <!-- vault-crosslinks:end -->

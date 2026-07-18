@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/end of eva jpg 2eeaba1b|end of eva jpg]] — shared language: eva, end
+- [[knowledge/wiki/books/the-end-of-reading-is-here-the-atlantic|The Atlantic]] — shared language: end
 - [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: end
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: end
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: end
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: end
 <!-- vault-crosslinks:end -->

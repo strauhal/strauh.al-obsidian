@@ -4,8 +4,8 @@ type: concept
 aliases: [tug of war, machine collaboration, negotiated authorship]
 tags: [concept, ai-art, authorship, control]
 sources: ["[[No More Human Art]]"]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Human-Machine Tug of War
@@ -38,10 +38,10 @@ The machine is neither an autonomous author nor a neutral brush. It is a tempora
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: human-machine, tug, war
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: human-machine, tug, war
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: movement, produces, vocal
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, process, work
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: process, studies, work
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: work, vocal, gan
-- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: studies, gan, ben
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: control, slop, model
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: studies, gan, ben
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: human-machine, tug, latent
 <!-- vault-crosslinks:end -->
 

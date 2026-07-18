@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - People By Pool At Night Under Orange Tr
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "743x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Illustration Impasto Painting of Red and Orange Trees in a Landscape 1a0b4643|Illustration Impasto Painting of Red and Orange Trees in a Landscape]] — shared language: trees, orange
 - [[knowledge/wiki/images/Illustration Long Reflecting Pool With Trees Under Gradient Sky 9c6f4503|Illustration Long Reflecting Pool With Trees Under Gradient Sky]] — shared language: pool, trees
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people
 - [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people
 - [[knowledge/wiki/images/Portrait of an Artist (Pool with Two Figures) by David Hockney (1972) 6145a625|Portrait of an Artist (Pool with Two Figures) by David Hockney (1972)]] — shared language: pool
 <!-- vault-crosslinks:end -->

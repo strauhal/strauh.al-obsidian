@@ -6,7 +6,7 @@ source_relpath: "2000s/The Fall of Icarus by Jacob Peter Gowy (c. 1637).jpg"
 collection: "2000s"
 inferred_year: "1637"
 artist: ""
-dimensions: "1280x1384"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

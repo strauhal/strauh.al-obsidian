@@ -6,7 +6,7 @@ source_relpath: "1800s/erik_werenskiold_a_funeral_1885.jpg"
 collection: "1800s"
 inferred_year: "1885"
 artist: ""
-dimensions: "4000x2713"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

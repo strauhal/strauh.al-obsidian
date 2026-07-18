@@ -6,7 +6,7 @@ source_relpath: "1800s/La Prière Sacerdotale by Eugène Burnand (1895–1918).j
 collection: "1800s"
 inferred_year: "1918"
 artist: ""
-dimensions: "3256x1662"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

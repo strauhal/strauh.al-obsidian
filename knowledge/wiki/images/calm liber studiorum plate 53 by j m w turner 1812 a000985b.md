@@ -6,7 +6,7 @@ source_relpath: "1800s/calm_liber_studiorum_plate_53_by_j_m_w_turner_1812.jpeg"
 collection: "1800s"
 inferred_year: "1812"
 artist: "j m w turner"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

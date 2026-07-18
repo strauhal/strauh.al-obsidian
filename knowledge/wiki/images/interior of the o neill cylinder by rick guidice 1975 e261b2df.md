@@ -6,7 +6,7 @@ source_relpath: "1900s/interior_of_the_o_neill_cylinder_by_rick_guidice_1975.jpg
 collection: "1900s"
 inferred_year: "1975"
 artist: "rick guidice"
-dimensions: "602x475"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

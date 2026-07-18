@@ -6,7 +6,7 @@ source_relpath: "1800s/Sir Alexander Morison by Richard Dadd (1852).jpg"
 collection: "1800s"
 inferred_year: "1852"
 artist: ""
-dimensions: "944x783"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

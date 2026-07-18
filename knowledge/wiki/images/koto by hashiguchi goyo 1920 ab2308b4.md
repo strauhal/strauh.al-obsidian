@@ -6,7 +6,7 @@ source_relpath: "1900s/koto_by_hashiguchi_goyo_1920.jpg"
 collection: "1900s"
 inferred_year: "1920"
 artist: "hashiguchi goyo"
-dimensions: "1406x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

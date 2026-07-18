@@ -6,7 +6,7 @@ source_relpath: "1800s/the_death_of_germanicus_by_pierre_narcisse_guerin_1810.jp
 collection: "1800s"
 inferred_year: "1810"
 artist: "pierre narcisse guerin"
-dimensions: "3051x2032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

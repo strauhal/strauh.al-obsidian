@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photograph of Frank Zappa Pointing 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "700x394"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "influences/charles_baudelaire.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "298x401"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

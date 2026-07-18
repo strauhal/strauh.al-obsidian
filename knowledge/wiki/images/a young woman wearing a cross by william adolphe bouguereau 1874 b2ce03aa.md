@@ -6,7 +6,7 @@ source_relpath: "1800s/a_young_woman_wearing_a_cross_by_william_adolphe_bouguere
 collection: "1800s"
 inferred_year: "1874"
 artist: "william adolphe bouguereau"
-dimensions: "1160x1718"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

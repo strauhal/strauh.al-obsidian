@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Modern Bedroom With City And River View
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1349x1685"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/charcoal_drawing_of_a_stepped_art_deco_skyscraper_at_nigh
 collection: "1900s"
 inferred_year: "1930"
 artist: ""
-dimensions: "1021x1860"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Cemetery With Angel Statue And Foggy Trees.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1024x819"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

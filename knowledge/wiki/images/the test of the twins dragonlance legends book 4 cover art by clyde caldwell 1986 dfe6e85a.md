@@ -6,7 +6,7 @@ source_relpath: "1900s/the_test_of_the_twins_dragonlance_legends_book_4_cover_ar
 collection: "1900s"
 inferred_year: "1986"
 artist: "clyde caldwell"
-dimensions: "1428x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_test_of_the_
 - [[knowledge/wiki/books/my-first-book-honor-levy|Honor Levy]] — shared language: book
 - [[knowledge/wiki/books/fernando-pessoa-the-book-of-disquiet|The Book of Disquiet]] — shared language: book
 - [[knowledge/wiki/images/Document Teal Book Cover With White And Orange Text 9ba2bba6|Document Teal Book Cover With White And Orange Text]] — shared language: cover, book
-- [[knowledge/wiki/books/pessoa-fernando-the-book-of-disquiet-penguin-classics|The Book of Disquiet (Penguin Classics)]] — shared language: book
+- [[knowledge/wiki/pages/cors test|cors test]] — shared language: test
 <!-- vault-crosslinks:end -->

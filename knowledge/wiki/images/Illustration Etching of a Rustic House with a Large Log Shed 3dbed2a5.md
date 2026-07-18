@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Etching of a Rustic House with a Large 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2000x811"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

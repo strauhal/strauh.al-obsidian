@@ -6,7 +6,7 @@ source_relpath: "photography/Tilted View of Chain-Link Fence, Paved Area, and Sk
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "669x880"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

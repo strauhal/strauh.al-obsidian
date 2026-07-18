@@ -6,7 +6,7 @@ source_relpath: "1800s/the_expulsion_from_paradise_by_gustave_dore_1866.png"
 collection: "1800s"
 inferred_year: "1866"
 artist: "gustave dore"
-dimensions: "391x604"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

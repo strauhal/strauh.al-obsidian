@@ -6,7 +6,7 @@ source_relpath: "photography/Man in Keffiyeh Playing Billiards.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "424x639"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

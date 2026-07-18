@@ -6,7 +6,7 @@ source_relpath: "1900s/john_brown_going_to_his_hanging_by_horace_pippin_1942.jpe
 collection: "1900s"
 inferred_year: "1942"
 artist: "horace pippin"
-dimensions: "5712x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/john_brown_going
 - [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: going
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: going
 - [[knowledge/wiki/artists/Artist - horace vernet|Artist - horace vernet]] — shared language: horace
-- [[knowledge/wiki/images/horace vernet prise de la tour de malakoff 1858 e4251de6|horace vernet prise de la tour de malakoff 1858]] — shared language: horace
+- [[knowledge/wiki/images/the well in the desert by horace vernet 1843 2982d2a3|the well in the desert by horace vernet 1843]] — shared language: horace
 <!-- vault-crosslinks:end -->

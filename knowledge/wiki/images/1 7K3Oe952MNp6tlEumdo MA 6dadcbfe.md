@@ -6,7 +6,7 @@ source_relpath: "artists/degas/1*7K3Oe952MNp6tlEumdo_MA.png"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "2000x1520"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black Wavy Lines on White Background.pn
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "640x480"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

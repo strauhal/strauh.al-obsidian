@@ -6,7 +6,7 @@ source_relpath: "1800s/caspar_david_friedrich_wanderer_above_the_sea_of_fog_1818
 collection: "1800s"
 inferred_year: "1818"
 artist: ""
-dimensions: "2343x3000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

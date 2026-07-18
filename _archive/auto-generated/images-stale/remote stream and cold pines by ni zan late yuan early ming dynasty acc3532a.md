@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/artists/Artist - ni zan|Artist - ni zan]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ni zan 1345|Artist - ni zan 1345]] — named in this note
-- [[knowledge/wiki/images/Remote Stream and Cold Pines by Ni Zan (late Yuan early Ming dynasty) 81e18892|Remote Stream and Cold Pines by Ni Zan (late Yuan early Ming dynasty)]] — shared language: yuan, remote, ming
+- [[knowledge/wiki/images/Remote Stream and Cold Pines by Ni Zan (late Yuan early Ming dynasty) 81e18892|Remote Stream and Cold Pines by Ni Zan (late Yuan early Ming dynasty)]] — shared language: yuan, ming, remote
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wang meng yuan dynasty|Artist - wang meng yuan dynasty]] — shared language: yuan, dynasty
-- [[knowledge/wiki/images/The Anastasis (late 15th early 16th century) 5ce02497|The Anastasis (late 15th early 16th century)]] — shared language: late, early
+- [[knowledge/archive/auto-generated/artists-stale/Artist - shang xi ming dynasty|Artist - shang xi ming dynasty]] — shared language: ming, dynasty
 <!-- vault-crosslinks:end -->

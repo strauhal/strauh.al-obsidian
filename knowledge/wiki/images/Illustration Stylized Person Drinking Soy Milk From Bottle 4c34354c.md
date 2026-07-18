@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Person Drinking Soy Milk From Bot
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "680x961"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

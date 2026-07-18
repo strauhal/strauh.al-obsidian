@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Blue and Green Human Head with
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "720x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

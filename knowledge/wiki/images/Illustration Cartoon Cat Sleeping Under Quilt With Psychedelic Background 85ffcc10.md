@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Cartoon Cat Sleeping Under Quilt With P
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "640x640"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Dream Chairs by Tadao Ando (2013).jpg"
 collection: "2000s"
 inferred_year: "2013"
 artist: ""
-dimensions: "1700x1134"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

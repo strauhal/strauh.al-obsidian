@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - TIME Magazine Cover with Computer Monitor a
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1748x2332"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - TI
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: monitor, computer, time
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video, time
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: video, time
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
+- [[knowledge/wiki/images/Document Pink Flowers And A Yellow Butterfly On A Magazine Cover eee78522|Document Pink Flowers And A Yellow Butterfly On A Magazine Cover]] — shared language: magazine, cover, document
 <!-- vault-crosslinks:end -->

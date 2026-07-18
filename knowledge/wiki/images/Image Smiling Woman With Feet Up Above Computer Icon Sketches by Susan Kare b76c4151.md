@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Smiling Woman With Feet Up Above Computer Icon Sk
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Susan Kare"
-dimensions: "1000x1336"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

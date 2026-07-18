@@ -6,7 +6,7 @@ source_relpath: "1900s/two_male_ballet_dancers_by_pablo_picasso_1925.jpeg"
 collection: "1900s"
 inferred_year: "1925"
 artist: "pablo picasso"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

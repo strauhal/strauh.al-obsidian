@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - NeXT Employment Offer Letter Signed by Stev
 collection: "unsorted"
 inferred_year: ""
 artist: "Steven Jobs by Steven Jobs"
-dimensions: "1077x1260"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

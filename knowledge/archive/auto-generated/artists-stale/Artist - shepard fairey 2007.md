@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - shepard fairey|Artist - shepard fairey]] — named in this note
 - [[_archive/auto-generated/images-stale/illustration of an orange and red chrysanthemum flower f09465f9|illustration of an orange and red chrysanthemum flower]] — shared language: flower
-- [[_archive/auto-generated/images-stale/blue flower painting with orange background 11a9245d|blue flower painting with orange background]] — shared language: flower
 - [[knowledge/wiki/images/Illustration Black and White Bone like Forms Radiating on Green Background a1693f7c|Illustration Black and White Bone like Forms Radiating on Green Background]] — shared language: bone
+- [[_archive/auto-generated/images-stale/blue flower painting with orange background 11a9245d|blue flower painting with orange background]] — shared language: flower
 - [[knowledge/wiki/images/Illustration Red Hibiscus Flower with Digital Data Overlay efc760f9|Illustration Red Hibiscus Flower with Digital Data Overlay]] — shared language: flower
 - [[_archive/auto-generated/images-stale/bison in a yellow flower field bbd57728|bison in a yellow flower field]] — shared language: flower
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "photography/Blue House with Lit Windows at Night.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1536x1920"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

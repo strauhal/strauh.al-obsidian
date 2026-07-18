@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Portrait of a Man with Glasses and a Bo
 collection: "unsorted"
 inferred_year: ""
 artist: "Philip Pearlstein"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

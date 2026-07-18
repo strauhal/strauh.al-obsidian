@@ -6,7 +6,7 @@ source_relpath: "photography/Fashion Model in Avant-Garde Outfit with Face Motif
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "428x700"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

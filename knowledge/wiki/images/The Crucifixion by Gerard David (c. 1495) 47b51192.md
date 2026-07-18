@@ -6,7 +6,7 @@ source_relpath: "1400s/The Crucifixion by Gerard David (c. 1495).jpg"
 collection: "1400s"
 inferred_year: "1495"
 artist: ""
-dimensions: "2722x4226"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

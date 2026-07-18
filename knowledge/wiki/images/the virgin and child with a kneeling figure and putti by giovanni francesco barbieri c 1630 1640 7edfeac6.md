@@ -6,7 +6,7 @@ source_relpath: "1600s/the_virgin_and_child_with_a_kneeling_figure_and_putti_by_
 collection: "1600s"
 inferred_year: "1640"
 artist: "giovanni francesco barbieri"
-dimensions: "381x512"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

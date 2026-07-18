@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Man in Lifeboat on Green Screen Water wit
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3360x2100"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

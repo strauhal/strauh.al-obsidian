@@ -6,7 +6,7 @@ source_relpath: "1800s/The Kiss by Edvard Munch (1897).jpg"
 collection: "1800s"
 inferred_year: "1897"
 artist: ""
-dimensions: "980x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

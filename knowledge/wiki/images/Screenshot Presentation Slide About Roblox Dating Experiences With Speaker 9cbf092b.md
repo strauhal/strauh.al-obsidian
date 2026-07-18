@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Presentation Slide About Roblox Dating Ex
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1010x1012"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 
 - [[knowledge/wiki/books/ai-dating|ai dating]] — named in this note
 - [[knowledge/wiki/images/Screenshot 3D Software Interface With Geometric Shapes And Speaker Icons 214e1818|Screenshot 3D Software Interface With Geometric Shapes And Speaker Icons]] — shared language: speaker, screenshot
-- [[knowledge/wiki/images/Screenshot Roblox Avatar Profile with Farewell Message 'My Cancer Won Guys' c5b089f5|Screenshot Roblox Avatar Profile with Farewell Message 'My Cancer Won Guys']] — shared language: roblox, screenshot
 - [[knowledge/wiki/images/Photograph Photograph of a Slide Showing Two Historical Corsets 9432622c|Photograph Photograph of a Slide Showing Two Historical Corsets]] — shared language: slide
+- [[knowledge/wiki/images/Screenshot Roblox Avatar Profile with Farewell Message 'My Cancer Won Guys' c5b089f5|Screenshot Roblox Avatar Profile with Farewell Message 'My Cancer Won Guys']] — shared language: roblox, screenshot
 - [[knowledge/wiki/images/Illustration Roblox Character Watches Comet Approach Floating Island With House 4281d38c|Illustration Roblox Character Watches Comet Approach Floating Island With House]] — shared language: roblox
 <!-- vault-crosslinks:end -->

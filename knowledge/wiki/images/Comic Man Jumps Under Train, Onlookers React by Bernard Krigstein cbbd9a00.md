@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Man Jumps Under Train, Onlookers React by Bern
 collection: "unsorted"
 inferred_year: ""
 artist: "Bernard Krigstein"
-dimensions: "472x649"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

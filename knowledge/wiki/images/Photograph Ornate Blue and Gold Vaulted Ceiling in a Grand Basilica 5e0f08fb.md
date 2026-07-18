@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Ornate Blue and Gold Vaulted Ceiling in a Gr
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2040x1360"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

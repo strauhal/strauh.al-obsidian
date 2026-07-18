@@ -6,7 +6,7 @@ source_relpath: "1700s/jacqueslouis_david_the_death_of_marat_1793.jpg"
 collection: "1700s"
 inferred_year: "1793"
 artist: ""
-dimensions: "4045x5205"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---
@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/jacqueslouis_dav
 
 - [[knowledge/wiki/images/jacqueslouis david the death of socrates 1787 418eb619|jacqueslouis david the death of socrates 1787]] — shared language: death, david
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: death
-- [[knowledge/wiki/images/the death of socrates by jacques louis david 1787 1fcb6c1c|the death of socrates by jacques louis david 1787]] — shared language: david, death
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: death
+- [[knowledge/wiki/images/the death of socrates by jacques louis david 1787 1fcb6c1c|the death of socrates by jacques louis david 1787]] — shared language: david, death
 - [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: death
 <!-- vault-crosslinks:end -->

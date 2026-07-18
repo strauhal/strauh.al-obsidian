@@ -6,7 +6,7 @@ source_relpath: "1900s/l_espace_du_monde_by_roberto_matta_1957.jpg"
 collection: "1900s"
 inferred_year: "1957"
 artist: "roberto matta"
-dimensions: "870x670"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

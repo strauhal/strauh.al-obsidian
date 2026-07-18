@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Vintage Illustration of an Orange Nastu
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "736x1167"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

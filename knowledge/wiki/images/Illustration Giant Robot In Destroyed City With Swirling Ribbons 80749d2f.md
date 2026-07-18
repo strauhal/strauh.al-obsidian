@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Giant Robot In Destroyed City With Swir
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2040x3072"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

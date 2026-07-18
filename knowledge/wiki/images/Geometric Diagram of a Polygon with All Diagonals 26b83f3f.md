@@ -6,7 +6,7 @@ source_relpath: "diagrams/Geometric_Diagram_of_a_Polygon_with_All_Diagonals.png"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "360x360"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

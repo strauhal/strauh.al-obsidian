@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - The Beastmaster by Renato Casaro.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Renato Casaro"
-dimensions: "1124x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

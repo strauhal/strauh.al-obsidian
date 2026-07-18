@@ -6,7 +6,7 @@ source_relpath: "photography/Rocket Launching With Fiery Exhaust Against Dark Sk
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "500x375"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

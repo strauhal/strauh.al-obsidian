@@ -6,7 +6,7 @@ source_relpath: "1400s/wolf_rehfeldt_ruth_overall_02_jpg_1440_jpeg.jpeg"
 collection: "1400s"
 inferred_year: "1440"
 artist: ""
-dimensions: "1069x1500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/seated_nude_with_crossed_legs_by_paula_modersohn_becker_1
 collection: "1900s"
 inferred_year: "1907"
 artist: "paula modersohn becker"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

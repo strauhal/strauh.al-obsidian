@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Reddit Post Discussing A Movie's Intentio
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1474x828"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

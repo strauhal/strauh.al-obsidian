@@ -17,6 +17,6 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: thinking
 - [[knowledge/wiki/books/james-williams-gilles-deleuzes-difference-and-repetition-a-critical-introduction-and-guide|Gilles Deleuzes Difference and Repetition A Critical Introduction and Guide]] — shared language: critical, philosophy
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: thinking
 <!-- vault-crosslinks:end -->

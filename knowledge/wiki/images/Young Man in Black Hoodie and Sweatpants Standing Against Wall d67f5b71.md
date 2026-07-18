@@ -6,7 +6,7 @@ source_relpath: "photography/Young Man in Black Hoodie and Sweatpants Standing A
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "3850x4900"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

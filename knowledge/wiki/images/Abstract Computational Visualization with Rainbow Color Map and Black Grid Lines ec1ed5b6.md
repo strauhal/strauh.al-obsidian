@@ -6,7 +6,7 @@ source_relpath: "diagrams/Abstract_Computational_Visualization_with_Rainbow_Colo
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "768x768"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

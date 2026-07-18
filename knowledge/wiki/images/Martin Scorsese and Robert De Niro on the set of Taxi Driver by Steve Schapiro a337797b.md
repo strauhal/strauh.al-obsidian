@@ -6,7 +6,7 @@ source_relpath: "photography/Martin Scorsese and Robert De Niro on the set of Ta
 collection: "photography"
 inferred_year: ""
 artist: "Steve Schapiro"
-dimensions: "1012x1012"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Woman in Blue by Edmund C. Tarbell (1904).jpeg"
 collection: "1900s"
 inferred_year: "1904"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

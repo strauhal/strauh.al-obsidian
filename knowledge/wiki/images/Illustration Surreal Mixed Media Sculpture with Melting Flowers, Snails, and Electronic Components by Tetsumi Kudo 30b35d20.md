@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Surreal Mixed-Media Sculpture with Melt
 collection: "unsorted"
 inferred_year: ""
 artist: "Tetsumi Kudo"
-dimensions: "2400x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

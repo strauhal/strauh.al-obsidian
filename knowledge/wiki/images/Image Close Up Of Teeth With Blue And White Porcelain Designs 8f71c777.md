@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Close-Up Of Teeth With Blue And White Porcelain D
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "673x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Close-Up
 - [[knowledge/wiki/images/Illustration Line Drawing of Artist Painting Abstract and Floral Designs with Text 07310c9d|Illustration Line Drawing of Artist Painting Abstract and Floral Designs with Text]] — shared language: designs
 - [[knowledge/wiki/images/Illustration Abstract Red and Black Screaming Face with White Teeth e9e0621a|Illustration Abstract Red and Black Screaming Face with White Teeth]] — shared language: teeth
 - [[knowledge/wiki/images/Illustration Stylized Red and Blue Face with Yellow Eyes and Teeth 473a1c03|Illustration Stylized Red and Blue Face with Yellow Eyes and Teeth]] — shared language: teeth
-- [[knowledge/wiki/images/Blue Teeth by Uno Moralez (2010) a864d031|Blue Teeth by Uno Moralez (2010)]] — shared language: teeth
+- [[knowledge/private/fanmail/threads/33-self-portrait-of-me-brushing-my-teeth|Private Correspondence - 33 - Self Portrait of me brushing my teeth]] — shared language: teeth
 <!-- vault-crosslinks:end -->

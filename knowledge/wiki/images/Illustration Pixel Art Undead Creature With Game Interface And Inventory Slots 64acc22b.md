@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pixel Art Undead Creature With Game Interf
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "770x1068"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

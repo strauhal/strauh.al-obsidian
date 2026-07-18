@@ -25,7 +25,7 @@ The Hunter's Belt is famous for its three bright stars.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/failed-intelligence-tests/Constellation - Ursa Major|Constellation - Ursa Major]] — shared language: stars, archived, gemma
+- [[_archive/failed-intelligence-tests/Constellation - Ursa Major|Constellation - Ursa Major]] — shared language: stars, gemma, interpreted
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: vault, bright
 - [[knowledge/archive/auto-generated/artists-stale/Artist - stars|Artist - Stars]] — shared language: stars
 - [[knowledge/wiki/artists/Artist - Stars|Artist - Stars]] — shared language: stars

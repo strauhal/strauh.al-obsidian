@@ -6,7 +6,7 @@ source_relpath: "1900s/the_workshop_of_jerry_cornelius_by_moebius_1981.jpg"
 collection: "1900s"
 inferred_year: "1981"
 artist: "moebius"
-dimensions: "1500x2100"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

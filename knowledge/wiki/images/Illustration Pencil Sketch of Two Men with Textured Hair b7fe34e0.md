@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pencil Sketch of Two Men with Textured Hai
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2516x3476"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

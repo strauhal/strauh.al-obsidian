@@ -6,7 +6,7 @@ source_relpath: "1900s/the_by_herb_lubalin_1974.jpg"
 collection: "1900s"
 inferred_year: "1974"
 artist: "herb lubalin"
-dimensions: "900x1186"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

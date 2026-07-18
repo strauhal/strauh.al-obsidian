@@ -6,7 +6,7 @@ source_relpath: "photography/Coastal City Before and After Destruction, Composit
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1179x1522"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

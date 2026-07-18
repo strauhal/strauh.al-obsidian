@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Illustrating_ControlNet_Conditioning_Inputs_An
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1200x675"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1500s/sistine_chapel_ceiling_fresco_detail_showing_lunettes_spa
 collection: "1500s"
 inferred_year: "1500s"
 artist: "michelangelo buonarroti 15081512"
-dimensions: "10116x3658"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

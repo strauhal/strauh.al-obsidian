@@ -6,7 +6,7 @@ source_relpath: "1500s/pieter_bruegel_the_elder_the_procession_to_calvary_1564.j
 collection: "1500s"
 inferred_year: "1564"
 artist: ""
-dimensions: "3000x2178"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

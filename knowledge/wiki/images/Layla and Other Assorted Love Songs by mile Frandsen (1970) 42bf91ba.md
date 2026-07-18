@@ -6,7 +6,7 @@ source_relpath: "2000s/Layla and Other Assorted Love Songs by Émile Frandsen (1
 collection: "2000s"
 inferred_year: "1970"
 artist: ""
-dimensions: "1000x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Layla and Other 
 - [[knowledge/wiki/images/La Jeune Fille au Bouquet by Emile Frandsen (1970) 304f55e9|La Jeune Fille au Bouquet by Emile Frandsen (1970)]] — shared language: frandsen
 - [[knowledge/wiki/books/mile-zola-elinor-dorday-robert-lethbridge-la-d-b-cle-reissue-oxford-world-s-classics|La Débâcle (reissue) (Oxford World's Classics)]] — shared language: mile
 - [[knowledge/wiki/books/french-modernist-library-andr-breton-mary-ann-caws-mad-love|Mad Love]] — shared language: love
-- [[knowledge/wiki/images/Illustration Cartoon Couple Expressing Love For Their Spouses f59223a8|Illustration Cartoon Couple Expressing Love For Their Spouses]] — shared language: love
 - [[knowledge/wiki/books/basho-matsuo-lucien-stryk-on-love-and-barley-haiku-of-basho-penguin-classics|On Love and Barley Haiku of Basho (Penguin Classics)]] — shared language: love
+- [[knowledge/wiki/images/Illustration Cartoon Couple Expressing Love For Their Spouses f59223a8|Illustration Cartoon Couple Expressing Love For Their Spouses]] — shared language: love
 <!-- vault-crosslinks:end -->

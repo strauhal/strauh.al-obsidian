@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Painting of a Fiery Human Figu
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "731x912"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

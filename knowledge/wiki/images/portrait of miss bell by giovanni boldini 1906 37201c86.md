@@ -6,7 +6,7 @@ source_relpath: "1900s/portrait_of_miss_bell_by_giovanni_boldini_1906.jpeg"
 collection: "1900s"
 inferred_year: "1906"
 artist: "giovanni boldini"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

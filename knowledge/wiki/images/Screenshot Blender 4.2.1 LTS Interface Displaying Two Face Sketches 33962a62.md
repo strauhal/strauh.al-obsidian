@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Blender 4.2.1 LTS Interface Displaying Tw
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3000x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

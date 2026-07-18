@@ -6,7 +6,7 @@ source_relpath: "diagrams/AI_Image_Transformation:_Man_on_Horse_to_Zebra-Striped
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1389x1041"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

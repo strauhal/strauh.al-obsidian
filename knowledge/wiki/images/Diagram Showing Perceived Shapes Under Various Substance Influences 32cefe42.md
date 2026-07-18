@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Showing_Perceived_Shapes_Under_Various_Substan
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "500x628"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

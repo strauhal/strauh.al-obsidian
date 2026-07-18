@@ -6,7 +6,7 @@ source_relpath: "photography/Close-Up Of A Blue Human Iris And Pupil.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "500x500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

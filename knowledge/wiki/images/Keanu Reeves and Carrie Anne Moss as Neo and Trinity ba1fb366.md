@@ -6,7 +6,7 @@ source_relpath: "photography/Keanu Reeves and Carrie-Anne Moss as Neo and Trinit
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "750x750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

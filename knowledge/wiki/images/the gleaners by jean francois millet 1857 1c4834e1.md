@@ -6,7 +6,7 @@ source_relpath: "1800s/the_gleaners_by_jean_francois_millet_1857.jpg"
 collection: "1800s"
 inferred_year: "1857"
 artist: "jean francois millet"
-dimensions: "4101x2463"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

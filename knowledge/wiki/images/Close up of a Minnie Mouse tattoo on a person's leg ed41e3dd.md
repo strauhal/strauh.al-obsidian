@@ -6,7 +6,7 @@ source_relpath: "photography/Close-up of a Minnie Mouse tattoo on a person's leg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1110x1965"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

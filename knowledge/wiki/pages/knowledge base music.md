@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/music.html"
 source_relpath: "knowledge_base/music.html"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:40"
+compiled_at: "2026-07-18T00:07:16"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base music
@@ -500,6 +500,98 @@ strauh.al/knowledge_base/music
 [gilgongo records](http://www.gilgongorecords.com/)
 [the 7 most expensive albums of all time](https://www.kennysmusic.co.uk/news/the-7-most-expensive-albums-ever/)
 
+## music resources & listening culture
+
+[https://scaruffi.com](https://scaruffi.com/)
+[Kanye Gave Twitter an Exclusive Hit Single | The New Yorker](https://www.newyorker.com/culture/the-lede/kanye-gave-twitter-an-exclusive-hit-single)
+[everyone wants to be a DJ, no one wants to dance](https://danioffline.substack.com/p/everyone-wants-to-be-a-dj-no-one?r=1q6qmt&utm_medium=ios&triedRedirect=true)
+[Why people are buying iPods again](https://www.axios.com/2026/02/21/ipods-music-genz-nostalgia)
+[Wired headphone sales are exploding. What's with the Bluetooth backlash?](https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth)
+
+## ai & music
+
+[The composer still making music four years after his death – thanks to an artificial brain | Art | The Guardian](https://www.theguardian.com/artanddesign/2025/apr/09/alvin-lucier-dead-composer-making-music-ai-artificial-intelligence-brain)
+['Put our foot down': Bay Area music venue bans troubling trend](https://www.sfgate.com/sf-culture/article/bay-area-music-venue-bans-ai-21045398.php)
+[When your favorite band’s new song is an AI fake : NPR](https://www.npr.org/2025/10/27/nx-s1-5587852/spotify-ai-music-fakes)
+[AI-generated music won't go away. Go start a band in your garage.](https://sophiecatblake.substack.com/p/ai-generated-music-wont-go-away)
+[The future of country music is here, and it’s AI | The Verge](https://www.theverge.com/ai-artificial-intelligence/829964/country-music-ai)
+[AI Music Is Here to Stay. How Do We Reckon With It? | Pitchfork](https://pitchfork.com/thepitch/unpacking-bandcamps-ai-music-ban/)
+[Suno snatched millions of songs from YouTube, Genius, and Deezer | The Verge](https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack)
+
+## music & sound — additional bookmarks
+
+[studentsofdecay.com](https://studentsofdecay.com/)
+[HOS (Hearts of Space)](https://v4.hos.com/home)
+[mastering.studio by Plugin Alliance](https://www.mastering.studio/)
+[Diamond gazers | Pop and rock | The Guardian](https://www.theguardian.com/music/2007/jul/27/popandrock)
+[Half-Asian American Women in the Music Industry: Finding Familiarity With Mitski and Japanese Breakfast — voices](https://swarthmorevoices.com/content-1/2022/1/30/half-asian-american-women-in-the-music-industry-finding-familiarity-among-mitski-and-japanese-breakfast)
+[Meet the anonymous artist behind Aphex Twin’s insane visuals | Dazed](https://www.dazeddigital.com/music/article/37384/1/weirdcore-aphex-twin-mia-visuals-interview)
+[Car Seat Headrest’s Will Toledo Opens Up About Being A Furry](https://www.stereogum.com/2190257/car-seat-headrests-will-toledo-opens-up-about-being-a-furry/news/?fbclid=IwAR2LkAwnLQrk0_IYq1Hr9Rlm-PQML2VlayJsifITbNtKKHanRAapTvGhm6w)
+[快楽逃避 (Pleasure Escape) by John Duncan (Album, Field Recordings): Reviews, Ratings, Credits, Song list - Rate Your Music](https://rateyourmusic.com/release/album/john-duncan/%E5%BF%AB%E6%A5%BD%E9%80%83%E9%81%BF-pleasure-escape/)
+[How to Find Your Own Sound — Pro Audio Files](https://theproaudiofiles.com/finding-your-sound/)
+[Chapter 3 of Moondog: Viking of Sixth Avenue by Robert Scotto - The 3rd Page](https://www.emptymirrorbooks.com/thirdpage/moondogtest.html)
+[Post-Nightcore / Nightcore Revival - Rate Your Music](https://rateyourmusic.com/list/catgirlthyme/post-nightcore-nightcore-revival/)
+[UbuWeb Sound - David Cunningham](https://ubu.com/sound/cunningham_david.html)
+[Logic – LaDonda Lyrics | Genius Lyrics](https://genius.com/26087406)
+[The Political is Personal for Japan’s Xinlisupreme | Bandcamp Daily](https://daily.bandcamp.com/features/the-political-is-personal-for-japans-xinlisupreme)
+[An audio introduction to Pod Blotz - The Wire](https://www.thewire.co.uk/audio/tracks/an-audio-introduction-to-pod-blotz)
+[Geiger Counter – WMD](https://wmdevices.com/products/geiger-counter)
+[Panchiko: How a Mysterious Shoegaze Album Sparked an Global InterSearch - VICE](https://www.vice.com/en/article/akvjmb/panchiko-band-death-metal-cd)
+[100 Gecs: “People think we've staked our entire career on being ironic"](https://www.nme.com/features/music-interviews/100-gecs-interview-1000-gecs-and-the-tree-of-clues-charli-xcx-pc-music-minecraft-2705405)
+[See the 1995 Monolake step sequencer that inspired Ableton - CDM Create Digital Music](https://cdm.link/2016/02/see-the-1995-monolake-step-sequencer-that-inspired-ableton/)
+[15 Tips for Naming Sound Effects | Creative Field Recording](https://www.creativefieldrecording.com/2013/04/04/15-tips-for-naming-sound-effects/)
+[Balinese Musical Styles in Katsuhiro Otomo’s 1988 “Akira” | U-M LSA Center for Southeast Asian Studies (CSEAS)](https://ii.umich.edu/cseas/news-events/news/search-news/balinese-musical-styles.html)
+[Yoko Ono: The Stones Are Better Than The Beatles - Madhouse Magazine](https://www.madhousemagazine.com/yoko-ono-the-stones-are-better-than-the-beatles/)
+[‘Unknown Pleasures’: How Joy Division Created A Timeless Debut Album - Dig!](https://www.thisisdig.com/feature/unknown-pleasures-joy-division-album/)
+[Ambient Music Isn’t a Backdrop. It’s an Invitation to Suspend Time. - The New York Times](https://www.nytimes.com/2022/04/14/arts/music/ambient-music.html)
+[How 88Rising Raised the Bar for Asian Representation - PAPER](https://www.papermag.com/88rising-asian-representation-2638625195.html?rebelltitem=2#rebelltitem2)
+[Igloo Magazine :: Kid606 :: Down With The Scene (Ipecac)](https://igloomag.com/reviews/kid606-down-with-the-scene-ipecac)
+[Kiss My White Techno Ass](https://www.vice.com/en/article/kwzdba/p063-kiss-my-white-techno-v7n6)
+[Experimental music notation resources - Process - lines](https://llllllll.co/t/experimental-music-notation-resources/149/55)
+[Thom Yorke In His Own Words: Radiohead Frontman's Best Quotes - Consequence](https://consequence.net/2013/10/thom-yorke-in-his-own-words-radiohead-frontmans-best-quotes/5/)
+[Vaporwave | Aesthetics Wiki | Fandom](https://aesthetics.fandom.com/wiki/Vaporwave)
+[The History of Rock Music. Arca: biography, discography, review, links](https://www.scaruffi.com/vol8/arca.html)
+[Celemony Melodyne | Sweetwater](https://www.sweetwater.com/celemony-melodyne/series)
+[The Troubled History Of Jim Morrison](https://www.grunge.com/209290/the-troubled-history-of-jim-morrison/)
+[Gerhard Behles and Robert Henke on Ableton](https://roberthenke.com/interviews/ableton.html)
+[Martha Argerich is a legend of the classical music world. But she doesn’t act like one. - The Washington Post](https://www.washingtonpost.com/entertainment/music/martha-argerich-is-a-legend-of-the-classical-music-world-but-she-doesnt-act-like-one/2016/12/01/117095b4-b104-11e6-be1c-8cec35b1ad25_story.html)
+[Julian Cope. Japrocksampler: BOOK TWO, Chapter 7](http://jrs.paullee.ru/jrsb2c7.htm)
+[What is "Multi-tap Delay"?](https://www.sweetwater.com/insync/multi-tap-delay/)
+[Class, Ideology, and il caso Scelsi on JSTOR](https://www.jstor.org/stable/25172832)
+[الموقع القديم - Home](https://www.aminsabry.com/)
+[George FitzGerald: Personal Stamp | Ableton](https://www.ableton.com/en/blog/george-fitzgerald-personal-stamp/?utm_source=2022-11-08-George-Fitzgerald-Soft-Pink-Andrej-Sorotkin&utm_medium=email&utm_term=new-cust&utm_content=header&utm_campaign=editorial+newsletter&&sc_src=email_11674973&sc_lid=652553620&sc_uid=0REgF5zEXp&sc_llid=36130&sc_eh=176829da1bd681201)
+[9 Beet Stretch - Everything2.com](https://everything2.com/title/9+Beet+Stretch)
+[The History of Drone Music Culminates in 'Now That's What I Call Drone' - The Atlantic](https://www.theatlantic.com/technology/archive/2012/07/the-history-of-drone-music-culminates-in-now-thats-what-i-call-drone/260330/)
+[~oO X e n Oo~](http://www.jessekanda.com/arca1000000/)
+[ã‚ æ—¥ è¨˜](http://www.jessekanda.com/anikki/)
+[jesse kanda short films and other work](https://www.designboom.com/design/jesse-kanda-short-films-and-other-work/)
+[Jesse Kanda](http://www.jessekanda.com/wakingfromacoma.html)
+[User Preferences: Tech Q&A With Visual Artist Jesse Kanda](https://www.vice.com/en/article/pgz97y/user-preferences-tech-qa-with-visual-artist-jesse-kanda)
+[How did Cher’s “Believe” come to be the first pop song to use Auto-Tune? | The Ethan Hein Blog](http://www.ethanhein.com/wp/2012/how-did-chers-believe-come-to-be-the-first-pop-song-to-use-auto-tune/)
+[PitchLoop89 by Robert Henke](https://www.roberthenke.com/technology/pitchloop89.html)
+[The Web Export Target | Cycling '74](https://rnbo.cycling74.com/learn/the-web-export-target)
+[ayrtbh](https://sequencer.wtf/ayrtbh/)
+[Yung Lean on his world, where he does what the fuck he wants | Dazed](https://www.dazeddigital.com/music/article/31945/1/yung-lean-on-his-world-where-they-do-what-the-fuck-they-want)
+[Azealia Banks’ most outrageous moments, from digging up and cooking dead cat to slaughtering chickens and fiery feuds – The Sun | The Sun](https://www.thesun.co.uk/tvandshowbiz/7458752/azealia-banks-dead-cat-outrageous-moments/)
+[Azealia Banks Goes All 'Nude Beach A-Go-Go' With Ariel Pink | News | MTV](https://www.mtv.com/news/ksjqp1/azealia-banks-ariel-pink-nude-beach)
+[The 12 best Max for Live devices in 2021 | MusicTech](https://musictech.com/guides/buyers-guide/the-12-best-max-for-live-devices-in-2021/)
+[Riot in Lagos by Ryuichi Sakamoto — Hip Hop Electronic](https://www.hiphopelectronic.com/no-daw-its-old-school-bangers/electro-songs-ryuichi-sakamoto-riot-in-lagos)
+[°MILLE PLATEAUX](https://www.mille-plateaux.com/)
+[About | Mille-Plateaux](https://edition-mille-plateaux.com/)
+[Well-Known Composers Linked to Prague – Prague Guide](https://www.prague-guide.co.uk/well-known-composers-linked-to-prague/)
+[TouchDesigner & Ableton Live - The Interactive & Immersive HQ](https://interactiveimmersive.io/blog/integrations/controlling-ableton-from-touchdesigner/)
+[Celer](http://www.celer.jp/)
+[Heavier Than A Death In The Family: The Noisy World Of Les Rallizes Dénudés — Business & Arts](https://businessandarts.net/blog/heavier-than-a-death-in-the-family-the-noisy-world-of-les-rallizes-dnuds)
+[eb.TouchStrip Crossfader version 1.0 by dataf1ow on maxforlive.com](https://maxforlive.com/library/device/3335/eb-touchstrip-crossfader)
+[Discover 4 Blogs for Submitting Your Ambient Music for Review](https://juansanchezmusic.info/blog-news/blog/7202193/discover-4-blogs-for-submitting-your-ambient-music-for-review)
+[Aleksander Scriabin. MIDI (free download) & MIDI/ZIP](https://www.kunstderfuge.com/scriabin.htm)
+[The Tao of Bladee: Wisdom from the Drain Gang's Artist-in-Chief](https://www.highsnobiety.com/p/bladee-interview/)
+[Cowboy Ego Death | Suno](https://app.suno.ai/song/7094ab2e-e1b0-450f-9e21-021b28dcfa2c/)
+
+## ai music news
+
+[AI Drake just set an impossible legal trap for Google - The Verge](https://www.theverge.com/2023/4/19/23689879/ai-drake-song-google-youtube-fair-use)
+
 ## Related Local Pages
 
 - None yet
@@ -507,21 +599,33 @@ strauh.al/knowledge_base/music
 <!-- kb-links:start -->
 ## Connections
 
-*Every bookmark on this page wired to the ideas, people, and books it touches — 59 of 437 links connected (20 nodes).*
+*Every bookmark on this page wired to the ideas, people, and books it touches — 72 of 516 links connected (29 nodes).*
 
 **[[Tim Hecker]]** — [Tim Hecker - Biography - Amoeba Music](https://www.amoeba.com/tim-hecker/artist/59948/bio) · [Artist: Tim Hecker. Tim Hecker is strongly associated with... / by Nicholas Dunkley / Medium](https://nicholasdunkley.medium.com/artist-tim-hecker-11d006227b61) · [PRIMER: Tim Hecker - self-titled](https://www.self-titledmag.com/disco-from-reckless-record-execs-to-diamond-dave-samples-tim-hecker-tells-the-stories-behind-all-that-snap-crackle-pop-business/) · [Florian Hecker - Wikipedia](https://en.wikipedia.org/wiki/Florian_Hecker) · [primer: tim hecker](https://www.self-titledmag.com/disco-from-reckless-record-execs-to-diamond-dave-samples-tim-hecker-tells-the-stories-behind-all-that-snap-crackle-pop-business/) · [Tim Hecker Lyrics, Songs, and Albums / Genius](https://genius.com/artists/Tim-hecker) · [Tim Hecker Albums From Worst To Best](https://www.stereogum.com/1873977/tim-hecker-albums-from-worst-to-best/lists/) · [Tim Hecker: Anoyo Album Review / Pitchfork](https://pitchfork.com/reviews/albums/tim-hecker-anoyo/) · [KRANK 102 - Tim Hecker, "Harmony in Ultraviolet"](http://www.brainwashed.com/common/htdocs/discog/krank102.html) · [Tim Hecker Albums From Worst To Best](https://www.stereogum.com/1873977/tim-hecker-albums-from-worst-to-best/lists/) · [take cover: tim hecker: ravedeath, 1972](https://pitchfork.com/news/41245-take-cover-tim-hecker-ravedeath-1972/) · [Tim Hecker / Red Bull Music Academy](https://www.redbullmusicacademy.com/lectures/tim-hecker-lecture) · [Tim Hecker: ‘I make pagan music that dances on the ashes of a burnt church’ / Electronic music / The Guardian](https://www.theguardian.com/music/2016/apr/05/tim-hecker-sacred-music-ambient-electronica-4ad) · [Tim Hecker Talks <i>Ravedeath, 1972</i>](https://exclaim.ca/music/article/tim_hecker_talks_ravedeath_1972) · [Daniel Lopatin & Tim Hecker / Dazed](https://www.dazeddigital.com/music/article/15182/1/daniel-lopatin-tim-hecker) · [Tim Hecker 'Anoyo' Interview / SPIN](https://www.spin.com/2019/05/tim-hecker-anoyo-interview-left-field/) · [Tim Hecker: Mirages Album Review / Pitchfork](https://pitchfork.com/reviews/albums/3799-mirages/) · [Tim Hecker on his first score for The North Water — Composer Magazine](https://composer.spitfireaudio.com/en/articles/tim-hecker-on-his-first-score-for-the-north-water) · [Tim Hecker interview by Simon Hampson](https://www.cyclicdefrost.com/2007/03/tim-hecker-interview-by-simon-hampson/) · [Tim Hecker interview by Simon Hampson](https://www.cyclicdefrost.com/2007/03/tim-hecker-interview-by-simon-hampson/) · [Artist: Tim Hecker. Tim Hecker is strongly associated with... / by Nicholas Dunkley / Medium](https://nicholasdunkley.medium.com/artist-tim-hecker-11d006227b61)
 
-**[[The Internet as Confidant]]** — [Aphex Twin: All user18081971 Soundcloud Tracks : Aphex Twin : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/AphexTwinAllUser18081971SoundcloudTracks) · [How William Basinski's masterpiece, 'The Disintegration Loops', captured a world crumbling around us in slow motion](https://crackmagazine.net/article/long-reads/how-william-basinskis-masterpiece-the-disintegration-loops-captured-a-world-crumbling-around-us-in-slow-motion/) · [glitch (music) - wikipedia](https://en.wikipedia.org/wiki/Glitch_(music)) · [intelligent dance music mailing list](http://music.hyperreal.org/lists/idm/) · [idm archives](http://music.hyperreal.org/lists/idm/archives/) · [disgusting. : deathgrips](https://www.reddit.com/r/deathgrips/comments/c9x499/disgusting/) · [trying to understand dorian electra's politics](https://www.reddit.com/r/popheads/comments/d1sibg/trying_to_understand_dorian_electras_libertarian/) · [aphex twin '4' is about his brother](https://www.reddit.com/r/aphextwin/comments/7fl93p/4_is_about_richard_d_james_brother_his_parents/) · [the mitski / arca controversy](https://www.reddit.com/r/LetsTalkMusic/comments/geavft/the_mitski_arca_controversy_or_how_much_does_an/) · [/mu/: 4chan's best kept secret](https://pittnews.com/article/109829/arts-and-entertainment/music/mu-4chans-best-kept-secret/) · [interesting comment about the speaker in death grips video](https://www.reddit.com/r/deathgrips/comments/49506s/interesting_comment_about_the_speaker_in_the/) · [iama_a_hiphop_artist_on_the_verge_of_signing_a](https://www.reddit.com/r/IAmA/comments/gxe7j/iama_a_hiphop_artist_on_the_verge_of_signing_a/) · [Organic signal processing, or: How do I sound like Arca and Holly Herndon? : futurebeatproducers](https://www.reddit.com/r/futurebeatproducers/comments/3n6bci/organic_signal_processing_or_how_do_i_sound_like/) · [any ppooll / lloopp users on here?](https://www.muffwiggler.com/forum/viewtopic.php?t=18190) · [fennesz (muff wiggler)](https://www.muffwiggler.com/forum/viewtopic.php?t=1595) · [inside of the push 2 is filled with signatures](https://www.reddit.com/r/ableton/comments/5zs4rp/its_true_the_inside_of_the_push_2_is_filled_with/)
+**[[The Internet as Confidant]]** — [Aphex Twin: All user18081971 Soundcloud Tracks : Aphex Twin : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/AphexTwinAllUser18081971SoundcloudTracks) · [How William Basinski's masterpiece, 'The Disintegration Loops', captured a world crumbling around us in slow motion](https://crackmagazine.net/article/long-reads/how-william-basinskis-masterpiece-the-disintegration-loops-captured-a-world-crumbling-around-us-in-slow-motion/) · [glitch (music) - wikipedia](https://en.wikipedia.org/wiki/Glitch_(music)) · [intelligent dance music mailing list](http://music.hyperreal.org/lists/idm/) · [idm archives](http://music.hyperreal.org/lists/idm/archives/) · [disgusting. : deathgrips](https://www.reddit.com/r/deathgrips/comments/c9x499/disgusting/) · [trying to understand dorian electra's politics](https://www.reddit.com/r/popheads/comments/d1sibg/trying_to_understand_dorian_electras_libertarian/) · [aphex twin '4' is about his brother](https://www.reddit.com/r/aphextwin/comments/7fl93p/4_is_about_richard_d_james_brother_his_parents/) · [the mitski / arca controversy](https://www.reddit.com/r/LetsTalkMusic/comments/geavft/the_mitski_arca_controversy_or_how_much_does_an/) · [/mu/: 4chan's best kept secret](https://pittnews.com/article/109829/arts-and-entertainment/music/mu-4chans-best-kept-secret/) · [interesting comment about the speaker in death grips video](https://www.reddit.com/r/deathgrips/comments/49506s/interesting_comment_about_the_speaker_in_the/) · [iama_a_hiphop_artist_on_the_verge_of_signing_a](https://www.reddit.com/r/IAmA/comments/gxe7j/iama_a_hiphop_artist_on_the_verge_of_signing_a/) · [Organic signal processing, or: How do I sound like Arca and Holly Herndon? : futurebeatproducers](https://www.reddit.com/r/futurebeatproducers/comments/3n6bci/organic_signal_processing_or_how_do_i_sound_like/) · [any ppooll / lloopp users on here?](https://www.muffwiggler.com/forum/viewtopic.php?t=18190) · [fennesz (muff wiggler)](https://www.muffwiggler.com/forum/viewtopic.php?t=1595) · [inside of the push 2 is filled with signatures](https://www.reddit.com/r/ableton/comments/5zs4rp/its_true_the_inside_of_the_push_2_is_filled_with/) · [Vaporwave / Aesthetics Wiki / Fandom](https://aesthetics.fandom.com/wiki/Vaporwave) · [The Web Export Target / Cycling '74](https://rnbo.cycling74.com/learn/the-web-export-target)
 
-**[[Ryuichi Sakamoto]]** — [An introduction to Ryuichi Sakamoto in 10 records - The Vinyl Factory](https://thevinylfactory.com/features/the-many-faces-of-ryuichi-sakamoto-an-introduction/) · [ryuichi sakamoto: 'my great regret is not reconnecting with bowie'](https://www.theguardian.com/music/2018/feb/08/electronic-composer-ryuichi-sakamoto-my-great-regret-david-bowie) · [david bowie in conversation with ryuichi sakamoto](https://www.dazeddigital.com/music/article/51544/1/listen-to-david-bowie-in-conversation-with-ryuichi-sakamoto-on-nts) · [Ryuichi Sakamoto reflects on his unique time with David Bowie](https://www.factmag.com/2016/01/13/ryuichi-sakamoto-david-bowie/) · [Ryuichi Sakamoto reflects on his unique time with David Bowie](https://www.factmag.com/2016/01/13/ryuichi-sakamoto-david-bowie/)
+**[[Ryuichi Sakamoto]]** — [An introduction to Ryuichi Sakamoto in 10 records - The Vinyl Factory](https://thevinylfactory.com/features/the-many-faces-of-ryuichi-sakamoto-an-introduction/) · [ryuichi sakamoto: 'my great regret is not reconnecting with bowie'](https://www.theguardian.com/music/2018/feb/08/electronic-composer-ryuichi-sakamoto-my-great-regret-david-bowie) · [david bowie in conversation with ryuichi sakamoto](https://www.dazeddigital.com/music/article/51544/1/listen-to-david-bowie-in-conversation-with-ryuichi-sakamoto-on-nts) · [Ryuichi Sakamoto reflects on his unique time with David Bowie](https://www.factmag.com/2016/01/13/ryuichi-sakamoto-david-bowie/) · [Ryuichi Sakamoto reflects on his unique time with David Bowie](https://www.factmag.com/2016/01/13/ryuichi-sakamoto-david-bowie/) · [Riot in Lagos by Ryuichi Sakamoto — Hip Hop Electronic](https://www.hiphopelectronic.com/no-daw-its-old-school-bangers/electro-songs-ryuichi-sakamoto-riot-in-lagos)
 
 **[[Art Fills the God-Shaped Hole]]** — [the slow sublime and 9/11: william basinski](https://quod.lib.umich.edu/m/mp/9460447.0008.101/--slow-sublime-and-911-insecurity-and-fear-in-william?rgn=main;view=fulltext) · [Tim Hecker: ‘I make pagan music that dances on the ashes of a burnt church’ / Electronic music / The Guardian](https://www.theguardian.com/music/2016/apr/05/tim-hecker-sacred-music-ambient-electronica-4ad) · [Luke Slater opens up about the mind, body and soul of 'Plantae' - Inverted Audio](https://inverted-audio.com/feature/luke-slater-opens-up-about-the-mind-body-and-soul-of-plantae/)
 
 **[[Interpolating the Instruction Set]]** — [Organic signal processing, or: How do I sound like Arca and Holly Herndon? : futurebeatproducers](https://www.reddit.com/r/futurebeatproducers/comments/3n6bci/organic_signal_processing_or_how_do_i_sound_like/) · [GitHub - grame-cncm/faust: Functional programming language for signal processing and sound synthesis](https://github.com/grame-cncm/faust) · [GitHub - grame-cncm/faust: Functional programming language for signal processing and sound synthesis](https://github.com/grame-cncm/faust)
 
+**[[Post-Irony]]** — [Maybe The Real Treasure Was the Friends We Made Along the Way / Know Your Meme](https://knowyourmeme.com/memes/maybe-the-real-treasure-was-the-friends-we-made-along-the-way) · [100 Gecs: “People think we've staked our entire career on being ironic"](https://www.nme.com/features/music-interviews/100-gecs-interview-1000-gecs-and-the-tree-of-clues-charli-xcx-pc-music-minecraft-2705405) · [Vaporwave / Aesthetics Wiki / Fandom](https://aesthetics.fandom.com/wiki/Vaporwave)
+
 **[[Artist - philip glass]]** — [sol lewitt philip glass - Google Search](https://www.google.com/search?q=sol+lewitt+philip+glass&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjbxq39-uzuAhX3CTQIHa3CAd4Q_AUoAXoECBAQAw&biw=1440&bih=900) · [koyaanisqatsi by philip glass](https://rateyourmusic.com/release/album/philip-glass/koyaanisqatsi/)
 
+**[[Piero Scaruffi]]** — [avantgarde music (scaruffi)](https://www.scaruffi.com/avant/index.html) · [The History of Rock Music. Arca: biography, discography, review, links](https://www.scaruffi.com/vol8/arca.html)
+
 **[[Spontaneity and Elegance]]** — [holy minimalism - wikipedia](https://en.wikipedia.org/wiki/Holy_minimalism) · [Tutorial: LFO Tutorial 1: The Zen of the Silent Patch / Cycling '74](https://cycling74.com/tutorials/lfo-tutorial-1-the-zen-of-the-silent-patch)
+
+**[[Synesthesia]]** — [iama_a_hiphop_artist_on_the_verge_of_signing_a](https://www.reddit.com/r/IAmA/comments/gxe7j/iama_a_hiphop_artist_on_the_verge_of_signing_a/) · [Aleksander Scriabin. MIDI (free download) & MIDI/ZIP](https://www.kunstderfuge.com/scriabin.htm)
+
+**[[The Panel as Canvas]]** — [music of neon genesis evangelion](https://en.wikipedia.org/wiki/Music_of_Neon_Genesis_Evangelion) · [Balinese Musical Styles in Katsuhiro Otomo’s 1988 “Akira” / U-M LSA Center for Southeast Asian Studies (CSEAS)](https://ii.umich.edu/cseas/news-events/news/search-news/balinese-musical-styles.html)
+
+**[[AI Slop]]** — [AI-generated music won't go away. Go start a band in your garage.](https://sophiecatblake.substack.com/p/ai-generated-music-wont-go-away)
+
+**[[Alexander Scriabin]]** — [Aleksander Scriabin. MIDI (free download) & MIDI/ZIP](https://www.kunstderfuge.com/scriabin.htm)
 
 **[[Artist - Kazumoto Endo]]** — [While You Were Out by Kazumoto Endo (Album, Harsh Noise): Reviews, Ratings, Credits, Song list - Rate Your Music](https://rateyourmusic.com/release/album/kazumoto_endo/while_you_were_out/)
 
@@ -529,25 +633,31 @@ strauh.al/knowledge_base/music
 
 **[[Artist - Security]]** — [the slow sublime and 9/11: william basinski](https://quod.lib.umich.edu/m/mp/9460447.0008.101/--slow-sublime-and-911-insecurity-and-fear-in-william?rgn=main;view=fulltext)
 
+**[[Artist - Xinlisupreme]]** — [The Political is Personal for Japan’s Xinlisupreme / Bandcamp Daily](https://daily.bandcamp.com/features/the-political-is-personal-for-japans-xinlisupreme)
+
+**[[Artist - katsuhiro otomo]]** — [Balinese Musical Styles in Katsuhiro Otomo’s 1988 “Akira” / U-M LSA Center for Southeast Asian Studies (CSEAS)](https://ii.umich.edu/cseas/news-events/news/search-news/balinese-musical-styles.html)
+
 **[[Artist - sol lewitt]]** — [sol lewitt philip glass - Google Search](https://www.google.com/search?q=sol+lewitt+philip+glass&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjbxq39-uzuAhX3CTQIHa3CAd4Q_AUoAXoECBAQAw&biw=1440&bih=900)
 
 **[[Dead Architecture]]** — [the music of architecture—how revolutionary was iannis xenakis?](https://newmindseye.wordpress.com/the-music-of-architecture-how-revolutionary-was-iannis-xenakis/)
 
 **[[Human-Machine Tug of War]]** — [andré 3000 and squarepusher collaboration](https://www.theguardian.com/music/2010/oct/11/andre-3000-squarepusher)
 
-**[[Piero Scaruffi]]** — [avantgarde music (scaruffi)](https://www.scaruffi.com/avant/index.html)
+**[[Martha Argerich]]** — [Martha Argerich is a legend of the classical music world. But she doesn’t act like one. - The Washington Post](https://www.washingtonpost.com/entertainment/music/martha-argerich-is-a-legend-of-the-classical-music-world-but-she-doesnt-act-like-one/2016/12/01/117095b4-b104-11e6-be1c-8cec35b1ad25_story.html)
+
+**[[Memory and Preservation]]** — [Why people are buying iPods again](https://www.axios.com/2026/02/21/ipods-music-genz-nostalgia)
 
 **[[Playboi Carti]]** — [why rap needs playboi carti](https://www.complex.com/music/2020/12/why-rap-needs-playboi-carti)
 
-**[[Post-Irony]]** — [Maybe The Real Treasure Was the Friends We Made Along the Way / Know Your Meme](https://knowyourmeme.com/memes/maybe-the-real-treasure-was-the-friends-we-made-along-the-way)
-
-**[[Synesthesia]]** — [iama_a_hiphop_artist_on_the_verge_of_signing_a](https://www.reddit.com/r/IAmA/comments/gxe7j/iama_a_hiphop_artist_on_the_verge_of_signing_a/)
-
-**[[The Panel as Canvas]]** — [music of neon genesis evangelion](https://en.wikipedia.org/wiki/Music_of_Neon_Genesis_Evangelion)
+**[[The Atlantic]]** — [The History of Drone Music Culminates in 'Now That's What I Call Drone' - The Atlantic](https://www.theatlantic.com/technology/archive/2012/07/the-history-of-drone-music-culminates-in-now-thats-what-i-call-drone/260330/)
 
 **[[The Spatial Web]]** — [How William Basinski's masterpiece, 'The Disintegration Loops', captured a world crumbling around us in slow motion](https://crackmagazine.net/article/long-reads/how-william-basinskis-masterpiece-the-disintegration-loops-captured-a-world-crumbling-around-us-in-slow-motion/)
 
+**[[The Tedium of the Art Is the Goal]]** — [Experimental music notation resources - Process - lines](https://llllllll.co/t/experimental-music-notation-resources/149/55)
+
 **[[Timbre as a Structural Device in Compositions]]** — [hku: timbre as a structural device in compositions](http://hub.hku.hk/handle/10722/241257)
+
+**[[Transmitting My Neural Signals by Hand]]** — [Experimental music notation resources - Process - lines](https://llllllll.co/t/experimental-music-notation-resources/149/55)
 
 <!-- kb-links:end -->
 

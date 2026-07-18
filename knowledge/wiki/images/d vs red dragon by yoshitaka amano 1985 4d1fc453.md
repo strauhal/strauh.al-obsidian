@@ -6,7 +6,7 @@ source_relpath: "1900s/d_vs_red_dragon_by_yoshitaka_amano_1985.jpg"
 collection: "1900s"
 inferred_year: "1985"
 artist: "yoshitaka amano"
-dimensions: "1126x1330"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

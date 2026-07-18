@@ -6,7 +6,7 @@ source_relpath: "1900s/1931_571_ballet_dancers_jpg.jpg"
 collection: "1900s"
 inferred_year: "1931"
 artist: ""
-dimensions: "2229x2250"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

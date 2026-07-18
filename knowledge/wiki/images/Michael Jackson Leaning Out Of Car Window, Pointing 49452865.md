@@ -6,7 +6,7 @@ source_relpath: "photography/Michael Jackson Leaning Out Of Car Window, Pointing
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "599x443"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

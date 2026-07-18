@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Black and White Newspaper Clipping with Moo
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1536x768"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

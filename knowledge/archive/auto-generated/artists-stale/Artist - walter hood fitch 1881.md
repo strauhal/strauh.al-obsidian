@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chris hood 2020|Artist - chris hood 2020]] — shared language: hood
 - [[knowledge/wiki/anchors/robert-hood|Robert Hood]] — shared language: hood
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: walter
-- [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: walter
+- [[knowledge/wiki/artists/Artist - walter gay|Artist - walter gay]] — shared language: walter
 <!-- vault-crosslinks:end -->

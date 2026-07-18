@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Merman-like Figure Blowing Horn Under S
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1055x1606"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

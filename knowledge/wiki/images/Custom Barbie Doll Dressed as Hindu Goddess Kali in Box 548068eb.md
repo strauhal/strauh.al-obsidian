@@ -6,7 +6,7 @@ source_relpath: "photography/Custom Barbie Doll Dressed as Hindu Goddess Kali in
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1000x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

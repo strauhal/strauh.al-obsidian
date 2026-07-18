@@ -6,7 +6,7 @@ source_relpath: "photography/Utility Pole Densely Covered In Staples And Nails O
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1944"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Salary_Needed_To_Buy_A_Home_In_50_Largest_U.S._Cities_
 collection: "diagrams"
 inferred_year: ""
 artist: "Visual Capitalist"
-dimensions: "1200x1575"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

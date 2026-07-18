@@ -6,7 +6,7 @@ source_relpath: "photography/Man in Suit Standing by Large Rocket Engines.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: "Large Rocket Engines"
-dimensions: "1649x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

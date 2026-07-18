@@ -6,7 +6,7 @@ source_relpath: "1900s/Hoover Dam by William Smerchek (1940).jpeg"
 collection: "1900s"
 inferred_year: "1940"
 artist: ""
-dimensions: "1400x1714"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Architectural_Lineage_Diagram_Showing_Mentor-Protégé
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1440x1800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

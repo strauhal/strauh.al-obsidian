@@ -6,7 +6,7 @@ source_relpath: "1900s/gardens_of_the_moon_book_cover_by_chris_moore_1999.jpg"
 collection: "1900s"
 inferred_year: "1999"
 artist: "chris moore"
-dimensions: "1600x935"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_lovers_by_andrew_wyeth_1981.jpg"
 collection: "1900s"
 inferred_year: "1981"
 artist: "andrew wyeth"
-dimensions: "958x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

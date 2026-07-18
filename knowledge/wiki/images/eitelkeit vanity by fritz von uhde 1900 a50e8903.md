@@ -6,7 +6,7 @@ source_relpath: "1900s/eitelkeit_vanity_by_fritz_von_uhde_1900.jpg"
 collection: "1900s"
 inferred_year: "1900"
 artist: "fritz von uhde"
-dimensions: "1905x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

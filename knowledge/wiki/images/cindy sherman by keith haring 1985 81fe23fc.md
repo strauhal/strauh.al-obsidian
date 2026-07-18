@@ -6,7 +6,7 @@ source_relpath: "1900s/cindy_sherman_by_keith_haring_1985.jpg"
 collection: "1900s"
 inferred_year: "1985"
 artist: "keith haring"
-dimensions: "907x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

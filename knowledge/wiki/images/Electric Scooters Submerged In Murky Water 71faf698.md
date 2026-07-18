@@ -6,7 +6,7 @@ source_relpath: "photography/Electric Scooters Submerged In Murky Water.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "750x750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

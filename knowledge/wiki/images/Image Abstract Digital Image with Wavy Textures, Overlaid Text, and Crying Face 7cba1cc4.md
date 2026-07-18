@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Abstract Digital Image with Wavy Textures, Overla
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "800x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

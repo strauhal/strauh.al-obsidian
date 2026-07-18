@@ -6,7 +6,7 @@ source_relpath: "1900s/The Migration Series, Panel 40: The migrants arrived in C
 collection: "1900s"
 inferred_year: "1941"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

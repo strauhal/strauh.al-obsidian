@@ -6,7 +6,7 @@ source_relpath: "1900s/no_1_royal_red_and_blue_by_mark_rothko_1954.jpg"
 collection: "1900s"
 inferred_year: "1954"
 artist: "mark rothko"
-dimensions: "1536x1519"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

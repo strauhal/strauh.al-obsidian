@@ -6,7 +6,7 @@ source_relpath: "1900s/The Morning Visitor by Dino Buzzati (1963).jpg"
 collection: "1900s"
 inferred_year: "1963"
 artist: ""
-dimensions: "1230x1758"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

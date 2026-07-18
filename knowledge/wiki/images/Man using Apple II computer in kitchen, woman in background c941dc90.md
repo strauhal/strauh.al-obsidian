@@ -6,7 +6,7 @@ source_relpath: "photography/Man using Apple II computer in kitchen, woman in ba
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "700x1017"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

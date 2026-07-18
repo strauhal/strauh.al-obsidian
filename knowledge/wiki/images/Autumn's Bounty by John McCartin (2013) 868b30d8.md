@@ -6,7 +6,7 @@ source_relpath: "2000s/Autumn's Bounty by John McCartin (2013).png"
 collection: "2000s"
 inferred_year: "2013"
 artist: ""
-dimensions: "700x437"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

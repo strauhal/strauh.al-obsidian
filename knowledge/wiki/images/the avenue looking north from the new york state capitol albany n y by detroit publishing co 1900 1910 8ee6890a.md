@@ -6,7 +6,7 @@ source_relpath: "1900s/the_avenue_looking_north_from_the_new_york_state_capitol_
 collection: "1900s"
 inferred_year: "1910"
 artist: "detroit publishing co"
-dimensions: "1920x1031"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

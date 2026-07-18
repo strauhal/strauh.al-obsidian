@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Figures Embracing on a Couch, Styli
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "750x992"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

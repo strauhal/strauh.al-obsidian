@@ -6,7 +6,7 @@ source_relpath: "photography/Film Set With Large Green Screen And Crew.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x816"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

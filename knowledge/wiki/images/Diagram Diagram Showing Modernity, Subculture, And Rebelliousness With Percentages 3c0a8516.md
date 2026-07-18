@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Diagram Showing Modernity, Subculture, And Rebe
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3840x1920"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Facebook Post Announcing Dog Drawing Contest Winn
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "499x533"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Facebook
 - [[knowledge/wiki/images/Screenshot Two Facebook Profiles With Matching Kissing Photos e18ff721|Screenshot Two Facebook Profiles With Matching Kissing Photos]] — shared language: facebook
 - [[knowledge/wiki/images/Portrait of a Dog by Jonah Yano (2023) 4171a898|Portrait of a Dog by Jonah Yano (2023)]] — shared language: dog
 - [[knowledge/wiki/images/Illustration Colorful Illustration of Woman on White Horse with Dog 19e74511|Illustration Colorful Illustration of Woman on White Horse with Dog]] — shared language: dog
-- [[knowledge/wiki/images/Photograph Photograph of a Screen Displaying a Text Post and eBay Listing 17940cef|Photograph Photograph of a Screen Displaying a Text Post and eBay Listing]] — shared language: post
+- [[knowledge/wiki/images/Screenshot Screenshot of Social Media Post with Abstract Line Drawing 7b8adc36|Screenshot Screenshot of Social Media Post with Abstract Line Drawing]] — shared language: post
 <!-- vault-crosslinks:end -->

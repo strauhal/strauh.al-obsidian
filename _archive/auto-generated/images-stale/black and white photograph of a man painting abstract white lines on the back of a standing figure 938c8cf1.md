@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/not straight lines jpg 75de846e|not straight lines jpg]] — shared language: lines
 - [[knowledge/wiki/images/Illustration Charcoal Drawing of Standing Male Nude Figure From Back edcc625f|Illustration Charcoal Drawing of Standing Male Nude Figure From Back]] — shared language: back, standing
 - [[knowledge/wiki/images/Illustration Abstract Painting of a Standing Nude Figure 85c93770|Illustration Abstract Painting of a Standing Nude Figure]] — shared language: standing, figure.jpg
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: back
 - [[knowledge/wiki/images/Standing 3d0a82bd|Standing]] — shared language: standing
+- [[_archive/auto-generated/artists-noise/Artist - white lines on a black background|Artist - white lines on a black background]] — shared language: lines
 <!-- vault-crosslinks:end -->

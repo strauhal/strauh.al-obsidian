@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Gallery View of Ten Framed Minimalist Figure
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Gal
 - [[knowledge/wiki/images/Photograph Installation of Ten Framed Paintings of Stylized Figures d0802470|Photograph Installation of Ten Framed Paintings of Stylized Figures]] — shared language: ten, framed
 - [[knowledge/wiki/images/Photograph Installation View of Gallery with Black and White Patterned Artworks 6ca8f555|Photograph Installation View of Gallery with Black and White Patterned Artworks]] — shared language: gallery, view
 - [[knowledge/wiki/images/Person Viewing Framed Photograph In Gallery 9a1ff34f|Person Viewing Framed Photograph In Gallery]] — shared language: gallery, framed
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: drawings
+- [[knowledge/wiki/images/Photograph Ten Framed Black And White Rocky Landscapes With Neon Geometric Shapes 59448dfa|Photograph Ten Framed Black And White Rocky Landscapes With Neon Geometric Shapes]] — shared language: ten, framed
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "2000s/City Tours by Philippe Gandiol (2018).jpeg"
 collection: "2000s"
 inferred_year: "2018"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

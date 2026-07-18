@@ -7,8 +7,8 @@ status: queued
 queue_order: 24
 tags: [culture, music, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Mompou: Musica Callada

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of Wikipedia Page Showing Worl
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "947x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

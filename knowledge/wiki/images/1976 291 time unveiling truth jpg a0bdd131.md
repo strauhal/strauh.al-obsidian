@@ -6,7 +6,7 @@ source_relpath: "1900s/1976_291_time_unveiling_truth_jpg.jpg"
 collection: "1900s"
 inferred_year: "1976"
 artist: ""
-dimensions: "1381x2250"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

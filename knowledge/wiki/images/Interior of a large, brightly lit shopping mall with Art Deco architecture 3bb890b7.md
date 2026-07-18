@@ -6,7 +6,7 @@ source_relpath: "photography/Interior of a large, brightly lit shopping mall wit
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "965x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Interior o
 - [[knowledge/wiki/books/lit-wiki|lit wiki]] — shared language: lit
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting With Brightly Colored Polygons e2390b5a|Illustration Abstract Geometric Painting With Brightly Colored Polygons]] — shared language: brightly
 - [[knowledge/wiki/images/Illustration Two Abstract Paintings with Brightly Colored Geometric Shapes 831bc36f|Illustration Two Abstract Paintings with Brightly Colored Geometric Shapes]] — shared language: brightly
-- [[knowledge/wiki/images/Mall Entrance With Red Neon Lights And A Blue Sphere 26acd786|Mall Entrance With Red Neon Lights And A Blue Sphere]] — shared language: mall
+- [[knowledge/wiki/images/Illustration Grid of Hundreds of Small Abstract Brightly Colored Artworks 8c343ad7|Illustration Grid of Hundreds of Small Abstract Brightly Colored Artworks]] — shared language: brightly
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Oil Painting of Young Man with Dark Hai
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2401x3118"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

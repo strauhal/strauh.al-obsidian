@@ -6,7 +6,7 @@ source_relpath: "1500s/the_battle_of_issus_by_albrecht_altdorfer_1529.jpg"
 collection: "1500s"
 inferred_year: "1529"
 artist: "albrecht altdorfer"
-dimensions: "1280x1688"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

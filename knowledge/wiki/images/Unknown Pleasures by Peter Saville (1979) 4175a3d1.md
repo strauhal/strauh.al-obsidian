@@ -6,7 +6,7 @@ source_relpath: "2000s/Unknown Pleasures by Peter Saville (1979).webp"
 collection: "2000s"
 inferred_year: "1979"
 artist: ""
-dimensions: "1536x2004"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

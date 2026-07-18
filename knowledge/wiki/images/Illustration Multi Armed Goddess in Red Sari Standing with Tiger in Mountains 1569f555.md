@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Multi-Armed Goddess in Red Sari Standing w
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "420x639"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

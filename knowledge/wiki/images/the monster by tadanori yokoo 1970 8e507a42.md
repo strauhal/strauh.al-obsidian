@@ -6,7 +6,7 @@ source_relpath: "1900s/the_monster_by_tadanori_yokoo_1970.jpg"
 collection: "1900s"
 inferred_year: "1970"
 artist: "tadanori yokoo"
-dimensions: "1200x866"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

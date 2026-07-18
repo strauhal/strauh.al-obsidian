@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Grotesque Expressionist Ink Drawing of 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1290x1792"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

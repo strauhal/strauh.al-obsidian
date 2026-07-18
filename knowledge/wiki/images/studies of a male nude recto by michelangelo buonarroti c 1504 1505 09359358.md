@@ -6,7 +6,7 @@ source_relpath: "1500s/studies_of_a_male_nude_recto_by_michelangelo_buonarroti_c
 collection: "1500s"
 inferred_year: "1505"
 artist: "michelangelo buonarroti"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

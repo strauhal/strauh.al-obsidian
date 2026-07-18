@@ -6,7 +6,7 @@ source_relpath: "photography/Two Men Working On Large Map On Floor.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "960x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/andrew_wyeth_christinas_world_1948.jpg"
 collection: "1900s"
 inferred_year: "1948"
 artist: ""
-dimensions: "2000x1339"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

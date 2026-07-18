@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Street Scene With AI Ad And Person Sitting On Sidewalk dc50791b|Photograph Street Scene With AI Ad And Person Sitting On Sidewalk]] — shared language: sidewalk, sitting, scene
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, scene
-- [[knowledge/wiki/images/Screenshot Store Employees Process Transactions Manually With Paper Forms 92468e47|Screenshot Store Employees Process Transactions Manually With Paper Forms]] — shared language: employees
 - [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street
 - [[knowledge/wiki/images/Illustration Painting of a Sunny Street Scene with a Dark Car a56db2b3|Illustration Painting of a Sunny Street Scene with a Dark Car]] — shared language: scene, street
+- [[_archive/auto-generated/images-stale/framed city street scene with crowd and buildings 1c10003d|framed city street scene with crowd and buildings]] — shared language: scene, street
 <!-- vault-crosslinks:end -->

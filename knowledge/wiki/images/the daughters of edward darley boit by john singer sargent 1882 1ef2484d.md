@@ -6,7 +6,7 @@ source_relpath: "1800s/the_daughters_of_edward_darley_boit_by_john_singer_sargen
 collection: "1800s"
 inferred_year: "1882"
 artist: "john singer sargent"
-dimensions: "4284x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

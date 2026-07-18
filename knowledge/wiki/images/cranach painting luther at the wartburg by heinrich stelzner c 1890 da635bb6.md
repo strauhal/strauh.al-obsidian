@@ -6,7 +6,7 @@ source_relpath: "1800s/cranach_painting_luther_at_the_wartburg_by_heinrich_stelz
 collection: "1800s"
 inferred_year: "1890"
 artist: "heinrich stelzner"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

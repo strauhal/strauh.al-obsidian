@@ -6,7 +6,7 @@ source_relpath: "1900s/Portrait of a Young Woman with a Cat by Paula Modersohn-B
 collection: "1900s"
 inferred_year: "1903"
 artist: ""
-dimensions: "1638x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

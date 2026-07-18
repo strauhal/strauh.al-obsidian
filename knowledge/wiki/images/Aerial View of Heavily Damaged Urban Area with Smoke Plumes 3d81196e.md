@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of Heavily Damaged Urban Area with Smok
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "960x640"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

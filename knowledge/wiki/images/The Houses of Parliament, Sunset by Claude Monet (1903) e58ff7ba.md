@@ -6,7 +6,7 @@ source_relpath: "1900s/The Houses of Parliament, Sunset by Claude Monet (1903).j
 collection: "1900s"
 inferred_year: "1903"
 artist: ""
-dimensions: "2720x2389"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

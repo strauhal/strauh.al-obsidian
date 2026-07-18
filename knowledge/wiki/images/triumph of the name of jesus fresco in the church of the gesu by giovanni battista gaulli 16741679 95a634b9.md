@@ -6,7 +6,7 @@ source_relpath: "1600s/triumph_of_the_name_of_jesus_fresco_in_the_church_of_the_
 collection: "1600s"
 inferred_year: "1600s"
 artist: "giovanni battista gaulli 16741679"
-dimensions: "1009x1300"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

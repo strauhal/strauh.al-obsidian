@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: technical
 - [[_archive/auto-generated/images-stale/digital collage of a fragmented figure over computer code and interface elements 57ad1c7e|digital collage of a fragmented figure over computer code and interface elements]] — shared language: elements, collage, digital
-- [[_archive/auto-generated/images-stale/complex grayscale digital drawing featuring abstract mechanical and architectural elements displayed in the ms paint application d86b7304|complex grayscale digital drawing featuring abstract mechanical and architectural elements displayed in the ms paint application]] — shared language: elements, paint, digital
+- [[knowledge/wiki/images/Illustration Graphic Design Collage of Bj rk with Pixelated Elements fc4fb267|Illustration Graphic Design Collage of Bj rk with Pixelated Elements]] — shared language: elements, collage
 <!-- vault-crosslinks:end -->

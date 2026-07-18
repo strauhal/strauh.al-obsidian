@@ -6,7 +6,7 @@ source_relpath: "photography/Vibrant Rainbow-Colored Cloud Formation in Blue Sky
 collection: "photography"
 inferred_year: ""
 artist: "Christa Harbig"
-dimensions: "1440x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

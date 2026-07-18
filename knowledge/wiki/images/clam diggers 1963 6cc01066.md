@@ -6,7 +6,7 @@ source_relpath: "1900s/clam_diggers_1963.jpeg"
 collection: "1900s"
 inferred_year: "1963"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

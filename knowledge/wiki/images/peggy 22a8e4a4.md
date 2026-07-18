@@ -6,7 +6,7 @@ source_relpath: "pictures_of_musicians/peggy.jpg"
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: "1125x994"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---

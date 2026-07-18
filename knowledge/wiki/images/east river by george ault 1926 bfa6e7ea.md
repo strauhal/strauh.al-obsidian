@@ -6,7 +6,7 @@ source_relpath: "1900s/east_river_by_george_ault_1926.jpeg"
 collection: "1900s"
 inferred_year: "1926"
 artist: "george ault"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

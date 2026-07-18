@@ -6,7 +6,7 @@ source_relpath: "1800s/vincent_van_gogh_cafe_terrace_at_night_1888_jpg.jpg"
 collection: "1800s"
 inferred_year: "1888"
 artist: ""
-dimensions: "4926x6467"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

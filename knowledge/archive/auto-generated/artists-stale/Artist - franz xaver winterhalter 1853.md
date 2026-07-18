@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - franz xaver winterhalter|Artist - franz xaver winterhalter]] — named in this note
 - [[_archive/auto-generated/images-stale/franz marc 020 jpg 6709b237|franz marc 020 jpg]] — shared language: franz
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franz stuck 1891|Artist - franz stuck 1891]] — shared language: franz
-- [[knowledge/archive/auto-generated/artists-stale/Artist - franz hanfstaengl 1865|Artist - franz hanfstaengl 1865]] — shared language: franz
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franz stuck 1899|Artist - franz stuck 1899]] — shared language: franz
+- [[knowledge/archive/auto-generated/artists-stale/Artist - franz hanfstaengl 1865|Artist - franz hanfstaengl 1865]] — shared language: franz
 - [[knowledge/wiki/artists/Artist - franz stuck|Artist - franz stuck]] — shared language: franz
 <!-- vault-crosslinks:end -->

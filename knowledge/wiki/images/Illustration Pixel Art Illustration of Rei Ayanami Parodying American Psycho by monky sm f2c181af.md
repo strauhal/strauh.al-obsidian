@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pixel Art Illustration of Rei Ayanami P
 collection: "unsorted"
 inferred_year: ""
 artist: "monky sm"
-dimensions: "981x794"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

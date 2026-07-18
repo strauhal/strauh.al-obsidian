@@ -6,7 +6,7 @@ source_relpath: "1900s/salvador_dal_the_temptation_of_saint_anthony_1946.jpg"
 collection: "1900s"
 inferred_year: "1946"
 artist: ""
-dimensions: "1250x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

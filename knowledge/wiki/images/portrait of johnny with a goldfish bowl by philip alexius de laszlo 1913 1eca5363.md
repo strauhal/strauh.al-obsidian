@@ -6,7 +6,7 @@ source_relpath: "1900s/portrait_of_johnny_with_a_goldfish_bowl_by_philip_alexius
 collection: "1900s"
 inferred_year: "1913"
 artist: "philip alexius de laszlo"
-dimensions: "1541x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/masterworks_35_by_tom_wesselmann_1979.jpeg"
 collection: "1900s"
 inferred_year: "1979"
 artist: "tom wesselmann"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

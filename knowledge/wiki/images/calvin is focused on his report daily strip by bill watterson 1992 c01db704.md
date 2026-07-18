@@ -6,7 +6,7 @@ source_relpath: "1900s/calvin_is_focused_on_his_report_daily_strip_by_bill_watte
 collection: "1900s"
 inferred_year: "1992"
 artist: "bill watterson"
-dimensions: "766x245"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

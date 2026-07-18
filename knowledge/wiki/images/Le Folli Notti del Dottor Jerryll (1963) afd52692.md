@@ -6,7 +6,7 @@ source_relpath: "2000s/Le Folli Notti del Dottor Jerryll (1963).jpeg"
 collection: "2000s"
 inferred_year: "1963"
 artist: ""
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

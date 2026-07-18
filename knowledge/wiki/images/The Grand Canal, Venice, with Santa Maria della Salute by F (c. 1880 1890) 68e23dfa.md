@@ -6,7 +6,7 @@ source_relpath: "1800s/The Grand Canal, Venice, with Santa Maria della Salute by
 collection: "1800s"
 inferred_year: "1890"
 artist: ""
-dimensions: "1599x1272"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

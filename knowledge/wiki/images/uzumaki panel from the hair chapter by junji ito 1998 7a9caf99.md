@@ -6,7 +6,7 @@ source_relpath: "1900s/uzumaki_panel_from_the_hair_chapter_by_junji_ito_1998.jpe
 collection: "1900s"
 inferred_year: "1998"
 artist: "junji ito"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

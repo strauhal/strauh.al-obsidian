@@ -6,7 +6,7 @@ source_relpath: "diagrams/Popular_Exterior-Interior_Colors_Through_the_Decades.j
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "736x1472"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

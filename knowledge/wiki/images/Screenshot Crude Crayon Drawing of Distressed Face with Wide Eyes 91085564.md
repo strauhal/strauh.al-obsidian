@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Crude Crayon Drawing of Distressed Face with
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1366x768"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

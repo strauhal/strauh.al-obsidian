@@ -6,7 +6,7 @@ source_relpath: "computers/y2k aesthetic.jpg"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: "700x574"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---

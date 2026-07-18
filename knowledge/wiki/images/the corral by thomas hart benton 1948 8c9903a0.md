@@ -6,7 +6,7 @@ source_relpath: "1900s/the_corral_by_thomas_hart_benton_1948.jpeg"
 collection: "1900s"
 inferred_year: "1948"
 artist: "thomas hart benton"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

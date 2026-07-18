@@ -6,7 +6,7 @@ source_relpath: "1900s/Head VI by Francis Bacon (1949).jpg"
 collection: "1900s"
 inferred_year: "1949"
 artist: ""
-dimensions: "420x496"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

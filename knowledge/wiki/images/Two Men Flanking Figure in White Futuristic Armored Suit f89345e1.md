@@ -6,7 +6,7 @@ source_relpath: "photography/Two Men Flanking Figure in White Futuristic Armored
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1920x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Two Men Fl
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Armored Figure with Sword 2d2e4200|Illustration Black and White Sketch of Armored Figure with Sword]] — shared language: armored
 - [[knowledge/wiki/images/Illustration Oil Painting Portrait of a Man in a Dark Suit 7fe75fd9|Illustration Oil Painting Portrait of a Man in a Dark Suit]] — shared language: suit, suit.jpeg
 - [[knowledge/wiki/images/Illustration Woman in Red Bathing Suit on Pier with Men Swimming d8aba314|Illustration Woman in Red Bathing Suit on Pier with Men Swimming]] — shared language: suit, men
-- [[knowledge/wiki/images/Illustration Futuristic Landscape with Sleek Vehicles and Figures baf6d38f|Illustration Futuristic Landscape with Sleek Vehicles and Figures]] — shared language: futuristic
+- [[knowledge/wiki/images/Black And White Portrait Of A Seated Man In A Suit 3f78b4fd|Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "photography/Woman In Red Robe And Man In Black Jacket Sitting T
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "779x667"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

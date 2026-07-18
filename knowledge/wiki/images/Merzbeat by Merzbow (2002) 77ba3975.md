@@ -6,7 +6,7 @@ source_relpath: "2000s/Merzbeat by Merzbow (2002).jpeg"
 collection: "2000s"
 inferred_year: "2002"
 artist: ""
-dimensions: "500x500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

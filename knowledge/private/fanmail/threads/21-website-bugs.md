@@ -44,11 +44,11 @@ ernest
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/religious texts|religious texts]] — named in this note
+- [[knowledge/private/fanmail/threads/41-website-bugs|Private Correspondence - 41 - Website Bugs]] — same category: site-feedback
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — named in this note
 - [[knowledge/private/fanmail/threads/03-broken-link|Private Correspondence - 03 - Broken Link :)]] — same category: site-feedback
 - [[knowledge/private/fanmail/threads/05-changes-in-website|Private Correspondence - 05 - Changes in website]] — same category: site-feedback
+- [[knowledge/private/fanmail/threads/07-changes-in-website|Private Correspondence - 07 - Changes in website]] — same category: site-feedback
+- [[knowledge/private/fanmail/threads/05-broken-link|Private Correspondence - 05 - Broken Link :)]] — same category: site-feedback
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: website, bugs, incoming
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: incoming, private
-- [[knowledge/private/fanmail/threads/19-submission|Private Correspondence - 19 - Submission]] — shared language: private, direction, incoming
-- [[knowledge/private/fanmail/threads/08-drawing|Private Correspondence - 08 - drawing]] — shared language: private, direction, incoming
 <!-- vault-crosslinks:end -->

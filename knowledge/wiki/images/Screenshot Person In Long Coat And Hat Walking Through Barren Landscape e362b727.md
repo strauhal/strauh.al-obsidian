@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Person In Long Coat And Hat Walking Throu
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2880x1800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

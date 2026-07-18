@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Digital Art with Wavy Metallic
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1687x3000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

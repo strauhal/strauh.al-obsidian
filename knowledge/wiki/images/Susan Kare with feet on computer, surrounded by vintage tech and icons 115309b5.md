@@ -6,7 +6,7 @@ source_relpath: "photography/Susan Kare with feet on computer, surrounded by vin
 collection: "photography"
 inferred_year: ""
 artist: "vintage tech and icons"
-dimensions: "1080x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "old_photos/ernest_two.png"
 collection: "old_photos"
 inferred_year: ""
 artist: ""
-dimensions: "4716x6006"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/old_photos"]
 ---

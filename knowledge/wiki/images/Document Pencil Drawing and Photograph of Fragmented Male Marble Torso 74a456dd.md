@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Pencil Drawing and Photograph of Fragmented
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "4964x3508"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

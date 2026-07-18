@@ -7,8 +7,8 @@ status: queued
 queue_order: 26
 tags: [culture, reading, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Becoming Steve Jobs
@@ -36,6 +36,6 @@ This is an active book in Ernest's current cultural diet. Add dates, reactions, 
 - [[knowledge/wiki/images/Black and White Portrait of Steve Jobs on Apple Memorial Page 46f19871|Black and White Portrait of Steve Jobs on Apple Memorial Page]] — shared language: jobs, steve
 - [[knowledge/wiki/images/Photograph Young Steve Jobs Posing in a Tuxedo d2842eea|Photograph Young Steve Jobs Posing in a Tuxedo]] — shared language: jobs, steve
 - [[knowledge/wiki/images/Steve Jobs and John Sculley with the Macintosh b5c3b516|Steve Jobs and John Sculley with the Macintosh]] — shared language: jobs, steve
-- [[knowledge/wiki/images/Steve Jobs Posing with Macintosh Computers at Event dbdea80b|Steve Jobs Posing with Macintosh Computers at Event]] — shared language: jobs, steve
 - [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — shared language: becoming, current
+- [[knowledge/wiki/images/Steve Jobs Posing with Macintosh Computers at Event dbdea80b|Steve Jobs Posing with Macintosh Computers at Event]] — shared language: jobs, steve
 <!-- vault-crosslinks:end -->

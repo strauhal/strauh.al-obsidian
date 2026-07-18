@@ -6,7 +6,7 @@ source_relpath: "1500s/studies_of_the_muscles_of_the_shoulder_and_arm_by_leonard
 collection: "1500s"
 inferred_year: "1510"
 artist: "leonardo da vinci"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

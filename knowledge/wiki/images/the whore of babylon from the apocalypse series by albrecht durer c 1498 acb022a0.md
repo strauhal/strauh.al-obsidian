@@ -6,7 +6,7 @@ source_relpath: "1400s/the_whore_of_babylon_from_the_apocalypse_series_by_albrec
 collection: "1400s"
 inferred_year: "1498"
 artist: "albrecht durer"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

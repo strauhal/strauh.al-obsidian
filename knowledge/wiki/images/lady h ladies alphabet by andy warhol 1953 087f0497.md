@@ -6,7 +6,7 @@ source_relpath: "1900s/lady_h_ladies_alphabet_by_andy_warhol_1953.jpeg"
 collection: "1900s"
 inferred_year: "1953"
 artist: "andy warhol"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

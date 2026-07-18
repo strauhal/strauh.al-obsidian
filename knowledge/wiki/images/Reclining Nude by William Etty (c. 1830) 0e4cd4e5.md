@@ -6,7 +6,7 @@ source_relpath: "1800s/Reclining Nude by William Etty (c. 1830).jpg"
 collection: "1800s"
 inferred_year: "1830"
 artist: ""
-dimensions: "2048x1697"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

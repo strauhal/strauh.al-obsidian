@@ -6,7 +6,7 @@ source_relpath: "photography/Man With Bloody Mouth Holding Clear Sheet.webp"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "750x750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Man With B
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 - [[knowledge/wiki/images/Document Artist's Resume In Clear Sheet Protectors In Binder 733ceb35|Document Artist's Resume In Clear Sheet Protectors In Binder]] — shared language: clear, sheet
 - [[knowledge/wiki/images/Illustration Person Slumped Over Bloody Desk in Messy Room 87c5a868|Illustration Person Slumped Over Bloody Desk in Messy Room]] — shared language: bloody
-- [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: clear
 - [[knowledge/wiki/images/Illustration Giant Bloody Caterpillar Attacking People In A Field ed3a3635|Illustration Giant Bloody Caterpillar Attacking People In A Field]] — shared language: bloody
+- [[knowledge/wiki/images/Screenshot Close Up Of Face With Red Triangle Over Nose And Mouth 61057e28|Screenshot Close Up Of Face With Red Triangle Over Nose And Mouth]] — shared language: mouth
 <!-- vault-crosslinks:end -->

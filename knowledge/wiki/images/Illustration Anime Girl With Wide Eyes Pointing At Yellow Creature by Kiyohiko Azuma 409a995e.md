@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Anime Girl With Wide Eyes Pointing At Y
 collection: "unsorted"
 inferred_year: ""
 artist: "Kiyohiko Azuma"
-dimensions: "636x636"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

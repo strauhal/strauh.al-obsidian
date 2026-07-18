@@ -6,7 +6,7 @@ source_relpath: "1900s/The Raft by Eric Fischl (1982).jpeg"
 collection: "1900s"
 inferred_year: "1982"
 artist: ""
-dimensions: "4284x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

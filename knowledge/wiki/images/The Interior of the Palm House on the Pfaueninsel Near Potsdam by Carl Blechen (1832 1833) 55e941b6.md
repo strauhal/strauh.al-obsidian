@@ -6,7 +6,7 @@ source_relpath: "2000s/The Interior of the Palm House on the Pfaueninsel Near Po
 collection: "2000s"
 inferred_year: "1833"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

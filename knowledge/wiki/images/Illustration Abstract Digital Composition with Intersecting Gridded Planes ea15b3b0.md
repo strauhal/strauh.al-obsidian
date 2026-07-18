@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Digital Composition with Intersec
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2048x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: composition
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Curved Gridded Concrete Wall 8751fd1d|Photograph Black and White Photograph of a Curved Gridded Concrete Wall]] — shared language: gridded
 - [[knowledge/wiki/images/Illustration Abstract Digital Composition with Fragmented Figures and Distorted Text aab6797d|Illustration Abstract Digital Composition with Fragmented Figures and Distorted Text]] — shared language: composition, digital
 - [[knowledge/wiki/images/Illustration Abstract Red And Black Checkered Spheres And Planes 0b63037c|Illustration Abstract Red And Black Checkered Spheres And Planes]] — shared language: planes
-- [[knowledge/wiki/images/Document Blue Ink Cursive Handwriting On Gridded Paper d87afb42|Document Blue Ink Cursive Handwriting On Gridded Paper]] — shared language: gridded
 <!-- vault-crosslinks:end -->

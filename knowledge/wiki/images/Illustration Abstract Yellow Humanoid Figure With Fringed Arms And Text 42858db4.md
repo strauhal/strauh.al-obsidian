@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Yellow Humanoid Figure With Fring
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "584x761"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Person Aiming Revolver, American Flag In Background
 collection: "photography"
 inferred_year: ""
 artist: "Larry Clark"
-dimensions: "1010x550"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

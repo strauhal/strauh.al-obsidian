@@ -6,7 +6,7 @@ source_relpath: "photography/Empty Convention Hall with Inflatable Ball Pit.jpeg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1400x1400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

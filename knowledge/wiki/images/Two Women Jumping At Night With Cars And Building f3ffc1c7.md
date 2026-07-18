@@ -6,7 +6,7 @@ source_relpath: "photography/Two Women Jumping At Night With Cars And Building.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

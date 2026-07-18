@@ -48,9 +48,9 @@ endless feed."
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
 - [[knowledge/wiki/images/calvin 26e16bc1|calvin]] — named in this note
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
 - [[knowledge/wiki/images/amazing 9104b34b|amazing]] — named in this note
 - [[knowledge/wiki/images/grips 1e01a5b3|grips]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
 <!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->

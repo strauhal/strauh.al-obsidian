@@ -6,7 +6,7 @@ source_relpath: "1800s/branch_of_the_seine_near_giverny_mist_from_the_series_mor
 collection: "1800s"
 inferred_year: "1897"
 artist: "claude monet"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

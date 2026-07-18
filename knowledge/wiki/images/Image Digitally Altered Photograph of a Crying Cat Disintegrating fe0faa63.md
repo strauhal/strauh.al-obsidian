@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Digitally Altered Photograph of a Crying Cat Disi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "736x915"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

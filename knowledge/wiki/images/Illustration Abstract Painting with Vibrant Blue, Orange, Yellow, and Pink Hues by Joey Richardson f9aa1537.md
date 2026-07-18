@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Painting with Vibrant Blue, Or
 collection: "unsorted"
 inferred_year: ""
 artist: "Joey Richardson"
-dimensions: "3024x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

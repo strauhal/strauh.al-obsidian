@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - That's Audio Cassette Advertisement.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1100x1480"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

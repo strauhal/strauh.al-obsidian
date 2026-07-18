@@ -6,7 +6,7 @@ source_relpath: "influences/massive_attack.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1152"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

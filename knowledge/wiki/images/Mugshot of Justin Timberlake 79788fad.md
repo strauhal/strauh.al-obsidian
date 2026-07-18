@@ -6,7 +6,7 @@ source_relpath: "photography/Mugshot of Justin Timberlake.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1116x1395"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

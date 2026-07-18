@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Self Portrait by Ludwig Wittgenstein 2519ab89|Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
 - [[knowledge/wiki/images/Illustration Black and White Drawing of Ludwig van Beethoven 4a0cc80c|Illustration Black and White Drawing of Ludwig van Beethoven]] — shared language: ludwig
 - [[knowledge/wiki/artists/Artist - franz xaver winterhalter|Artist - franz xaver winterhalter]] — shared language: franz
-- [[knowledge/wiki/artists/Artist - ludwig meidner|Artist - ludwig meidner]] — shared language: ludwig
+- [[knowledge/wiki/artists/Artist - franz stuck|Artist - franz stuck]] — shared language: franz
 <!-- vault-crosslinks:end -->

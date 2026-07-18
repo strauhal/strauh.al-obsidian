@@ -6,7 +6,7 @@ source_relpath: "1800s/a_wheatfield_with_cypresses_by_vincent_van_gogh_1889.jpeg
 collection: "1800s"
 inferred_year: "1889"
 artist: "vincent van gogh"
-dimensions: "1080x1361"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Kanye West Exiting Car, Looking At Phone.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "964x1348"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Kanye West
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: phone
 - [[knowledge/wiki/images/Photograph Kanye West Among Models in Monochromatic Clothing 20ae6890|Photograph Kanye West Among Models in Monochromatic Clothing]] — shared language: kanye, west
 - [[knowledge/wiki/images/Man in Puffer Jacket and Sweatpants Exiting Silver Car f69c4848|Man in Puffer Jacket and Sweatpants Exiting Silver Car]] — shared language: exiting, car
 - [[knowledge/wiki/images/kanye party cd913a48|kanye party]] — shared language: kanye
 - [[knowledge/wiki/books/daoist-alchemy-in-the-west-the-esoteric-paradigms|Daoist Alchemy in the West: The Esoteric Paradigms]] — shared language: west
+- [[knowledge/wiki/images/Black Dog Looking Out Car Window At Rural Landscape 9c98c5d1|Black Dog Looking Out Car Window At Rural Landscape]] — shared language: looking, car
 <!-- vault-crosslinks:end -->

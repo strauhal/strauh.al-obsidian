@@ -6,7 +6,7 @@ source_relpath: "photography/Two People Posing With Firearms Against Patterned W
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1284x1949"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

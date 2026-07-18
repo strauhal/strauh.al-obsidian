@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - People Gathered Around Retro Computers 
 collection: "unsorted"
 inferred_year: ""
 artist: "Candles"
-dimensions: "2036x3063"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

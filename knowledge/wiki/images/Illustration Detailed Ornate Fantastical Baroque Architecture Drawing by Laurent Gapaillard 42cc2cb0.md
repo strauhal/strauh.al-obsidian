@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Detailed Ornate Fantastical Baroque Archit
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Laurent Gapaillard"
-dimensions: "1343x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

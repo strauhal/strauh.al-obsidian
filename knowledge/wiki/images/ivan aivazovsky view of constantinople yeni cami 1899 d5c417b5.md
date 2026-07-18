@@ -6,7 +6,7 @@ source_relpath: "1800s/ivan_aivazovsky_view_of_constantinople_yeni_cami_1899.jpg
 collection: "1800s"
 inferred_year: "1899"
 artist: ""
-dimensions: "996x1245"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

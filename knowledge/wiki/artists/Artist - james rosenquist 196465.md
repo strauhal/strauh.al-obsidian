@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: james
 - [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — shared language: james
 - [[knowledge/wiki/anchors/james-bridle|James Bridle]] — shared language: james
 - [[knowledge/wiki/books/james-bridle-ways-of-being-penguin-books-ltd|Ways of Being-Penguin Books Ltd]] — shared language: james
 - [[knowledge/wiki/artists/Artist - james mason|Artist - james mason]] — shared language: james
 - [[knowledge/wiki/books/james-gleick-chaos-making-a-new-science|Chaos Making a New Science]] — shared language: james
+- [[knowledge/wiki/artists/Artist - Michael James Roberts|Artist - Michael James Roberts]] — shared language: james
 <!-- vault-crosslinks:end -->

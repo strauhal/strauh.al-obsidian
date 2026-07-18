@@ -2,8 +2,8 @@
 title: Library - Philosophy
 type: map
 tags: [map, library, books]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Library - Philosophy
@@ -86,5 +86,5 @@ Books/files: 63
 - [[knowledge/wiki/anchors/heraclitus|Heraclitus]] — named in this note
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: deleuze, benjamin, guattari
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: history, repetition, difference
-- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: deleuze, hegel, friedrich
+- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: repetition, difference, press
 <!-- vault-crosslinks:end -->

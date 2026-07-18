@@ -6,7 +6,7 @@ source_relpath: "diagrams/Timeline_of_Generative_Adversarial_Networks_(GANs)_Evo
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1687x675"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

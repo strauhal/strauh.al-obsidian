@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Woman In Ornate Gown In Grand Hall With
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "640x906"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

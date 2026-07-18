@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Family Chooses Rat Over Human Orphans At Orpha
 collection: "unsorted"
 inferred_year: ""
 artist: "JENNSCOMICS"
-dimensions: "2048x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

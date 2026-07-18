@@ -6,7 +6,7 @@ source_relpath: "1800s/study_of_the_travelers_for_the_appearance_of_christ_to_th
 collection: "1800s"
 inferred_year: "1850"
 artist: "alexander ivanov"
-dimensions: "5712x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

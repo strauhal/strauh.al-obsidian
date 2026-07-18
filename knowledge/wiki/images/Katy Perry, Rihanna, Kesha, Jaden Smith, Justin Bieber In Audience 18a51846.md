@@ -6,7 +6,7 @@ source_relpath: "photography/Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bie
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "900x610"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

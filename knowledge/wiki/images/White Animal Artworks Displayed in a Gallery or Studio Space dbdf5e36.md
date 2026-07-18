@@ -6,7 +6,7 @@ source_relpath: "photography/White Animal Artworks Displayed in a Gallery or Stu
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1179x1209"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

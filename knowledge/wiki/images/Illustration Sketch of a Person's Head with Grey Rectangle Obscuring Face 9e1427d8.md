@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Sketch of a Person's Head with Grey Rec
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "329x382"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

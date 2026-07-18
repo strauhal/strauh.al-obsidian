@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: fashion
 - [[knowledge/wiki/books/forrest-m-mims-iii-radio-shack-electronics-learning-lab|Radio Shack Electronics Learning Lab]] — shared language: electronics
 - [[knowledge/wiki/images/Fashion Portrait Of A Woman In Striped Garment f20d3a92|Fashion Portrait Of A Woman In Striped Garment]] — shared language: fashion
-- [[knowledge/wiki/images/Illustration Two Stylized Figures In Alternative Fashion 421666db|Illustration Two Stylized Figures In Alternative Fashion]] — shared language: fashion
 - [[knowledge/wiki/images/Cluttered Electronics Shop Interior With Bald Man ef1f6424|Cluttered Electronics Shop Interior With Bald Man]] — shared language: electronics
+- [[knowledge/wiki/images/Illustration Two Stylized Figures In Alternative Fashion 421666db|Illustration Two Stylized Figures In Alternative Fashion]] — shared language: fashion
 - [[knowledge/wiki/images/Illustration Digital Collage of Vintage Packaging, Electronics, and Graphic Design Elements 90cc622b|Illustration Digital Collage of Vintage Packaging, Electronics, and Graphic Design Elements]] — shared language: electronics
 <!-- vault-crosslinks:end -->

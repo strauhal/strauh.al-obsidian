@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-15T01:28:27",
-  "markdownFiles": 19452,
-  "existingDirectedLinks": 34422,
-  "discoveredDirectedLinks": 99777,
-  "totalDirectedLinks": 134199,
-  "uniqueConnectedPairs": 110968,
-  "filesWithDiscoveredLinks": 19452,
+  "generated": "2026-07-18T00:07:46",
+  "markdownFiles": 19504,
+  "existingDirectedLinks": 34500,
+  "discoveredDirectedLinks": 100183,
+  "totalDirectedLinks": 134683,
+  "uniqueConnectedPairs": 111367,
+  "filesWithDiscoveredLinks": 19504,
   "minimumDiscoveredLinks": 2,
   "maximumDiscoveredLinks": 8,
   "byType": {
@@ -15,19 +15,19 @@
       "discoveredOutbound": 8
     },
     "anchor": {
-      "files": 177,
+      "files": 178,
       "existingOutbound": 0,
-      "discoveredOutbound": 885
+      "discoveredOutbound": 890
     },
     "artist": {
-      "files": 3521,
-      "existingOutbound": 4580,
-      "discoveredOutbound": 20488
+      "files": 3523,
+      "existingOutbound": 4582,
+      "discoveredOutbound": 20500
     },
     "book": {
-      "files": 521,
-      "existingOutbound": 1665,
-      "discoveredOutbound": 4168
+      "files": 523,
+      "existingOutbound": 1671,
+      "discoveredOutbound": 4184
     },
     "concept": {
       "files": 32,
@@ -65,9 +65,9 @@
       "discoveredOutbound": 8
     },
     "html": {
-      "files": 79,
-      "existingOutbound": 234,
-      "discoveredOutbound": 632
+      "files": 82,
+      "existingOutbound": 293,
+      "discoveredOutbound": 656
     },
     "ideas": {
       "files": 1,
@@ -75,9 +75,9 @@
       "discoveredOutbound": 8
     },
     "image": {
-      "files": 14173,
-      "existingOutbound": 20444,
-      "discoveredOutbound": 68702
+      "files": 14175,
+      "existingOutbound": 20446,
+      "discoveredOutbound": 68715
     },
     "image-analysis": {
       "files": 1,
@@ -86,12 +86,12 @@
     },
     "image_collection": {
       "files": 37,
-      "existingOutbound": 3502,
+      "existingOutbound": 3504,
       "discoveredOutbound": 286
     },
     "index": {
       "files": 5,
-      "existingOutbound": 259,
+      "existingOutbound": 265,
       "discoveredOutbound": 40
     },
     "influences": {
@@ -121,7 +121,7 @@
     },
     "map": {
       "files": 45,
-      "existingOutbound": 937,
+      "existingOutbound": 938,
       "discoveredOutbound": 360
     },
     "memory-summary": {
@@ -150,9 +150,9 @@
       "discoveredOutbound": 200
     },
     "private-correspondence": {
-      "files": 22,
+      "files": 64,
       "existingOutbound": 0,
-      "discoveredOutbound": 176
+      "discoveredOutbound": 512
     },
     "private-map": {
       "files": 1,
@@ -940,6 +940,13 @@
     },
     "_archive/auto-generated/books-stale/itzhakbentov-stalkingthewildpendulum-onthemechanicsofconsciousnessv1-text.md": {
       "title": "ItzhakBentov-StalkingTheWildPendulum OnTheMechanicsOfConsciousnessV1 text",
+      "type": "book",
+      "existingOutbound": 3,
+      "discoveredOutbound": 8,
+      "totalOutbound": 11
+    },
+    "_archive/auto-generated/books-stale/james-clear-atomic-habits-tiny-changes-remarkable-results.md": {
+      "title": "Atomic Habits Tiny Changes, Remarkable Results",
       "type": "book",
       "existingOutbound": 3,
       "discoveredOutbound": 8,
@@ -45724,6 +45731,13 @@
       "discoveredOutbound": 3,
       "totalOutbound": 4
     },
+    "_archive/auto-generated/pages-stale/knowledge base 2024 misc bookmarks.md": {
+      "title": "knowledge base 2024 misc bookmarks",
+      "type": "html",
+      "existingOutbound": 53,
+      "discoveredOutbound": 8,
+      "totalOutbound": 61
+    },
     "_archive/failed-intelligence-tests/Constellation - Orion.md": {
       "title": "Constellation - Orion",
       "type": "map",
@@ -45828,6 +45842,13 @@
       "existingOutbound": 0,
       "discoveredOutbound": 8,
       "totalOutbound": 8
+    },
+    "knowledge/archive/auto-generated/anchors-stale/2024-misc-bookmarks.md": {
+      "title": "2024 misc bookmarks",
+      "type": "anchor",
+      "existingOutbound": 0,
+      "discoveredOutbound": 5,
+      "totalOutbound": 5
     },
     "knowledge/archive/auto-generated/anchors-stale/artist-a-canal-1893.md": {
       "title": "Artist - a canal 1893",
@@ -46208,6 +46229,20 @@
       "totalOutbound": 7
     },
     "knowledge/archive/auto-generated/artists-stale/Artist - A-20260715012738.md": {
+      "title": "Artist - A.E",
+      "type": "artist",
+      "existingOutbound": 1,
+      "discoveredOutbound": 6,
+      "totalOutbound": 7
+    },
+    "knowledge/archive/auto-generated/artists-stale/Artist - A-20260718000526.md": {
+      "title": "Artist - A.E",
+      "type": "artist",
+      "existingOutbound": 1,
+      "discoveredOutbound": 6,
+      "totalOutbound": 7
+    },
+    "knowledge/archive/auto-generated/artists-stale/Artist - A-20260718000722.md": {
       "title": "Artist - A.E",
       "type": "artist",
       "existingOutbound": 1,
@@ -60414,15 +60449,15 @@
       "title": "Artist - zhu pei 2019",
       "type": "artist",
       "existingOutbound": 1,
-      "discoveredOutbound": 4,
-      "totalOutbound": 5
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
     },
     "knowledge/archive/auto-generated/artists-stale/Artist - zhu pei.md": {
       "title": "Artist - zhu pei",
       "type": "artist",
       "existingOutbound": 1,
-      "discoveredOutbound": 4,
-      "totalOutbound": 5
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
     },
     "knowledge/archive/auto-generated/artists-stale/Artist - zidaren.md": {
       "title": "Artist - Zidaren",
@@ -60494,8 +60529,22 @@
       "discoveredOutbound": 8,
       "totalOutbound": 8
     },
+    "knowledge/private/fanmail/threads/02-an-outdated-reference-comic.md": {
+      "title": "Private Correspondence - 02 - An outdated reference (comic?)",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
     "knowledge/private/fanmail/threads/02-art.md": {
       "title": "Private Correspondence - 02 - art",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/03-art.md": {
+      "title": "Private Correspondence - 03 - art",
       "type": "private-correspondence",
       "existingOutbound": 0,
       "discoveredOutbound": 8,
@@ -60508,8 +60557,22 @@
       "discoveredOutbound": 8,
       "totalOutbound": 8
     },
+    "knowledge/private/fanmail/threads/04-art-submission.md": {
+      "title": "Private Correspondence - 04 - Art Submission",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
     "knowledge/private/fanmail/threads/04-catching-up.md": {
       "title": "Private Correspondence - 04 - Catching Up",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/05-broken-link.md": {
+      "title": "Private Correspondence - 05 - Broken Link :)",
       "type": "private-correspondence",
       "existingOutbound": 0,
       "discoveredOutbound": 8,
@@ -60522,8 +60585,22 @@
       "discoveredOutbound": 8,
       "totalOutbound": 8
     },
+    "knowledge/private/fanmail/threads/06-catching-up.md": {
+      "title": "Private Correspondence - 06 - Catching Up",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
     "knowledge/private/fanmail/threads/06-dinner-tmrw.md": {
       "title": "Private Correspondence - 06 - Dinner tmrw",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/07-changes-in-website.md": {
+      "title": "Private Correspondence - 07 - Changes in website",
       "type": "private-correspondence",
       "existingOutbound": 0,
       "discoveredOutbound": 8,
@@ -60536,8 +60613,22 @@
       "discoveredOutbound": 8,
       "totalOutbound": 8
     },
+    "knowledge/private/fanmail/threads/08-computerdrawing-club-submission.md": {
+      "title": "Private Correspondence - 08 - computerdrawing.club submission!!",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
     "knowledge/private/fanmail/threads/08-drawing.md": {
       "title": "Private Correspondence - 08 - drawing",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/09-dinner-tmrw.md": {
+      "title": "Private Correspondence - 09 - Dinner tmrw",
       "type": "private-correspondence",
       "existingOutbound": 0,
       "discoveredOutbound": 8,
@@ -60550,8 +60641,22 @@
       "discoveredOutbound": 8,
       "totalOutbound": 8
     },
+    "knowledge/private/fanmail/threads/10-draw-club.md": {
+      "title": "Private Correspondence - 10 - Draw club",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
     "knowledge/private/fanmail/threads/10-love-your-archive.md": {
       "title": "Private Correspondence - 10 - Love your archive",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/11-drawing.md": {
+      "title": "Private Correspondence - 11 - drawing",
       "type": "private-correspondence",
       "existingOutbound": 0,
       "discoveredOutbound": 8,
@@ -60564,8 +60669,22 @@
       "discoveredOutbound": 8,
       "totalOutbound": 8
     },
+    "knowledge/private/fanmail/threads/12-drawing-submission.md": {
+      "title": "Private Correspondence - 12 - Drawing Submission",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
     "knowledge/private/fanmail/threads/12-my-drawing-i-made.md": {
       "title": "Private Correspondence - 12 - My drawing i made",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/13-hello.md": {
+      "title": "Private Correspondence - 13 - Hello",
       "type": "private-correspondence",
       "existingOutbound": 0,
       "discoveredOutbound": 8,
@@ -60578,8 +60697,22 @@
       "discoveredOutbound": 8,
       "totalOutbound": 8
     },
+    "knowledge/private/fanmail/threads/14-hhiii-my-name-is-khalil-im-17-and-found-your-website-on-4-chan-lol-but-i-had-to-take-a-picture-of-it.md": {
+      "title": "Private Correspondence - 14 - HHIII my name is khalil im 17 and found your website on 4 chan lol but i had to take a picture of it cuz i was drawing on a my xbox believe it or not.",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
     "knowledge/private/fanmail/threads/14-name-change.md": {
       "title": "Private Correspondence - 14 - Name change",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/15-https-x-com-pitzspecial-https-computerdrawing-club.md": {
+      "title": "Private Correspondence - 15 - https://x.com/pitzspecial https://computerdrawing.club/",
       "type": "private-correspondence",
       "existingOutbound": 0,
       "discoveredOutbound": 8,
@@ -60592,8 +60725,22 @@
       "discoveredOutbound": 8,
       "totalOutbound": 8
     },
+    "knowledge/private/fanmail/threads/16-human-feast.md": {
+      "title": "Private Correspondence - 16 - Human Feast",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
     "knowledge/private/fanmail/threads/16-pleasure-to-meet-you-peets.md": {
       "title": "Private Correspondence - 16 - Pleasure to Meet you (Peets)",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/17-i-drewed-a-picur.md": {
+      "title": "Private Correspondence - 17 - I drewed a picur",
       "type": "private-correspondence",
       "existingOutbound": 0,
       "discoveredOutbound": 8,
@@ -60606,8 +60753,22 @@
       "discoveredOutbound": 8,
       "totalOutbound": 8
     },
+    "knowledge/private/fanmail/threads/18-i-love-what-you-are-doing.md": {
+      "title": "Private Correspondence - 18 - I love what you are doing",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
     "knowledge/private/fanmail/threads/18-site-drawings.md": {
       "title": "Private Correspondence - 18 - site drawings",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/19-image-submission-for-the-website.md": {
+      "title": "Private Correspondence - 19 - image submission for the website....",
       "type": "private-correspondence",
       "existingOutbound": 0,
       "discoveredOutbound": 8,
@@ -60620,8 +60781,22 @@
       "discoveredOutbound": 8,
       "totalOutbound": 8
     },
+    "knowledge/private/fanmail/threads/20-late-summer-breeze.md": {
+      "title": "Private Correspondence - 20 - Late Summer Breeze",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
     "knowledge/private/fanmail/threads/20-submit-me-daddy.md": {
       "title": "Private Correspondence - 20 - submit me daddy",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/21-love-your-archive.md": {
+      "title": "Private Correspondence - 21 - Love your archive",
       "type": "private-correspondence",
       "existingOutbound": 0,
       "discoveredOutbound": 8,
@@ -60634,8 +60809,162 @@
       "discoveredOutbound": 8,
       "totalOutbound": 8
     },
+    "knowledge/private/fanmail/threads/22-my-aw3some-drawing-for-the-computer-drawing-dot-club.md": {
+      "title": "Private Correspondence - 22 - my aw3some drawing for the computer drawing dot club",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
     "knowledge/private/fanmail/threads/22-you-the-beholder.md": {
       "title": "Private Correspondence - 22 - You, The Beholder",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/23-my-drawing.md": {
+      "title": "Private Correspondence - 23 - My drawing",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/24-my-drawing-i-made.md": {
+      "title": "Private Correspondence - 24 - My drawing i made",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/25-my-pic.md": {
+      "title": "Private Correspondence - 25 - My Pic",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/26-name-change.md": {
+      "title": "Private Correspondence - 26 - Name change",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/27-name-change-request-re-an-outdated-reference-comic.md": {
+      "title": "Private Correspondence - 27 - Name change request Re: An outdated reference (comic?)",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/28-new-draw-for-youu.md": {
+      "title": "Private Correspondence - 28 - New Draw_for_YOUU",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/29-picture.md": {
+      "title": "Private Correspondence - 29 - picture",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/30-picture-submission-m-r-12-6nvar4getjstreetsacto-png.md": {
+      "title": "Private Correspondence - 30 - Picture Submission - M R. '12-6nvar4getJstreetSacto.png'",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/31-pleasure-to-meet-you-peets.md": {
+      "title": "Private Correspondence - 31 - Pleasure to Meet you (Peets)",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/32-saw-your-ads-clicked-the-about-page.md": {
+      "title": "Private Correspondence - 32 - saw your ads, clicked the about page",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/33-self-portrait-of-me-brushing-my-teeth.md": {
+      "title": "Private Correspondence - 33 - Self Portrait of me brushing my teeth",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/34-sierra-computer-drawing-submission.md": {
+      "title": "Private Correspondence - 34 - Sierra Computer Drawing Submission",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/35-site-drawings.md": {
+      "title": "Private Correspondence - 35 - site drawings",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/36-submission.md": {
+      "title": "Private Correspondence - 36 - Submission",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/37-submission-to-computer-drawing-club.md": {
+      "title": "Private Correspondence - 37 - Submission to computer drawing club",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/38-submit-me-daddy.md": {
+      "title": "Private Correspondence - 38 - submit me daddy",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/39-tribute-to-china.md": {
+      "title": "Private Correspondence - 39 - Tribute to china",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/40-untitled.md": {
+      "title": "Private Correspondence - 40 - Untitled",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/41-website-bugs.md": {
+      "title": "Private Correspondence - 41 - Website Bugs",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/42-you-the-beholder.md": {
+      "title": "Private Correspondence - 42 - You, The Beholder",
+      "type": "private-correspondence",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
+    },
+    "knowledge/private/fanmail/threads/43-angel.md": {
+      "title": "Private Correspondence - 43 - 天使 (Angel)",
       "type": "private-correspondence",
       "existingOutbound": 0,
       "discoveredOutbound": 8,
@@ -60749,16 +61078,9 @@
     "knowledge/wiki/_index.md": {
       "title": "strauh.al Index",
       "type": "index",
-      "existingOutbound": 113,
+      "existingOutbound": 116,
       "discoveredOutbound": 8,
-      "totalOutbound": 121
-    },
-    "knowledge/wiki/anchors/2024-misc-bookmarks.md": {
-      "title": "2024 misc bookmarks",
-      "type": "anchor",
-      "existingOutbound": 0,
-      "discoveredOutbound": 5,
-      "totalOutbound": 5
+      "totalOutbound": 124
     },
     "knowledge/wiki/anchors/actress.md": {
       "title": "Actress",
@@ -61553,6 +61875,13 @@
     },
     "knowledge/wiki/anchors/tatsuki-fujimoto.md": {
       "title": "Tatsuki Fujimoto",
+      "type": "anchor",
+      "existingOutbound": 0,
+      "discoveredOutbound": 5,
+      "totalOutbound": 5
+    },
+    "knowledge/wiki/anchors/technology-ai.md": {
+      "title": "technology ai",
       "type": "anchor",
       "existingOutbound": 0,
       "discoveredOutbound": 5,
@@ -62703,8 +63032,8 @@
       "title": "Artist - Francoise Gamma",
       "type": "artist",
       "existingOutbound": 1,
-      "discoveredOutbound": 5,
-      "totalOutbound": 6
+      "discoveredOutbound": 4,
+      "totalOutbound": 5
     },
     "knowledge/wiki/artists/Artist - Frank Gilbreth.md": {
       "title": "Artist - Frank Gilbreth",
@@ -63347,8 +63676,8 @@
       "title": "Artist - Kobak and Shpilkin",
       "type": "artist",
       "existingOutbound": 1,
-      "discoveredOutbound": 6,
-      "totalOutbound": 7
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
     },
     "knowledge/wiki/artists/Artist - Kojima Productions.md": {
       "title": "Artist - Kojima Productions",
@@ -64271,8 +64600,8 @@
       "title": "Artist - Seth Armstrong",
       "type": "artist",
       "existingOutbound": 1,
-      "discoveredOutbound": 4,
-      "totalOutbound": 5
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
     },
     "knowledge/wiki/artists/Artist - Shanghai Dachuan Architects.md": {
       "title": "Artist - Shanghai Dachuan Architects",
@@ -64642,8 +64971,8 @@
       "title": "Artist - Uno Moralez",
       "type": "artist",
       "existingOutbound": 1,
-      "discoveredOutbound": 5,
-      "totalOutbound": 6
+      "discoveredOutbound": 6,
+      "totalOutbound": 7
     },
     "knowledge/wiki/artists/Artist - Unomoralez.md": {
       "title": "Artist - Unomoralez",
@@ -65223,8 +65552,8 @@
       "title": "Artist - angelica kauffman",
       "type": "artist",
       "existingOutbound": 1,
-      "discoveredOutbound": 6,
-      "totalOutbound": 7
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
     },
     "knowledge/wiki/artists/Artist - anne louis girodet de roussy trioson.md": {
       "title": "Artist - anne louis girodet de roussy trioson",
@@ -65328,8 +65657,8 @@
       "title": "Artist - arshile gorky",
       "type": "artist",
       "existingOutbound": 5,
-      "discoveredOutbound": 6,
-      "totalOutbound": 11
+      "discoveredOutbound": 5,
+      "totalOutbound": 10
     },
     "knowledge/wiki/artists/Artist - artemisia gentileschi.md": {
       "title": "Artist - artemisia gentileschi",
@@ -67463,8 +67792,8 @@
       "title": "Artist - hector garcia",
       "type": "artist",
       "existingOutbound": 1,
-      "discoveredOutbound": 4,
-      "totalOutbound": 5
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
     },
     "knowledge/wiki/artists/Artist - heinrich kley.md": {
       "title": "Artist - heinrich kley",
@@ -67484,8 +67813,8 @@
       "title": "Artist - helen frankenthaler",
       "type": "artist",
       "existingOutbound": 2,
-      "discoveredOutbound": 3,
-      "totalOutbound": 5
+      "discoveredOutbound": 4,
+      "totalOutbound": 6
     },
     "knowledge/wiki/artists/Artist - helene schjerfbeck.md": {
       "title": "Artist - helene schjerfbeck",
@@ -67617,8 +67946,8 @@
       "title": "Artist - hermen anglada camarasa",
       "type": "artist",
       "existingOutbound": 1,
-      "discoveredOutbound": 3,
-      "totalOutbound": 4
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
     },
     "knowledge/wiki/artists/Artist - hilda rix nicholas.md": {
       "title": "Artist - hilda rix nicholas",
@@ -73255,13 +73584,6 @@
       "discoveredOutbound": 8,
       "totalOutbound": 12
     },
-    "knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results.md": {
-      "title": "Atomic Habits Tiny Changes, Remarkable Results",
-      "type": "book",
-      "existingOutbound": 3,
-      "discoveredOutbound": 8,
-      "totalOutbound": 11
-    },
     "knowledge/wiki/books/james-gleick-chaos-making-a-new-science.md": {
       "title": "Chaos Making a New Science",
       "type": "book",
@@ -73621,6 +73943,13 @@
     },
     "knowledge/wiki/books/martin-butler-the-corporeal-fantasy.md": {
       "title": "The Corporeal Fantasy",
+      "type": "book",
+      "existingOutbound": 3,
+      "discoveredOutbound": 8,
+      "totalOutbound": 11
+    },
+    "knowledge/wiki/books/martin-heidegger-hegels-phenomenology-of-spirit.md": {
+      "title": "martin-heidegger-hegels-phenomenology-of-spirit",
       "type": "book",
       "existingOutbound": 3,
       "discoveredOutbound": 8,
@@ -74347,6 +74676,13 @@
       "discoveredOutbound": 8,
       "totalOutbound": 11
     },
+    "knowledge/wiki/books/the-end-of-reading-is-here-the-atlantic.md": {
+      "title": "The Atlantic",
+      "type": "book",
+      "existingOutbound": 3,
+      "discoveredOutbound": 8,
+      "totalOutbound": 11
+    },
     "knowledge/wiki/books/the-internet-s-ai-slop-problem-is-only-going-to-get-worse.md": {
       "title": "The Internet’s AI Slop Problem Is Only Going to Get Worse",
       "type": "book",
@@ -74826,9 +75162,9 @@
     "knowledge/wiki/collections/Collection - ernest.md": {
       "title": "Collection - ernest",
       "type": "image_collection",
-      "existingOutbound": 16,
+      "existingOutbound": 18,
       "discoveredOutbound": 8,
-      "totalOutbound": 24
+      "totalOutbound": 26
     },
     "knowledge/wiki/collections/Collection - gif collection.md": {
       "title": "Collection - gif collection",
@@ -82492,8 +82828,8 @@
       "title": "Blue Teeth by Uno Moralez",
       "type": "image",
       "existingOutbound": 2,
-      "discoveredOutbound": 4,
-      "totalOutbound": 6
+      "discoveredOutbound": 5,
+      "totalOutbound": 7
     },
     "knowledge/wiki/images/Blue Tinted Modern Architectural Interior With Escalators And Overlaid Text a0ff4d31.md": {
       "title": "Blue Tinted Modern Architectural Interior With Escalators And Overlaid Text",
@@ -103002,8 +103338,8 @@
       "title": "Image Black And White Vin Diesel Meme About AI Art",
       "type": "image",
       "existingOutbound": 1,
-      "discoveredOutbound": 3,
-      "totalOutbound": 4
+      "discoveredOutbound": 4,
+      "totalOutbound": 5
     },
     "knowledge/wiki/images/Image Black and White Photo of Deleuze, Guattari, and Michael Cera 6bd04e73.md": {
       "title": "Image Black and White Photo of Deleuze, Guattari, and Michael Cera",
@@ -103478,8 +103814,8 @@
       "title": "In de tram by Frans Bergsma (c. 1900)",
       "type": "image",
       "existingOutbound": 2,
-      "discoveredOutbound": 4,
-      "totalOutbound": 6
+      "discoveredOutbound": 3,
+      "totalOutbound": 5
     },
     "knowledge/wiki/images/In the Poppy Field by Dora Hitz (1887) 391e9f0e.md": {
       "title": "In the Poppy Field by Dora Hitz (1887)",
@@ -114566,8 +114902,8 @@
       "title": "The Pleasure Principle by Fin Costello (1979)",
       "type": "image",
       "existingOutbound": 2,
-      "discoveredOutbound": 3,
-      "totalOutbound": 5
+      "discoveredOutbound": 4,
+      "totalOutbound": 6
     },
     "knowledge/wiki/images/The Poet's Dream by John Faed (c.1882) d4bbb323.md": {
       "title": "The Poet's Dream by John Faed (c.1882)",
@@ -114881,8 +115217,8 @@
       "title": "The Tribute Money by Titian (1516)",
       "type": "image",
       "existingOutbound": 2,
-      "discoveredOutbound": 4,
-      "totalOutbound": 6
+      "discoveredOutbound": 5,
+      "totalOutbound": 7
     },
     "knowledge/wiki/images/The Two Sisters by William Adolphe Bouguereau (1894) d46f51f5.md": {
       "title": "The Two Sisters by William Adolphe Bouguereau (1894)",
@@ -120547,6 +120883,13 @@
       "discoveredOutbound": 5,
       "totalOutbound": 7
     },
+    "knowledge/wiki/images/face cutout 379d205e.md": {
+      "title": "face cutout",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
     "knowledge/wiki/images/faces by susan kare 1984 b6206a64.md": {
       "title": "faces by susan kare 1984",
       "type": "image",
@@ -122107,6 +122450,13 @@
       "existingOutbound": 1,
       "discoveredOutbound": 5,
       "totalOutbound": 6
+    },
+    "knowledge/wiki/images/image 1784268007911 7eaf7917.md": {
+      "title": "image 1784268007911",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
     },
     "knowledge/wiki/images/image0 551ce0a3.md": {
       "title": "image0",
@@ -128314,15 +128664,15 @@
       "title": "savage breeze by helen frankenthaler 1974 3",
       "type": "image",
       "existingOutbound": 3,
-      "discoveredOutbound": 3,
-      "totalOutbound": 6
+      "discoveredOutbound": 4,
+      "totalOutbound": 7
     },
     "knowledge/wiki/images/savage breeze by helen frankenthaler 1974 d909d172.md": {
       "title": "savage breeze by helen frankenthaler 1974",
       "type": "image",
       "existingOutbound": 3,
-      "discoveredOutbound": 3,
-      "totalOutbound": 6
+      "discoveredOutbound": 4,
+      "totalOutbound": 7
     },
     "knowledge/wiki/images/sayonara nippon cover illustration by katsuhiro otomo 1981 ee7d4f00.md": {
       "title": "sayonara nippon cover illustration by katsuhiro otomo 1981",
@@ -135334,9 +135684,9 @@
     "knowledge/wiki/maps/Library - Art and Aesthetics.md": {
       "title": "Library - Art and Aesthetics",
       "type": "map",
-      "existingOutbound": 69,
+      "existingOutbound": 70,
       "discoveredOutbound": 8,
-      "totalOutbound": 77
+      "totalOutbound": 78
     },
     "knowledge/wiki/maps/Library - Design and Making.md": {
       "title": "Library - Design and Making",
@@ -135779,6 +136129,13 @@
       "discoveredOutbound": 8,
       "totalOutbound": 11
     },
+    "knowledge/wiki/pages/cors test.md": {
+      "title": "cors test",
+      "type": "html",
+      "existingOutbound": 2,
+      "discoveredOutbound": 8,
+      "totalOutbound": 10
+    },
     "knowledge/wiki/pages/culture society.md": {
       "title": "culture society",
       "type": "html",
@@ -135884,13 +136241,6 @@
       "discoveredOutbound": 8,
       "totalOutbound": 10
     },
-    "knowledge/wiki/pages/knowledge base 2024 misc bookmarks.md": {
-      "title": "knowledge base 2024 misc bookmarks",
-      "type": "html",
-      "existingOutbound": 4,
-      "discoveredOutbound": 8,
-      "totalOutbound": 12
-    },
     "knowledge/wiki/pages/knowledge base art.md": {
       "title": "knowledge base art",
       "type": "html",
@@ -135900,6 +136250,13 @@
     },
     "knowledge/wiki/pages/knowledge base cool words.md": {
       "title": "knowledge base cool words",
+      "type": "html",
+      "existingOutbound": 4,
+      "discoveredOutbound": 8,
+      "totalOutbound": 12
+    },
+    "knowledge/wiki/pages/knowledge base culture society.md": {
+      "title": "knowledge base culture society",
       "type": "html",
       "existingOutbound": 4,
       "discoveredOutbound": 8,
@@ -135935,6 +136292,13 @@
     },
     "knowledge/wiki/pages/knowledge base speed racer.md": {
       "title": "knowledge base speed racer",
+      "type": "html",
+      "existingOutbound": 4,
+      "discoveredOutbound": 8,
+      "totalOutbound": 12
+    },
+    "knowledge/wiki/pages/knowledge base technology ai.md": {
+      "title": "knowledge base technology ai",
       "type": "html",
       "existingOutbound": 4,
       "discoveredOutbound": 8,
@@ -136314,9 +136678,9 @@
     "knowledge/wiki/strauh.al Index.md": {
       "title": "strauh.al Index",
       "type": "index",
-      "existingOutbound": 113,
+      "existingOutbound": 116,
       "discoveredOutbound": 8,
-      "totalOutbound": 121
+      "totalOutbound": 124
     },
     "knowledge/wiki/works/Arcades Project (Revisited).md": {
       "title": "Arcades Project (Revisited)",

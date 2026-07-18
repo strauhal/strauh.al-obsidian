@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of Reddit Post Displaying Abst
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1164x1252"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 
 - [[knowledge/wiki/images/Screenshot Reddit Post Discussing A Movie's Intentional Badness b2f4b304|Screenshot Reddit Post Discussing A Movie's Intentional Badness]] — shared language: reddit, post, screenshot
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: generative
-- [[knowledge/wiki/images/Screenshot Reddit Post Showing HP Printer Blocking Non HP Ink 8ec7fd1e|Screenshot Reddit Post Showing HP Printer Blocking Non HP Ink]] — shared language: reddit, post, screenshot
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: generative
+- [[knowledge/wiki/images/Screenshot Reddit Post Showing HP Printer Blocking Non HP Ink 8ec7fd1e|Screenshot Reddit Post Showing HP Printer Blocking Non HP Ink]] — shared language: reddit, post, screenshot
 - [[knowledge/wiki/images/Screenshot Screenshot of a Drawing Program Displaying Abstract Pixel Art 55fb41e7|Screenshot Screenshot of a Drawing Program Displaying Abstract Pixel Art]] — shared language: screenshot, displaying, art.jpeg
 <!-- vault-crosslinks:end -->

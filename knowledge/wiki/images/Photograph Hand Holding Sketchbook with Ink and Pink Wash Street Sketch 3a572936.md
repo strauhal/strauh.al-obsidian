@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Hand Holding Sketchbook with Ink and Pink Wa
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1024x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Han
 
 - [[knowledge/wiki/images/Photograph Photograph of Hand Holding Sketchbook with Drawing of Butchers a13c17b5|Photograph Photograph of Hand Holding Sketchbook with Drawing of Butchers]] — shared language: sketchbook, hand, holding
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand, sketchbook, ink
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch, ink
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: sketchbook
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
-- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketchbook, sketch
 <!-- vault-crosslinks:end -->

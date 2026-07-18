@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Man Hanging Onto Back Of 'Boing!' Delivery Tru
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "640x706"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Image - Man H
 - [[knowledge/wiki/images/Illustration Graffiti Of A Fierce Character With Spiky Hair On A Truck b55b3e3c|Illustration Graffiti Of A Fierce Character With Spiky Hair On A Truck]] — shared language: truck, truck.jpeg
 - [[knowledge/wiki/images/UPS Truck Under Apocalyptic Red Sky From Wildfires d023d3cd|UPS Truck Under Apocalyptic Red Sky From Wildfires]] — shared language: truck
 - [[knowledge/wiki/images/Illustration Abstract Drawings of Feet on Hanging White Fabric 4e5b117f|Illustration Abstract Drawings of Feet on Hanging White Fabric]] — shared language: hanging
-- [[knowledge/wiki/images/Illustration Expressive Oil Painting of a Light Colored Pickup Truck on Street 11daa035|Illustration Expressive Oil Painting of a Light Colored Pickup Truck on Street]] — shared language: truck
+- [[knowledge/wiki/images/Illustration Black Textile Hanging with White Geometric Thread Lines d1befc11|Illustration Black Textile Hanging with White Geometric Thread Lines]] — shared language: hanging
 <!-- vault-crosslinks:end -->

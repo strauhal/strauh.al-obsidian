@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Surreal Sepia Image of Giant Bearded Fi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "896x1344"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

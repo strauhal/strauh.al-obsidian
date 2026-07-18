@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/[Perennial Bestseller Collection] Vladimir Vladimirovich Nabokov - Lolita (Perennial Bestseller Collection) (1997, G K Hall & Co) - libgen.lc.mobi"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Lolita (Perennial Bestseller Collection)
@@ -44,7 +44,7 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/albert-camus-the-plague|The Plague]] — same category: literature
 - [[knowledge/wiki/books/william-zinsser-on-writing-well|On Writing Well]] — same category: literature
 - [[knowledge/wiki/books/harry-martinson-aniara|Aniara]] — same category: literature
-- [[knowledge/wiki/books/gatsby-sexualdrama|gatsby sexualdrama]] — same category: literature
-- [[knowledge/wiki/books/michel-de-montaigne-the-complete-essays|The Complete Essays]] — same category: literature
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — same category: literature
+- [[knowledge/wiki/books/michel-de-montaigne-the-complete-essays|The Complete Essays]] — same category: literature
+- [[knowledge/wiki/books/gatsby-sexualdrama|gatsby sexualdrama]] — same category: literature
 <!-- vault-crosslinks:end -->

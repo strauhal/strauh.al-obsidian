@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/NYPD Officer Rappelling Past Window With Tiger Inside Building c00bb6ed|NYPD Officer Rappelling Past Window With Tiger Inside Building]] — shared language: nypd, rappelling, officer
-- [[_archive/auto-generated/images-stale/black and white line drawing of a s w a t officer with labeled equipment 4938854a|black and white line drawing of a s w a t officer with labeled equipment]] — shared language: officer
 - [[knowledge/wiki/artists/Artist - Officers Past Photographers|Artist - Officers Past Photographers]] — shared language: past
+- [[_archive/auto-generated/images-stale/black and white line drawing of a s w a t officer with labeled equipment 4938854a|black and white line drawing of a s w a t officer with labeled equipment]] — shared language: officer
 - [[_archive/auto-generated/images-stale/administration building d797c4c3|administration building]] — shared language: building
-- [[knowledge/wiki/images/Diagram Black And White Diagram Of SWAT Officer Equipment 37635e6b|Diagram Black And White Diagram Of SWAT Officer Equipment]] — shared language: officer
+- [[knowledge/wiki/artists/Artist - Window|Artist - Window]] — shared language: window
 <!-- vault-crosslinks:end -->

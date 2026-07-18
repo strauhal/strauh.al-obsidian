@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Photograph Luigi Mangione In Orange Jumpsuit Escorted By Police c710fa1a|Photograph Luigi Mangione In Orange Jumpsuit Escorted By Police]] — shared language: police, jumpsuit, escorted
 - [[knowledge/wiki/images/Police Officers Confronting Man Holding Objects In Residential Area 08702ffd|Police Officers Confronting Man Holding Objects In Residential Area]] — shared language: officers, police
 - [[knowledge/wiki/images/Man in Handcuffs Escorted by Officers Past Photographers 2aac9b02|Man in Handcuffs Escorted by Officers Past Photographers]] — shared language: officers, escorted
-- [[knowledge/wiki/images/Screenshot Aerial View of Police Officers on Modern Patio with Pool by KTLA edd57820|Screenshot Aerial View of Police Officers on Modern Patio with Pool by KTLA]] — shared language: officers, police
+- [[knowledge/wiki/images/Police Officers in Riot Gear Outside Donut Shop at Night cd163699|Police Officers in Riot Gear Outside Donut Shop at Night]] — shared language: officers, police
 <!-- vault-crosslinks:end -->

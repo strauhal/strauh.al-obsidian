@@ -6,7 +6,7 @@ source_relpath: "1900s/the_dragon_slayer_by_frank_frazetta_1982.jpg"
 collection: "1900s"
 inferred_year: "1982"
 artist: "frank frazetta"
-dimensions: "3000x3378"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

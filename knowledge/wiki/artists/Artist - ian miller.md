@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Comic AI nxiety by Ian Foley 7f77d89f|Comic AI nxiety by Ian Foley]] — shared language: ian
 - [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: miller
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: miller
-- [[knowledge/wiki/images/frank miller 1f32b801|frank miller]] — shared language: miller
+- [[knowledge/wiki/artists/Artist - sue miller|Artist - sue miller]] — shared language: miller
 <!-- vault-crosslinks:end -->

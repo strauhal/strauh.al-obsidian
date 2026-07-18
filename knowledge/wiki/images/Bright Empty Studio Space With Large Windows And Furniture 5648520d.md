@@ -6,7 +6,7 @@ source_relpath: "photography/Bright Empty Studio Space With Large Windows And Fu
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1220x816"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

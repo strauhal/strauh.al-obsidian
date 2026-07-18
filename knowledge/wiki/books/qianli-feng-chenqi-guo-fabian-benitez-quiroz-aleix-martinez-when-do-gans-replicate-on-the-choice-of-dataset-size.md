@@ -9,8 +9,8 @@ metadata: curated
 aliases: [2202.11765]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/2202.11765.pdf"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # When Do GANs Replicate? On the Choice of Dataset Size

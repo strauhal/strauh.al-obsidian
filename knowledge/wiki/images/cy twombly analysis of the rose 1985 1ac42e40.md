@@ -6,7 +6,7 @@ source_relpath: "1900s/cy_twombly_analysis_of_the_rose_1985.png"
 collection: "1900s"
 inferred_year: "1985"
 artist: ""
-dimensions: "512x750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

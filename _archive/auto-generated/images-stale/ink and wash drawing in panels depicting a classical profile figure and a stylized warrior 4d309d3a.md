@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Ink and Wash Painting of Stylized Dark Figure baa287ef|Illustration Ink and Wash Painting of Stylized Dark Figure]] — shared language: wash, stylized, ink
 - [[knowledge/wiki/images/Illustration Ink And Wash Drawing Of Two Stylized Heads a9a28fca|Illustration Ink And Wash Drawing Of Two Stylized Heads]] — shared language: wash, stylized, ink
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panels
-- [[_archive/auto-generated/images-stale/ink and wash painting of a stylized dark figure or bird 661de875|ink and wash painting of a stylized dark figure or bird]] — shared language: wash, stylized, ink
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 <!-- vault-crosslinks:end -->

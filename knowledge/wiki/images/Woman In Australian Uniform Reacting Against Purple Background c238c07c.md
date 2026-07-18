@@ -6,7 +6,7 @@ source_relpath: "photography/Woman In Australian Uniform Reacting Against Purple
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "3000x1500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/the_fairy_feller_s_master_stroke_by_richard_dadd_18551864
 collection: "1800s"
 inferred_year: "1800s"
 artist: "richard dadd 18551864"
-dimensions: "863x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

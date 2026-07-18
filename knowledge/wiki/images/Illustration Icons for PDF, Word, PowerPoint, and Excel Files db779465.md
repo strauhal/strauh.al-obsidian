@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Icons for PDF, Word, PowerPoint, and Ex
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "400x300"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/the_loing_at_saint_mammes_by_alfred_sisley_1884.jpeg"
 collection: "1800s"
 inferred_year: "1884"
 artist: "alfred sisley"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

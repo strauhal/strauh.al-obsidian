@@ -6,7 +6,7 @@ source_relpath: "1900s/young_woman_with_a_plant_by_chen_yifei_1983.jpg"
 collection: "1900s"
 inferred_year: "1983"
 artist: "chen yifei"
-dimensions: "500x680"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Blue Caricature of Elon Musk as a Rich Baby.jp
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1376x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pixelated Figure In Dark Hooded Armor H
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3952x4096"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

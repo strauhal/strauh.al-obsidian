@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pencil Sketch of Various Fantasy and Sc
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "645x925"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

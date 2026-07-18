@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Long Reflecting Pool With Trees Under G
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2048x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

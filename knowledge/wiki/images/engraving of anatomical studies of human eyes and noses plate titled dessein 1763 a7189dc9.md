@@ -6,7 +6,7 @@ source_relpath: "1700s/engraving_of_anatomical_studies_of_human_eyes_and_noses_p
 collection: "1700s"
 inferred_year: "1763"
 artist: ""
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

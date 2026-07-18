@@ -32,7 +32,7 @@ as fast brush gestures rather than rendered illustration — is squarely in Erne
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, listed, among
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, shinkawa, yoji
 - [[knowledge/wiki/artists/Artist - yoji shinkawa|Artist - yoji shinkawa]] — shared language: shinkawa, yoji, gear
-- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: influences, listed, among
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: schiele, egon
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink, elegance, spontaneity
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: influences, listed, among
 <!-- vault-crosslinks:end -->

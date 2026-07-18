@@ -6,7 +6,7 @@ source_relpath: "photography/Hewlett Packard Spaceball 3D Input Device.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1953x1974"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

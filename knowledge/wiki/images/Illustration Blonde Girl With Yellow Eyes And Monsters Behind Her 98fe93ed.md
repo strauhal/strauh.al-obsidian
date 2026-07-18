@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Blonde Girl With Yellow Eyes And Monste
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1843x2458"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

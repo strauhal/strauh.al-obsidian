@@ -6,7 +6,7 @@ source_relpath: "2000s/Hills of Houses by Rob Pointon.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Rob Pointon"
-dimensions: "1161x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

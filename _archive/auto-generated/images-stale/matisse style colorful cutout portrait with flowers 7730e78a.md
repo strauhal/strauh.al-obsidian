@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/face cutout 379d205e|face cutout]] — shared language: cutout
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henri matisse 1911|Artist - henri matisse 1911]] — shared language: matisse
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henri matisse 1939|Artist - henri matisse 1939]] — shared language: matisse
 - [[knowledge/wiki/images/Visage by Henri Matisse (1951) e96fda8e|Visage by Henri Matisse (1951)]] — shared language: matisse
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henri matisse 1910|Artist - henri matisse 1910]] — shared language: matisse
-- [[knowledge/archive/auto-generated/artists-stale/Artist - henri matisse 1909|Artist - henri matisse 1909]] — shared language: matisse
 <!-- vault-crosslinks:end -->

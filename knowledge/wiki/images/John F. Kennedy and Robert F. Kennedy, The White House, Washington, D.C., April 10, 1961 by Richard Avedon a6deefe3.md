@@ -6,7 +6,7 @@ source_relpath: "photography/John F. Kennedy and Robert F. Kennedy, The White Ho
 collection: "photography"
 inferred_year: "1961"
 artist: "Richard Avedon"
-dimensions: "651x963"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

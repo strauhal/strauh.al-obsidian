@@ -6,7 +6,7 @@ source_relpath: "computers/meet.jpg"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: "768x768"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---

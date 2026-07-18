@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_Harmonic_Series_Above_Radiographic_Image_of
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "720x880"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram_of_Ha
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: series
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: series
-- [[knowledge/wiki/images/Diagram Eight Numbered Graphs Illustrating Harmonic Curves a68f2c9d|Diagram Eight Numbered Graphs Illustrating Harmonic Curves]] — shared language: harmonic, diagram
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: series
 <!-- vault-crosslinks:end -->

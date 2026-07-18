@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Text About The Origin Of Artificial Intelli
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1667"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Two Chickens Standing on Chairs Looking Towards a W
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "736x552"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

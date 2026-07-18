@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Colorful Eye Rendered With Fractal-Like Fl
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "736x894"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

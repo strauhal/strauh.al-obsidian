@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View Of Urban Sprawl Next To Dense Forest.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "814x1005"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

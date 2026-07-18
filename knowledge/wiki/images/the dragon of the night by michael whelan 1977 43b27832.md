@@ -6,7 +6,7 @@ source_relpath: "1900s/the_dragon_of_the_night_by_michael_whelan_1977.jpg"
 collection: "1900s"
 inferred_year: "1977"
 artist: "michael whelan"
-dimensions: "2317x3000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

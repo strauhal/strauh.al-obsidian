@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: dave
 - [[knowledge/wiki/images/Maniac by Conan Gray (2019) ed3ffa9f|Maniac by Conan Gray (2019)]] — shared language: maniac
 - [[knowledge/wiki/artists/Artist - dave gibbons|Artist - dave gibbons]] — shared language: dave
-- [[knowledge/wiki/images/my favorite room 1340 c png 18ffa72e|my favorite room 1340 c png]] — shared language: room
+- [[knowledge/wiki/pages/knowledge base web art|knowledge base web art]] — shared language: games
 <!-- vault-crosslinks:end -->

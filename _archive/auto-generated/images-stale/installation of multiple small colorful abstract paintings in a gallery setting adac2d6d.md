@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery 71ab7c81|Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery]] — shared language: paintings, gallery, multiple
+- [[knowledge/wiki/images/Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery 71ab7c81|Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery]] — shared language: paintings, multiple, gallery
 - [[knowledge/wiki/images/Illustration Installation of Multiple Square Abstract Paintings with Colorful Dots da1e21ac|Illustration Installation of Multiple Square Abstract Paintings with Colorful Dots]] — shared language: paintings, multiple, colorful
 - [[_archive/auto-generated/images-stale/installation of multiple square abstract paintings featuring colorful dots and patterns 0ac7e2d6|installation of multiple square abstract paintings featuring colorful dots and patterns]] — shared language: paintings, multiple, colorful
 - [[_archive/auto-generated/images-stale/interior photograph of a museum gallery displaying multiple framed paintings and visitors 90ddb16d|interior photograph of a museum gallery displaying multiple framed paintings and visitors]] — shared language: paintings, gallery, multiple

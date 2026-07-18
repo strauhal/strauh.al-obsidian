@@ -6,7 +6,7 @@ source_relpath: "1900s/two_figures_by_francis_bacon_1975.jpeg"
 collection: "1900s"
 inferred_year: "1975"
 artist: "francis bacon"
-dimensions: "1200x1616"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

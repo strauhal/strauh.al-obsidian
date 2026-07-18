@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Woman With A Sword In An Ornate Room.jp
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1496x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

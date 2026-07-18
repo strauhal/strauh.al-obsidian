@@ -6,7 +6,7 @@ source_relpath: "photography/Full Body Studio Photograph Of Person In Lavender S
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "3768x5651"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Full Body 
 - [[knowledge/wiki/images/Blonde Woman Jumping in Black Sweatshirt with Pixelated Graphic 07d1927b|Blonde Woman Jumping in Black Sweatshirt with Pixelated Graphic]] — shared language: sweatshirt
 - [[knowledge/wiki/images/Image Person In Clear Plastic Pants With Nokia Phone In Back Pocket ba27c689|Image Person In Clear Plastic Pants With Nokia Phone In Back Pocket]] — shared language: pants, person
 - [[knowledge/wiki/images/Paul McCartney and Earl Sweatshirt Posing Together c80d34c1|Paul McCartney and Earl Sweatshirt Posing Together]] — shared language: sweatshirt
-- [[knowledge/wiki/books/the-body-in-theory-histories-of-cultural-materialism-jean-baudrillard-sheila-faria-glaser-simulacra-and-simulation|Simulacra and Simulation]] — shared language: body
+- [[knowledge/wiki/images/Person Playing Keyboard in a Home Studio with Headphones 3c7e30c0|Person Playing Keyboard in a Home Studio with Headphones]] — shared language: studio, person
 <!-- vault-crosslinks:end -->

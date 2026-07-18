@@ -6,7 +6,7 @@ source_relpath: "1800s/the_architect_s_dream_by_thomas_cole_1840.jpeg"
 collection: "1800s"
 inferred_year: "1840"
 artist: "thomas cole"
-dimensions: "1200x735"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

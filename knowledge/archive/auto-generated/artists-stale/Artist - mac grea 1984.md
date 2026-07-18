@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - mac grea|Artist - mac grea]] — named in this note
 - [[knowledge/wiki/images/futuristic cityscape with flying vehicles and canal by mac grea 1984 2 e1de6ffb|futuristic cityscape with flying vehicles and canal by mac grea 1984 2]] — shared language: grea, mac, vehicles
 - [[knowledge/wiki/artists/Artist - Mac Baconai|Artist - Mac Baconai]] — shared language: mac
-- [[knowledge/wiki/images/Photograph Interior Study with Arched Windows Overlooking City and Water by Mac Baconai 24977561|Photograph Interior Study with Arched Windows Overlooking City and Water by Mac Baconai]] — shared language: mac
 - [[knowledge/wiki/images/Screenshot Mac OS X 10.0 Cheetah Interface by Apple Inc edc7ccde|Screenshot Mac OS X 10.0 Cheetah Interface by Apple Inc]] — shared language: mac
+- [[knowledge/wiki/images/Photograph Interior Study with Arched Windows Overlooking City and Water by Mac Baconai 24977561|Photograph Interior Study with Arched Windows Overlooking City and Water by Mac Baconai]] — shared language: mac
 <!-- vault-crosslinks:end -->

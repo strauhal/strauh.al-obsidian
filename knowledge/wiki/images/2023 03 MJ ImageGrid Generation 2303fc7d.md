@@ -6,7 +6,7 @@ source_relpath: "gif_collection/2023_03_MJ_ImageGrid_Generation.gif"
 collection: "gif_collection"
 inferred_year: "2023"
 artist: ""
-dimensions: "400x400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

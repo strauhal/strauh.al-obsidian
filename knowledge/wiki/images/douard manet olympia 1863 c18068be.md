@@ -6,7 +6,7 @@ source_relpath: "1800s/douard_manet_olympia_1863.jpg"
 collection: "1800s"
 inferred_year: "1863"
 artist: ""
-dimensions: "4346x2945"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

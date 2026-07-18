@@ -6,7 +6,7 @@ source_relpath: "1900s/The Gypsy with the Green Shawl by Robert Henri (1912).jpg
 collection: "1900s"
 inferred_year: "1912"
 artist: ""
-dimensions: "975x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

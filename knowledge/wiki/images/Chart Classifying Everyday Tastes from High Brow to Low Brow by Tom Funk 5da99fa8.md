@@ -6,7 +6,7 @@ source_relpath: "diagrams/Chart_Classifying_Everyday_Tastes_from_High-Brow_to_Lo
 collection: "diagrams"
 inferred_year: ""
 artist: "Tom Funk"
-dimensions: "2700x1810"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

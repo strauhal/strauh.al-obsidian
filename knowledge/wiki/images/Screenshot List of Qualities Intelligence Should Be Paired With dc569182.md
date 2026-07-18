@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - List of Qualities Intelligence Should Be 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1125x633"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

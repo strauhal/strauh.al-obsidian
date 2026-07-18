@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Close-Up Digital Illustration of Woman Wip
 collection: "2000s"
 inferred_year: "2000s"
 artist: "avogado6"
-dimensions: "1440x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

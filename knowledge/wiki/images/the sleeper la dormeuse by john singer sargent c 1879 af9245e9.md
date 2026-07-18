@@ -6,7 +6,7 @@ source_relpath: "1800s/the_sleeper_la_dormeuse_by_john_singer_sargent_c_1879.jpg
 collection: "1800s"
 inferred_year: "1879"
 artist: "john singer sargent"
-dimensions: "1141x741"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

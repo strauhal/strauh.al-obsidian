@@ -6,7 +6,7 @@ source_relpath: "wallpapers/creationpillars.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "1920x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

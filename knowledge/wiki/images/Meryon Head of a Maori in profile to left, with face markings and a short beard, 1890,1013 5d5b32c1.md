@@ -6,7 +6,7 @@ source_relpath: "1000s/Meryon_-_Head_of_a_Maori;_in_profile_to_left,_with_face_m
 collection: "1000s"
 inferred_year: "1890"
 artist: ""
-dimensions: "819x1286"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1000s"]
 ---

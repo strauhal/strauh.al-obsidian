@@ -6,7 +6,7 @@ source_relpath: "photography/White Woven Fabric Layered On Red Background With D
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "800x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

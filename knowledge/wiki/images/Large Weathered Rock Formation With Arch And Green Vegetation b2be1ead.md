@@ -6,7 +6,7 @@ source_relpath: "photography/Large Weathered Rock Formation With Arch And Green 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1422x1422"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

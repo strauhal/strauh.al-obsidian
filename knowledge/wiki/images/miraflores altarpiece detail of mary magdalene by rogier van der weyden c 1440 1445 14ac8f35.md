@@ -6,7 +6,7 @@ source_relpath: "1400s/miraflores_altarpiece_detail_of_mary_magdalene_by_rogier_
 collection: "1400s"
 inferred_year: "1445"
 artist: "rogier van der weyden"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

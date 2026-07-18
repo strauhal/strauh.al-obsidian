@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photograph of a Gold Mine by Sebast
 collection: "photography"
 inferred_year: ""
 artist: "Sebasti o Salgado"
-dimensions: "4398x2848"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Black and 
 - [[knowledge/wiki/images/Photograph Ornate Gold and Blue Tiled Ceiling 48cfe733|Photograph Ornate Gold and Blue Tiled Ceiling]] — shared language: gold
 - [[knowledge/wiki/images/Illustration Religious Painting of Woman with Halo, Angels, and Gold Background 26604247|Illustration Religious Painting of Woman with Halo, Angels, and Gold Background]] — shared language: gold
 - [[knowledge/wiki/images/Illustration Impressionistic Muted Landscape Painting in Ornate Gold Frame c2346fb3|Illustration Impressionistic Muted Landscape Painting in Ornate Gold Frame]] — shared language: gold
-- [[knowledge/wiki/images/Illustration Stylized Profile of Woman with Gold Earring and Necklace 531f6f09|Illustration Stylized Profile of Woman with Gold Earring and Necklace]] — shared language: gold
+- [[knowledge/wiki/images/Illustration Angel like Figure with Sword and Bird Against Gold Background 34bcbd09|Illustration Angel like Figure with Sword and Bird Against Gold Background]] — shared language: gold
 <!-- vault-crosslinks:end -->

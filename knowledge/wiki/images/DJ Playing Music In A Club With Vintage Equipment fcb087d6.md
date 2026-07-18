@@ -6,7 +6,7 @@ source_relpath: "photography/DJ Playing Music In A Club With Vintage Equipment.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x630"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

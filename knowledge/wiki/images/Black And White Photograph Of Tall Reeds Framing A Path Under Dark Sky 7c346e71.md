@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photograph Of Tall Reeds Framing A 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "5945x3969"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

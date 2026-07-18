@@ -6,7 +6,7 @@ source_relpath: "photography/Modern Concert Hall Interior with Grand Piano and W
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "736x736"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

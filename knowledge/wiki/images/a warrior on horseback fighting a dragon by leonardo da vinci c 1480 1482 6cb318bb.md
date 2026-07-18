@@ -6,7 +6,7 @@ source_relpath: "1400s/a_warrior_on_horseback_fighting_a_dragon_by_leonardo_da_v
 collection: "1400s"
 inferred_year: "1482"
 artist: "leonardo da vinci"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

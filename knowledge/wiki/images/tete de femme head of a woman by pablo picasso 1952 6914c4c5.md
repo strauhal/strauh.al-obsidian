@@ -6,7 +6,7 @@ source_relpath: "1900s/tete_de_femme_head_of_a_woman_by_pablo_picasso_1952.jpeg"
 collection: "1900s"
 inferred_year: "1952"
 artist: "pablo picasso"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

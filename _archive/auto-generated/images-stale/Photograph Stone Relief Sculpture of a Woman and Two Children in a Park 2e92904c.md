@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[_archive/auto-generated/images-stale/stone relief sculpture of a highly textured corpus on a cross mounted on a stone wall bd655d06|stone relief sculpture of a highly textured corpus on a cross mounted on a stone wall]] — shared language: relief, stone, sculpture
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: children
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: children
-- [[_archive/auto-generated/images-stale/framed park scene with children and women under trees 550956fa|framed park scene with children and women under trees]] — shared language: children, park
+- [[_archive/auto-generated/images-stale/framed park scene with children and women under trees 550956fa|framed park scene with children and women under trees]] — shared language: park, children
 <!-- vault-crosslinks:end -->

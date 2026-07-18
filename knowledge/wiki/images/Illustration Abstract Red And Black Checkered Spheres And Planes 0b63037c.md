@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Red And Black Checkered Sphere
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1280x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Abstract Digital Composition with Intersecting Gridded Planes ea15b3b0|Illustration Abstract Digital Composition with Intersecting Gridded Planes]] — shared language: planes
 - [[knowledge/wiki/images/the music of the spheres by franklin booth 1914 d7d2a115|the music of the spheres by franklin booth 1914]] — shared language: spheres
 - [[knowledge/wiki/images/Screenshot Screenshot of Game Development Environment with Abstract Textured Planes 676b65dd|Screenshot Screenshot of Game Development Environment with Abstract Textured Planes]] — shared language: planes, planes.png
-- [[knowledge/wiki/images/galatea of the spheres by salvador dali 1952 d8ac9491|galatea of the spheres by salvador dali 1952]] — shared language: spheres
+- [[knowledge/wiki/images/Diagram Illustrating Intersecting Planes of Wine Making and Printing e747a29f|Diagram Illustrating Intersecting Planes of Wine Making and Printing]] — shared language: planes
 <!-- vault-crosslinks:end -->

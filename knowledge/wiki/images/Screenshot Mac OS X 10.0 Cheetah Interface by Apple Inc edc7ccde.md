@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Mac OS X 10.0 Cheetah Interface by Apple Inc
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Apple Inc"
-dimensions: "800x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

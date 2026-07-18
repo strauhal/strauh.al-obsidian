@@ -6,7 +6,7 @@ source_relpath: "1600s/allegory_of_abundance_by_jan_van_kessel_the_elder_c_1660.
 collection: "1600s"
 inferred_year: "1660"
 artist: "jan van kessel the elder"
-dimensions: "2000x1282"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

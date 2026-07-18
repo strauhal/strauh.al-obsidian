@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Monochrome Graphics Software Interface wi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1024x684"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

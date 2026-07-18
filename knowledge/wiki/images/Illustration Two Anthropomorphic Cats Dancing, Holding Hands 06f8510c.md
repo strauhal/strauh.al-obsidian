@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Two Anthropomorphic Cats Dancing, Holding 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "563x456"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

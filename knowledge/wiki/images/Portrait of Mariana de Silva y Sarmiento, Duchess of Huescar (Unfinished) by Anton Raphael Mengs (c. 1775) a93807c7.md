@@ -6,7 +6,7 @@ source_relpath: "2000s/Portrait of Mariana de Silva y Sarmiento, Duchess of Hues
 collection: "2000s"
 inferred_year: "1775"
 artist: ""
-dimensions: "1510x1867"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

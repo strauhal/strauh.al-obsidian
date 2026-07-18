@@ -6,7 +6,7 @@ source_relpath: "1800s/charles_meryon_the_apse_of_notre_dame_paris_1854_ii_jpg.j
 collection: "1800s"
 inferred_year: "1854"
 artist: ""
-dimensions: "3046x1641"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

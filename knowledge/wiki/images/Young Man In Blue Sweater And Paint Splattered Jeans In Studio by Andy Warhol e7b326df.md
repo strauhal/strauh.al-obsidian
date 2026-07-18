@@ -6,7 +6,7 @@ source_relpath: "photography/Young Man In Blue Sweater And Paint-Splattered Jean
 collection: "photography"
 inferred_year: ""
 artist: "Andy Warhol"
-dimensions: "1010x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

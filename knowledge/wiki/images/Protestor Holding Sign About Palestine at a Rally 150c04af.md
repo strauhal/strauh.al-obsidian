@@ -6,7 +6,7 @@ source_relpath: "photography/Protestor Holding Sign About Palestine at a Rally.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "956x1196"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

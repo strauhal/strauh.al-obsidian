@@ -6,7 +6,7 @@ source_relpath: "2000s/The Coronation of Napoleon by Jacques-Louis David (1805-1
 collection: "2000s"
 inferred_year: "1807"
 artist: ""
-dimensions: "6000x3773"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

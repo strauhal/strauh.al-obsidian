@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Stylized Theatrical Set Model with Asian Archi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1034x625"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

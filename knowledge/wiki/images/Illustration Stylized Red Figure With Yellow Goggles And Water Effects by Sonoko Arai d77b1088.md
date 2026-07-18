@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Red Figure With Yellow Goggles
 collection: "unsorted"
 inferred_year: ""
 artist: "Sonoko Arai"
-dimensions: "1741x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

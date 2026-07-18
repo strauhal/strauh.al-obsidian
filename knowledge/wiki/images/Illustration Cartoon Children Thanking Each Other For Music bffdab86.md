@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Cartoon Children Thanking Each Other Fo
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: children
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: music
-- [[knowledge/wiki/images/Illustration Black And White Cartoon Music Characters With Halftone Shading 5a99a9e4|Illustration Black And White Cartoon Music Characters With Halftone Shading]] — shared language: cartoon, music
+- [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
+- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: children
 <!-- vault-crosslinks:end -->

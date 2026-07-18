@@ -6,7 +6,7 @@ source_relpath: "1800s/the_spinner_die_spinnerin_by_franz_von_defregger_c_1873.j
 collection: "1800s"
 inferred_year: "1873"
 artist: "franz von defregger"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

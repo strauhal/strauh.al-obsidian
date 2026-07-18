@@ -16,5 +16,5 @@
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: screen, body
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: control, body
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: observer
-- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: memory
+- [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: age
 <!-- vault-crosslinks:end -->

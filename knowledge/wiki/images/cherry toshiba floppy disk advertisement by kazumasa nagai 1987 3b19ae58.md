@@ -6,7 +6,7 @@ source_relpath: "1900s/cherry_toshiba_floppy_disk_advertisement_by_kazumasa_naga
 collection: "1900s"
 inferred_year: "1987"
 artist: "kazumasa nagai"
-dimensions: "1034x738"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

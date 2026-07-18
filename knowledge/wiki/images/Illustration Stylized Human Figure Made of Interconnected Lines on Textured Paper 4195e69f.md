@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Human Figure Made of Interconn
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2388x2966"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

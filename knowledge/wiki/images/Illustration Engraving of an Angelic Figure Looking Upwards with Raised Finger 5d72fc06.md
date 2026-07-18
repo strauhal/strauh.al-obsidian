@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Engraving of an Angelic Figure Looking 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1349"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

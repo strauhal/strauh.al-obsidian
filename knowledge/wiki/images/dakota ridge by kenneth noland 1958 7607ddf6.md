@@ -6,7 +6,7 @@ source_relpath: "1900s/dakota_ridge_by_kenneth_noland_1958.jpeg"
 collection: "1900s"
 inferred_year: "1958"
 artist: "kenneth noland"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

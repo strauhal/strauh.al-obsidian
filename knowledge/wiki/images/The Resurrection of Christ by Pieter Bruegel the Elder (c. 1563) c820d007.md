@@ -6,7 +6,7 @@ source_relpath: "2000s/The Resurrection of Christ by Pieter Bruegel the Elder (c
 collection: "2000s"
 inferred_year: "1563"
 artist: ""
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

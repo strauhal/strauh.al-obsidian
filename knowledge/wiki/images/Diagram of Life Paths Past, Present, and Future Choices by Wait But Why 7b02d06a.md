@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_Life_Paths:_Past,_Present,_and_Future_Choic
 collection: "diagrams"
 inferred_year: ""
 artist: "Wait But Why"
-dimensions: "1279x808"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/3D_Mesh_Plot_Of_Sinc_Function_With_X,_Y,_And_Sinc(R)_A
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "2560x1920"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

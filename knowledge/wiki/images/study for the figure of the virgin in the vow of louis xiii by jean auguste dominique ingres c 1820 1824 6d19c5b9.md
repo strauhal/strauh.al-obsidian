@@ -6,7 +6,7 @@ source_relpath: "1800s/study_for_the_figure_of_the_virgin_in_the_vow_of_louis_xi
 collection: "1800s"
 inferred_year: "1824"
 artist: "jean auguste dominique ingres"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

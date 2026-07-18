@@ -6,7 +6,7 @@ source_relpath: "1900s/the_archer_by_maxfield_parrish_1920.jpg"
 collection: "1900s"
 inferred_year: "1920"
 artist: "maxfield parrish"
-dimensions: "2494x3000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

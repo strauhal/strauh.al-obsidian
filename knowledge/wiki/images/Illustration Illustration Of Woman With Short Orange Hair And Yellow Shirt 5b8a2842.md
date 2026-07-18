@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Illustration Of Woman With Short Orange
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "909x981"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/street_berlin_by_ernst_ludwig_kirchner_1913.jpeg"
 collection: "1900s"
 inferred_year: "1913"
 artist: "ernst ludwig kirchner"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

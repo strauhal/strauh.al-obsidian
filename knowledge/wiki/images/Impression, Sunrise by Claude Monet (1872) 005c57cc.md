@@ -6,7 +6,7 @@ source_relpath: "1800s/Impression, Sunrise by Claude Monet (1872).jpeg"
 collection: "1800s"
 inferred_year: "1872"
 artist: ""
-dimensions: "1000x777"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

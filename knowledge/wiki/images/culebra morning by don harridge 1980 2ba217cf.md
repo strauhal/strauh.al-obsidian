@@ -6,7 +6,7 @@ source_relpath: "1900s/culebra_morning_by_don_harridge_1980.jpeg"
 collection: "1900s"
 inferred_year: "1980"
 artist: "don harridge"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

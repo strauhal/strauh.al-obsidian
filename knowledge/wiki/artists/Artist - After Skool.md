@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Red and Blue Geometric Shapes on Black Background 825d4435|Illustration Abstract Red and Blue Geometric Shapes on Black Background]] — shared language: shapes, geometric
-- [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: atomic
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting with Blue, Grey, White, and Black Shapes 9fea82c3|Illustration Abstract Geometric Painting with Blue, Grey, White, and Black Shapes]] — shared language: shapes, geometric
 - [[knowledge/wiki/images/Illustration Abstract Painting of Interlocking Bright Geometric Shapes 7db191c0|Illustration Abstract Painting of Interlocking Bright Geometric Shapes]] — shared language: shapes, geometric
 - [[knowledge/wiki/images/Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines 3896cd1d|Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines]] — shared language: shapes, geometric
 - [[knowledge/wiki/images/Illustration Abstract Painting Of Geometric Shapes And Flowing Forms 70d054c6|Illustration Abstract Painting Of Geometric Shapes And Flowing Forms]] — shared language: shapes, geometric
+- [[knowledge/wiki/images/Illustration Abstract Geometric Painting With Various Colored Shapes 530e7213|Illustration Abstract Geometric Painting With Various Colored Shapes]] — shared language: shapes, geometric
 <!-- vault-crosslinks:end -->

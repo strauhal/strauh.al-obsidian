@@ -6,7 +6,7 @@ source_relpath: "photography/Michael Jackson in Metallic Costume.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1027x1284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

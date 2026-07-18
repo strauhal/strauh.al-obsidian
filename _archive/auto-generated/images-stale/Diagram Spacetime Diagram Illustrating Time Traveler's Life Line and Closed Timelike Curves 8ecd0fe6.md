@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Spa
 - [[knowledge/wiki/images/Spacetime Diagram Illustrating Time Traveler's Life Line and Closed Timelike Curves 29faa692|Spacetime Diagram Illustrating Time Traveler's Life Line and Closed Timelike Curves]] — shared language: spacetime, timelike, traveler's
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: time, life
-- [[_archive/auto-generated/books-stale/in-search-of-lost-time-complete-volumes|In Search of Lost Time (Complete Volumes)]] — shared language: time
 - [[knowledge/wiki/images/Diagram Eight Numbered Graphs Illustrating Harmonic Curves a68f2c9d|Diagram Eight Numbered Graphs Illustrating Harmonic Curves]] — shared language: curves, diagram
+- [[_archive/auto-generated/books-stale/in-search-of-lost-time-complete-volumes|In Search of Lost Time (Complete Volumes)]] — shared language: time
 <!-- vault-crosslinks:end -->

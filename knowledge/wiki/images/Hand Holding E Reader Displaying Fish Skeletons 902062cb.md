@@ -6,7 +6,7 @@ source_relpath: "photography/Hand Holding E-Reader Displaying Fish Skeletons.jpe
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "750x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

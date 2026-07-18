@@ -6,7 +6,7 @@ source_relpath: "implicitdistance/mockup.png"
 collection: "implicitdistance"
 inferred_year: ""
 artist: ""
-dimensions: "640x480"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/implicitdistance"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Grid of Vintage Computer Operating Syst
 collection: "unsorted"
 inferred_year: ""
 artist: "Microsoft"
-dimensions: "540x608"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

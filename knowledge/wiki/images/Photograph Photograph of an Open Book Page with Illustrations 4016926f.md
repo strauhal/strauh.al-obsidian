@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Photograph of an Open Book Page with Illustr
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

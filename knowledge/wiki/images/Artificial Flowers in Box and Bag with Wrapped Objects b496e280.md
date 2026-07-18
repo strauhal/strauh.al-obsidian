@@ -6,7 +6,7 @@ source_relpath: "photography/Artificial Flowers in Box and Bag with Wrapped Obje
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "725x544"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

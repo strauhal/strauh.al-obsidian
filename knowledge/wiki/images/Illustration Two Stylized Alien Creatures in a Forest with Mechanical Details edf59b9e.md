@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Stylized Alien Creatures in a Fores
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "816x1456"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

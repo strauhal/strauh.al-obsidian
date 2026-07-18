@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Surreal Ballpoint Pen Drawing of Creatu
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2980x2362"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

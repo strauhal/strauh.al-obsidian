@@ -6,7 +6,7 @@ source_relpath: "photography/Onsen I by Yusuke Yamatani.webp"
 collection: "photography"
 inferred_year: ""
 artist: "Yusuke Yamatani"
-dimensions: "1334x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

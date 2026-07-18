@@ -6,8 +6,8 @@ category: drawing-submission
 message_count: 1
 incoming_count: 1
 tags: [private, correspondence, fanmail]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # My drawing i made
@@ -23,3 +23,16 @@ updated: 2026-07-15
 Heres a drawing from me. You can use a username "TriageONE". Its late and I was bored, and clicked your ad on 4chan's /g/ board, what a fun little website. An occulus into the mind of someone else. And also, you got me to use email too, thats rare.
 
 ![[knowledge/private/fanmail/attachments/5132016a0acb.png]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/private/fanmail/threads/12-my-drawing-i-made|Private Correspondence - 12 - My drawing i made]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/40-untitled|Private Correspondence - 40 - Untitled]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/03-art|Private Correspondence - 03 - art]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/08-drawing|Private Correspondence - 08 - drawing]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/11-drawing|Private Correspondence - 11 - drawing]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/23-my-drawing|Private Correspondence - 23 - My drawing]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/29-picture|Private Correspondence - 29 - picture]] — same category: drawing-submission
+<!-- vault-crosslinks:end -->

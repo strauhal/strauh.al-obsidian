@@ -6,7 +6,7 @@ source_relpath: "1900s/black_and_white_by_wassily_kandinsky_1930.jpeg"
 collection: "1900s"
 inferred_year: "1930"
 artist: "wassily kandinsky"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

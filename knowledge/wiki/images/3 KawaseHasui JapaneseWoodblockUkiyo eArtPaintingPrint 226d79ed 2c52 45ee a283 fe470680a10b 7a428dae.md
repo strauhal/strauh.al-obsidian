@@ -6,7 +6,7 @@ source_relpath: "artists/kawase_husui/3-KawaseHasui-JapaneseWoodblockUkiyo-eArtP
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "1100x1582"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

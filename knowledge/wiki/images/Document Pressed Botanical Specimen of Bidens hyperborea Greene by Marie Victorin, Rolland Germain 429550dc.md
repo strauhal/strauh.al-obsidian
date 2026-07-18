@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Pressed Botanical Specimen of Bidens hyperb
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1709x2559"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

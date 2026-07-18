@@ -6,7 +6,7 @@ source_relpath: "1700s/june_from_the_twelve_months_of_flowers_by_pieter_casteels
 collection: "1700s"
 inferred_year: "1730"
 artist: "pieter casteels iii"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

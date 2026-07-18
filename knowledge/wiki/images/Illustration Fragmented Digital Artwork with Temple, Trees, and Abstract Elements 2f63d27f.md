@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Fragmented Digital Artwork with Temple,
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "4000x4000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

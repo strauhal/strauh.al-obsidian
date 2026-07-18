@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Detailed Line Drawing of Mecha Torso, Clen
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1297x926"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

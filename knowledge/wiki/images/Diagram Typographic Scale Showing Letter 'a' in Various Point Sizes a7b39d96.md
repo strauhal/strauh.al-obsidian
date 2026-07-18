@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Typographic Scale Showing Letter 'a' in Various
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "520x140"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

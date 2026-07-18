@@ -6,7 +6,7 @@ source_relpath: "1800s/the_doge_s_palace_venice_by_federico_moja_1855.jpg"
 collection: "1800s"
 inferred_year: "1855"
 artist: "federico moja"
-dimensions: "6510x4710"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

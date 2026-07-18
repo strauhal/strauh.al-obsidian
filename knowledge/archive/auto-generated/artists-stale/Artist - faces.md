@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/faces edb813cb|faces]] — shared language: faces
 - [[_archive/auto-generated/images-stale/black and white manga panel featuring three figures faces cd3e84ab|black and white manga panel featuring three figures faces]] — shared language: faces, panel
 - [[knowledge/wiki/images/Illustration Three Figures With Obscured Faces in a Painting de85553b|Illustration Three Figures With Obscured Faces in a Painting]] — shared language: faces
-- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: faces
 - [[knowledge/wiki/images/Illustration Black And White Ink Sketches Of Human Faces And Figures 2144f811|Illustration Black And White Ink Sketches Of Human Faces And Figures]] — shared language: faces
+- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: faces
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1800s/Castle Ruin in the Mountains by Carl Blechen (c. 1827-182
 collection: "1800s"
 inferred_year: "1828"
 artist: ""
-dimensions: "1034x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

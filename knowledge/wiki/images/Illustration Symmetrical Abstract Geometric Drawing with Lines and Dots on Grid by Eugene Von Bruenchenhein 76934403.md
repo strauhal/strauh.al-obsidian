@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Symmetrical Abstract Geometric Drawing 
 collection: "unsorted"
 inferred_year: ""
 artist: "Eugene Von Bruenchenhein"
-dimensions: "1393x1087"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Vibrant Fauvist Interior with Black Cat
 collection: "unsorted"
 inferred_year: ""
 artist: "Open Door"
-dimensions: "850x1096"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Bartender from The Town with No Name by Delt
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Delta 4"
-dimensions: "499x276"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Bar
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: name
 - [[knowledge/wiki/images/your name 40009423|your name]] — shared language: name
 - [[knowledge/wiki/images/Illustration Bar Scene with Distorted Figures and Bartender by Enrico Robusti ec855063|Illustration Bar Scene with Distorted Figures and Bartender by Enrico Robusti]] — shared language: bartender
 - [[knowledge/wiki/images/dancing in the town by auguste renoir 1883 070822ea|dancing in the town by auguste renoir 1883]] — shared language: town
 - [[knowledge/private/fanmail/threads/14-name-change|Private Correspondence - 14 - Name change]] — shared language: name
-- [[knowledge/wiki/images/Illustration Watercolor Painting of a Small Town with Church Steeple d45837cd|Illustration Watercolor Painting of a Small Town with Church Steeple]] — shared language: town
 <!-- vault-crosslinks:end -->

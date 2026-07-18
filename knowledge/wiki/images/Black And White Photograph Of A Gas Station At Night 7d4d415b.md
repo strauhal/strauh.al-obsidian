@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photograph Of A Gas Station At Nigh
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "4032x2688"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

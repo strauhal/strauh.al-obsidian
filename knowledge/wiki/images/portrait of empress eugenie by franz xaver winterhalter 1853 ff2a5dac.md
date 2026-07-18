@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_empress_eugenie_by_franz_xaver_winterhalter_1
 collection: "1800s"
 inferred_year: "1853"
 artist: "franz xaver winterhalter"
-dimensions: "1408x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_the_Book_of_Revelation's_Structure_and_Them
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "573x900"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

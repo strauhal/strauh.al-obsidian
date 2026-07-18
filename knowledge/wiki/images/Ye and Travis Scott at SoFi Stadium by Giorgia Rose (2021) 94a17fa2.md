@@ -6,7 +6,7 @@ source_relpath: "2000s/Ye and Travis Scott at SoFi Stadium by Giorgia Rose (2021
 collection: "2000s"
 inferred_year: "2021"
 artist: ""
-dimensions: "1183x1591"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

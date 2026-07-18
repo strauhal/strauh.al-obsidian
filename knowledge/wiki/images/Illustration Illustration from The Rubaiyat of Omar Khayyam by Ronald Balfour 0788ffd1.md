@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Illustration from The Rubaiyat of Omar Kha
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Ronald Balfour"
-dimensions: "1359x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

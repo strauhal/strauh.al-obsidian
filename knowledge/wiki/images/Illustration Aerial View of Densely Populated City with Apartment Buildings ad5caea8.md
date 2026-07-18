@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Aerial View of Densely Populated City w
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1436"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

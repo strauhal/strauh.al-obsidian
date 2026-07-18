@@ -6,7 +6,7 @@ source_relpath: "1500s/Hercules by Hendrick Goltzius (1589).jpg"
 collection: "1500s"
 inferred_year: "1589"
 artist: ""
-dimensions: "868x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

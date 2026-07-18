@@ -6,7 +6,7 @@ source_relpath: "1900s/marilyn_monroe_in_red_swimsuit_with_parasol_by_frank_powo
 collection: "1900s"
 inferred_year: "1953"
 artist: "frank powolny"
-dimensions: "2280x2800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

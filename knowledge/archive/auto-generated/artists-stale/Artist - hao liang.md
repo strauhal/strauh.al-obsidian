@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hao liang 2022|Artist - hao liang 2022]] — named in this note
 - [[knowledge/wiki/images/john martin belshazzars feast 1821 011bcb64|john martin belshazzars feast 1821]] — shared language: feast
+- [[knowledge/private/fanmail/threads/16-human-feast|Private Correspondence - 16 - Human Feast]] — shared language: feast
 - [[knowledge/wiki/images/belshazzar s feast by john martin 1821 2bd9914e|belshazzar s feast by john martin 1821]] — shared language: feast
 - [[knowledge/wiki/images/belshazzar s feast by john martin 1821 2 9c833927|belshazzar s feast by john martin 1821 2]] — shared language: feast
-- [[_archive/auto-generated/images-stale/belshazzar s feast by odd nerdrum 2005 68759adc|belshazzar s feast by odd nerdrum 2005]] — shared language: feast
 - [[knowledge/wiki/images/Illustration Surreal Feast of Nude Figures on a Food Laden Table c823411d|Illustration Surreal Feast of Nude Figures on a Food Laden Table]] — shared language: feast
 <!-- vault-crosslinks:end -->

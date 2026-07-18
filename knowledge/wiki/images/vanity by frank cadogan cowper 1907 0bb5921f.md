@@ -6,7 +6,7 @@ source_relpath: "1900s/vanity_by_frank_cadogan_cowper_1907.jpg"
 collection: "1900s"
 inferred_year: "1907"
 artist: "frank cadogan cowper"
-dimensions: "2423x1652"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

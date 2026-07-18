@@ -6,7 +6,7 @@ source_relpath: "photography/Two People Hanging Banner With Peace Message On Tal
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1376x752"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

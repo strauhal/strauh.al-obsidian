@@ -6,7 +6,7 @@ source_relpath: "2000s/Potrero Hill by Robert Bechtle (1980).jpg"
 collection: "2000s"
 inferred_year: "1980"
 artist: ""
-dimensions: "1200x842"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

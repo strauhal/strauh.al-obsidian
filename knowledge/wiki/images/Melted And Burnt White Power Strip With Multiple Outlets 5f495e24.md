@@ -6,7 +6,7 @@ source_relpath: "photography/Melted And Burnt White Power Strip With Multiple Ou
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1124x910"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

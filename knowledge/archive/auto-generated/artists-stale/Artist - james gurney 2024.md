@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - james gurney|Artist - james gurney]] — named in this note
 - [[knowledge/wiki/images/Illustration Watercolor and Ink Sketch of a Small Garden with Rocks 43decec8|Illustration Watercolor and Ink Sketch of a Small Garden with Rocks]] — named in this note
-- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: james
 - [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — shared language: james
 - [[knowledge/wiki/images/Illustration Abstract Watercolor and Ink Sketch of a Woman dca3f6d7|Illustration Abstract Watercolor and Ink Sketch of a Woman]] — shared language: watercolor, sketch, ink
 - [[knowledge/archive/auto-generated/artists-stale/Artist - james fletcher|Artist - james fletcher]] — shared language: james
+- [[knowledge/archive/auto-generated/artists-stale/Artist - james fletcher 2018|Artist - james fletcher 2018]] — shared language: james
 <!-- vault-crosslinks:end -->

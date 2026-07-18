@@ -6,7 +6,7 @@ source_relpath: "1900s/pencil_sketch_of_my_daughter_by_andrew_loomis_1946.png"
 collection: "1900s"
 inferred_year: "1946"
 artist: "andrew loomis"
-dimensions: "440x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

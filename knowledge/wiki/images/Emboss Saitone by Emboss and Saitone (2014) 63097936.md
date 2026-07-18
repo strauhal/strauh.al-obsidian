@@ -6,7 +6,7 @@ source_relpath: "2000s/Emboss - Saitone by Emboss and Saitone (2014).jpg"
 collection: "2000s"
 inferred_year: "2014"
 artist: ""
-dimensions: "1280x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

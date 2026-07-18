@@ -6,7 +6,7 @@ source_relpath: "1700s/a_group_of_artists_by_mason_chamberlin_1767.jpeg"
 collection: "1700s"
 inferred_year: "1767"
 artist: "mason chamberlin"
-dimensions: "5712x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

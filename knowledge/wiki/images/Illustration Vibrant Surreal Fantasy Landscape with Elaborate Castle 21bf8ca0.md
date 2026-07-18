@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Vibrant Surreal Fantasy Landscape with 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "928x1232"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

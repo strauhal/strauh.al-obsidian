@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Blue-Haired Warrior In Golden Armor Fig
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3676x2344"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

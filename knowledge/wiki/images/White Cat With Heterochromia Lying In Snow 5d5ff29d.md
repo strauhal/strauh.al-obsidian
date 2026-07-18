@@ -6,7 +6,7 @@ source_relpath: "photography/White Cat With Heterochromia Lying In Snow.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1280x857"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

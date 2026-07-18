@@ -6,7 +6,7 @@ source_relpath: "1800s/serhiy_vasylkivsky_on_the_pond_late_19th_century.jpg"
 collection: "1800s"
 inferred_year: "1800s"
 artist: ""
-dimensions: "1600x1070"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

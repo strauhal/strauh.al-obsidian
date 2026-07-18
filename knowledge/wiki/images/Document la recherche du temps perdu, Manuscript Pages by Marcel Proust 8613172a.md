@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - À la recherche du temps perdu, Manuscript 
 collection: "unsorted"
 inferred_year: ""
 artist: "Marcel Proust"
-dimensions: "506x337"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

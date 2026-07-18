@@ -23,7 +23,7 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - syd mead|Artist - syd mead]] — shared language: syd, mead, future
+- [[knowledge/wiki/artists/Artist - syd mead|Artist - syd mead]] — shared language: syd, mead, freeway
 - [[knowledge/archive/auto-generated/artists-stale/Artist - syd mead 1970|Artist - syd mead 1970]] — shared language: syd, mead, future
 - [[knowledge/archive/auto-generated/artists-stale/Artist - syd mead 1980|Artist - syd mead 1980]] — shared language: syd, mead
 - [[knowledge/wiki/images/future cityscape by syd mead 1970 ba707be6|future cityscape by syd mead 1970]] — shared language: syd, mead, future

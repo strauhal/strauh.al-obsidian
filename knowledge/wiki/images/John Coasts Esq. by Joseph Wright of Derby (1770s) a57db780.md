@@ -6,7 +6,7 @@ source_relpath: "1700s/John Coasts Esq. by Joseph Wright of Derby (1770s).jpeg"
 collection: "1700s"
 inferred_year: "1770"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

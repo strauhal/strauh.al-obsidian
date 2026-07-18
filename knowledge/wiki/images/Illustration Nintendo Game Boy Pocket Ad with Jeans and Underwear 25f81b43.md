@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Nintendo Game Boy Pocket Ad with Jeans 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1644x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

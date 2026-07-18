@@ -6,7 +6,7 @@ source_relpath: "diary/redguys.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1068x591"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

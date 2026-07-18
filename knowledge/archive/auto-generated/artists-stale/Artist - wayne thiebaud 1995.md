@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1980|Artist - wayne thiebaud 1980]] — shared language: thiebaud, wayne
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1994|Artist - wayne thiebaud 1994]] — shared language: thiebaud, wayne
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1956|Artist - wayne thiebaud 1956]] — shared language: thiebaud, wayne
-- [[knowledge/wiki/artists/Artist - wayne thiebaud|Artist - wayne thiebaud]] — shared language: thiebaud, wayne, chair
+- [[knowledge/wiki/images/sacramento by wayne thiebaud 1982 da0dacb7|sacramento by wayne thiebaud 1982]] — shared language: thiebaud, wayne
 <!-- vault-crosslinks:end -->

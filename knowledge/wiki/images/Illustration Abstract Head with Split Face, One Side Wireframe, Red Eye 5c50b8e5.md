@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Head with Split Face, One Side Wi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "512x664"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

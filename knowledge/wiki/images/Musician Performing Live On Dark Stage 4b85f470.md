@@ -6,7 +6,7 @@ source_relpath: "photography/Musician Performing Live On Dark Stage.png"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "640x965"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1600s/saint_francis_in_meditation_by_francisco_de_zurbaran_c_16
 collection: "1600s"
 inferred_year: "1639"
 artist: "francisco de zurbaran"
-dimensions: "678x850"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

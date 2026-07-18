@@ -6,7 +6,7 @@ source_relpath: "1800s/la_joueuse_de_vielle_by_william_adolphe_bouguereau_1874.j
 collection: "1800s"
 inferred_year: "1874"
 artist: "william adolphe bouguereau"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

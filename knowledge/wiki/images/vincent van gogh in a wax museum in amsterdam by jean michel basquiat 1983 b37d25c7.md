@@ -6,7 +6,7 @@ source_relpath: "1900s/vincent_van_gogh_in_a_wax_museum_in_amsterdam_by_jean_mic
 collection: "1900s"
 inferred_year: "1983"
 artist: "jean michel basquiat"
-dimensions: "692x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

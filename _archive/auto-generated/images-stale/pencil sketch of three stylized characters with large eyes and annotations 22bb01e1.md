@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Black and White Drawing of Three Stylized Figures 79ec4642|Illustration Black and White Drawing of Three Stylized Figures]] — shared language: three, stylized
 - [[_archive/auto-generated/images-stale/pencil and colored sketch of a woman s face with teal eyes 4d445a60|pencil and colored sketch of a woman s face with teal eyes]] — shared language: eyes, pencil, sketch
-- [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: annotations
+- [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: three
 <!-- vault-crosslinks:end -->

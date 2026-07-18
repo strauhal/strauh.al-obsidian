@@ -14,11 +14,11 @@ This note exists because generated pages linked this spelling or alias. The rich
 ## Discovered Connections
 
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: attention, economy
-- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, alias, richer
-- [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, richer, spelling
+- [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, richer, spelling
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: linked, pages
 - [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: attention, economy
-- [[_archive/auto-generated/concept-stubs/escher|escher]] — shared language: canonical, alias, richer
-- [[_archive/auto-generated/concept-stubs/AI Slop|AI Slop]] — shared language: canonical, alias, richer
-- [[_archive/auto-generated/concept-stubs/Memory and Preservation|Memory and Preservation]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/AI Slop|AI Slop]] — shared language: canonical, richer, spelling
+- [[_archive/auto-generated/concept-stubs/escher|escher]] — shared language: canonical, richer, spelling
+- [[_archive/auto-generated/concept-stubs/Memory and Preservation|Memory and Preservation]] — shared language: canonical, richer, spelling
 <!-- vault-crosslinks:end -->

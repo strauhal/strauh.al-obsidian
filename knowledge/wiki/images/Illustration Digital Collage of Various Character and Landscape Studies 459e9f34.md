@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Digital Collage of Various Character and L
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1188x1165"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

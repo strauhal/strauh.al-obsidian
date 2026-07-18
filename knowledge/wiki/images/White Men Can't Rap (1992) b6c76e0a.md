@@ -6,7 +6,7 @@ source_relpath: "1900s/White Men Can't Rap (1992).jpg"
 collection: "1900s"
 inferred_year: "1992"
 artist: ""
-dimensions: "400x400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/White Men Can't 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: can't
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: can't
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: can't
-- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: can't
+- [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: men
 <!-- vault-crosslinks:end -->

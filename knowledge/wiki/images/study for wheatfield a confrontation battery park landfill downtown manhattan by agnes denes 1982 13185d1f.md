@@ -6,7 +6,7 @@ source_relpath: "1900s/study_for_wheatfield_a_confrontation_battery_park_landfil
 collection: "1900s"
 inferred_year: "1982"
 artist: "agnes denes"
-dimensions: "564x591"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Four_Diagrams_Illustrating_Thelemic_Ritualistic_Poses_
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "761x370"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

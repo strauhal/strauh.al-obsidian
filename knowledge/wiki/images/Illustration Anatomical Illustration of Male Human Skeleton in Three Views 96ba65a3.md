@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Anatomical Illustration of Male Human Skel
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Three Anatomical Illustrations of Male Musculature, Front, Back, Side Views by Julius Tandler 7a051cec|Illustration Three Anatomical Illustrations of Male Musculature, Front, Back, Side Views by Julius Tandler]] — shared language: anatomical, views, male
 - [[knowledge/wiki/images/Diagram Three Line Drawings of Female Skeleton Back, Side, Front Views d991f361|Diagram Three Line Drawings of Female Skeleton Back, Side, Front Views]] — shared language: skeleton, views, three
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: anatomical
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
+- [[knowledge/wiki/images/Diagram Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton 99c06aeb|Diagram Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton]] — shared language: anatomical, skeleton, human
 <!-- vault-crosslinks:end -->

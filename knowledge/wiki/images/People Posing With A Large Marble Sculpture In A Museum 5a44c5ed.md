@@ -6,7 +6,7 @@ source_relpath: "photography/People Posing With A Large Marble Sculpture In A Mu
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1032x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

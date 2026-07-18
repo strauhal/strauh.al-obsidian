@@ -6,7 +6,7 @@ source_relpath: "1900s/le_balcon_the_balcony_by_pierre_bonnard_1909.jpg"
 collection: "1900s"
 inferred_year: "1909"
 artist: "pierre bonnard"
-dimensions: "1369x1868"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

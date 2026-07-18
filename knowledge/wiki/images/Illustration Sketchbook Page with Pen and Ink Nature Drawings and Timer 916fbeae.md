@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Sketchbook Page with Pen and Ink Nature
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1233x1713"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: among, line
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: among, line
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: among, life
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: among, line
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line, among
 <!-- vault-crosslinks:end -->

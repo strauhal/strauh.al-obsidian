@@ -2,13 +2,13 @@
 title: Library - Art and Aesthetics
 type: map
 tags: [map, library, books]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Library - Art and Aesthetics
 
-Books/files: 69
+Books/files: 70
 
 ## Titles
 
@@ -23,6 +23,7 @@ Books/files: 69
 - [[Technically, Man Dwells Upon This Earth]]
 - [[art reading]]
 - [[arthouse animations]]
+- [[martin-heidegger-hegels-phenomenology-of-spirit]]
 - [[Francis Bacon The Logic of Sensation-Continuum]] — (Athlone Contemporary European Thinkers) Gilles Deleuze
 - [[Code as Creative Medium A Handbook for Computational Art and Design-MIT Press]] — (EPUB) Golan Levin Tega Brain
 - [[Meditations First Philosophy-Oxford University Press, USA]] — (Oxford World's Classics) René Descartes, Michael Moriarty

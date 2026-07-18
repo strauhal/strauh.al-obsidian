@@ -6,7 +6,7 @@ source_relpath: "diagrams/Calculus_Formulas_and_Python_Code_for_Derivatives_and_
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1518x640"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

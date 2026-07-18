@@ -6,7 +6,7 @@ source_relpath: "1800s/in_the_salon_at_the_rue_des_moulins_by_henri_de_toulouse_
 collection: "1800s"
 inferred_year: "1894"
 artist: "henri de toulouse lautrec"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

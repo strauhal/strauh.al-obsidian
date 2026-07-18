@@ -6,7 +6,7 @@ source_relpath: "1900s/family_at_supper_oklahoma_by_arthur_rothstein_1936.jpeg"
 collection: "1900s"
 inferred_year: "1936"
 artist: "arthur rothstein"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

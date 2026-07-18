@@ -19,6 +19,6 @@ This note exists because generated pages linked this spelling or alias. The rich
 - [[_archive/auto-generated/books-stale/tim-hecker-thesis|tim hecker thesis]] — shared language: hecker, tim
 - [[knowledge/wiki/images/Konoyo by Tim Hecker (2018) 868cdfc3|Konoyo by Tim Hecker (2018)]] — shared language: hecker, tim
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: linked, pages
-- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, alias, richer
-- [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, richer, spelling
+- [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, richer, spelling
 <!-- vault-crosslinks:end -->

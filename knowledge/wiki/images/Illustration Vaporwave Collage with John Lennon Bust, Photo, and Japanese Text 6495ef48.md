@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Vaporwave Collage with John Lennon Bust
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1280x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

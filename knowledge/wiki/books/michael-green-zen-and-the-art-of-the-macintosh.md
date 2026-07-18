@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Zen the Art of Macintosh1986]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Zen__the_Art_of_Macintosh1986.pdf"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Zen and the Art of the Macintosh

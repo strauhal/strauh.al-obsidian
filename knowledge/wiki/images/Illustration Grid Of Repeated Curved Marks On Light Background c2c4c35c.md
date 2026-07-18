@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Grid Of Repeated Curved Marks On Light 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "756x768"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
 - [[knowledge/wiki/images/Illustration Abstract Painting Of Dense Orange Marks On Black Background 47531862|Illustration Abstract Painting Of Dense Orange Marks On Black Background]] — shared language: marks, background
 - [[knowledge/wiki/images/Illustration Warped Dark Grid on Textured Light Blue Background 93645266|Illustration Warped Dark Grid on Textured Light Blue Background]] — shared language: grid, light, background
-- [[knowledge/wiki/images/Diagram Black And White Visualization Of Curved Lines In 3D cbca891d|Diagram Black And White Visualization Of Curved Lines In 3D]] — shared language: curved
+- [[knowledge/wiki/images/Screenshot Underlined Text '(You)' on Light Background 02efe092|Screenshot Underlined Text '(You)' on Light Background]] — shared language: light, background
 <!-- vault-crosslinks:end -->

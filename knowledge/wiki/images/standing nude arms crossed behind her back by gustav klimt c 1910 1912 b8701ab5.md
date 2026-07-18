@@ -6,7 +6,7 @@ source_relpath: "1900s/standing_nude_arms_crossed_behind_her_back_by_gustav_klim
 collection: "1900s"
 inferred_year: "1912"
 artist: "gustav klimt"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

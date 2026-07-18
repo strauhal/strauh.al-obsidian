@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Green Character Jumping Over Broken Skateboard, Saying 'Oh Sh t' by Dan Hipp 1eea0d53|Illustration Green Character Jumping Over Broken Skateboard, Saying 'Oh Sh t' by Dan Hipp]] — shared language: jumping, skateboard, broken
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken, comic
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
 - [[knowledge/wiki/artists/Artist - Dan Hipp|Artist - Dan Hipp]] — shared language: jumping, skateboard, broken
 - [[_archive/auto-generated/images-stale/stylized marker drawing of a character jumping with a spray can a96ffc77|stylized marker drawing of a character jumping with a spray can]] — shared language: jumping, character

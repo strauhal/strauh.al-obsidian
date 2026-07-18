@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Character Design Sketches of a Rider an
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1200x908"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/The Rider by Zolt n Magyar (2020) 3a927ee7|The Rider by Zolt n Magyar (2020)]] — shared language: rider
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: bird
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
-- [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
 - [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketches
+- [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
 <!-- vault-crosslinks:end -->

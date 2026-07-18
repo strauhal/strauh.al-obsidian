@@ -6,7 +6,7 @@ source_relpath: "1900s/shrine_by_josef_albers_1942.jpeg"
 collection: "1900s"
 inferred_year: "1942"
 artist: "josef albers"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

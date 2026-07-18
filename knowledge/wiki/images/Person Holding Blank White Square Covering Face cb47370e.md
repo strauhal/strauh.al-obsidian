@@ -6,7 +6,7 @@ source_relpath: "photography/Person Holding Blank White Square Covering Face.jpg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1070"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

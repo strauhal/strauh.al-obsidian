@@ -54,7 +54,7 @@ level of perception.
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: rebuilding, quotes, bottom
 - [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: quotes, archive-links, start
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: quotes, archive-links, start
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: quotes, sketchbook, comic
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: quotes, perception
 <!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->

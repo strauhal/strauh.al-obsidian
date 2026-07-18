@@ -6,7 +6,7 @@ source_relpath: "wallpapers/tenniscourt.png"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "2560x1648"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

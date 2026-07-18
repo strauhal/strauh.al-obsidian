@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_Online_Services_Mapped_to_Classifieds_Categ
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1920x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

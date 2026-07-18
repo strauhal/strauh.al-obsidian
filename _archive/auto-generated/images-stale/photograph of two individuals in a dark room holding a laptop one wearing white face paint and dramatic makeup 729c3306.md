@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: individuals, one
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one, paint
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: paint, one
 - [[knowledge/wiki/images/Screenshot Two Men, One With White Face Paint, Holding Laptop by Iain Softley f073d5cc|Screenshot Two Men, One With White Face Paint, Holding Laptop by Iain Softley]] — shared language: paint, laptop, one
 - [[knowledge/wiki/images/Cat Wearing Makeup Sitting On A Chair 749321ef|Cat Wearing Makeup Sitting On A Chair]] — shared language: makeup, wearing
+- [[_archive/auto-generated/images-stale/Photograph Cat Wearing Makeup Sitting On A Chair 15771ad5|Photograph Cat Wearing Makeup Sitting On A Chair]] — shared language: makeup, wearing
 <!-- vault-crosslinks:end -->

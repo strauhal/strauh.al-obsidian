@@ -6,7 +6,7 @@ source_relpath: "900s/eight_gentlemen_on_horseback_by_zhao_yan_early_10th_centur
 collection: "900s"
 inferred_year: "900s"
 artist: "zhao yan early 10th century"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/900s"]
 ---

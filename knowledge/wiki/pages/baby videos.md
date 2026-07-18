@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/baby_videos.html"
 source_relpath: "baby_videos.html"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:40"
+compiled_at: "2026-07-18T00:07:15"
 tags: ["strauhal", "source/html"]
 ---
 # baby videos
@@ -61,5 +61,5 @@ https://www.youtube.com/watch?v=IXXShCjOx8c
 - [[knowledge/wiki/pages/implicit distance|implicit distance]] — shared language: https, www.youtube.com, watch
 - [[knowledge/raw/implicit-distance|Implicit Distance]] — shared language: https, www.youtube.com, watch
 - [[knowledge/wiki/images/Illustration Expressionistic Oil Painting of Baby in Striped Outfit 68dcf6cf|Illustration Expressionistic Oil Painting of Baby in Striped Outfit]] — shared language: baby
-- [[knowledge/wiki/images/Billboard Displaying 'https numbers ' Text Against Blue Sky f8adbedd|Billboard Displaying 'https numbers ' Text Against Blue Sky]] — shared language: https
+- [[knowledge/private/fanmail/threads/15-https-x-com-pitzspecial-https-computerdrawing-club|Private Correspondence - 15 - https://x.com/pitzspecial https://computerdrawing.club/]] — shared language: https
 <!-- vault-crosslinks:end -->

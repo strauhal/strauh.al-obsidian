@@ -6,7 +6,7 @@ source_relpath: "photography/Artist Sits Amidst Abstract Paintings and Art Suppl
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1421x1769"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

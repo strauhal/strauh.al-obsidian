@@ -6,7 +6,7 @@ source_relpath: "1800s/jiraiya_goketsu_monogatari_tale_of_the_gallant_jiraiya_by
 collection: "1800s"
 inferred_year: "1852"
 artist: "utagawa kuniyoshi"
-dimensions: "1440x1800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

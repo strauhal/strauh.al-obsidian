@@ -6,7 +6,7 @@ source_relpath: "1800s/the_dance_of_the_witches_by_luis_ricardo_falero_1880.jpeg
 collection: "1800s"
 inferred_year: "1880"
 artist: "luis ricardo falero"
-dimensions: "910x647"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

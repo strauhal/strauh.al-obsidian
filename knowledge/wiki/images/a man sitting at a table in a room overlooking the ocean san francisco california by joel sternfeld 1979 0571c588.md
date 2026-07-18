@@ -6,7 +6,7 @@ source_relpath: "1900s/a_man_sitting_at_a_table_in_a_room_overlooking_the_ocean_
 collection: "1900s"
 inferred_year: "1979"
 artist: "joel sternfeld"
-dimensions: "540x798"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

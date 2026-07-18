@@ -6,7 +6,7 @@ source_relpath: "1700s/nebuchadnezzar_by_william_blake_c_1795.jpg"
 collection: "1700s"
 inferred_year: "1795"
 artist: "william blake"
-dimensions: "1536x1099"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

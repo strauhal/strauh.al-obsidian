@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photo Of Sheep With Glowing Eyes At
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "640x634"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "wallpapers/blackstairway.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "2880x1800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

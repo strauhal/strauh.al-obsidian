@@ -6,7 +6,7 @@ source_relpath: "1800s/Philip Hone by John Wesley Jarvis (1820).jpeg"
 collection: "1800s"
 inferred_year: "1820"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

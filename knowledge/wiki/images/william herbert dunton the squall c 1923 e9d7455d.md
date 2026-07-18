@@ -6,7 +6,7 @@ source_relpath: "1900s/william_herbert_dunton_the_squall_c_1923.png"
 collection: "1900s"
 inferred_year: "1923"
 artist: ""
-dimensions: "750x750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

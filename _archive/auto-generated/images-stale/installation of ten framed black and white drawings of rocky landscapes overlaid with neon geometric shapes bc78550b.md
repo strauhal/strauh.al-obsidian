@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Ten Framed Black And White Rocky Landscapes With Neon Geometric Shapes 59448dfa|Photograph Ten Framed Black And White Rocky Landscapes With Neon Geometric Shapes]] — shared language: landscapes, ten, rocky
-- [[knowledge/wiki/images/Photograph Gallery View of Ten Framed Minimalist Figure Drawings c9b7edcf|Photograph Gallery View of Ten Framed Minimalist Figure Drawings]] — shared language: ten, drawings, framed
 - [[_archive/auto-generated/images-stale/framed geometric abstract painting with black red and gray shapes 4aa82352|framed geometric abstract painting with black red and gray shapes]] — shared language: shapes, framed, geometric
+- [[knowledge/wiki/images/Photograph Gallery View of Ten Framed Minimalist Figure Drawings c9b7edcf|Photograph Gallery View of Ten Framed Minimalist Figure Drawings]] — shared language: ten, drawings, framed
 - [[_archive/auto-generated/images-stale/framed geometric interior abstraction with red and black shapes eab2c56c|framed geometric interior abstraction with red and black shapes]] — shared language: shapes, framed, geometric
 - [[knowledge/wiki/images/Photograph Installation of Ten Framed Paintings of Stylized Figures d0802470|Photograph Installation of Ten Framed Paintings of Stylized Figures]] — shared language: ten, framed
 <!-- vault-crosslinks:end -->

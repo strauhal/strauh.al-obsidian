@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Colorful Graffiti Tags on a Large Iceberg in
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "549x675"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

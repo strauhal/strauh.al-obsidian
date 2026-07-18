@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - X-ray Image of a USB Flash Drive Circuit Boa
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "680x289"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - X-r
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: drive
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: ray
 - [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: drive
-- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: ray
+- [[knowledge/wiki/images/Close Up Photograph of a Yellow and Green Circuit Board 46e31fce|Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board
 <!-- vault-crosslinks:end -->

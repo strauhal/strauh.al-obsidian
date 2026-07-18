@@ -6,7 +6,7 @@ source_relpath: "1600s/a_hanging_carcass_by_gabriel_metsu_c_1655.jpeg"
 collection: "1600s"
 inferred_year: "1655"
 artist: "gabriel metsu"
-dimensions: "800x1067"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

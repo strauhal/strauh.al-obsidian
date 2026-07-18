@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Monochromatic Poster with Abstracted Da
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1021x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

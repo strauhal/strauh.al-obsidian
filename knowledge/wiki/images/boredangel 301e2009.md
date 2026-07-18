@@ -6,7 +6,7 @@ source_relpath: "diary/boredangel.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "722x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

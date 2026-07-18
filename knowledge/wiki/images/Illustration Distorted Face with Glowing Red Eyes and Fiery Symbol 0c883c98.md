@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Distorted Face with Glowing Red Eyes and F
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "256x256"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

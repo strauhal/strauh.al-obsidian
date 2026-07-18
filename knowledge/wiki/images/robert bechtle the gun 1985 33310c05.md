@@ -6,7 +6,7 @@ source_relpath: "1900s/robert_bechtle_the_gun_1985.jpg"
 collection: "1900s"
 inferred_year: "1985"
 artist: ""
-dimensions: "960x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

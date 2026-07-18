@@ -6,7 +6,7 @@ source_relpath: "1900s/marilyn_monroe_sitting_on_the_floor_by_milton_h_greene_19
 collection: "1900s"
 inferred_year: "1953"
 artist: "milton h greene"
-dimensions: "2000x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

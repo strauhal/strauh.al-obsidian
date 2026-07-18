@@ -6,7 +6,7 @@ source_relpath: "photography/Halftone Portrait of a Man with a Mustache Seated I
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1408x1968"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/View of City of Fraga and its Hanging Bridge by Genaro PÃ
 collection: "2000s"
 inferred_year: "1850"
 artist: ""
-dimensions: "1600x972"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

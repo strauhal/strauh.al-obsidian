@@ -6,7 +6,7 @@ source_relpath: "1900s/the_miller_blues_band_neon_rose_2_by_victor_moscoso_1967.
 collection: "1900s"
 inferred_year: "1967"
 artist: "victor moscoso"
-dimensions: "1432x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

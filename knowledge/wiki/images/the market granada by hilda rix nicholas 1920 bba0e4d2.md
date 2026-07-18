@@ -6,7 +6,7 @@ source_relpath: "1900s/the_market_granada_by_hilda_rix_nicholas_1920.jpeg"
 collection: "1900s"
 inferred_year: "1920"
 artist: "hilda rix nicholas"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

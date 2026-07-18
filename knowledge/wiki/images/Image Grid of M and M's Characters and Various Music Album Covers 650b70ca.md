@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Grid of M&M's Characters and Various Music Alb
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1642x1800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

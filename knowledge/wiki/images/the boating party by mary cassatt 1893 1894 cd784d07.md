@@ -6,7 +6,7 @@ source_relpath: "1800s/the_boating_party_by_mary_cassatt_1893_1894.jpeg"
 collection: "1800s"
 inferred_year: "1894"
 artist: "mary cassatt"
-dimensions: "5712x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

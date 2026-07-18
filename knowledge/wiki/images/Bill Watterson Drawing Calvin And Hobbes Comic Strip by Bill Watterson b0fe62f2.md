@@ -6,7 +6,7 @@ source_relpath: "photography/Bill Watterson Drawing Calvin And Hobbes Comic Stri
 collection: "photography"
 inferred_year: ""
 artist: "Bill Watterson"
-dimensions: "2048x1444"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

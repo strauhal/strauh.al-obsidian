@@ -6,7 +6,7 @@ source_relpath: "photography/South Korean Athlete Aiming Pistol in Shooting Comp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1600x1067"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/South Kore
 - [[knowledge/wiki/artists/Artist - Pistol|Artist - Pistol]] — shared language: pistol
 - [[knowledge/wiki/images/Screenshot Figure Aiming Pistol at Man on Star Patterned Sidewalk f76e41c2|Screenshot Figure Aiming Pistol at Man on Star Patterned Sidewalk]] — shared language: pistol, aiming
 - [[knowledge/wiki/books/ernest-henry-shackleton-south-the-story-of-shackleton-s-last-expedition-1914-1917-duke-classics|South the story of Shackleton's last expedition, 1914-1917-Duke Classics]] — shared language: south
-- [[knowledge/wiki/images/Screenshot In Game Chat Log with Korean and English Text 49aaad4e|Screenshot In Game Chat Log with Korean and English Text]] — shared language: korean
+- [[knowledge/wiki/images/Bulletproof Vest Demonstration, Man Shot by Pistol c45b6d2c|Bulletproof Vest Demonstration, Man Shot by Pistol]] — shared language: pistol
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1900s/reiter_auf_blauem_pferd_mit_rehen_by_franz_marc_1913.jpeg
 collection: "1900s"
 inferred_year: "1913"
 artist: "franz marc"
-dimensions: "418x500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

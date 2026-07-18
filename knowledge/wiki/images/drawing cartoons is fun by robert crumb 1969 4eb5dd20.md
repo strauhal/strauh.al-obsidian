@@ -6,7 +6,7 @@ source_relpath: "1900s/drawing_cartoons_is_fun_by_robert_crumb_1969.jpg"
 collection: "1900s"
 inferred_year: "1969"
 artist: "robert crumb"
-dimensions: "2066x3000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

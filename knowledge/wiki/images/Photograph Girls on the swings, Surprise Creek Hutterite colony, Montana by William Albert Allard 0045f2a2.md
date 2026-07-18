@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Girls on the swings, Surprise Creek Hutterit
 collection: "2000s"
 inferred_year: "2000s"
 artist: "William Albert Allard"
-dimensions: "900x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

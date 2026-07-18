@@ -6,7 +6,7 @@ source_relpath: "1800s/pieta_after_delacroix_by_vincent_van_gogh_1889.jpg"
 collection: "1800s"
 inferred_year: "1889"
 artist: "vincent van gogh"
-dimensions: "800x1003"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

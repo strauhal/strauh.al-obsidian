@@ -6,7 +6,7 @@ source_relpath: "photography/Man in Hoodie with Device Connected to Woman with H
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1011x569"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

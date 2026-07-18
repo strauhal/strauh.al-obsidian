@@ -6,7 +6,7 @@ source_relpath: "1900s/the_archaeologists_by_christian_clement_1985.png"
 collection: "1900s"
 inferred_year: "1985"
 artist: "christian clement"
-dimensions: "2304x2880"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

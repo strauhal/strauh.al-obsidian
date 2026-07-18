@@ -6,7 +6,7 @@ source_relpath: "1800s/vincent_van_gogh_almond_blossom_1890_2.jpg"
 collection: "1800s"
 inferred_year: "1890"
 artist: ""
-dimensions: "1280x1010"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

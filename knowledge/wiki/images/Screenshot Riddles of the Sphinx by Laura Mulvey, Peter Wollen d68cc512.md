@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Riddles of the Sphinx by Laura Mulvey, Peter
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1280x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Empty White Room with Large Windows and Light Stand
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "420x420"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

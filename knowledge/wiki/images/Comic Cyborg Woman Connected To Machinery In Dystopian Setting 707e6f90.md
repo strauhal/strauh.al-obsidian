@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Cyborg Woman Connected To Machinery In Dystopi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1920x1181"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

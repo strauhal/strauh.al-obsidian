@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Chaotic Pencil Drawing of Abstract Figu
 collection: "unsorted"
 inferred_year: ""
 artist: "Joseph Beuys"
-dimensions: "600x783"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/phenomena_samothrace_by_paul_jenkins_1967.jpeg"
 collection: "1900s"
 inferred_year: "1967"
 artist: "paul jenkins"
-dimensions: "2268x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

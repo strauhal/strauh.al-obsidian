@@ -6,7 +6,7 @@ source_relpath: "diagrams/Architecture_Diagram_Of_Convolution_And_Deconvolution_
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "850x382"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

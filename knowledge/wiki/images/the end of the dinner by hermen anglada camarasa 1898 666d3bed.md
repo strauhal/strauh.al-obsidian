@@ -6,7 +6,7 @@ source_relpath: "1800s/the_end_of_the_dinner_by_hermen_anglada_camarasa_1898.jpg
 collection: "1800s"
 inferred_year: "1898"
 artist: "hermen anglada camarasa"
-dimensions: "4000x2879"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_end_of_the_d
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/books/the-end-of-reading-is-here-the-atlantic|The Atlantic]] — shared language: end
 - [[knowledge/wiki/books/francis-fukuyama-the-end-of-history-and-the-last-man|The End of History and the Last Man]] — shared language: end
 - [[knowledge/wiki/books/james-bridle-new-dark-age-technology-and-the-end-of-the-future-verso-books|New Dark Age - Technology and the End of the Future-Verso Books]] — shared language: end
 - [[knowledge/wiki/images/The End of Evangelion (1997) 97513b0f|The End of Evangelion (1997)]] — shared language: end
 - [[knowledge/wiki/images/The End of Evangelion (1997) a066c24b|The End of Evangelion (1997)]] — shared language: end
-- [[knowledge/private/fanmail/threads/06-dinner-tmrw|Private Correspondence - 06 - Dinner tmrw]] — shared language: dinner
 <!-- vault-crosslinks:end -->

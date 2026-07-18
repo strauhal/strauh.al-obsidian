@@ -6,7 +6,7 @@ source_relpath: "1900s/pixelated_black_and_white_drawing_of_a_low_profile_mechan
 collection: "1900s"
 inferred_year: "1986"
 artist: "john m kohlenberger"
-dimensions: "1744x864"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

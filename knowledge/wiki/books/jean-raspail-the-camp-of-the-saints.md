@@ -9,8 +9,8 @@ metadata: curated
 aliases: [The Camp Of The Saints]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The Camp Of The Saints -- Unknown -- 2016 -- f306fa29267eedd660c2002e7842ad29 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # The Camp of the Saints
@@ -47,5 +47,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/albert-camus-the-plague|The Plague]] — same category: literature
 - [[knowledge/wiki/books/william-zinsser-on-writing-well|On Writing Well]] — same category: literature
 - [[knowledge/wiki/books/harry-martinson-aniara|Aniara]] — same category: literature
-- [[knowledge/wiki/books/gatsby-sexualdrama|gatsby sexualdrama]] — same category: literature
+- [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — same category: literature
 <!-- vault-crosslinks:end -->

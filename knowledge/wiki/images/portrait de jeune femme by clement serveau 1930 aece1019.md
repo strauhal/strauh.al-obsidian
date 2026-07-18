@@ -6,7 +6,7 @@ source_relpath: "1900s/portrait_de_jeune_femme_by_clement_serveau_1930.jpg"
 collection: "1900s"
 inferred_year: "1930"
 artist: "clement serveau"
-dimensions: "1280x1590"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

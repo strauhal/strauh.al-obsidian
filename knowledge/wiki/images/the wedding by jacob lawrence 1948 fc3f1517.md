@@ -6,7 +6,7 @@ source_relpath: "1900s/the_wedding_by_jacob_lawrence_1948.jpeg"
 collection: "1900s"
 inferred_year: "1948"
 artist: "jacob lawrence"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

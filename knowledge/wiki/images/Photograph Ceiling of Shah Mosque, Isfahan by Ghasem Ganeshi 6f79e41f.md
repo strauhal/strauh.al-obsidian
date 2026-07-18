@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Ceiling of Shah Mosque, Isfahan by Ghasem Ga
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Ghasem Ganeshi"
-dimensions: "1080x1346"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

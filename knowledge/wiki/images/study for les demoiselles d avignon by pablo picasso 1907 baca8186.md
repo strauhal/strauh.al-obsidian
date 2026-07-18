@@ -6,7 +6,7 @@ source_relpath: "1900s/study_for_les_demoiselles_d_avignon_by_pablo_picasso_1907
 collection: "1900s"
 inferred_year: "1907"
 artist: "pablo picasso"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

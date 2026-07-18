@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/anchors/kenny-larkin|Kenny Larkin]] — shared language: kenny
 - [[knowledge/wiki/culture/music-azimuth|Listening - Azimuth]] — shared language: kenny
 - [[knowledge/wiki/images/Illustration Super Breakout by John Enright 132b0894|Illustration Super Breakout by John Enright]] — shared language: super
-- [[_archive/auto-generated/images-stale/display featuring a super sonico figurine and a fish fossil c608dcfe|display featuring a super sonico figurine and a fish fossil]] — shared language: super
+- [[knowledge/wiki/images/Comic Person Looking Out Window at Cityscape with Speech Bubble 8d69e92f|Comic Person Looking Out Window at Cityscape with Speech Bubble]] — shared language: bubble
 <!-- vault-crosslinks:end -->

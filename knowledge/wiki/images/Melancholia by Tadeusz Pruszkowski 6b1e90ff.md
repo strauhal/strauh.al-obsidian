@@ -6,7 +6,7 @@ source_relpath: "1900s/Melancholia by Tadeusz Pruszkowski.jpg"
 collection: "1900s"
 inferred_year: "1900s"
 artist: "Tadeusz Pruszkowski"
-dimensions: "771x1023"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/burg_eltz_by_johann_wilhelm_schirmer_1845.jpg"
 collection: "1800s"
 inferred_year: "1845"
 artist: "johann wilhelm schirmer"
-dimensions: "4752x3168"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

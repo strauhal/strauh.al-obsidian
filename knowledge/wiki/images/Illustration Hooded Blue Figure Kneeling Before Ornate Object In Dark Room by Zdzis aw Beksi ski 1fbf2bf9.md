@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Hooded Blue Figure Kneeling Before Orna
 collection: "unsorted"
 inferred_year: ""
 artist: "Zdzis aw Beksi ski"
-dimensions: "2624x1476"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

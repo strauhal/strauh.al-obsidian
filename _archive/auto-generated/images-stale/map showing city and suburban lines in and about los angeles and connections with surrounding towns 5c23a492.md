@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Map of Los Angeles City and Suburban Lines a0ad140d|Map of Los Angeles City and Suburban Lines]] — shared language: angeles, los, suburban
-- [[_archive/auto-generated/images-stale/Diagram Map of Los Angeles City and Suburban Lines b2e35e77|Diagram Map of Los Angeles City and Suburban Lines]] — shared language: angeles, los, suburban
+- [[knowledge/wiki/images/Map of Los Angeles City and Suburban Lines a0ad140d|Map of Los Angeles City and Suburban Lines]] — shared language: angeles, suburban, los
+- [[_archive/auto-generated/images-stale/Diagram Map of Los Angeles City and Suburban Lines b2e35e77|Diagram Map of Los Angeles City and Suburban Lines]] — shared language: angeles, suburban, los
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: towns
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/images/Illustration City Street with Los Angeles City Hall and Futuristic Skyscraper 34767dff|Illustration City Street with Los Angeles City Hall and Futuristic Skyscraper]] — shared language: angeles, los, city

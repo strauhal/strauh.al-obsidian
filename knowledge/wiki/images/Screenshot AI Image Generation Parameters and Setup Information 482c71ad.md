@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - AI Image Generation Parameters and Setup 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "864x570"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: information
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: information
 - [[knowledge/wiki/images/2023 03 MJ ImageGrid Generation 2303fc7d|2023 03 MJ ImageGrid Generation]] — shared language: generation
-- [[knowledge/wiki/images/Music Studio Setup with Mountain View f52299c8|Music Studio Setup with Mountain View]] — shared language: setup
+- [[knowledge/wiki/images/Too Much Information by R. Crumb (2022) 87b5953f|Too Much Information by R. Crumb (2022)]] — shared language: information
 <!-- vault-crosslinks:end -->

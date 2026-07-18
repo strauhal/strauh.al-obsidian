@@ -6,7 +6,7 @@ source_relpath: "photography/View Through Window of Red Sunset and Dark Garden.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1536x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

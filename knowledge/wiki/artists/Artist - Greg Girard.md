@@ -21,7 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, signs, night
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, signs, rainy
 - [[knowledge/wiki/artists/Artist - Greg Overton|Artist - Greg Overton]] — shared language: greg
 - [[knowledge/wiki/images/Illustration Black and White Dithered Front View of a Porsche Carrera by Greg Overton 89f862ef|Illustration Black and White Dithered Front View of a Porsche Carrera by Greg Overton]] — shared language: greg
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: rainy, night, street

@@ -6,7 +6,7 @@ source_relpath: "1900s/waterfall_by_m_c_escher_1961.png"
 collection: "1900s"
 inferred_year: "1961"
 artist: "m c escher"
-dimensions: "512x699"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

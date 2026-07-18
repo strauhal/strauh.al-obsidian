@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/The Fool (Rider Waite Smith Tarot) by Pamela Colman Smith (1909) 5c8d2461|The Fool (Rider Waite Smith Tarot) by Pamela Colman Smith (1909)]] — shared language: pamela, colman, smith
-- [[knowledge/wiki/artists/Artist - rodney smith|Artist - rodney smith]] — shared language: smith
 - [[knowledge/wiki/books/richard-g-smith-the-baudrillard-dictionary|The Baudrillard Dictionary]] — shared language: smith
+- [[knowledge/wiki/artists/Artist - rodney smith|Artist - rodney smith]] — shared language: smith
 - [[knowledge/wiki/artists/Artist - Charles Hugh Smith|Artist - Charles Hugh Smith]] — shared language: smith
 - [[knowledge/wiki/images/the architect s dream by rodney smith 1991 c3d56977|the architect s dream by rodney smith 1991]] — shared language: smith
 - [[knowledge/wiki/images/Diagram Illustrating Bureaucracy Lifecycle with Program Budget and Administrative Costs. by Charles Hugh Smith bff65149|Diagram Illustrating Bureaucracy Lifecycle with Program Budget and Administrative Costs. by Charles Hugh Smith]] — shared language: smith

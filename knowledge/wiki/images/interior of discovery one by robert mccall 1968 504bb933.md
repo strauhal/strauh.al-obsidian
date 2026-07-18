@@ -6,7 +6,7 @@ source_relpath: "1900s/interior_of_discovery_one_by_robert_mccall_1968.jpeg"
 collection: "1900s"
 inferred_year: "1968"
 artist: "robert mccall"
-dimensions: "1032x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

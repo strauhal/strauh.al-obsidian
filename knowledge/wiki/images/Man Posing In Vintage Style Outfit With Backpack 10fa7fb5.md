@@ -6,7 +6,7 @@ source_relpath: "photography/Man Posing In Vintage-Style Outfit With Backpack.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "550x917"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

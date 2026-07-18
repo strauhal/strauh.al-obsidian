@@ -6,7 +6,7 @@ source_relpath: "1900s/edward_hopper_nighthawks_1942.jpg"
 collection: "1900s"
 inferred_year: "1942"
 artist: ""
-dimensions: "2560x1397"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Chronocyclegraph of Human Motion Against Grid Backg
 collection: "photography"
 inferred_year: ""
 artist: "Frank and Lillian Gilbreth"
-dimensions: "1010x810"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

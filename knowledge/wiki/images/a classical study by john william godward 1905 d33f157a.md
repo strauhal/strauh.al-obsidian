@@ -6,7 +6,7 @@ source_relpath: "1900s/a_classical_study_by_john_william_godward_1905.jpeg"
 collection: "1900s"
 inferred_year: "1905"
 artist: "john william godward"
-dimensions: "2241x2241"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

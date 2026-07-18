@@ -6,7 +6,7 @@ source_relpath: "photography/Bird Perched on Trash Can with Sky Reflected in Bro
 collection: "photography"
 inferred_year: ""
 artist: "Eric Kogan"
-dimensions: "800x1198"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

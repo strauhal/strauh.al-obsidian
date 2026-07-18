@@ -6,7 +6,7 @@ source_relpath: "photography/Whenever, If Ever by The World Is a Beautiful Place
 collection: "photography"
 inferred_year: "2013"
 artist: ""
-dimensions: "1200x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Whenever, 
 
 - [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: beautiful
-- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: whenever
 - [[knowledge/wiki/images/a r penck die rothschildgiraffe 1978 87df1674|a r penck die rothschildgiraffe 1978]] — shared language: die
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: world
+- [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation-vol-1-dover-publications|The World as Will and Representation, Vol. 1-Dover Publications]] — shared language: world
 <!-- vault-crosslinks:end -->

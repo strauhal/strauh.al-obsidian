@@ -6,7 +6,7 @@ source_relpath: "1800s/douard_manet_le_djeuner_sur_lherbe_the_luncheon_on_the_gr
 collection: "1800s"
 inferred_year: "1863"
 artist: ""
-dimensions: "5649x4389"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White Ink Sketches Of Human F
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2508x3157"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

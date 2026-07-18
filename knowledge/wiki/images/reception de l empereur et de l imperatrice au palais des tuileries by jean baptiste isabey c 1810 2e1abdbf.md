@@ -6,7 +6,7 @@ source_relpath: "1800s/reception_de_l_empereur_et_de_l_imperatrice_au_palais_des
 collection: "1800s"
 inferred_year: "1810"
 artist: "jean baptiste isabey"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

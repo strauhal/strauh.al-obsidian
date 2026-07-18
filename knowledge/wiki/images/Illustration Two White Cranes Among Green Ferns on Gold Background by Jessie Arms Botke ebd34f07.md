@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Two White Cranes Among Green Ferns on Gold
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Jessie Arms Botke"
-dimensions: "1024x1295"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: among
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: among
 - [[knowledge/wiki/images/Illustration Abstract Yellow Humanoid Figure With Fringed Arms And Text 42858db4|Illustration Abstract Yellow Humanoid Figure With Fringed Arms And Text]] — shared language: arms
-- [[knowledge/wiki/images/Illustration Dark Skinned Child Crouching Among Large Green Leaves, Blue Orange Background 1e8bf21f|Illustration Dark Skinned Child Crouching Among Large Green Leaves, Blue Orange Background]] — shared language: among, green, background
+- [[knowledge/wiki/books/perloff-marjorie-frank-o-hara-poet-among-painters|Frank O'Hara poet among painters]] — shared language: among
 <!-- vault-crosslinks:end -->

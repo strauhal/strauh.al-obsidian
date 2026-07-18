@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Blonde Woman Reclining on Couch with Syrin
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 - [[knowledge/wiki/images/Illustration Abstract Oil Painting of Reclining Figure cee29e55|Illustration Abstract Oil Painting of Reclining Figure]] — shared language: reclining
 - [[knowledge/wiki/images/illustration of a distressed blonde woman and a man in a suit 1966 db86914a|illustration of a distressed blonde woman and a man in a suit 1966]] — shared language: blonde
 - [[knowledge/wiki/images/Illustration Charcoal Drawing of a Reclining Figure 34f5b84a|Illustration Charcoal Drawing of a Reclining Figure]] — shared language: reclining
-- [[knowledge/wiki/images/Illustration Line Drawing Of Reclining Nude Woman 60246e28|Illustration Line Drawing Of Reclining Nude Woman]] — shared language: reclining
+- [[knowledge/wiki/images/sir lawrence almatadema the roses of heliogabalus 1888 7671b476|sir lawrence almatadema the roses of heliogabalus 1888]] — shared language: roses
 <!-- vault-crosslinks:end -->

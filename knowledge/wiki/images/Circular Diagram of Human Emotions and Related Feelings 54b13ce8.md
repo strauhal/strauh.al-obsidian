@@ -6,7 +6,7 @@ source_relpath: "diagrams/Circular_Diagram_of_Human_Emotions_and_Related_Feeling
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1332x1332"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

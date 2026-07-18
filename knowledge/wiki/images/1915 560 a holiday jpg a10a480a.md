@@ -6,7 +6,7 @@ source_relpath: "1900s/1915_560_a_holiday_jpg.jpg"
 collection: "1900s"
 inferred_year: "1915"
 artist: ""
-dimensions: "3000x2244"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

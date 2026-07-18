@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Donald Trump and Man Examine Trump Merchandi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3000x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

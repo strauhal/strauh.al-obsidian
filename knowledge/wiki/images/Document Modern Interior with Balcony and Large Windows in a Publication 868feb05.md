@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Modern Interior with Balcony and Large Wind
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/steep_street_by_wayne_thiebaud_1980.jpeg"
 collection: "1900s"
 inferred_year: "1980"
 artist: "wayne thiebaud"
-dimensions: "4284x5712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

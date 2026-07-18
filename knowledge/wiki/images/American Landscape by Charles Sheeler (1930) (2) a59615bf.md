@@ -6,7 +6,7 @@ source_relpath: "1900s/American Landscape by Charles Sheeler (1930) (2).jpeg"
 collection: "1900s"
 inferred_year: "1930"
 artist: ""
-dimensions: "1500x1164"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

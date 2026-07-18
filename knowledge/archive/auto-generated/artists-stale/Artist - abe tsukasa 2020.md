@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - abe tsukasa|Artist - Abe Tsukasa]] — shared language: abe, tsukasa, panel
 - [[knowledge/wiki/images/Comic Black and White Manga Panel of Long Haired Woman Lying Down by Abe Tsukasa e7a6f9ce|Comic Black and White Manga Panel of Long Haired Woman Lying Down by Abe Tsukasa]] — shared language: abe, tsukasa, panel
 - [[_archive/auto-generated/books-stale/beyond-good-evil|beyond good & evil]] — shared language: beyond
+- [[knowledge/wiki/books/the-end-of-reading-is-here-the-atlantic|The Atlantic]] — shared language: end
 - [[knowledge/wiki/books/friedrich-nietzsche-beyond-good-and-evil|Beyond Good and Evil]] — shared language: beyond
-- [[knowledge/wiki/books/epicurus-epicurus-klein-daniel-m-klein-daniel-m-travels-with-epicurus-journey-to-a-greek-island-in-search-of-an-authentic-old-age|Travels with Epicurus journey to a Greek island in search of an authentic old age]] — shared language: journey
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "diary/skate1.png"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1616x2109"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

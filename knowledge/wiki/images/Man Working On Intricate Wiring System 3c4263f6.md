@@ -6,7 +6,7 @@ source_relpath: "photography/Man Working On Intricate Wiring System.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "3024x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

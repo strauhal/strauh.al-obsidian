@@ -33,7 +33,7 @@ Walter Benjamin's Baudelaire studies.)
 - [[knowledge/wiki/images/vegas 117c86fe|vegas]] — named in this note
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: neur, baudelaire, arcades
 - [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: arcades, benjamin's, project
-- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences, listed, among
-- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: influences, internet, listed
 - [[knowledge/wiki/images/charles baudelaire 376ec073|charles baudelaire]] — shared language: baudelaire, charles, influences
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: influences, internet, listed
+- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences, listed, among
 <!-- vault-crosslinks:end -->

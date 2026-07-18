@@ -6,7 +6,7 @@ source_relpath: "1600s/salmon_fishing_by_wenceslaus_hollar_c_1652.jpg"
 collection: "1600s"
 inferred_year: "1652"
 artist: "wenceslaus hollar"
-dimensions: "4496x3343"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

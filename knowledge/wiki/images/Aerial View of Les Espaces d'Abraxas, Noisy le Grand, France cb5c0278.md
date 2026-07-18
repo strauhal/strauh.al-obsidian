@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of Les Espaces d'Abraxas, Noisy-le-Gran
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

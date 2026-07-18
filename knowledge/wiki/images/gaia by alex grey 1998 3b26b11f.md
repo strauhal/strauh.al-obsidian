@@ -6,7 +6,7 @@ source_relpath: "1900s/gaia_by_alex_grey_1998.jpg"
 collection: "1900s"
 inferred_year: "1998"
 artist: "alex grey"
-dimensions: "1020x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

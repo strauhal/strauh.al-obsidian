@@ -6,7 +6,7 @@ source_relpath: "photography/Ronald Reagan Meeting With Desmond Tutu.png"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "458x560"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

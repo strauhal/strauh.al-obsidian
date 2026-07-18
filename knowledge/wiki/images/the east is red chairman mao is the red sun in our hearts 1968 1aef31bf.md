@@ -6,7 +6,7 @@ source_relpath: "1900s/the_east_is_red_chairman_mao_is_the_red_sun_in_our_hearts
 collection: "1900s"
 inferred_year: "1968"
 artist: ""
-dimensions: "862x575"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

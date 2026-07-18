@@ -6,7 +6,7 @@ source_relpath: "diagrams/Graph_of_Goldstone's_Sombrero_Potential_Function.jpeg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "750x576"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

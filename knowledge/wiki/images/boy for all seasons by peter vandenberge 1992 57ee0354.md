@@ -6,7 +6,7 @@ source_relpath: "1900s/boy_for_all_seasons_by_peter_vandenberge_1992.jpeg"
 collection: "1900s"
 inferred_year: "1992"
 artist: "peter vandenberge"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

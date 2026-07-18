@@ -6,7 +6,7 @@ source_relpath: "artists/degas/201223160806-01-edgar-degas-ballet-dancers-artsy.
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "2000x2204"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

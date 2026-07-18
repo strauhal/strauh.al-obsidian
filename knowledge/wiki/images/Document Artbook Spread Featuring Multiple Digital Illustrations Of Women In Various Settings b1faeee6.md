@@ -6,7 +6,7 @@ source_relpath: "2000s/Document - Artbook Spread Featuring Multiple Digital Illu
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1848x1306"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

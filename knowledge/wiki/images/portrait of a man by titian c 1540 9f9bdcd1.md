@@ -6,7 +6,7 @@ source_relpath: "1500s/portrait_of_a_man_by_titian_c_1540.jpeg"
 collection: "1500s"
 inferred_year: "1540"
 artist: "titian"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

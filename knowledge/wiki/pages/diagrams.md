@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/diagrams.html"
 source_relpath: "diagrams.html"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:40"
+compiled_at: "2026-07-18T00:07:15"
 tags: ["strauhal", "source/html"]
 ---
 # diagrams

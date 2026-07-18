@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagrams_of_Human_Energy_Flow,_Breathing,_Chakras,_and
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1648"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

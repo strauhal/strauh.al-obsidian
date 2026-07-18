@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Store Employees Process Transactions Manu
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "910x1510"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: process
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: process
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: process
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: forms, process
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: process
+- [[knowledge/wiki/images/Screenshot Screenshot of Generative Drawing with Three Swirling Forms b12163f2|Screenshot Screenshot of Generative Drawing with Three Swirling Forms]] — shared language: forms, screenshot, forms.png
+- [[knowledge/wiki/books/humphries-paper-copy|humphries paper copy]] — shared language: paper
 <!-- vault-crosslinks:end -->

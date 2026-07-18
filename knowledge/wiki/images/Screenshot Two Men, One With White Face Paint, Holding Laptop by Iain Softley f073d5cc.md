@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Two Men, One With White Face Paint, Holdi
 collection: "unsorted"
 inferred_year: ""
 artist: "Iain Softley"
-dimensions: "900x566"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one, paint
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: paint, one
 - [[knowledge/wiki/images/Screenshot Screenshot of a Chrome Chair Frame Holding an Open Laptop c0329433|Screenshot Screenshot of a Chrome Chair Frame Holding an Open Laptop]] — shared language: laptop, screenshot, holding
 - [[knowledge/wiki/images/Screenshot Men In A Club Holding Stacks Of Money, One Wearing Goggles 0861ac7c|Screenshot Men In A Club Holding Stacks Of Money, One Wearing Goggles]] — shared language: men, one, screenshot
 - [[knowledge/wiki/images/Screenshot Screenshot of Abstract Monochromatic Digital Drawing in Microsoft Paint 3069550b|Screenshot Screenshot of Abstract Monochromatic Digital Drawing in Microsoft Paint]] — shared language: paint, screenshot
+- [[knowledge/wiki/images/Two Men Reflected In A Mirror, One Holding A Phone df613206|Two Men Reflected In A Mirror, One Holding A Phone]] — shared language: men, one, holding
 <!-- vault-crosslinks:end -->

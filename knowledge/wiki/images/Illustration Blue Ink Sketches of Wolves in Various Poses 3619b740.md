@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Blue Ink Sketches of Wolves in Various 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1589x2050"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

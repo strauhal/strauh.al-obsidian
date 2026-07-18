@@ -6,7 +6,7 @@ source_relpath: "diary/deathbed.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "900x704"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

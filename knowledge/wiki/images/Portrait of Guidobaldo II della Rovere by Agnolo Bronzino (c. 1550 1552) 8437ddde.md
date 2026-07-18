@@ -6,7 +6,7 @@ source_relpath: "1500s/Portrait of Guidobaldo II della Rovere by Agnolo Bronzino
 collection: "1500s"
 inferred_year: "1552"
 artist: ""
-dimensions: "797x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Colorful Network Diagram of Interconnected Psyc
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "4040x3290"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Colorf
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: network
 - [[knowledge/wiki/images/Complex Network Diagram on Grid 6975378a|Complex Network Diagram on Grid]] — shared language: network, diagram
 - [[knowledge/wiki/images/Convolution and Deconvolution Network Architecture Diagram d47630d5|Convolution and Deconvolution Network Architecture Diagram]] — shared language: network, diagram
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: concepts
+- [[knowledge/wiki/images/Diagram Dense Network Diagram of Interconnected Text Labels cc9db1cc|Diagram Dense Network Diagram of Interconnected Text Labels]] — shared language: network, diagram
 <!-- vault-crosslinks:end -->

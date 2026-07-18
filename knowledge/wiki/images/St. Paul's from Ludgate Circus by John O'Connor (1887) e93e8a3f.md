@@ -6,7 +6,7 @@ source_relpath: "1800s/St. Paul's from Ludgate Circus by John O'Connor (1887).jp
 collection: "1800s"
 inferred_year: "1887"
 artist: ""
-dimensions: "1024x1485"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

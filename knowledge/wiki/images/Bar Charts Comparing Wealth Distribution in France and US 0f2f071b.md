@@ -6,7 +6,7 @@ source_relpath: "diagrams/Bar_Charts_Comparing_Wealth_Distribution_in_France_and
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "714x900"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

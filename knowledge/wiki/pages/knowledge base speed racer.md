@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/speed_racer.html"
 source_relpath: "knowledge_base/speed_racer.html"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:40"
+compiled_at: "2026-07-18T00:07:16"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base speed racer
@@ -37,11 +37,11 @@ strauh.al/knowledge_base/speed_racer
 ## Discovered Connections
 
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
-- [[knowledge/wiki/pages/knowledge base web art|knowledge base web art]] — shared language: base, knowledge, none
 - [[knowledge/wiki/images/Illustration Impasto Painting of Speed Racer and Mach 5 a1bd195d|Illustration Impasto Painting of Speed Racer and Mach 5]] — shared language: racer, speed
 - [[knowledge/wiki/images/Speed Racer by Tatsuo Yoshida (1967 1968) ce7dec63|Speed Racer by Tatsuo Yoshida (1967 1968)]] — shared language: racer, speed
 - [[knowledge/wiki/images/Speed Racer by Tatsunoko Production (1967 1968) 7bfb1e29|Speed Racer by Tatsunoko Production (1967 1968)]] — shared language: racer, speed
 - [[knowledge/wiki/images/Photograph Woman Sits in Cafe with Large Speed Racer Wall Art f9bd5a6e|Photograph Woman Sits in Cafe with Large Speed Racer Wall Art]] — shared language: racer, speed
 - [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, pages
 - [[knowledge/wiki/culture/movie-speed-racer-2008|Watchlist - Speed Racer (2008)]] — shared language: racer, speed
+- [[knowledge/wiki/images/Speed Racer in the Mach 5 by Tatsuo Yoshida (1967 1968) eb0fc321|Speed Racer in the Mach 5 by Tatsuo Yoshida (1967 1968)]] — shared language: racer, speed
 <!-- vault-crosslinks:end -->

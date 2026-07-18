@@ -6,7 +6,7 @@ source_relpath: "1900s/the_muses_epitome_by_brice_marden_1991_1993.jpeg"
 collection: "1900s"
 inferred_year: "1993"
 artist: "brice marden"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

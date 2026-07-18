@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Stylized Pink-Haired Figures With R
 collection: "unsorted"
 inferred_year: ""
 artist: "Ichiro Tanida"
-dimensions: "613x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

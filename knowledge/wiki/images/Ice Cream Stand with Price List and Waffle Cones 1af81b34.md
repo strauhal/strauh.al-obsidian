@@ -6,7 +6,7 @@ source_relpath: "photography/Ice Cream Stand with Price List and Waffle Cones.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2736x3648"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

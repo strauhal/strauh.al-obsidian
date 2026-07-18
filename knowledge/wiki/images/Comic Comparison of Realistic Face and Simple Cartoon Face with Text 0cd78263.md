@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Comparison of Realistic Face and Simple Cartoo
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "623x598"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

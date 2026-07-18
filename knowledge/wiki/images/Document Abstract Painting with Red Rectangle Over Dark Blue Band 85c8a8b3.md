@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Abstract Painting with Red Rectangle Over D
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "599x599"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

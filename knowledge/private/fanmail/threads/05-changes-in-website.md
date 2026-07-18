@@ -38,12 +38,12 @@ Thank you kindly,
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/private/fanmail/threads/07-changes-in-website|Private Correspondence - 07 - Changes in website]] — same category: site-feedback
 - [[knowledge/private/fanmail/threads/21-website-bugs|Private Correspondence - 21 - Website Bugs]] — same category: site-feedback
+- [[knowledge/private/fanmail/threads/05-broken-link|Private Correspondence - 05 - Broken Link :)]] — same category: site-feedback
+- [[knowledge/private/fanmail/threads/41-website-bugs|Private Correspondence - 41 - Website Bugs]] — same category: site-feedback
 - [[knowledge/private/fanmail/threads/03-broken-link|Private Correspondence - 03 - Broken Link :)]] — same category: site-feedback
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: like, internet, that's
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: changes, like, can't
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: website, changes, incoming
-- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: say, can't, see
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: say, like, even
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: like, that's, even
 <!-- vault-crosslinks:end -->

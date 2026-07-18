@@ -6,7 +6,7 @@ source_relpath: "1900s/tomie_part_2_morita_hospital_final_panel_by_junji_ito_198
 collection: "1900s"
 inferred_year: "1988"
 artist: "junji ito"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

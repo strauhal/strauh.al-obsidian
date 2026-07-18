@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/disclaimer.html"
 source_relpath: "disclaimer.html"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:40"
+compiled_at: "2026-07-18T00:07:15"
 tags: ["strauhal", "source/html"]
 ---
 # disclaimer
@@ -37,9 +37,9 @@ strauh.al/disclaimer
 - [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: know, see, online
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: know, something, want
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: may, slop, process
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: know, want, might
+- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: i'm, slop, online
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: website, site
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: site, personal, suggest
-- [[knowledge/wiki/books/timothy-leary-what-does-woman-want|What Does WoMan Want]] — shared language: want
-- [[knowledge/wiki/pages/ernest|ernest]] — shared language: i'm, stamp.png, currently
 <!-- vault-crosslinks:end -->

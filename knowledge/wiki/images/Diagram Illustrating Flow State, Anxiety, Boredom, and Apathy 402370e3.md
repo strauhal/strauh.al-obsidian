@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Illustrating_Flow_State,_Anxiety,_Boredom,_and
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

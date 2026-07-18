@@ -6,7 +6,7 @@ source_relpath: "photography/Silhouette of Person Falling From Broken Window Wit
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x810"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

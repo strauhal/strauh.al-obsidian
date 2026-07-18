@@ -27,5 +27,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 
 - [[knowledge/wiki/images/Screenshot Article Text About Amazon Fresh Just Walk Out Technology 4e350a38|Screenshot Article Text About Amazon Fresh Just Walk Out Technology]] — shared language: amazon
 - [[knowledge/wiki/images/Screenshot Social Media Feed Showing News Headlines About Amazon and Jeff Bezos 4c4c7b9d|Screenshot Social Media Feed Showing News Headlines About Amazon and Jeff Bezos]] — shared language: amazon
-- [[_archive/auto-generated/images-stale/amakusa shiro by takato yamamoto 2006 5d038751|amakusa shiro by takato yamamoto 2006]] — nearby note in the same source series
+- [[knowledge/wiki/pages/knowledge base culture society|knowledge base culture society]] — shared language: amazon
 <!-- vault-crosslinks:end -->

@@ -1,13 +1,13 @@
 ---
-title: 2024 misc bookmarks
+title: technology ai
 type: anchor
 tags: [anchor, generated]
 sources: []
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
-# 2024 misc bookmarks
+# technology ai
 
 Generated anchor note for an otherwise unresolved wikilink. Expand or merge this later if it becomes important.
 
@@ -17,6 +17,6 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/maps/books|books]] — shared language: anchor
 - [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/current-cultural-diet|current-cultural-diet]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

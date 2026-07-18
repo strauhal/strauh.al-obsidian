@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Graffiti of Cartoon Figures Engaged in 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1192x1193"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

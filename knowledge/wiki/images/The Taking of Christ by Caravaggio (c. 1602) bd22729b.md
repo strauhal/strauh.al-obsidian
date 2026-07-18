@@ -6,7 +6,7 @@ source_relpath: "1600s/The Taking of Christ by Caravaggio (c. 1602).jpg"
 collection: "1600s"
 inferred_year: "1602"
 artist: ""
-dimensions: "1920x1488"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

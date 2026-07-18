@@ -6,7 +6,7 @@ source_relpath: "1900s/Odéon by Raoul Dufy (1920).jpeg"
 collection: "1900s"
 inferred_year: "1920"
 artist: ""
-dimensions: "2268x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

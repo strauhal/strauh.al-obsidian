@@ -6,7 +6,7 @@ source_relpath: "1900s/the_blue_slip_by_richard_e_miller_1910.png"
 collection: "1900s"
 inferred_year: "1910"
 artist: "richard e miller"
-dimensions: "896x1152"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

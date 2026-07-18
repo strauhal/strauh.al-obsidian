@@ -6,7 +6,7 @@ source_relpath: "photography/Young Man Wearing Glasses And Polaroid Originals T-
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1000x597"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

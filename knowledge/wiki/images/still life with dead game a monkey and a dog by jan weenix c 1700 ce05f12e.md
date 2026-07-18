@@ -6,7 +6,7 @@ source_relpath: "1700s/still_life_with_dead_game_a_monkey_and_a_dog_by_jan_weeni
 collection: "1700s"
 inferred_year: "1700"
 artist: "jan weenix"
-dimensions: "4165x2576"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

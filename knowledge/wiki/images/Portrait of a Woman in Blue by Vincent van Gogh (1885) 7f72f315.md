@@ -6,7 +6,7 @@ source_relpath: "1800s/Portrait of a Woman in Blue by Vincent van Gogh (1885).jp
 collection: "1800s"
 inferred_year: "1885"
 artist: ""
-dimensions: "1920x2341"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

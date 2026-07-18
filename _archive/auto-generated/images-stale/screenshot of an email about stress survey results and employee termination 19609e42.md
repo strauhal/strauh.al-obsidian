@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Screenshot Email Regarding Stress Survey Results and Employee Termination 7b69bea9|Screenshot Email Regarding Stress Survey Results and Employee Termination]] — shared language: employee, stress, survey
-- [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: results
+- [[knowledge/wiki/images/Screenshot Email Regarding Stress Survey Results and Employee Termination 7b69bea9|Screenshot Email Regarding Stress Survey Results and Employee Termination]] — shared language: stress, employee, survey
+- [[_archive/auto-generated/books-stale/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: results
 - [[knowledge/wiki/images/Screenshot Academic Article Search Results Page 2f086f75|Screenshot Academic Article Search Results Page]] — shared language: results, screenshot
 - [[_archive/auto-generated/images-stale/Screenshot from 2024 09 09 00 11 54 79450143|Screenshot from 2024 09 09 00 11 54]] — shared language: screenshot
 - [[_archive/auto-generated/images-stale/Screenshot from 2024 09 09 00 19 21 9a465f13|Screenshot from 2024 09 09 00 19 21]] — shared language: screenshot

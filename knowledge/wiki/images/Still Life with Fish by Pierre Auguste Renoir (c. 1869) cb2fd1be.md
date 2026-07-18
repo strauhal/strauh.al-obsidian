@@ -6,7 +6,7 @@ source_relpath: "1800s/Still Life with Fish by Pierre-Auguste Renoir (c. 1869).a
 collection: "1800s"
 inferred_year: "1869"
 artist: ""
-dimensions: "1544x869"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

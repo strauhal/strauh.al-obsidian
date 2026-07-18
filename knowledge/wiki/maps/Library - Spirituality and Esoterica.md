@@ -2,8 +2,8 @@
 title: Library - Spirituality and Esoterica
 type: map
 tags: [map, library, books]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Library - Spirituality and Esoterica
@@ -45,11 +45,11 @@ Books/files: 28
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/books/the-end-of-reading-is-here-the-atlantic|The Atlantic]] — named in this note
 - [[knowledge/wiki/books/timothy-francis-leary-ralph-metzner-richard-alpert-the-psychedelic-experience-a-manual-based-on-the-tibetan-book-of-the-dead|The Psychedelic Experience A Manual Based on the Tibetan Book of the Dead]] — shared language: leary, timothy, alpert
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: press, university, richard
 - [[knowledge/wiki/books/timothy-leary-start-your-own-religion-ronin-publishing|Start Your Own Religion-Ronin Publishing]] — shared language: leary, timothy
 - [[knowledge/wiki/books/timothy-leary-politics-of-self-determination-self-mastery-series|Politics of Self-Determination (Self-Mastery Series)]] — shared language: leary, timothy
-- [[knowledge/output/book-author-candidates|Book Author Candidates]] — shared language: joyous, cosmology, adventures
 - [[knowledge/wiki/books/powers-richard-galatea-2-2|Galatea 2 2]] — shared language: powers, richard
-- [[knowledge/wiki/books/richard-dawkins-the-selfish-gene-volume-2-oxford-university-press-usa|The Selfish Gene . Volume 2-Oxford University Press, USA]] — shared language: press, university, richard
+- [[knowledge/output/book-author-candidates|Book Author Candidates]] — shared language: joyous, adventures, cosmology
 <!-- vault-crosslinks:end -->

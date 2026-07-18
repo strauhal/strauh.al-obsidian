@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Men in Western Attire, Pen and Ink 
 collection: "unsorted"
 inferred_year: ""
 artist: "James Montgomery Flagg"
-dimensions: "945x724"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

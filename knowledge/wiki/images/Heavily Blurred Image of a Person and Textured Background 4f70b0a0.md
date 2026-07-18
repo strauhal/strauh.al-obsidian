@@ -6,7 +6,7 @@ source_relpath: "photography/Heavily Blurred Image of a Person and Textured Back
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1280x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

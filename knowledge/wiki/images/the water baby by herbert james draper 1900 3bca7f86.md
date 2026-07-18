@@ -6,7 +6,7 @@ source_relpath: "1900s/the_water_baby_by_herbert_james_draper_1900.jpg"
 collection: "1900s"
 inferred_year: "1900"
 artist: "herbert james draper"
-dimensions: "4096x9320"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

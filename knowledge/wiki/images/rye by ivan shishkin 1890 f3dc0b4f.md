@@ -6,7 +6,7 @@ source_relpath: "1800s/rye_by_ivan_shishkin_1890.jpg"
 collection: "1800s"
 inferred_year: "1890"
 artist: "ivan shishkin"
-dimensions: "3833x2160"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

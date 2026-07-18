@@ -6,7 +6,7 @@ source_relpath: "photography/Burning Self-Driving Cars on City Street with Onloo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

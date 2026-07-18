@@ -28,7 +28,7 @@ End of app-wrapper
 
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — named in this note
 - [[knowledge/wiki/anchors/visuals|visuals]] — named in this note
-- [[knowledge/wiki/pages/implicit distance|implicit distance]] — shared language: implicit, distance, audio
+- [[knowledge/wiki/pages/implicit distance|implicit distance]] — shared language: implicit, distance, warping
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: distance, implicit
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: implicit, distance
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: implicit, distance

@@ -6,7 +6,7 @@ source_relpath: "1900s/tete_de_femme_de_profil_head_of_a_woman_in_profile_by_pab
 collection: "1900s"
 inferred_year: "1926"
 artist: "pablo picasso"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

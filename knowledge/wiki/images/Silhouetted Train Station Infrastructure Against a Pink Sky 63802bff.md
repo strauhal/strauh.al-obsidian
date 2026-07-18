@@ -6,7 +6,7 @@ source_relpath: "photography/Silhouetted Train Station Infrastructure Against a 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2952x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

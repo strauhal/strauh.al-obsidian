@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of Text Describing an Ideal So
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2880x1800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Screenshot of Text Describing Euthanasia Coaster with Diagram e02b6883|Screenshot Screenshot of Text Describing Euthanasia Coaster with Diagram]] — shared language: describing, screenshot, text
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: order, social
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: social
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: ideal
 - [[knowledge/wiki/images/Screenshot Text Describing The Killing Of Tim McLean 8ebc610d|Screenshot Text Describing The Killing Of Tim McLean]] — shared language: describing, screenshot, text
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: social
 <!-- vault-crosslinks:end -->

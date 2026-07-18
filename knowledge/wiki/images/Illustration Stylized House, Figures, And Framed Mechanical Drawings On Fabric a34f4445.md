@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized House, Figures, And Framed Mec
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1800x1395"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: mechanical
 - [[knowledge/wiki/images/Illustration Abstract Drawings of Feet on Hanging White Fabric 4e5b117f|Illustration Abstract Drawings of Feet on Hanging White Fabric]] — shared language: fabric, drawings
 - [[knowledge/wiki/images/Illustration Large Robot Figure Above Stylized Face With Mechanical Details 5cdea146|Illustration Large Robot Figure Above Stylized Face With Mechanical Details]] — shared language: mechanical, stylized
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: drawings
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: drawings
+- [[knowledge/wiki/books/walter-benjamin-the-work-of-art-in-the-age-of-mechanical-reproduction|The Work of Art in the Age of Mechanical Reproduction]] — shared language: mechanical
 <!-- vault-crosslinks:end -->

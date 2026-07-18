@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Red Pencil Sketch of Striped Nude Woman
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1497x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

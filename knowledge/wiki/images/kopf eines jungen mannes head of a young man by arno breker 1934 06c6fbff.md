@@ -6,7 +6,7 @@ source_relpath: "1900s/kopf_eines_jungen_mannes_head_of_a_young_man_by_arno_brek
 collection: "1900s"
 inferred_year: "1934"
 artist: "arno breker"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

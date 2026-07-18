@@ -6,7 +6,7 @@ source_relpath: "1600s/triumph_of_the_barberini_by_pietro_da_cortona_1632_39.jpe
 collection: "1600s"
 inferred_year: "1632"
 artist: "pietro da cortona"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

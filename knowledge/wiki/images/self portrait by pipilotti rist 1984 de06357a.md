@@ -6,7 +6,7 @@ source_relpath: "1900s/self_portrait_by_pipilotti_rist_1984.jpg"
 collection: "1900s"
 inferred_year: "1984"
 artist: "pipilotti rist"
-dimensions: "400x274"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

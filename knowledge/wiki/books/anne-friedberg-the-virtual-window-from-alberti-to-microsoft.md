@@ -9,8 +9,8 @@ metadata: curated
 aliases: [friedberg-the-virtual-window-from-alberti-to-microsoft-2006 (1) (1)]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/friedberg-the-virtual-window-from-alberti-to-microsoft-2006 (1) (1).pdf"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # The Virtual Window: From Alberti to Microsoft

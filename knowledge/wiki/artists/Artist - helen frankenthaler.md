@@ -25,5 +25,6 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/images/helen frankenthaler cloud study 1980 2baed95c|helen frankenthaler cloud study 1980]] — shared language: helen
 - [[knowledge/wiki/images/miss helen sears by john singer sargent 1895 55e75015|miss helen sears by john singer sargent 1895]] — shared language: helen
+- [[knowledge/private/fanmail/threads/20-late-summer-breeze|Private Correspondence - 20 - Late Summer Breeze]] — shared language: breeze
 - [[knowledge/wiki/artists/Artist - john singer sargent|Artist - john singer sargent]] — shared language: helen
 <!-- vault-crosslinks:end -->

@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/web_art.html"
 source_relpath: "knowledge_base/web_art.html"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:40"
+compiled_at: "2026-07-18T00:07:16"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base web art
@@ -35,6 +35,17 @@ strauh.al/knowledge_base/web_art
 [Leander Herzog](https://leanderherzog.ch/)
 [An Object](http://andbc.co/an-object/)
 
+## interactive web art & experiments
+
+[device1.ertdfgcvb.xyz](https://device1.ertdfgcvb.xyz/)
+[app.joyn.xyz](https://app.joyn.xyz/)
+[Macpaint.org: Contemporary Work](http://www.macpaint.org/current_artists.html)
+[Videogramo](https://web.archive.org/web/20130328173258/http://videogramo.8bitpeoples.com/)
+[HDR Flashbang](https://walzr.com/flashbang)
+[Grand Theft Auto: Vice City | DOS games in browser](https://dos.zone/grand-theft-auto-vice-city/)
+[San Francisco Identities](https://walzr.com/sf-identities)
+[Isometric NYC](https://cannoneyed.com/isometric-nyc/)
+
 ## Related Local Pages
 
 - None yet
@@ -42,9 +53,11 @@ strauh.al/knowledge_base/web_art
 <!-- kb-links:start -->
 ## Connections
 
-*Every bookmark on this page wired to the ideas, people, and books it touches — 2 of 15 links connected (1 nodes).*
+*Every bookmark on this page wired to the ideas, people, and books it touches — 3 of 23 links connected (2 nodes).*
 
 **[[Transmitting My Neural Signals by Hand]]** — [drawing jam #1](http://www.jyrk.com/drawingjam01/index.html) · [drawing jam #2](http://www.jyrk.com/drawingjam02/index.html)
+
+**[[The Spatial Web]]** — [Grand Theft Auto: Vice City / DOS games in browser](https://dos.zone/grand-theft-auto-vice-city/)
 
 <!-- kb-links:end -->
 
@@ -52,11 +65,11 @@ strauh.al/knowledge_base/web_art
 ## Discovered Connections
 
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
-- [[knowledge/wiki/pages/knowledge base speed racer|knowledge base speed racer]] — shared language: base, knowledge, none
-- [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, pages
+- [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: web, city
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: web
-- [[knowledge/wiki/maps/Books Folder Title List|Books Folder Title List]] — shared language: knowledge
+- [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, pages
+- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: web, websites, work
+- [[knowledge/wiki/pages/knowledge base speed racer|knowledge base speed racer]] — shared language: base, knowledge, none
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: web, knowledge, concepts
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: web
-- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: web, websites
 <!-- vault-crosslinks:end -->

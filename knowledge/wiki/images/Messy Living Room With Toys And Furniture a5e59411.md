@@ -6,7 +6,7 @@ source_relpath: "photography/Messy Living Room With Toys And Furniture.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "540x358"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

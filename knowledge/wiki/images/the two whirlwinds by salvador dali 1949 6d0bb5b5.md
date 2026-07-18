@@ -6,7 +6,7 @@ source_relpath: "1900s/the_two_whirlwinds_by_salvador_dali_1949.jpg"
 collection: "1900s"
 inferred_year: "1949"
 artist: "salvador dali"
-dimensions: "755x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

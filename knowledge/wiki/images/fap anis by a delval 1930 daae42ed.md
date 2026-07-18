@@ -6,7 +6,7 @@ source_relpath: "1900s/fap_anis_by_a_delval_1930.jpeg"
 collection: "1900s"
 inferred_year: "1930"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

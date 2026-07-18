@@ -6,7 +6,7 @@ source_relpath: "1800s/richard_wagner_by_franz_von_lenbach_c_1882.jpg"
 collection: "1800s"
 inferred_year: "1882"
 artist: "franz von lenbach"
-dimensions: "666x700"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

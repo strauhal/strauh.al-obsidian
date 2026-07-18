@@ -6,7 +6,7 @@ source_relpath: "2000s/About MacPaint by Susan Kare (1984).png"
 collection: "2000s"
 inferred_year: "1984"
 artist: ""
-dimensions: "2304x1804"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

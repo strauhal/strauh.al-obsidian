@@ -6,7 +6,7 @@ source_relpath: "1900s/omoigawa_river_of_memory_by_ito_shinsui_1921.jpg"
 collection: "1900s"
 inferred_year: "1921"
 artist: "ito shinsui"
-dimensions: "1588x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_tree_by_joan_mitchell_1980.jpg"
 collection: "1900s"
 inferred_year: "1980"
 artist: "joan mitchell"
-dimensions: "547x850"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

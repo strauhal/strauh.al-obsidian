@@ -6,7 +6,7 @@ source_relpath: "1900s/regular_division_of_the_plane_v_by_maurits_cornelis_esche
 collection: "1900s"
 inferred_year: "1941"
 artist: "maurits cornelis escher"
-dimensions: "429x429"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

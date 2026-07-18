@@ -6,7 +6,7 @@ source_relpath: "1800s/the_artist_in_his_museum_by_charles_willson_peale_1822.jp
 collection: "1800s"
 inferred_year: "1822"
 artist: "charles willson peale"
-dimensions: "4284x5712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

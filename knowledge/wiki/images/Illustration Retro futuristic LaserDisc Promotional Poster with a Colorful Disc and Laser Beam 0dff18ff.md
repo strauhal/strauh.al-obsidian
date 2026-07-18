@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Retro-futuristic LaserDisc Promotional 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "600x813"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Man With Headphones And Portable Turntable At Outdo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "540x719"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

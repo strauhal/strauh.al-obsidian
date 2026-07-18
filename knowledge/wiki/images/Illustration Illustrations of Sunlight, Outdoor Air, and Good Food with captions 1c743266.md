@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Illustrations of Sunlight, Outdoor Air,
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1280x492"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

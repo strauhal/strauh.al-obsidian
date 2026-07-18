@@ -6,7 +6,7 @@ source_relpath: "photography/Black and Orange Cats Near a Laptop.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1000x667"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

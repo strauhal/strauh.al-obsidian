@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Monochrome Illustration of Shrek Smokin
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1964x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

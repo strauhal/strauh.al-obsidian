@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - The Spilhaus Projection by Athelstan Spilhaus.j
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Athelstan Spilhaus"
-dimensions: "798x798"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

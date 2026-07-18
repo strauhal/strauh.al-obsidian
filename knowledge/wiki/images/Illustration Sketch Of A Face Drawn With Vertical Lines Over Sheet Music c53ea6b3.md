@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Sketch Of A Face Drawn With Vertical Lines
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1532x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 - [[knowledge/wiki/images/Illustration Abstract Sketch of Deconstructed Form with Vertical Lines 942643f1|Illustration Abstract Sketch of Deconstructed Form with Vertical Lines]] — shared language: vertical, sketch, lines
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: drawn
 - [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
+- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: music
 <!-- vault-crosslinks:end -->

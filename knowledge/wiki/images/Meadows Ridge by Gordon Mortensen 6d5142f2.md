@@ -6,7 +6,7 @@ source_relpath: "unsorted/Meadows Ridge by Gordon Mortensen.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Gordon Mortensen"
-dimensions: "1060x1524"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

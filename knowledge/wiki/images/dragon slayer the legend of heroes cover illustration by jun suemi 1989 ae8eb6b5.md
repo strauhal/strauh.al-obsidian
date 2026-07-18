@@ -6,7 +6,7 @@ source_relpath: "1900s/dragon_slayer_the_legend_of_heroes_cover_illustration_by_
 collection: "1900s"
 inferred_year: "1989"
 artist: "jun suemi"
-dimensions: "4000x2975"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Military Vehicles And Civilian Cars At A Gas Statio
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "843x632"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

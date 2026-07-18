@@ -6,7 +6,7 @@ source_relpath: "1900s/ren_magritte_les_amants_1928.jpg"
 collection: "1900s"
 inferred_year: "1928"
 artist: ""
-dimensions: "3270x2407"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

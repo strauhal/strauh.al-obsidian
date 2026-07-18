@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Dorothy, Tin Man, Scarecrow, and Cowardly
 collection: "unsorted"
 inferred_year: ""
 artist: "Victor Fleming"
-dimensions: "3500x2280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

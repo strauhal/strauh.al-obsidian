@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Glowing Blue Stylized Plant With Two Yello
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1022x1095"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

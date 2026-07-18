@@ -6,7 +6,7 @@ source_relpath: "photography/Horses Grazing in a Green Field with Snow-Capped Mo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1000x669"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

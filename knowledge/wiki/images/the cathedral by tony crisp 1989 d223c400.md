@@ -6,7 +6,7 @@ source_relpath: "1900s/the_cathedral_by_tony_crisp_1989.jpeg"
 collection: "1900s"
 inferred_year: "1989"
 artist: "tony crisp"
-dimensions: "1400x1048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

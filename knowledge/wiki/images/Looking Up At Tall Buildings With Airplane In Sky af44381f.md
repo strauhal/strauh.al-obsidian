@@ -6,7 +6,7 @@ source_relpath: "photography/Looking Up At Tall Buildings With Airplane In Sky.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "768x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

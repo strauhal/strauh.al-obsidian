@@ -6,7 +6,7 @@ source_relpath: "1900s/le_chat_noir_by_georges_barbier_1920.jpg"
 collection: "1900s"
 inferred_year: "1920"
 artist: "georges barbier"
-dimensions: "1280x1261"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

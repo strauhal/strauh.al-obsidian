@@ -6,7 +6,7 @@ source_relpath: "photography/Two People Dressed As Cleopatra And Caesar Dressing
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "977x1221"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

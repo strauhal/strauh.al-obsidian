@@ -6,7 +6,7 @@ source_relpath: "photography/Man Pumping Gas At Family Express Station At Night.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "695x924"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/two_figures_by_leon_golub_1960.jpg"
 collection: "1900s"
 inferred_year: "1960"
 artist: "leon golub"
-dimensions: "2835x1980"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

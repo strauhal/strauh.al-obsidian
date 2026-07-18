@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Temple of Athena Nike: Reconstruction v
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "721x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

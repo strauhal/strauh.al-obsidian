@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Diptych Comparing Ancient Figurine to Modern Anim
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1200x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1600s/mucius_scaevola_by_cornelis_bloemaert_ii_c_1635.jpeg"
 collection: "1600s"
 inferred_year: "1635"
 artist: "cornelis bloemaert ii"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Flo
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — named in this note
-- [[knowledge/wiki/images/Flowchart of Non Sectarian Buddhist Texts and Study Paths ec9ffa78|Flowchart of Non Sectarian Buddhist Texts and Study Paths]] — shared language: sectarian, non, flowchart
+- [[knowledge/wiki/images/Flowchart of Non Sectarian Buddhist Texts and Study Paths ec9ffa78|Flowchart of Non Sectarian Buddhist Texts and Study Paths]] — shared language: sectarian, flowchart, non
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: study
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: study

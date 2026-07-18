@@ -6,7 +6,7 @@ source_relpath: "photography/Scanning Electron Micrograph of Polyhedral Microstr
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "3360x2100"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

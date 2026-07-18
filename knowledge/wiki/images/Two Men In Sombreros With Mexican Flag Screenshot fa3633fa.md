@@ -6,7 +6,7 @@ source_relpath: "photography/Two Men In Sombreros With Mexican Flag Screenshot.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "600x540"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

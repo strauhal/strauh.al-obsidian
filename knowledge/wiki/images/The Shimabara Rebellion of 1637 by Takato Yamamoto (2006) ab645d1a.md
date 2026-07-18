@@ -6,7 +6,7 @@ source_relpath: "2000s/The Shimabara Rebellion of 1637 by Takato Yamamoto (2006)
 collection: "2000s"
 inferred_year: "2006"
 artist: ""
-dimensions: "4096x1885"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

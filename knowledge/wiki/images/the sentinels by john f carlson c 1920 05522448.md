@@ -6,7 +6,7 @@ source_relpath: "1900s/the_sentinels_by_john_f_carlson_c_1920.jpg"
 collection: "1900s"
 inferred_year: "1920"
 artist: "john f carlson"
-dimensions: "2048x2564"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

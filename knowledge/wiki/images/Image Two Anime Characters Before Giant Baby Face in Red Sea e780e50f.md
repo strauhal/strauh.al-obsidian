@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Two Anime Characters Before Giant Baby Face in Re
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1280x853"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

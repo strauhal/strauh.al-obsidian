@@ -6,7 +6,7 @@ source_relpath: "1900s/Jalousie (Blinds) by Gerhard Richter (1971).jpeg"
 collection: "1900s"
 inferred_year: "1971"
 artist: ""
-dimensions: "879x1166"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/The Beginning of Life by František Kupka (1900).jpeg"
 collection: "1900s"
 inferred_year: "1900"
 artist: ""
-dimensions: "880x884"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

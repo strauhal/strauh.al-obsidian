@@ -6,7 +6,7 @@ source_relpath: "1800s/les_demoiselles_de_village_the_young_ladies_of_the_villag
 collection: "1800s"
 inferred_year: "1852"
 artist: "gustave courbet"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

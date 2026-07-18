@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of World Trade Center Twin Towers and S
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1696"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

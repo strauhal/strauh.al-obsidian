@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - The Bride & The Lindorm by Henry Justic
 collection: "unsorted"
 inferred_year: ""
 artist: "Henry Justice Ford"
-dimensions: "1796x2808"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

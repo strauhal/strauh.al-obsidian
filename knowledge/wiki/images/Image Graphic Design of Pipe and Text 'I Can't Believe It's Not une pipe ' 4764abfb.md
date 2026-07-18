@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Graphic Design of Pipe and Text 'I Can't Believe 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "960x680"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

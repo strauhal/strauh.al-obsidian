@@ -7,8 +7,8 @@ status: queued
 queue_order: 3
 tags: [culture, reading, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Play the Piano Drunk Like a Percussion Instrument Until the Fingers Begin to Bleed a Bit
@@ -30,7 +30,7 @@ This is an active book in Ernest's current cultural diet. Add dates, reactions, 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: play, instrument, like
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: instrument, play, like
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: play, like
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: play, like
 - [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: begin, like

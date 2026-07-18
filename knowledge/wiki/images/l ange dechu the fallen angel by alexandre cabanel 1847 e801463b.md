@@ -6,7 +6,7 @@ source_relpath: "1800s/l_ange_dechu_the_fallen_angel_by_alexandre_cabanel_1847.j
 collection: "1800s"
 inferred_year: "1847"
 artist: "alexandre cabanel"
-dimensions: "1080x1344"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

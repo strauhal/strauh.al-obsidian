@@ -6,7 +6,7 @@ source_relpath: "1800s/le_baiser_by_georges_de_feure_1897.png"
 collection: "1800s"
 inferred_year: "1897"
 artist: "georges de feure"
-dimensions: "2560x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

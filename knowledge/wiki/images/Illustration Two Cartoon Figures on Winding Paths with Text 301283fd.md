@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Cartoon Figures on Winding Paths wi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1260x989"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

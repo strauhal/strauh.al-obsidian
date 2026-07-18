@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Screenshot of a 4chan Thread Discussing an A
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1348x723"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Scr
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/stoic-4chan|stoic 4chan]] — shared language: chan
 - [[knowledge/wiki/images/Screenshot Text Excerpt Discussing Art, Life, And Absurdity bbf8e9d8|Screenshot Text Excerpt Discussing Art, Life, And Absurdity]] — shared language: discussing, screenshot
+- [[knowledge/wiki/books/stoic-4chan|stoic 4chan]] — shared language: chan
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: chan
-- [[knowledge/wiki/artists/Artist - chan ky yut|Artist - chan ky yut]] — shared language: chan
 - [[knowledge/wiki/images/Screenshot Reddit Post Discussing A Movie's Intentional Badness b2f4b304|Screenshot Reddit Post Discussing A Movie's Intentional Badness]] — shared language: discussing, screenshot
+- [[knowledge/wiki/images/Screenshot Screenshot of an Essay Discussing Technology Adoption and Values 3e43477e|Screenshot Screenshot of an Essay Discussing Technology Adoption and Values]] — shared language: discussing, screenshot
 <!-- vault-crosslinks:end -->

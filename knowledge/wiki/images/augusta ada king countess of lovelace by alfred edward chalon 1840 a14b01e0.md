@@ -6,7 +6,7 @@ source_relpath: "1800s/augusta_ada_king_countess_of_lovelace_by_alfred_edward_ch
 collection: "1800s"
 inferred_year: "1840"
 artist: "alfred edward chalon"
-dimensions: "2439x3504"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

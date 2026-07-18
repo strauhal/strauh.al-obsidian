@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Graph of AI Effective Compute Growth and Capabi
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Leopold Aschenbrenner"
-dimensions: "3320x2560"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Graph 
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: graph
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: graph
 - [[knowledge/wiki/artists/Artist - Leopold Schmutzler|Artist - Leopold Schmutzler]] — shared language: leopold
-- [[knowledge/wiki/artists/Artist - louis leopold boilly|Artist - louis leopold boilly]] — shared language: leopold
+- [[knowledge/wiki/books/leopold-aschenbrenner-situational-awareness-the-decade-ahead|Situational Awareness: The Decade Ahead]] — shared language: leopold
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1900s/cassandra_s_character_sheet_by_bill_willingham_1989.jpeg"
 collection: "1900s"
 inferred_year: "1989"
 artist: "bill willingham"
-dimensions: "897x574"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

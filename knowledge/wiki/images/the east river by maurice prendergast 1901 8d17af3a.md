@@ -6,7 +6,7 @@ source_relpath: "1900s/the_east_river_by_maurice_prendergast_1901.jpeg"
 collection: "1900s"
 inferred_year: "1901"
 artist: "maurice prendergast"
-dimensions: "5712x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

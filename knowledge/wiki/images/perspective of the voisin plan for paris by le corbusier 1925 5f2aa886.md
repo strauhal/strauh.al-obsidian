@@ -6,7 +6,7 @@ source_relpath: "1900s/perspective_of_the_voisin_plan_for_paris_by_le_corbusier_
 collection: "1900s"
 inferred_year: "1925"
 artist: "le corbusier"
-dimensions: "430x290"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

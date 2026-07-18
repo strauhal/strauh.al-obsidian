@@ -6,7 +6,7 @@ source_relpath: "photography/Partial View of Twitter Sign on Building with Perso
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "958x650"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1600s/diogenes_throwing_away_his_bowl_by_salvator_rosa_c_1650.j
 collection: "1600s"
 inferred_year: "1650"
 artist: "salvator rosa"
-dimensions: "1920x1282"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

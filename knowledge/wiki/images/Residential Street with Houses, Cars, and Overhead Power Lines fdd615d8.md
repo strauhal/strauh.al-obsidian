@@ -6,7 +6,7 @@ source_relpath: "photography/Residential Street with Houses, Cars, and Overhead 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "960x665"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

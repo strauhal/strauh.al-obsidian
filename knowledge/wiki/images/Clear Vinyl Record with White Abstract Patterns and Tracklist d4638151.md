@@ -6,7 +6,7 @@ source_relpath: "photography/Clear Vinyl Record with White Abstract Patterns and
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1920x1920"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Clear Viny
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: record
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: record
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: record
-- [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: clear
 - [[knowledge/wiki/books/nicolas-slonimsky-thesaurus-of-scales-and-melodic-patterns-text-schirmer-trade-books|Thesaurus of Scales and Melodic Patterns (Text)-Schirmer Trade Books]] — shared language: patterns
+- [[knowledge/wiki/images/Illustration Abstract Portrait of a Head with Wavy Blue and Red Patterns 7d303ebb|Illustration Abstract Portrait of a Head with Wavy Blue and Red Patterns]] — shared language: patterns
 <!-- vault-crosslinks:end -->

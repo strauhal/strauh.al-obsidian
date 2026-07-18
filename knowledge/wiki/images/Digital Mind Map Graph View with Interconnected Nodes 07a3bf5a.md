@@ -6,7 +6,7 @@ source_relpath: "diagrams/Digital_Mind_Map_Graph_View_with_Interconnected_Nodes.
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1126x1124"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

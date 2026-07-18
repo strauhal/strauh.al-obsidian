@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles, chicago
 - [[knowledge/wiki/artists/Artist - charles dudley arnold|Artist - charles dudley arnold]] — shared language: charles, columbian, exposition
 - [[knowledge/wiki/images/manufactures and liberal arts building world s columbian exposition by charles dudley arnold 1892 7ebc03bc|manufactures and liberal arts building world s columbian exposition by charles dudley arnold 1892]] — shared language: charles, columbian, exposition
-- [[knowledge/wiki/books/benjamin-graham-the-intelligent-investor|The Intelligent Investor]] — shared language: graham
+- [[knowledge/wiki/images/peristyle and arch of triumph world s columbian exposition chicago by charles dudley arnold 1893 d233adbb|peristyle and arch of triumph world s columbian exposition chicago by charles dudley arnold 1893]] — shared language: charles, columbian, exposition
 <!-- vault-crosslinks:end -->

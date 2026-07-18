@@ -7,8 +7,8 @@ status: queued
 queue_order: 35
 tags: [culture, reading, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Sexual Personae
@@ -36,6 +36,6 @@ This is an active book in Ernest's current cultural diet. Add dates, reactions, 
 - [[knowledge/wiki/culture/reading-my-first-book|Reading - My First Book]] — shared language: current, book, stronger
 - [[knowledge/wiki/culture/reading-design-as-art|Reading - Design as Art]] — shared language: current, stronger, develops
 - [[knowledge/wiki/culture/reading-the-art-spirit|Reading - The Art Spirit]] — shared language: current, stronger, develops
-- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: sexual
 - [[knowledge/wiki/culture/reading-tomie|Reading - Tomie]] — shared language: current, stronger, develops
+- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: sexual
 <!-- vault-crosslinks:end -->

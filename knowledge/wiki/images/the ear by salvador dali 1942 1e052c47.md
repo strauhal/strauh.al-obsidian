@@ -6,7 +6,7 @@ source_relpath: "1900s/the_ear_by_salvador_dali_1942.jpg"
 collection: "1900s"
 inferred_year: "1942"
 artist: "salvador dali"
-dimensions: "1000x1312"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

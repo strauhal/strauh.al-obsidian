@@ -6,7 +6,7 @@ source_relpath: "diagrams/Four_Views_Of_A_Color_Sphere_Diagram.jpeg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

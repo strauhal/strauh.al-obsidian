@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pale Crouching Figure Beneath Red Wall 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1611x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

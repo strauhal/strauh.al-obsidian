@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Sunlit Orange Toned Cafe Interior with Arched Windows and Figure by Ethan Lee 725dc037|Illustration Sunlit Orange Toned Cafe Interior with Arched Windows and Figure by Ethan Lee]] — shared language: sunlit, arched, toned
 - [[knowledge/wiki/images/Illustration Sunlit Interior of a Cafe with Arched Windows and Wooden Furniture 8eba43c8|Illustration Sunlit Interior of a Cafe with Arched Windows and Wooden Furniture]] — shared language: sunlit, arched, cafe
 - [[knowledge/wiki/images/Illustration Ink and Marker Sketch of Interior Room with Orange Chair 1909bb5c|Illustration Ink and Marker Sketch of Interior Room with Orange Chair]] — shared language: marker, orange, sketch
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch, ink
 - [[_archive/auto-generated/images-stale/ink and marker sketch of an interior room with large window and orange chair d0025ed6|ink and marker sketch of an interior room with large window and orange chair]] — shared language: marker, orange, sketch
-- [[knowledge/wiki/artists/Artist - Ethan Lee|Artist - Ethan Lee]] — shared language: sunlit, arched, toned
 <!-- vault-crosslinks:end -->

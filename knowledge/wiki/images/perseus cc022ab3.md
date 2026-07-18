@@ -6,7 +6,7 @@ source_relpath: "wallpapers/perseus.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "1200x797"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

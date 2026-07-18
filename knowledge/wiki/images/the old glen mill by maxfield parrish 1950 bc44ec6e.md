@@ -6,7 +6,7 @@ source_relpath: "1900s/the_old_glen_mill_by_maxfield_parrish_1950.jpeg"
 collection: "1900s"
 inferred_year: "1950"
 artist: "maxfield parrish"
-dimensions: "4284x5712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Foggy Cityscape with Tall Buildings and Neon Signs 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1280x849"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

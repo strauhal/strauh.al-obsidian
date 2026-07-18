@@ -6,7 +6,7 @@ source_relpath: "1900s/woman_with_a_bird_by_chaim_soutine_c_1924.jpeg"
 collection: "1900s"
 inferred_year: "1924"
 artist: "chaim soutine"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

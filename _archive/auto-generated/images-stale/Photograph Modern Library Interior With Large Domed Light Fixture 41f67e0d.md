@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Modern Library Interior With Large Domed Light Fixture d18193cc|Modern Library Interior With Large Domed Light Fixture]] — shared language: fixture, domed, modern
+- [[knowledge/wiki/images/Modern Library Interior With Large Domed Light Fixture d18193cc|Modern Library Interior With Large Domed Light Fixture]] — shared language: fixture, domed, light
 - [[knowledge/wiki/images/Interior of a large, modern library with wooden structure b5a1b809|Interior of a large, modern library with wooden structure]] — shared language: modern, interior, large
 - [[_archive/auto-generated/images-stale/Photograph Interior of a large, modern library with wooden structure cff9c93c|Photograph Interior of a large, modern library with wooden structure]] — shared language: modern, interior, large
 - [[knowledge/wiki/images/black and white photograph of the steel framework of a large domed building under construction 1892 b927698c|black and white photograph of the steel framework of a large domed building under construction 1892]] — shared language: domed, large

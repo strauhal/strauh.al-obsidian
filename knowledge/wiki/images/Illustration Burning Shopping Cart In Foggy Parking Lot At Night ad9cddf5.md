@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Burning Shopping Cart In Foggy Parking 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "801x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

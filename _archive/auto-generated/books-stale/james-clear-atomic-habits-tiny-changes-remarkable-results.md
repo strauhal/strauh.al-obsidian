@@ -43,8 +43,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/1801-4007-1-sm|1801-4007-1-SM]] — same category: unsorted
 - [[knowledge/wiki/books/06-25-19harris-testimony|06 25 19Harris Testimony]] — same category: unsorted
 - [[knowledge/wiki/books/104-4-835|104-4-835]] — same category: unsorted
+- [[_archive/auto-generated/books-stale/129e144131f2e093fb1e441c737acf92-searchforthemanchuriancandidate-rtf|129E144131F2E093FB1E441C737ACF92 SearchForTheManchurianCandidate.rtf]] — same category: unsorted
 - [[knowledge/wiki/books/1611354422128|1611354422128]] — same category: unsorted
 - [[knowledge/wiki/books/1619646949926|1619646949926]] — same category: unsorted
 - [[knowledge/wiki/books/1619925797187|1619925797187]] — same category: unsorted
-- [[knowledge/wiki/books/1620685278614|1620685278614]] — same category: unsorted
 <!-- vault-crosslinks:end -->

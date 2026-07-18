@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Chart Explaining Literary Conflict with Jimmy Neu
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "476x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

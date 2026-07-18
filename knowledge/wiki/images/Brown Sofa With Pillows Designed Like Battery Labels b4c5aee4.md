@@ -6,7 +6,7 @@ source_relpath: "photography/Brown Sofa With Pillows Designed Like Battery Label
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "526x526"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -2,8 +2,8 @@
 title: Map - Writing About Ernest
 type: map
 tags: [map, criticism, secondary-sources]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Map - Writing About Ernest
@@ -35,5 +35,5 @@ Secondary writing about Ernest's work. Interpretations remain attributed to thei
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: writing, control, human
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color, work
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: works, authorship, human-machine
-- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: color, gan, work
+- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: color, ernest's
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1800s/nymphs_and_satyr_by_william_adolphe_bouguereau_1873_2.jpg
 collection: "1800s"
 inferred_year: "1873"
 artist: "william adolphe bouguereau"
-dimensions: "1024x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

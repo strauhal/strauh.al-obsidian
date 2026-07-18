@@ -6,7 +6,7 @@ source_relpath: "photography/Side-by-Side Comparison of Hongya Cave, Chongqing, 
 collection: "photography"
 inferred_year: "1998"
 artist: ""
-dimensions: "2048x1551"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/paestum_by_elias_hellquist_1852.jpg"
 collection: "1800s"
 inferred_year: "1852"
 artist: "elias hellquist"
-dimensions: "1969x1388"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

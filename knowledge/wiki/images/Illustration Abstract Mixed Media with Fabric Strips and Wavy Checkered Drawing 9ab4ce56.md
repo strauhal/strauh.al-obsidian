@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Mixed Media with Fabric Strips
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3024x3206"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

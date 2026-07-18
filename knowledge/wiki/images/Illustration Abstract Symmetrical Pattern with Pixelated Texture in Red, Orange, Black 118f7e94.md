@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Symmetrical Pattern with Pixel
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2200x2200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

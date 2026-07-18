@@ -58,6 +58,6 @@ mentally and physically handicapped children and adults. The full sequence lives
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: lineage, left, diary
 - [[knowledge/wiki/books/piano|piano]] — shared language: piano
 - [[knowledge/wiki/books/elkins-james-why-art-cannot-be-taught-a-handbook-for-art-students|Why art cannot be taught a handbook for art students]] — shared language: taught
-- [[knowledge/wiki/chatgpt/Memory Review|ChatGPT Memory Review]] — shared language: sacramento, school, diary
 - [[knowledge/wiki/images/Photograph of San Francisco Street Art About Gentrification db35ca3f|Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
+- [[knowledge/wiki/books/jean-claude-larchet-archibald-andrew-torrance-the-new-media-epidemic-the-undermining-of-society-family-and-our-own-soul-the-printshop-of-st-|The New Media Epidemic The Undermining of Society, Family, and Our Own Soul-The Printshop of St Job of Pochaev]] — shared language: job, family
 <!-- vault-crosslinks:end -->

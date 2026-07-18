@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_louis_xv_in_coronation_robes_by_jean_baptiste
 collection: "1700s"
 inferred_year: "1723"
 artist: "jean baptiste van loo"
-dimensions: "969x1179"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

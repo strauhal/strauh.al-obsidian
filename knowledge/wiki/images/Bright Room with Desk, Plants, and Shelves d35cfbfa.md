@@ -6,7 +6,7 @@ source_relpath: "photography/Bright Room with Desk, Plants, and Shelves.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "3200x1800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

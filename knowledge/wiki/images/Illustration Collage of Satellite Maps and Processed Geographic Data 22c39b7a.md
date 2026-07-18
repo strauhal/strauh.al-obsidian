@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Collage of Satellite Maps and Processed
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1280x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

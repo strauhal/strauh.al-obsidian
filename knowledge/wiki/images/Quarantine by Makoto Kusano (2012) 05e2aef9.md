@@ -6,7 +6,7 @@ source_relpath: "2000s/Quarantine by Makoto Kusano (2012).jpg"
 collection: "2000s"
 inferred_year: "2012"
 artist: ""
-dimensions: "1080x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

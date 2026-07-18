@@ -6,7 +6,7 @@ source_relpath: "photography/Interior of a shopping mall with pink lighting and 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "828x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

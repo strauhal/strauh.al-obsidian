@@ -6,7 +6,7 @@ source_relpath: "2000s/Pierre Joseph Proudhon and his children in 1853 by Gustav
 collection: "2000s"
 inferred_year: "1865"
 artist: ""
-dimensions: "2560x1952"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

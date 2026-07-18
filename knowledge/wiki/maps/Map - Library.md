@@ -2,21 +2,21 @@
 title: Map - Library
 type: map
 tags: [map, library, books]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Map - Library
 
 A linked map of the iCloud Readings folder. It knows titles, likely authors, source paths, and broad themes, but it does not pretend to summarize unread books.
 
-Total entries: 420
+Total entries: 421
 
 [Open the iCloud Readings folder](file:///Users/erneststrauhal/Library/Mobile%20Documents/com~apple~CloudDocs/Readings)
 
 ## Categories
 
-- [[Library - Art and Aesthetics]] (69)
+- [[Library - Art and Aesthetics]] (70)
 - [[Library - Design and Making]] (10)
 - [[Library - Literature]] (30)
 - [[Library - Media and Technology]] (33)

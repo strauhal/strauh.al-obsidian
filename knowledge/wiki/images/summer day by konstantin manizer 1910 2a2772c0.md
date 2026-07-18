@@ -6,7 +6,7 @@ source_relpath: "1900s/summer_day_by_konstantin_manizer_1910.jpg"
 collection: "1900s"
 inferred_year: "1910"
 artist: "konstantin manizer"
-dimensions: "900x840"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

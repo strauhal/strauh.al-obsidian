@@ -6,7 +6,7 @@ source_relpath: "diagrams/Compilation_of_Psychedelic_Folk_Album_Covers_and_Infor
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "4488x3528"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

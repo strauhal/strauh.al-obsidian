@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Monochrome Digital Sketch of Distressed
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "827x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

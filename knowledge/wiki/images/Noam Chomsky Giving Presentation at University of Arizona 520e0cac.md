@@ -6,7 +6,7 @@ source_relpath: "photography/Noam Chomsky Giving Presentation at University of A
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1346"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

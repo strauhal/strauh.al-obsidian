@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - Mike Harris|Artist - Mike Harris]] — shared language: harris
 - [[knowledge/wiki/artists/Artist - lyle ashton harris|Artist - lyle ashton harris]] — shared language: harris
 - [[knowledge/wiki/books/h-s-harris-hegel-s-ladder-the-odyssey-of-spirit-vol-2|Hegel's Ladder :The Odyssey of Spirit (Vol 2)]] — shared language: harris
-- [[knowledge/wiki/images/self portrait hands on head by lyle ashton harris 1993 1b0e92d2|self portrait hands on head by lyle ashton harris 1993]] — shared language: harris
+- [[knowledge/wiki/books/routledge-key-guides-jonathan-harris-art-history-the-key-concepts-routledge|Art History The Key Concepts-Routledge]] — shared language: harris
 <!-- vault-crosslinks:end -->

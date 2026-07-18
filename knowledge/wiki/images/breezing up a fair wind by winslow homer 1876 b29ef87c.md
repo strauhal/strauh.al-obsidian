@@ -6,7 +6,7 @@ source_relpath: "1800s/breezing_up_a_fair_wind_by_winslow_homer_1876.jpeg"
 collection: "1800s"
 inferred_year: "1876"
 artist: "winslow homer"
-dimensions: "5712x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

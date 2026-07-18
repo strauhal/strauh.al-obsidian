@@ -6,7 +6,7 @@ source_relpath: "photography/Interior of a large, modern library with wooden str
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Dark Stairwell Leading to Bright Outdoor Tree.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

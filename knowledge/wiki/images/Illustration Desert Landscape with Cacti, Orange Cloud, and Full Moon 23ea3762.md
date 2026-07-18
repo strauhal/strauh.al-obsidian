@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Desert Landscape with Cacti, Orange Clo
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3250x4000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

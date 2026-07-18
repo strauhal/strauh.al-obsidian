@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Two Men In Intense Hand-To-Hand Combat by Take
 collection: "unsorted"
 inferred_year: ""
 artist: "Takehiko Inoue"
-dimensions: "1077x724"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

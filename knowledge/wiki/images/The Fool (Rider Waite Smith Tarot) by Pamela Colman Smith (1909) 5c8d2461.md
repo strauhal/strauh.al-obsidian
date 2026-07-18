@@ -6,7 +6,7 @@ source_relpath: "1900s/The Fool (Rider-Waite-Smith Tarot) by Pamela Colman Smith
 collection: "1900s"
 inferred_year: "1909"
 artist: ""
-dimensions: "746x1302"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

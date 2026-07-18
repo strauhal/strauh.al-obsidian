@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Free Jazz by Jim Marshall.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Jim Marshall"
-dimensions: "1199x893"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

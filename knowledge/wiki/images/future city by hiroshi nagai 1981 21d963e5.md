@@ -6,7 +6,7 @@ source_relpath: "1900s/future_city_by_hiroshi_nagai_1981.jpg"
 collection: "1900s"
 inferred_year: "1981"
 artist: "hiroshi nagai"
-dimensions: "900x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

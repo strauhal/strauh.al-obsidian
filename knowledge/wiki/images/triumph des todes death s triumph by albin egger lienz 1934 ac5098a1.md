@@ -6,7 +6,7 @@ source_relpath: "1900s/triumph_des_todes_death_s_triumph_by_albin_egger_lienz_19
 collection: "1900s"
 inferred_year: "1934"
 artist: "albin egger lienz"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

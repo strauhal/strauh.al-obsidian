@@ -6,7 +6,7 @@ source_relpath: "1900s/the_wake_of_the_ferry_ii_by_john_sloan_1907.jpeg"
 collection: "1900s"
 inferred_year: "1907"
 artist: "john sloan"
-dimensions: "5712x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

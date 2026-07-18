@@ -72,8 +72,8 @@ rather than a roster of names.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: belief, rather, way
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: way, get, things
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: belief, rather, way
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: rather, get, one
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: get, diary, people
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: rather, ways, music

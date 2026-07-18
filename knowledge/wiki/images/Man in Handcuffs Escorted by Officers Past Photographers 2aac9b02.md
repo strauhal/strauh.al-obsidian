@@ -6,7 +6,7 @@ source_relpath: "photography/Man in Handcuffs Escorted by Officers Past Photogra
 collection: "photography"
 inferred_year: ""
 artist: "Officers Past Photographers"
-dimensions: "1600x1066"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/Morning by Caspar David Friedrich (c. 1820).jpg"
 collection: "1800s"
 inferred_year: "1820"
 artist: ""
-dimensions: "600x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

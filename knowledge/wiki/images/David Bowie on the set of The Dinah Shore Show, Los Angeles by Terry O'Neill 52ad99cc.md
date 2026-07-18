@@ -6,7 +6,7 @@ source_relpath: "photography/David Bowie on the set of The Dinah Shore Show, Los
 collection: "photography"
 inferred_year: ""
 artist: "Terry O'Neill"
-dimensions: "1125x750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

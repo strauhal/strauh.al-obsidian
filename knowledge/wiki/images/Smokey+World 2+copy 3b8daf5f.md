@@ -6,7 +6,7 @@ source_relpath: "photography/fan_ho/Smokey+World-2+copy.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "648x453"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

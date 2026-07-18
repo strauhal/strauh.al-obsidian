@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Distorted, Pixelated Black Text on a Li
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "296x95"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

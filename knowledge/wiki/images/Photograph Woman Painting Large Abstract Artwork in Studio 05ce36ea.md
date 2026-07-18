@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Woman Painting Large Abstract Artwork in Stu
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2500x1662"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

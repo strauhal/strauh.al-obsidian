@@ -6,7 +6,7 @@ source_relpath: "1700s/watson_and_the_shark_by_john_singleton_copley_1778.jpeg"
 collection: "1700s"
 inferred_year: "1778"
 artist: "john singleton copley"
-dimensions: "5712x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

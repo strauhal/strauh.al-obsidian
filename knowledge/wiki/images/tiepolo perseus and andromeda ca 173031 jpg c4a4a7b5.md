@@ -6,7 +6,7 @@ source_relpath: "1700s/tiepolo_perseus_and_andromeda_ca_173031_jpg.jpg"
 collection: "1700s"
 inferred_year: "1700s"
 artist: ""
-dimensions: "4497x5912"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

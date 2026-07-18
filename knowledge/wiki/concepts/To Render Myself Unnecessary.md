@@ -52,7 +52,7 @@ about *holding* authorship, this is about *giving it away* — and it rhymes wit
 - [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
 - [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
 - [[knowledge/wiki/images/essence dbff3c59|essence]] — named in this note
-- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: fathers, school, quotes
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: fathers, school, child's
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: knot, wisdom, quotes
 <!-- vault-crosslinks:end -->
 

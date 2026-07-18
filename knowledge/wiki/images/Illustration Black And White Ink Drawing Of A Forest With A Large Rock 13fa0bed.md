@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White Ink Drawing Of A Forest
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/images/Illustration Painting of a Large Red Rock Cliff with a Small Building 400c246c|Illustration Painting of a Large Red Rock Cliff with a Small Building]] — shared language: rock, large
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
-- [[knowledge/wiki/images/Personal Rock by Gramm (1999) 49324258|Personal Rock by Gramm (1999)]] — shared language: rock
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: ink
 <!-- vault-crosslinks:end -->

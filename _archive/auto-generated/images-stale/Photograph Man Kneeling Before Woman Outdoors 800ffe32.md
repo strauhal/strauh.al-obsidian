@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[_archive/auto-generated/images-stale/interior painting of a woman kneeling by a window 0f6fd21f|interior painting of a woman kneeling by a window]] — shared language: kneeling
 - [[knowledge/wiki/images/Illustration Contour Line Drawing of Kneeling Figure 4d15b5bc|Illustration Contour Line Drawing of Kneeling Figure]] — shared language: kneeling
 - [[_archive/auto-generated/images-stale/abstract painting depicting two stylized figures one blue and one green kneeling 10566527|abstract painting depicting two stylized figures one blue and one green kneeling]] — shared language: kneeling
-- [[knowledge/wiki/images/Illustration Two Stylized Figures Kneeling Before Japanese Calligraphy Scroll c3856a4a|Illustration Two Stylized Figures Kneeling Before Japanese Calligraphy Scroll]] — shared language: kneeling
+- [[knowledge/wiki/images/Three Costumed Figures, One Kneeling, One Standing, One Seated 0c031df4|Three Costumed Figures, One Kneeling, One Standing, One Seated]] — shared language: kneeling
 <!-- vault-crosslinks:end -->

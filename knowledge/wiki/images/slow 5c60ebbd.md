@@ -6,7 +6,7 @@ source_relpath: "album_covers/slow.jpg"
 collection: "album_covers"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/album_covers"]
 ---

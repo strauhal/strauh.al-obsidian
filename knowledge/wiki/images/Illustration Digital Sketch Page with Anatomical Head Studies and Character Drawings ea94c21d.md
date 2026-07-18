@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Digital Sketch Page with Anatomical Head S
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "878x763"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

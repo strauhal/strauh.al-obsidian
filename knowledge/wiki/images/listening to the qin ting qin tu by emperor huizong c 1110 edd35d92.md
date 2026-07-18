@@ -6,7 +6,7 @@ source_relpath: "1100s/listening_to_the_qin_ting_qin_tu_by_emperor_huizong_c_111
 collection: "1100s"
 inferred_year: "1100s"
 artist: "emperor huizong"
-dimensions: "2268x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1100s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1100s/listening_to_the
 - [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: listening
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: listening
 - [[knowledge/wiki/images/Lady Guoguo's Spring Outing by Emperor Huizong (Northern Song dynasty) 4c4b9a12|Lady Guoguo's Spring Outing by Emperor Huizong (Northern Song dynasty)]] — shared language: huizong, emperor
-- [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: listening
+- [[knowledge/wiki/images/Emperor Minghuang's Journey into Shu by Li Zhaodao (Song Dynasty) 66c0d901|Emperor Minghuang's Journey into Shu by Li Zhaodao (Song Dynasty)]] — shared language: emperor
 <!-- vault-crosslinks:end -->

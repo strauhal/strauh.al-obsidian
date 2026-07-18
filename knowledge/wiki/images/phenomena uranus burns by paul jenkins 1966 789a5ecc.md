@@ -6,7 +6,7 @@ source_relpath: "1900s/phenomena_uranus_burns_by_paul_jenkins_1966.jpeg"
 collection: "1900s"
 inferred_year: "1966"
 artist: "paul jenkins"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

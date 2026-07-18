@@ -6,7 +6,7 @@ source_relpath: "2000s/Tyger by Alex Grey (2001).jpeg"
 collection: "2000s"
 inferred_year: "2001"
 artist: ""
-dimensions: "1600x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

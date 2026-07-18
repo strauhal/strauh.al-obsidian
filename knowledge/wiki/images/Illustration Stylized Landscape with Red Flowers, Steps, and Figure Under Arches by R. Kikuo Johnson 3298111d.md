@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Landscape with Red Flowers, Steps
 collection: "2000s"
 inferred_year: "2000s"
 artist: "R. Kikuo Johnson"
-dimensions: "1600x850"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

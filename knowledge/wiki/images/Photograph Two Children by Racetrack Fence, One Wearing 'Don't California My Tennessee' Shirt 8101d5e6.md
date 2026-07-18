@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Two Children by Racetrack Fence, One Wearing
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1026x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Two
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/california|california]] — named in this note
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: don't, one
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: children
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: children
 - [[knowledge/wiki/books/patricia-lockwood-no-one-is-talking-about-this|No One Is Talking About This]] — shared language: one
+- [[knowledge/wiki/images/Illustration Portrait of a Man in Dark Jacket and Blue Shirt 3cec8479|Illustration Portrait of a Man in Dark Jacket and Blue Shirt]] — shared language: shirt, shirt.jpeg
 <!-- vault-crosslinks:end -->

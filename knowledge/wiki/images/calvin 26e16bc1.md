@@ -6,7 +6,7 @@ source_relpath: "comics/calvin.png"
 collection: "comics"
 inferred_year: ""
 artist: ""
-dimensions: "2072x1984"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/comics"]
 ---

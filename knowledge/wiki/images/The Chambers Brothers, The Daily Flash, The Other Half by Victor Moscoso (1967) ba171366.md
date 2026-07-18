@@ -6,7 +6,7 @@ source_relpath: "2000s/The Chambers Brothers, The Daily Flash, The Other Half by
 collection: "2000s"
 inferred_year: "1967"
 artist: ""
-dimensions: "2816x4000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

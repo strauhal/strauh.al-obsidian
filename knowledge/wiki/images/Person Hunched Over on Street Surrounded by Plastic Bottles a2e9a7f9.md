@@ -6,7 +6,7 @@ source_relpath: "photography/Person Hunched Over on Street Surrounded by Plastic
 collection: "photography"
 inferred_year: ""
 artist: "Plastic Bottles"
-dimensions: "881x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

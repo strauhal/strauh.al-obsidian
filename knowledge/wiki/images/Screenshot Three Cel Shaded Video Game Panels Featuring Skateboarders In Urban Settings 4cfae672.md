@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Three Cel-Shaded Video Game Panels Featur
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "486x553"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

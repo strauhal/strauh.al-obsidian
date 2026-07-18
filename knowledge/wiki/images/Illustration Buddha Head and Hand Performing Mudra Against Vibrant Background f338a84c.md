@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Buddha Head and Hand Performing Mudra Agai
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1140x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1400s/the_stigmatization_of_saint_francis_and_saint_nicholas_of
 collection: "1400s"
 inferred_year: "1400s"
 artist: "fra angelico"
-dimensions: "1500x551"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

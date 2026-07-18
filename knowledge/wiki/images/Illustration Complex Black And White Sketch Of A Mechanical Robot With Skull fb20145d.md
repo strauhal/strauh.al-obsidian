@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Complex Black And White Sketch Of A Mec
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "692x816"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

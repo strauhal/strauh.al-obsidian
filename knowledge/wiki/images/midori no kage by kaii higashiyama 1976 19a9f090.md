@@ -6,7 +6,7 @@ source_relpath: "1900s/midori_no_kage_by_kaii_higashiyama_1976.jpg"
 collection: "1900s"
 inferred_year: "1976"
 artist: "kaii higashiyama"
-dimensions: "1200x1492"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

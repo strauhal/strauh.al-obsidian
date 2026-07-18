@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Look Back by Tatsuki Fujimoto.webp"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Tatsuki Fujimoto"
-dimensions: "577x706"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/david_johnson_the_haymakers_1867.jpg"
 collection: "1800s"
 inferred_year: "1867"
 artist: ""
-dimensions: "3000x1853"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

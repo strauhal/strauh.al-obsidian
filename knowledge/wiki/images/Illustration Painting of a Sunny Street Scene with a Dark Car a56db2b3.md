@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Painting of a Sunny Street Scene with a
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3024x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

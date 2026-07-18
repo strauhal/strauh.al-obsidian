@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gijs van vaerenbergh 2011|Artist - gijs van vaerenbergh 2011]] — named in this note
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
-- [[_archive/auto-generated/images-stale/not straight lines jpg 75de846e|not straight lines jpg]] — shared language: lines
+- [[knowledge/wiki/artists/Artist - lucas van valckenborch|Artist - lucas van valckenborch]] — shared language: van
 <!-- vault-crosslinks:end -->

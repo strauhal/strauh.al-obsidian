@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Miniature Zen Garden With Zyn Nicotine Pouch
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Creative Display Works"
-dimensions: "4096x3072"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

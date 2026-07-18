@@ -6,7 +6,7 @@ source_relpath: "1900s/black_and_white_pixel_graphic_of_a_macintosh_computer_dis
 collection: "1900s"
 inferred_year: "1985"
 artist: ""
-dimensions: "2880x3600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

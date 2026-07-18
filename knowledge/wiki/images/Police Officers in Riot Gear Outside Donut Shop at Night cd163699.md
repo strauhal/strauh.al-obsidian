@@ -6,7 +6,7 @@ source_relpath: "photography/Police Officers in Riot Gear Outside Donut Shop at 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1280x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

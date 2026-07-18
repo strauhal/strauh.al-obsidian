@@ -6,7 +6,7 @@ source_relpath: "1600s/peter_paul_rubens_allegory_of_victory_victoria_17th_centu
 collection: "1600s"
 inferred_year: "1600s"
 artist: ""
-dimensions: "800x1171"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

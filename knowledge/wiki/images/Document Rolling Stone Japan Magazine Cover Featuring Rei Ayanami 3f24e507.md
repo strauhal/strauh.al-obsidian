@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Rolling Stone Japan Magazine Cover Featurin
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "496x623"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

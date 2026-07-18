@@ -6,7 +6,7 @@ source_relpath: "1900s/november_26_1991_by_bill_watterson_1991.png"
 collection: "1900s"
 inferred_year: "1991"
 artist: "bill watterson"
-dimensions: "596x756"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

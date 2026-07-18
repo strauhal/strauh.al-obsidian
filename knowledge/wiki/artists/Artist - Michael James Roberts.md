@@ -25,8 +25,8 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/images/Screenshot Screenshot of Text Describing Euthanasia Coaster with Diagram e02b6883|Screenshot Screenshot of Text Describing Euthanasia Coaster with Diagram]] — shared language: describing, text, screenshot
 - [[knowledge/wiki/images/Peace by Joe Roberts (2018) 643b712a|Peace by Joe Roberts (2018)]] — shared language: roberts
-- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: james, document
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: michael
 - [[knowledge/wiki/images/Screenshot Text Describing The Killing Of Tim McLean 8ebc610d|Screenshot Text Describing The Killing Of Tim McLean]] — shared language: describing, text, screenshot
 - [[knowledge/wiki/images/david roberts the south transept of the cathedral seville c 1833 ef23a595|david roberts the south transept of the cathedral seville c 1833]] — shared language: roberts
+- [[knowledge/wiki/images/the path by michael parkes 1988 06f10797|the path by michael parkes 1988]] — shared language: michael
 <!-- vault-crosslinks:end -->

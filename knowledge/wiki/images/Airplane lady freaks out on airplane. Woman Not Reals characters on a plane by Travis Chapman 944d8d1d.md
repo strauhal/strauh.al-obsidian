@@ -6,7 +6,7 @@ source_relpath: "2000s/Airplane lady freaks out on airplane. Woman Not Reals cha
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Travis Chapman"
-dimensions: "4096x1638"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Marlon Brando by J. Gonzalez (1980).jpg"
 collection: "1900s"
 inferred_year: "1980"
 artist: ""
-dimensions: "2292x3056"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

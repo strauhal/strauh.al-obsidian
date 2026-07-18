@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Black and White Photo of Math Teachers Prot
 collection: "unsorted"
 inferred_year: ""
 artist: "Associated Press"
-dimensions: "823x1073"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Bl
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: press, document
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
-- [[knowledge/wiki/books/the-use-of-folk-instruments-alongside-classical-instruments|The Use of Folk Instruments Alongside Classical Instruments]] — shared language: use
+- [[knowledge/wiki/books/imslp768707-pmlp3267-j-s-bach-15-inventions-contrapunctus-press|15 Inventions - Contrapunctus Press]] — shared language: press
 <!-- vault-crosslinks:end -->

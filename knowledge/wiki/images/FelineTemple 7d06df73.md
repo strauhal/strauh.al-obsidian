@@ -6,7 +6,7 @@ source_relpath: "gif_collection/FelineTemple.GIF"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: "600x450"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

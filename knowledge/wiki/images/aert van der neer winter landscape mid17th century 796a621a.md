@@ -6,7 +6,7 @@ source_relpath: "1600s/aert_van_der_neer_winter_landscape_mid17th_century.jpg"
 collection: "1600s"
 inferred_year: "1600s"
 artist: ""
-dimensions: "3899x2573"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

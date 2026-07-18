@@ -6,7 +6,7 @@ source_relpath: "1800s/claude_monet_cliff_walk_at_pourville_1882.jpg"
 collection: "1800s"
 inferred_year: "1882"
 artist: ""
-dimensions: "3000x2402"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

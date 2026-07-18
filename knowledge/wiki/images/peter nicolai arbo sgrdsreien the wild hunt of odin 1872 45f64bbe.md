@@ -6,7 +6,7 @@ source_relpath: "1800s/peter_nicolai_arbo_sgrdsreien_the_wild_hunt_of_odin_1872.
 collection: "1800s"
 inferred_year: "1872"
 artist: ""
-dimensions: "4000x2733"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

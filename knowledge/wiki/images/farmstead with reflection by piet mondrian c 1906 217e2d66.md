@@ -6,7 +6,7 @@ source_relpath: "1900s/farmstead_with_reflection_by_piet_mondrian_c_1906.jpeg"
 collection: "1900s"
 inferred_year: "1906"
 artist: "piet mondrian"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

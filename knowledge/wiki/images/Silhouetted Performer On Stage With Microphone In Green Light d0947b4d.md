@@ -6,7 +6,7 @@ source_relpath: "photography/Silhouetted Performer On Stage With Microphone In G
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1732x2600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

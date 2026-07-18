@@ -6,7 +6,7 @@ source_relpath: "1900s/meer_mit_roter_sonne_by_emil_nolde_1930.jpeg"
 collection: "1900s"
 inferred_year: "1930"
 artist: "emil nolde"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

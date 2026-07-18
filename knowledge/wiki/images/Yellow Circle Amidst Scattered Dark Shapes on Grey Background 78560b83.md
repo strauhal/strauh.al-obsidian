@@ -6,7 +6,7 @@ source_relpath: "diagrams/Yellow_Circle_Amidst_Scattered_Dark_Shapes_on_Grey_Bac
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "240x240"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

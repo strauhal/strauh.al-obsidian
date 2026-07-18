@@ -6,7 +6,7 @@ source_relpath: "1900s/Man in Blue I by Francis Bacon (1954).jpeg"
 collection: "1900s"
 inferred_year: "1954"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

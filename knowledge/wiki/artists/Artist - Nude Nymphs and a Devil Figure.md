@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: nude
 - [[knowledge/wiki/images/john william waterhouse hylas and the nymphs 1896 0b76d852|john william waterhouse hylas and the nymphs 1896]] — shared language: nymphs
 - [[knowledge/wiki/images/Illustration Abstract Painting of a Standing Nude Figure 85c93770|Illustration Abstract Painting of a Standing Nude Figure]] — shared language: nude
-- [[knowledge/wiki/images/hylas and the nymphs by john william waterhouse 1896 c3327fee|hylas and the nymphs by john william waterhouse 1896]] — shared language: nymphs
 - [[knowledge/wiki/images/Illustration Line Drawings of Figure, Devil, and Silhouette with Buckets fc76185f|Illustration Line Drawings of Figure, Devil, and Silhouette with Buckets]] — shared language: devil
+- [[knowledge/wiki/images/hylas and the nymphs by john william waterhouse 1896 c3327fee|hylas and the nymphs by john william waterhouse 1896]] — shared language: nymphs
 - [[knowledge/wiki/images/nymphs and satyr by william adolphe bouguereau 1873 52d33dd4|nymphs and satyr by william adolphe bouguereau 1873]] — shared language: nymphs
 <!-- vault-crosslinks:end -->

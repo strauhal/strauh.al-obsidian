@@ -6,7 +6,7 @@ source_relpath: "1800s/theodor_von_hrmann_der_calvarienberg_bei_linz_circa_1885.
 collection: "1800s"
 inferred_year: "1885"
 artist: ""
-dimensions: "2143x1250"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_artist_by_saul_steinberg_1948.jpg"
 collection: "1900s"
 inferred_year: "1948"
 artist: "saul steinberg"
-dimensions: "1280x1643"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

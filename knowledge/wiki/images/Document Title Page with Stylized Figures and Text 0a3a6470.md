@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Title Page with Stylized Figures and Text.j
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1627x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

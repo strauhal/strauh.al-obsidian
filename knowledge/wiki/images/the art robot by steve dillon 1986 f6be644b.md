@@ -6,7 +6,7 @@ source_relpath: "1900s/the_art_robot_by_steve_dillon_1986.png"
 collection: "1900s"
 inferred_year: "1986"
 artist: "steve dillon"
-dimensions: "889x712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

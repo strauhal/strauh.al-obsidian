@@ -6,7 +6,7 @@ source_relpath: "photography/Panoramic View of Paris with Sacré-Cœur Basilica 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "5136x3424"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

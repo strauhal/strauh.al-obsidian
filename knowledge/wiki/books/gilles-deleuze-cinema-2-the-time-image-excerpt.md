@@ -9,8 +9,8 @@ metadata: curated
 aliases: [excerpt from Cinema-2-the-Time-Image]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/excerpt_from_Cinema-2-the-Time-Image.pdf"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Cinema 2: The Time-Image (excerpt)

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Person in Mask and Hoodie Looks Through P
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "550x309"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

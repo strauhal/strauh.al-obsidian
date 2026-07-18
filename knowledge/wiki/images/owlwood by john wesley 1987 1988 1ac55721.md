@@ -6,7 +6,7 @@ source_relpath: "1900s/owlwood_by_john_wesley_1987_1988.jpeg"
 collection: "1900s"
 inferred_year: "1988"
 artist: "john wesley"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Anemones by Raoul Dufy (1956).webp"
 collection: "1900s"
 inferred_year: "1956"
 artist: ""
-dimensions: "1512x1998"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

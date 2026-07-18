@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Snow-Covered Hill with Fence Posts 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1372x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

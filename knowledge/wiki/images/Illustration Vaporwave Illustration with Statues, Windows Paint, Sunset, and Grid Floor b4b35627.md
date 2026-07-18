@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Vaporwave Illustration with Statues, Wi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "640x853"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

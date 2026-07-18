@@ -6,7 +6,7 @@ source_relpath: "1600s/the_rape_of_europa_by_luca_giordano_c_16751680.jpeg"
 collection: "1600s"
 inferred_year: "1600s"
 artist: "luca giordano"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/mannequin_head_four_views_by_man_ray_c_1930.jpg"
 collection: "1900s"
 inferred_year: "1930"
 artist: "man ray"
-dimensions: "720x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

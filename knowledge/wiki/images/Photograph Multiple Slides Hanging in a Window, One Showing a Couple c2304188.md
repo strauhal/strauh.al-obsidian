@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Multiple Slides Hanging in a Window, One Sho
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Mul
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: multiple, one
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: one
 - [[knowledge/wiki/images/Illustration Black and White Illustration of Window Showing City Skyline Amidst Clouds 0a5c5d57|Illustration Black and White Illustration of Window Showing City Skyline Amidst Clouds]] — shared language: showing, window
 - [[knowledge/wiki/images/Illustration Cartoon Couple Expressing Love For Their Spouses f59223a8|Illustration Cartoon Couple Expressing Love For Their Spouses]] — shared language: couple
+- [[knowledge/wiki/artists/Artist - Window|Artist - Window]] — shared language: window
 <!-- vault-crosslinks:end -->

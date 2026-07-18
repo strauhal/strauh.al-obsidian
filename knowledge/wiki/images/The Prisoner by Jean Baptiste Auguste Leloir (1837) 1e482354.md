@@ -6,7 +6,7 @@ source_relpath: "1800s/The Prisoner by Jean-Baptiste Auguste Leloir (1837).jpg"
 collection: "1800s"
 inferred_year: "1837"
 artist: ""
-dimensions: "1400x1845"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

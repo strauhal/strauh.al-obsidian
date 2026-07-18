@@ -6,7 +6,7 @@ source_relpath: "photography/High Contrast Black And White Close-Up Of Face With
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "928x1160"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

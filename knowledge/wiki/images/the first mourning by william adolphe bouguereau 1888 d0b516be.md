@@ -6,7 +6,7 @@ source_relpath: "1800s/the_first_mourning_by_william_adolphe_bouguereau_1888.jpg
 collection: "1800s"
 inferred_year: "1888"
 artist: "william adolphe bouguereau"
-dimensions: "2560x2043"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1600s/portrait_of_charles_perrault_by_hyacinthe_rigaud_c_1697.j
 collection: "1600s"
 inferred_year: "1697"
 artist: "hyacinthe rigaud"
-dimensions: "744x977"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

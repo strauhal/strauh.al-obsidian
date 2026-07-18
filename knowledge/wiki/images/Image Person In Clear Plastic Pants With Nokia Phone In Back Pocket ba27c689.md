@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Person In Clear Plastic Pants With Nokia Phone In
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1280x1632"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

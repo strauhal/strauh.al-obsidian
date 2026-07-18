@@ -6,7 +6,7 @@ source_relpath: "1900s/akira_title_page_of_episode_003_young_magazine_jan_17_83_
 collection: "1900s"
 inferred_year: "1983"
 artist: "katsuhiro otomo"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

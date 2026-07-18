@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Three Anatomical Illustrations of Male Mus
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Julius Tandler"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

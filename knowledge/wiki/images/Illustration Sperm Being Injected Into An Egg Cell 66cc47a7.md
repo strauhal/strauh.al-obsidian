@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Sperm Being Injected Into An Egg Cell.j
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2467x1850"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

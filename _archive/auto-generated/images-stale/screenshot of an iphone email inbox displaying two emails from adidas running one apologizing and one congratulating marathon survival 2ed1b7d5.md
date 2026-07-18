@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Screenshot Screenshot of iPhone Email Inbox with Adidas Running Apology and Marathon Emails e76839e4|Screenshot Screenshot of iPhone Email Inbox with Adidas Running Apology and Marathon Emails]] — shared language: inbox, marathon, emails
+- [[knowledge/wiki/images/Screenshot Screenshot of iPhone Email Inbox with Adidas Running Apology and Marathon Emails e76839e4|Screenshot Screenshot of iPhone Email Inbox with Adidas Running Apology and Marathon Emails]] — shared language: inbox, marathon, adidas
 - [[knowledge/wiki/books/patricia-lockwood-no-one-is-talking-about-this|No One Is Talking About This]] — shared language: one
 - [[knowledge/wiki/images/Screenshot Screenshot of a Drawing Program Displaying Abstract Pixel Art 55fb41e7|Screenshot Screenshot of a Drawing Program Displaying Abstract Pixel Art]] — shared language: displaying, screenshot
 - [[_archive/auto-generated/images-stale/Screenshot from 2024 09 09 00 11 54 79450143|Screenshot from 2024 09 09 00 11 54]] — shared language: screenshot

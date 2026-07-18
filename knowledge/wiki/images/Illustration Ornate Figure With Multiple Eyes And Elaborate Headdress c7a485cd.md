@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Ornate Figure With Multiple Eyes And El
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "798x700"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

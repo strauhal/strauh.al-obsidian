@@ -6,7 +6,7 @@ source_relpath: "album_covers/mutant.jpg"
 collection: "album_covers"
 inferred_year: ""
 artist: ""
-dimensions: "3000x3000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/album_covers"]
 ---

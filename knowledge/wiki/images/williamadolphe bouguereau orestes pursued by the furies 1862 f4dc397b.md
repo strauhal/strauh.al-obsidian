@@ -6,7 +6,7 @@ source_relpath: "1800s/williamadolphe_bouguereau_orestes_pursued_by_the_furies_1
 collection: "1800s"
 inferred_year: "1862"
 artist: ""
-dimensions: "7884x6547"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

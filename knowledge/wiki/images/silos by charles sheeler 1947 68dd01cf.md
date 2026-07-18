@@ -6,7 +6,7 @@ source_relpath: "1900s/silos_by_charles_sheeler_1947.jpeg"
 collection: "1900s"
 inferred_year: "1947"
 artist: "charles sheeler"
-dimensions: "5712x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

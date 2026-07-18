@@ -6,7 +6,7 @@ source_relpath: "1900s/the_voice_of_one_by_tadanori_yokoo_1975.jpg"
 collection: "1900s"
 inferred_year: "1975"
 artist: "tadanori yokoo"
-dimensions: "714x999"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

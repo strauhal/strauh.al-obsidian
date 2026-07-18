@@ -6,7 +6,7 @@ source_relpath: "1900s/photograph_of_pirates_autumn_winter_198182_by_sachiko_kur
 collection: "1900s"
 inferred_year: "1981"
 artist: "sachiko kuru"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

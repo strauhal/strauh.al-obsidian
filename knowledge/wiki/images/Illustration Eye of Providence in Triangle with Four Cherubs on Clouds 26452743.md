@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Eye of Providence in Triangle with Four
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "736x920"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

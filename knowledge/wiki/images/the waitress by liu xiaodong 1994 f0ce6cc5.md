@@ -6,7 +6,7 @@ source_relpath: "1900s/the_waitress_by_liu_xiaodong_1994.jpeg"
 collection: "1900s"
 inferred_year: "1994"
 artist: "liu xiaodong"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

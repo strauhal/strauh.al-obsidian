@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Woman's Head in Front and Profile Views
 collection: "unsorted"
 inferred_year: ""
 artist: "Charles Dana Gibson"
-dimensions: "1200x795"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

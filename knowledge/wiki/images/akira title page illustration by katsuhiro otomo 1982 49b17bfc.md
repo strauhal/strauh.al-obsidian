@@ -6,7 +6,7 @@ source_relpath: "1900s/akira_title_page_illustration_by_katsuhiro_otomo_1982.jpe
 collection: "1900s"
 inferred_year: "1982"
 artist: "katsuhiro otomo"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

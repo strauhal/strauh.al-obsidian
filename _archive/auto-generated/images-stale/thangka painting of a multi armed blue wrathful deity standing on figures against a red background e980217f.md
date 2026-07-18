@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/thangka painting of a red multi armed wrathful deity drawing a bow and arrow standing on a prostrate figure fd44aef0|thangka painting of a red multi armed wrathful deity drawing a bow and arrow standing on a prostrate figure]] — shared language: wrathful, thangka, armed
 - [[knowledge/wiki/images/Illustration Red Multi Armed Wrathful Deity Drawing Bow And Arrow 48de15db|Illustration Red Multi Armed Wrathful Deity Drawing Bow And Arrow]] — shared language: wrathful, armed, deity
 - [[knowledge/wiki/images/Illustration Black and White Line Drawing of Wrathful Deity on Clouds 8d57e96d|Illustration Black and White Line Drawing of Wrathful Deity on Clouds]] — shared language: wrathful, deity
-- [[knowledge/wiki/images/Illustration Multi Headed, Multi Armed Hindu Deity with Many Faces and Cobra Hoods 3faf254d|Illustration Multi Headed, Multi Armed Hindu Deity with Many Faces and Cobra Hoods]] — shared language: multi, armed, deity
+- [[_archive/auto-generated/images-stale/black and white line drawing of a wrathful deity seated on clouds 0fabd33c|black and white line drawing of a wrathful deity seated on clouds]] — shared language: wrathful, deity
 <!-- vault-crosslinks:end -->

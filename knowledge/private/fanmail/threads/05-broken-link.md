@@ -6,8 +6,8 @@ category: site-feedback
 message_count: 2
 incoming_count: 2
 tags: [private, correspondence, fanmail]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Broken Link :)
@@ -36,3 +36,16 @@ thank you for making those changes, you're doing incredibly cool work. Let
 me know if you'd like any support in any other way, I'm happy to donate
 graphics/good vibes! May your flower be sticky and your body hydrated and
 your inner demons be sucker punched <3
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/religious texts|religious texts]] — named in this note
+- [[knowledge/private/fanmail/threads/03-broken-link|Private Correspondence - 03 - Broken Link :)]] — same category: site-feedback
+- [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — named in this note
+- [[knowledge/wiki/pages/donate|donate]] — named in this note
+- [[knowledge/private/fanmail/threads/21-website-bugs|Private Correspondence - 21 - Website Bugs]] — same category: site-feedback
+- [[knowledge/private/fanmail/threads/05-changes-in-website|Private Correspondence - 05 - Changes in website]] — same category: site-feedback
+- [[knowledge/private/fanmail/threads/07-changes-in-website|Private Correspondence - 07 - Changes in website]] — same category: site-feedback
+- [[knowledge/private/fanmail/threads/41-website-bugs|Private Correspondence - 41 - Website Bugs]] — same category: site-feedback
+<!-- vault-crosslinks:end -->

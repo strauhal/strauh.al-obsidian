@@ -6,7 +6,7 @@ source_relpath: "photography/Rear View of Black Honda Saloon Concept Car.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2400x1431"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

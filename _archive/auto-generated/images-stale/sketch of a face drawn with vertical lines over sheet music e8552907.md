@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Abstract Sketch of Deconstructed Form with Vertical Lines 942643f1|Illustration Abstract Sketch of Deconstructed Form with Vertical Lines]] — shared language: vertical, sketch, lines
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: drawn
+- [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
 <!-- vault-crosslinks:end -->

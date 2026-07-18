@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - rob verhorst|Artist - rob verhorst]] — named in this note
-- [[knowledge/wiki/images/Pulled Up by Rob Pointon (2016) ab382f11|Pulled Up by Rob Pointon (2016)]] — shared language: rob
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rob israel|Artist - Rob Israel]] — shared language: rob
 - [[knowledge/wiki/artists/Artist - Rob Israel|Artist - Rob Israel]] — shared language: rob
 - [[knowledge/wiki/artists/Artist - Rob Pointon|Artist - Rob Pointon]] — shared language: rob
 - [[_archive/auto-generated/images-stale/concerning by rob israel 81a50a29|concerning by rob israel]] — shared language: rob
+- [[knowledge/wiki/artists/Artist - Rob Woodcox|Artist - Rob Woodcox]] — shared language: rob
 <!-- vault-crosslinks:end -->

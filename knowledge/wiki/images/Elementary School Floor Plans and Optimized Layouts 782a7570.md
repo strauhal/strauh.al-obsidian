@@ -6,7 +6,7 @@ source_relpath: "diagrams/Elementary_School_Floor_Plans_and_Optimized_Layouts.jp
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1125x1151"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

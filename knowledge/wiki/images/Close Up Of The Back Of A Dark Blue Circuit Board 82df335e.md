@@ -6,7 +6,7 @@ source_relpath: "photography/Close-Up Of The Back Of A Dark Blue Circuit Board.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1100x1100"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

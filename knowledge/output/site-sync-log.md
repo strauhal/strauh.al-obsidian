@@ -37,18 +37,6 @@ None — all four repos were reachable and processed (fetch/pull succeeded on al
 - The `obsidian` repo had pre-existing uncommitted local edits (`.obsidian/graph.json`, `build-graph-html.py`, a pending deletion of `obsidian-graph.html`, and an untracked `brain.html`) from Ernest's own work in progress. These were left exactly as they were and were **not** included in this run's commit.
 - This automation environment enforces a no-delete policy on the connected GitHub folder, which is generally good safety behavior but caused some git plumbing (lockfile/journal cleanup that normally happens via delete) to need manual workarounds this run. Noting here in case it recurs.
 
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: vault, site, auto-generated
-- [[Welcome|strauh.al Knowledge Base]] — shared language: vault, knowledge, search.py
-- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: vault, knowledge, search.py
-- [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — shared language: wiki, current, existing
-- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: site
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: site, computerdrawing.club
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: wiki, knowledge
-- [[knowledge/wiki/books/lit-wiki|lit wiki]] — shared language: wiki
-<!-- vault-crosslinks:end -->
 
 ## 2026-07-15
 
@@ -100,3 +88,15 @@ This sandboxed environment cannot delete or rename any file already written to t
 
 None — all four repos were reachable; all three site repos were already up to date with origin (no fast-forward conflicts encountered).
 
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — named in this note
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
+- [[knowledge/wiki/anchors/blobby|blobby]] — named in this note
+- [[knowledge/wiki/images/finder 75a55db0|finder]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/pages/scripts|scripts]] — named in this note
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: vault, already, site
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: site, computerdrawing.club, fanmail
+<!-- vault-crosslinks:end -->

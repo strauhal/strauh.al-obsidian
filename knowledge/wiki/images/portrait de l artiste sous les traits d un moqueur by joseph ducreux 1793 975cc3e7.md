@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_de_l_artiste_sous_les_traits_d_un_moqueur_by_jos
 collection: "1700s"
 inferred_year: "1793"
 artist: "joseph ducreux"
-dimensions: "1079x1074"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

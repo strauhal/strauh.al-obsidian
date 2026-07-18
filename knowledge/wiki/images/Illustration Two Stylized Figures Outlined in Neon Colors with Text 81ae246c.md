@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Stylized Figures Outlined in Neon C
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1727x1685"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

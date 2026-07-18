@@ -6,7 +6,7 @@ source_relpath: "photography/Close-Up Of A Blue Jay's Head.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "483x372"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

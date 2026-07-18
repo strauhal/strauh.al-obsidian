@@ -6,7 +6,7 @@ source_relpath: "1900s/soir_bleu_by_edward_hopper_1914_2.jpg"
 collection: "1900s"
 inferred_year: "1914"
 artist: "edward hopper"
-dimensions: "750x500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

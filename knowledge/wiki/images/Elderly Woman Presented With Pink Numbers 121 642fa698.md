@@ -6,7 +6,7 @@ source_relpath: "photography/Elderly Woman Presented With Pink Numbers 121.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1571x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

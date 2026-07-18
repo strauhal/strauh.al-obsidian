@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of Mountain Dew AI Technology 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "414x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

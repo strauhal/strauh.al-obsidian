@@ -160,7 +160,7 @@ Files: 92
 ## Discovered Connections
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: hasui, kawase, evening
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: hasui, kawase, rain
 - [[knowledge/wiki/images/two dancers by edgar degas c 1890 1895 9a3d0914|two dancers by edgar degas c 1890 1895]] — shared language: edgar, degas, dancers
 - [[knowledge/wiki/images/two dancers by edgar degas c 1898 b3004a2b|two dancers by edgar degas c 1898]] — shared language: edgar, degas, dancers
 - [[knowledge/wiki/images/the school of ballet by edgar degas c 1873 5c029783|the school of ballet by edgar degas c 1873]] — shared language: edgar, ballet, degas

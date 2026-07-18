@@ -6,7 +6,7 @@ source_relpath: "photography/Homeless Person Wearing VR Headset on San Francisco
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "960x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Homeless P
 - [[knowledge/wiki/images/Photograph of San Francisco Street Art About Gentrification db35ca3f|Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco, street
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: san, francisco
-- [[knowledge/wiki/images/San Francisco Street Scene by John Howard (1937) d027e1a3|San Francisco Street Scene by John Howard (1937)]] — shared language: san, francisco, street
+- [[knowledge/wiki/images/Side Profile of Person Wearing a Modern VR Headset c94ea24b|Side Profile of Person Wearing a Modern VR Headset]] — shared language: headset, wearing, person
 <!-- vault-crosslinks:end -->

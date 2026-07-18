@@ -4,8 +4,8 @@ type: review-queue
 status: needs-review
 tags: [chatgpt, memory, profile, review]
 sources: ["[[ChatGPT Memory Summary]]"]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # ChatGPT Memory Review

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Overhead View Of A Spiral Staircase Wit
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "687x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

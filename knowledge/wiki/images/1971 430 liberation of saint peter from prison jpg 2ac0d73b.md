@@ -6,7 +6,7 @@ source_relpath: "1900s/1971_430_liberation_of_saint_peter_from_prison_jpg.jpg"
 collection: "1900s"
 inferred_year: "1971"
 artist: ""
-dimensions: "2069x2250"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

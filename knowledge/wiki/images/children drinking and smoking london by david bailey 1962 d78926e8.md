@@ -6,7 +6,7 @@ source_relpath: "1900s/children_drinking_and_smoking_london_by_david_bailey_1962
 collection: "1900s"
 inferred_year: "1962"
 artist: "david bailey"
-dimensions: "2751x2757"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/High-Speed Trains Parked In A Lit Train Yard At Nig
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x719"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/High-Speed
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train, yard, trains
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train, trains, yard
 - [[knowledge/wiki/books/lit-wiki|lit wiki]] — shared language: lit
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: train
 - [[knowledge/wiki/images/Blue House with Lit Windows at Night f6f95007|Blue House with Lit Windows at Night]] — shared language: lit, night

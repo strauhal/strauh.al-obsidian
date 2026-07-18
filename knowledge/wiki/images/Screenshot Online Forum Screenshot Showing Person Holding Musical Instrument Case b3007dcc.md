@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Online Forum Screenshot Showing Person Ho
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1940x462"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

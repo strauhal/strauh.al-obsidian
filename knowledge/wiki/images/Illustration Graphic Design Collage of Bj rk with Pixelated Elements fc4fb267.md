@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Graphic Design Collage of Björk with P
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1626x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

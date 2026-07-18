@@ -6,7 +6,7 @@ source_relpath: "1900s/sunset_by_tom_thomson_c_1915.jpeg"
 collection: "1900s"
 inferred_year: "1915"
 artist: "tom thomson"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/panel_from_l_incal_by_jean_giraud_1981.jpg"
 collection: "1900s"
 inferred_year: "1981"
 artist: "jean giraud"
-dimensions: "1080x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

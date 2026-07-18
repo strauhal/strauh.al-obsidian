@@ -6,7 +6,7 @@ source_relpath: "1500s/hendrick_goltzius_bacchus_1595_jpg.jpg"
 collection: "1500s"
 inferred_year: "1595"
 artist: ""
-dimensions: "1486x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

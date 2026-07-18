@@ -6,7 +6,7 @@ source_relpath: "1600s/peter_paul_rubens_meleager_and_atalanta_1630.jpg"
 collection: "1600s"
 inferred_year: "1630"
 artist: ""
-dimensions: "3051x1936"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

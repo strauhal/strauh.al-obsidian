@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Japanese style castle building with a large stone base under a cloudy sky 65cbdb68|Japanese style castle building with a large stone base under a cloudy sky]] — shared language: cloudy, stone, castle
+- [[knowledge/wiki/images/Japanese style castle building with a large stone base under a cloudy sky 65cbdb68|Japanese style castle building with a large stone base under a cloudy sky]] — shared language: cloudy, castle, stone
 - [[knowledge/wiki/images/Illustration Painting of a Woman in a Field with a Cloudy Sky 37b1a982|Illustration Painting of a Woman in a Field with a Cloudy Sky]] — shared language: cloudy, sky
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
 - [[knowledge/wiki/images/Screenshot Screenshot of a 3D Model of a Large Stone Building Complex 820e0b31|Screenshot Screenshot of a 3D Model of a Large Stone Building Complex]] — shared language: stone, building, large

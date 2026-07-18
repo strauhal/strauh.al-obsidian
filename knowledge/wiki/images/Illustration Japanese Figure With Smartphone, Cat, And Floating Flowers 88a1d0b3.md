@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Japanese Figure With Smartphone, Cat, A
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1000x1074"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

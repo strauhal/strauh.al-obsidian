@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Photograph Layered Abstract Photograph with Distorted Figures in Blue and White fe530814|Photograph Layered Abstract Photograph with Distorted Figures in Blue and White]] — shared language: distorted
 - [[knowledge/wiki/images/Photograph Aerial View of Suburban Houses and Green Lawns e6b2ab60|Photograph Aerial View of Suburban Houses and Green Lawns]] — shared language: aerial, view
 - [[knowledge/wiki/images/Aerial View Of Colorful Striped Agricultural Fields ccc6a845|Aerial View Of Colorful Striped Agricultural Fields]] — shared language: aerial, view
-- [[knowledge/wiki/artists/Artist - thefacetpixel|Artist - thefacetpixel]] — shared language: aerial, view
 - [[knowledge/wiki/images/Photograph Aerial View of Chicago City Grid at Night by thefacetpixel 391f7c96|Photograph Aerial View of Chicago City Grid at Night by thefacetpixel]] — shared language: aerial, view
+- [[knowledge/wiki/artists/Artist - thefacetpixel|Artist - thefacetpixel]] — shared language: aerial, view
 <!-- vault-crosslinks:end -->

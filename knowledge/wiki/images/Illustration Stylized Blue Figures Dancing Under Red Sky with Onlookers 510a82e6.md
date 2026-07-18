@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Blue Figures Dancing Under Red
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "655x900"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

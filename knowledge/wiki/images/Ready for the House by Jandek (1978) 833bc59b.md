@@ -6,7 +6,7 @@ source_relpath: "photography/Ready for the House by Jandek (1978).jpg"
 collection: "photography"
 inferred_year: "1978"
 artist: ""
-dimensions: "713x704"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/A Greener Splash by JRM (2026).jpeg"
 collection: "2000s"
 inferred_year: "2026"
 artist: ""
-dimensions: "1080x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1400s/2019_1418_sitges_jpg.jpg"
 collection: "1400s"
 inferred_year: "1418"
 artist: ""
-dimensions: "3000x2134"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

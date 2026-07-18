@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Illustration of Man in Lab Coat a
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Yoji Shinkawa"
-dimensions: "1510x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

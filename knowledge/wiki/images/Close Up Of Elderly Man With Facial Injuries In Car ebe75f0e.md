@@ -6,7 +6,7 @@ source_relpath: "photography/Close-Up Of Elderly Man With Facial Injuries In Car
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1125x532"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

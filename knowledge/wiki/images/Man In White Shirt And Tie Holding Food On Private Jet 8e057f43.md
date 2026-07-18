@@ -6,7 +6,7 @@ source_relpath: "photography/Man In White Shirt And Tie Holding Food On Private 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "728x765"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

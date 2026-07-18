@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Still Life With Two Vases And 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3024x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Abstract Still Life With Two Vases And Flowers f234afe1|Illustration Abstract Still Life With Two Vases And Flowers]] — named in this note
 - [[knowledge/wiki/images/Illustration Grayscale Still Life with Stylized Vases and Foliage fa297f3c|Illustration Grayscale Still Life with Stylized Vases and Foliage]] — shared language: vases, still, life
 - [[knowledge/wiki/images/Illustration Textured Painting of Two Vases with Colorful Flowers 4b6411fc|Illustration Textured Painting of Two Vases with Colorful Flowers]] — shared language: vases, flowers
-- [[knowledge/wiki/images/Illustration Colorful Abstract Still Life Painting of Flowers in Basket 51f8fa73|Illustration Colorful Abstract Still Life Painting of Flowers in Basket]] — shared language: still, flowers, life
-- [[knowledge/wiki/images/Illustration Stylized Still Life of Flowers in Vase by Window bb6431e7|Illustration Stylized Still Life of Flowers in Vase by Window]] — shared language: still, flowers, life
+- [[knowledge/wiki/images/Illustration Colorful Abstract Still Life Painting of Flowers in Basket 51f8fa73|Illustration Colorful Abstract Still Life Painting of Flowers in Basket]] — shared language: flowers, still, life
+- [[knowledge/wiki/images/Illustration Stylized Still Life of Flowers in Vase by Window bb6431e7|Illustration Stylized Still Life of Flowers in Vase by Window]] — shared language: flowers, still, life
 <!-- vault-crosslinks:end -->

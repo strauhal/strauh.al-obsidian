@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Composition With Bold Outlines
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3276x3276"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

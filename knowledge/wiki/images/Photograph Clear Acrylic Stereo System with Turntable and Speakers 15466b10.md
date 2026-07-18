@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Clear Acrylic Stereo System with Turntable a
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1200x1199"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Cle
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: clear
 - [[knowledge/wiki/images/Man With Headphones And Portable Turntable At Outdoor Cafe 6f52a7d7|Man With Headphones And Portable Turntable At Outdoor Cafe]] — shared language: turntable
 - [[knowledge/wiki/images/Photograph Minimalist Studio Setup with Concrete Blocks, Computer, Turntable, Books 516e529f|Photograph Minimalist Studio Setup with Concrete Blocks, Computer, Turntable, Books]] — shared language: turntable
 - [[knowledge/wiki/images/Dimly Lit Modern Living Room with TV and Speakers a06a8fad|Dimly Lit Modern Living Room with TV and Speakers]] — shared language: speakers
 - [[knowledge/wiki/images/Home Music Studio Setup With Laptop, Speakers, And Modular Synthesizer 9d462e18|Home Music Studio Setup With Laptop, Speakers, And Modular Synthesizer]] — shared language: speakers
+- [[knowledge/wiki/images/Man With Bloody Mouth Holding Clear Sheet b430059c|Man With Bloody Mouth Holding Clear Sheet]] — shared language: clear
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Butterflies on a Flowering Plant in a Gold
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3213x5712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

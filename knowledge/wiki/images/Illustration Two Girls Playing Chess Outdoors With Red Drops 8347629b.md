@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Girls Playing Chess Outdoors With R
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "865x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Four Cats Sitting on Airplane Wing Over Fi
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Kelly Pringle"
-dimensions: "1014x990"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

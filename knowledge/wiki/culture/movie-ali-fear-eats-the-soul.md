@@ -7,8 +7,8 @@ status: queued
 queue_order: 24
 tags: [culture, movie, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Ali: Fear Eats the Soul

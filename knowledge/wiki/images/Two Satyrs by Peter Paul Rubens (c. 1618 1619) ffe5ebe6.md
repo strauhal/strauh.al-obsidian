@@ -6,7 +6,7 @@ source_relpath: "2000s/Two Satyrs by Peter Paul Rubens (c. 1618-1619).jpg"
 collection: "2000s"
 inferred_year: "1619"
 artist: ""
-dimensions: "955x1260"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

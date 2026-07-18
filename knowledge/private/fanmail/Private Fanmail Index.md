@@ -3,8 +3,8 @@ title: Private Fanmail Index
 type: private-map
 private: true
 tags: [private, correspondence, fanmail]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Private Fanmail Index
@@ -62,3 +62,16 @@ Compiled notes pseudonymize correspondents and redact addresses and phone number
 - [Website Bugs](threads/41-website-bugs.md) - site-feedback; 3 messages; 0 attachments
 - [You, The Beholder](threads/42-you-the-beholder.md) - audience-response; 2 messages; 1 attachments
 - [天使 (Angel)](threads/43-angel.md) - drawing-submission; 2 messages; 2 attachments
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
+- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: attachments, messages, submission
+- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: attachments, messages, website
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: messages, attachments, fanmail
+- [[knowledge/output/fanmail-import-report|fanmail-import-report]] — shared language: attachments, messages, fanmail
+- [[knowledge/private/fanmail/threads/30-picture-submission-m-r-12-6nvar4getjstreetsacto-png|Private Correspondence - 30 - Picture Submission - M R. '12-6nvar4getJstreetSacto.png']] — shared language: submission, drawing-submission, picture
+- [[knowledge/private/fanmail/threads/37-submission-to-computer-drawing-club|Private Correspondence - 37 - Submission to computer drawing club]] — shared language: submission, drawing-submission, club
+- [[knowledge/private/fanmail/threads/12-drawing-submission|Private Correspondence - 12 - Drawing Submission]] — shared language: submission, drawing-submission, private
+<!-- vault-crosslinks:end -->

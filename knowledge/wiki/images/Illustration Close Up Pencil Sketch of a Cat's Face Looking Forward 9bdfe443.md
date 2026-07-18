@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Close-Up Pencil Sketch of a Cat's Face 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1790"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Two Figures Embracing 7d27ddde|Illustration Pencil Sketch of Two Figures Embracing]] — shared language: pencil, sketch
 - [[knowledge/wiki/images/Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips 19f9c949|Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips]] — shared language: face, sketch
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Two Men with Textured Hair b7fe34e0|Illustration Pencil Sketch of Two Men with Textured Hair]] — shared language: pencil, sketch
-- [[knowledge/wiki/images/Illustration Close Up Of Pixelated Eye And Face On Dark Background e708a0f4|Illustration Close Up Of Pixelated Eye And Face On Dark Background]] — shared language: close, face, close-up
+- [[knowledge/wiki/images/Illustration Pencil Sketch of Standing Woman in Long Coat 6928c32f|Illustration Pencil Sketch of Standing Woman in Long Coat]] — shared language: pencil, sketch
 <!-- vault-crosslinks:end -->

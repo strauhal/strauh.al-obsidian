@@ -6,7 +6,7 @@ source_relpath: "photography/Crowd Carrying Coffin Clashes With Police During St
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "958x638"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

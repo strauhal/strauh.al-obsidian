@@ -6,7 +6,7 @@ source_relpath: "1800s/the_triumph_of_titus_by_sir_lawrence_alma_tadema_1885.jpg
 collection: "1800s"
 inferred_year: "1885"
 artist: "sir lawrence alma tadema"
-dimensions: "1175x1800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1600s/the_adoration_of_the_shepherds_by_peter_paul_rubens_c_161
 collection: "1600s"
 inferred_year: "1617"
 artist: "peter paul rubens"
-dimensions: "1120x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

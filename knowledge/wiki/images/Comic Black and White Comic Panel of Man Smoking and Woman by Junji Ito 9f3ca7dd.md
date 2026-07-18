@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Black and White Comic Panel of Man Smoking and Wo
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Junji Ito"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Comic - Black an
 - [[knowledge/wiki/images/Comic Manga Panel Featuring Tomie Scaring a Man by Junji Ito 9d9f7d28|Comic Manga Panel Featuring Tomie Scaring a Man by Junji Ito]] — same artist: junji ito
 - [[knowledge/wiki/images/tomie the painter panel by junji ito 1997 a638d25f|tomie the painter panel by junji ito 1997]] — same artist: junji ito
 - [[knowledge/wiki/images/tomie by junji ito 1987 b700ed28|tomie by junji ito 1987]] — same artist: junji ito
-- [[knowledge/wiki/images/Comic Black and White Manga Panels Featuring Three Faces by Junji Ito 800f036c|Comic Black and White Manga Panels Featuring Three Faces by Junji Ito]] — same artist: junji ito
+- [[knowledge/wiki/images/the long dream by junji ito 1997 9be646fc|the long dream by junji ito 1997]] — same artist: junji ito
 <!-- vault-crosslinks:end -->

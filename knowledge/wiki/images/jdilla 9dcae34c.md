@@ -6,7 +6,7 @@ source_relpath: "album_covers/jdilla.gif"
 collection: "album_covers"
 inferred_year: ""
 artist: ""
-dimensions: "300x300"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/album_covers"]
 ---

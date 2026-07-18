@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Anime-Style Characters Playing Guit
 collection: "unsorted"
 inferred_year: ""
 artist: "Sel"
-dimensions: "735x754"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

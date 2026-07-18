@@ -6,7 +6,7 @@ source_relpath: "1500s/portrait_of_a_man_by_lorenzo_lotto_c_1535.jpeg"
 collection: "1500s"
 inferred_year: "1535"
 artist: "lorenzo lotto"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

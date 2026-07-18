@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Multiple Pencil Studies of Human Eyes ffab2218|Illustration Multiple Pencil Studies of Human Eyes]] — shared language: multiple, eyes, pencil
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: study, multiple, human
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study, human
-- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: study, human
 - [[_archive/auto-generated/images-stale/charcoal and pencil studies of multiple figures in dynamic poses on toned paper faaeab90|charcoal and pencil studies of multiple figures in dynamic poses on toned paper]] — shared language: toned, multiple, pencil
+- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: study, human
 <!-- vault-crosslinks:end -->

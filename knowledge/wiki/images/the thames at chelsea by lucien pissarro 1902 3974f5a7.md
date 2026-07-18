@@ -6,7 +6,7 @@ source_relpath: "1900s/the_thames_at_chelsea_by_lucien_pissarro_1902.jpeg"
 collection: "1900s"
 inferred_year: "1902"
 artist: "lucien pissarro"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

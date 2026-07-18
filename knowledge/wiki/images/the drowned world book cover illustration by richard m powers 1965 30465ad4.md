@@ -6,7 +6,7 @@ source_relpath: "1900s/the_drowned_world_book_cover_illustration_by_richard_m_po
 collection: "1900s"
 inferred_year: "1965"
 artist: "richard m powers"
-dimensions: "849x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

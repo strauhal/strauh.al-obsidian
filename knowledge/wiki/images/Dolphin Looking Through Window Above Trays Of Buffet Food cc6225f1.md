@@ -6,7 +6,7 @@ source_relpath: "photography/Dolphin Looking Through Window Above Trays Of Buffe
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

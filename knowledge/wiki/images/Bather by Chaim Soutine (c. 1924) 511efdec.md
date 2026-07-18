@@ -6,7 +6,7 @@ source_relpath: "1900s/Bather by Chaim Soutine (c. 1924).jpeg"
 collection: "1900s"
 inferred_year: "1924"
 artist: ""
-dimensions: "3024x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

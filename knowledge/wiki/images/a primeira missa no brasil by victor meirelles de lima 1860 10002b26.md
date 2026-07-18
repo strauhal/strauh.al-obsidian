@@ -6,7 +6,7 @@ source_relpath: "1800s/a_primeira_missa_no_brasil_by_victor_meirelles_de_lima_18
 collection: "1800s"
 inferred_year: "1860"
 artist: "victor meirelles de lima"
-dimensions: "1070x602"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

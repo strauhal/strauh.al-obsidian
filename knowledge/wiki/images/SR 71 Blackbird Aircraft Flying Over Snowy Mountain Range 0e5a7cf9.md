@@ -6,7 +6,7 @@ source_relpath: "photography/SR-71 Blackbird Aircraft Flying Over Snowy Mountain
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1604"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

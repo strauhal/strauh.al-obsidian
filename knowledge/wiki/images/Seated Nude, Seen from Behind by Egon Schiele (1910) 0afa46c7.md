@@ -6,7 +6,7 @@ source_relpath: "1900s/Seated Nude, Seen from Behind by Egon Schiele (1910).webp
 collection: "1900s"
 inferred_year: "1910"
 artist: ""
-dimensions: "1080x1694"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

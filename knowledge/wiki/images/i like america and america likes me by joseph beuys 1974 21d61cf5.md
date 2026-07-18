@@ -6,7 +6,7 @@ source_relpath: "1900s/i_like_america_and_america_likes_me_by_joseph_beuys_1974.
 collection: "1900s"
 inferred_year: "1974"
 artist: "joseph beuys"
-dimensions: "1476x1476"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

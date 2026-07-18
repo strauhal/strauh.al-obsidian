@@ -6,7 +6,7 @@ source_relpath: "1900s/record_of_lodoss_war_rodosu_to_senki_by_akihiro_yamada_19
 collection: "1900s"
 inferred_year: "1994"
 artist: "akihiro yamada"
-dimensions: "4872x3028"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

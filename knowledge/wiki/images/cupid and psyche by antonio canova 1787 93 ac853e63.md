@@ -6,7 +6,7 @@ source_relpath: "1700s/cupid_and_psyche_by_antonio_canova_1787_93.jpeg"
 collection: "1700s"
 inferred_year: "1787"
 artist: "antonio canova"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

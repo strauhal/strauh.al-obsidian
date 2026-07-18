@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pixelated Hands Reaching with Nokia Log
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1074x1909"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

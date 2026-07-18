@@ -6,7 +6,7 @@ source_relpath: "1900s/femme_a_la_guitare_by_pablo_picasso_1924.jpeg"
 collection: "1900s"
 inferred_year: "1924"
 artist: "pablo picasso"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

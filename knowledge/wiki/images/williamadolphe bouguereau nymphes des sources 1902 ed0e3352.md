@@ -6,7 +6,7 @@ source_relpath: "1900s/williamadolphe_bouguereau_nymphes_des_sources_1902.jpg"
 collection: "1900s"
 inferred_year: "1902"
 artist: ""
-dimensions: "544x914"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

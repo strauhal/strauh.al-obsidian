@@ -6,7 +6,7 @@ source_relpath: "1800s/pierre_narcisse_portrait_of_a_young_man_ca_1810_20_jpg.jp
 collection: "1800s"
 inferred_year: "1810"
 artist: ""
-dimensions: "2773x3373"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

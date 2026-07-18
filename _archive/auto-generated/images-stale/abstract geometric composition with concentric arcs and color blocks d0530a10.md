@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color, composition
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
+- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: color
 - [[knowledge/wiki/images/Illustration Abstract Composition of Concentric Wavy Lines on Dark Background 14055193|Illustration Abstract Composition of Concentric Wavy Lines on Dark Background]] — shared language: concentric, composition
-- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: color
 <!-- vault-crosslinks:end -->

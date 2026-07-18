@@ -6,7 +6,7 @@ source_relpath: "photography/Man Seated In Tadao Ando's Church Of The Light Inte
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1823x2291"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

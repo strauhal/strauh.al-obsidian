@@ -6,7 +6,7 @@ source_relpath: "1800s/the_entry_of_charles_v_into_antwerp_by_hans_makart_1878.j
 collection: "1800s"
 inferred_year: "1878"
 artist: "hans makart"
-dimensions: "1920x1039"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

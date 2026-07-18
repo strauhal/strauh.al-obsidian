@@ -6,7 +6,7 @@ source_relpath: "photography/Louis Armstrong Plays Trumpet For Wife Lucille By S
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "960x998"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Louis Arms
 
 - [[knowledge/wiki/artists/Artist - Seth Armstrong|Artist - Seth Armstrong]] — shared language: armstrong
 - [[knowledge/wiki/images/Black And White Photograph Of A Trumpet Player On Stage 26065ae5|Black And White Photograph Of A Trumpet Player On Stage]] — shared language: trumpet
-- [[knowledge/wiki/images/wife and cat 3a1a73b5|wife and cat]] — shared language: wife
 - [[knowledge/wiki/images/Screenshot Riddles of the Sphinx by Laura Mulvey, Peter Wollen d68cc512|Screenshot Riddles of the Sphinx by Laura Mulvey, Peter Wollen]] — shared language: sphinx
+- [[knowledge/wiki/images/wife and cat 3a1a73b5|wife and cat]] — shared language: wife
 - [[knowledge/wiki/images/Electric Avenue by Seth Armstrong 05bdf962|Electric Avenue by Seth Armstrong]] — shared language: armstrong
 <!-- vault-crosslinks:end -->

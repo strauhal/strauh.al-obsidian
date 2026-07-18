@@ -6,7 +6,7 @@ source_relpath: "1900s/black_and_white_photograph_of_frieder_nake_holding_two_co
 collection: "1900s"
 inferred_year: "1966"
 artist: ""
-dimensions: "1536x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

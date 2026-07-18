@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photograph Of Brutalist Concrete St
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "928x1232"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

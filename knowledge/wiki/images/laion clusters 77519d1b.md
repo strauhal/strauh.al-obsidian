@@ -6,7 +6,7 @@ source_relpath: "diary/laion-clusters.jpeg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1163"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

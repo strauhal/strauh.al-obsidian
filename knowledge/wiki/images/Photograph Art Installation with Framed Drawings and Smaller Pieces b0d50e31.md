@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Art Installation with Framed Drawings and Sm
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Art
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: pieces
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: drawings
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: drawings
 - [[knowledge/wiki/images/Illustration Stylized House, Figures, And Framed Mechanical Drawings On Fabric a34f4445|Illustration Stylized House, Figures, And Framed Mechanical Drawings On Fabric]] — shared language: drawings, framed
 - [[knowledge/wiki/images/drawings 9e5f53ad|drawings]] — shared language: drawings
+- [[knowledge/wiki/images/Photograph Gallery View of Ten Framed Minimalist Figure Drawings c9b7edcf|Photograph Gallery View of Ten Framed Minimalist Figure Drawings]] — shared language: drawings, framed
 <!-- vault-crosslinks:end -->

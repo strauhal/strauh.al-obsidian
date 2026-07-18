@@ -6,7 +6,7 @@ source_relpath: "1900s/le_domaine_d_arnheim_by_rene_magritte_1962.jpeg"
 collection: "1900s"
 inferred_year: "1962"
 artist: "rene magritte"
-dimensions: "1358x1008"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

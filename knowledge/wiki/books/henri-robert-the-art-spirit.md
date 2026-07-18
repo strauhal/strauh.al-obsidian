@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The Art Spirit -- Henri, Robert -- 2007 -- Basic Books -- e2635c44235209cff7c8667ee825e274 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # The Art Spirit
@@ -46,5 +46,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/ambient-art|Ambient art]] — same category: art aesthetics
 - [[knowledge/wiki/books/9009675-01-ab-9009700-01-art-as-a-form-of-reality|9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]] — same category: art aesthetics
 - [[knowledge/wiki/books/co2-artbookdigitalcomplete|CO2 ArtbookDigitalComplete]] — same category: art aesthetics
-- [[knowledge/wiki/books/mile-zola-elinor-dorday-robert-lethbridge-la-d-b-cle-reissue-oxford-world-s-classics|La Débâcle (reissue) (Oxford World's Classics)]] — same category: art aesthetics
+- [[knowledge/wiki/books/martin-heidegger-hegels-phenomenology-of-spirit|martin-heidegger-hegels-phenomenology-of-spirit]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

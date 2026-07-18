@@ -6,7 +6,7 @@ source_relpath: "photography/Grainy Black and White Photo of Person Watching Blu
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1639x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Two Ink Sketch Comic Panels with Figures in Mi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "899x1883"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Two I
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, panels
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, comic
 - [[knowledge/wiki/images/Comic Black and White Comic Art with Figures in Multiple Panels a7b76d96|Comic Black and White Comic Art with Figures in Multiple Panels]] — shared language: comic, panels
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch, ink
 - [[knowledge/wiki/images/Comic Surreal Black And White Ink Comic Panels With Figures And Organic Shapes 78f0a1a2|Comic Surreal Black And White Ink Comic Panels With Figures And Organic Shapes]] — shared language: comic, panels, ink
-- [[knowledge/wiki/images/Illustration Portrait Painting of a Man in Clerical Attire e5689adb|Illustration Portrait Painting of a Man in Clerical Attire]] — shared language: attire
 <!-- vault-crosslinks:end -->

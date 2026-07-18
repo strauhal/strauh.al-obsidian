@@ -6,7 +6,7 @@ source_relpath: "1900s/pablo_picasso_femme_dans_un_fauteuil_woman_in_an_armchair
 collection: "1900s"
 inferred_year: "1938"
 artist: ""
-dimensions: "2560x3282"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

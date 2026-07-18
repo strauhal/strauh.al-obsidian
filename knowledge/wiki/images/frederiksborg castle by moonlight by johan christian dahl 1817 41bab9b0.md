@@ -6,7 +6,7 @@ source_relpath: "1800s/frederiksborg_castle_by_moonlight_by_johan_christian_dahl
 collection: "1800s"
 inferred_year: "1817"
 artist: "moonlight by johan christian dahl"
-dimensions: "2560x1618"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

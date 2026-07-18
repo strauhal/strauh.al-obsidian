@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Line Drawing of Pig with Snorkel Swimming 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1253x818"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: among, line
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: among, line
 - [[knowledge/wiki/images/Man Sitting On Chair Underwater In Swimming Pool 7ddb39c8|Man Sitting On Chair Underwater In Swimming Pool]] — shared language: underwater, swimming
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: among, line
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line, among
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: among
 <!-- vault-crosslinks:end -->

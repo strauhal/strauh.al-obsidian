@@ -6,7 +6,7 @@ source_relpath: "1900s/inside_macpaint_by_ken_jenkins_1985.png"
 collection: "1900s"
 inferred_year: "1985"
 artist: "ken jenkins"
-dimensions: "2304x2880"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

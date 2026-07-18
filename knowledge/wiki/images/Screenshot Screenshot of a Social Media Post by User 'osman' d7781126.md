@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of a Social Media Post by User
 collection: "unsorted"
 inferred_year: ""
 artist: "User 'osman"
-dimensions: "1202x196"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

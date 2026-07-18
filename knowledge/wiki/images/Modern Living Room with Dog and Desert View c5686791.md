@@ -6,7 +6,7 @@ source_relpath: "photography/Modern Living Room with Dog and Desert View.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "3648x5472"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

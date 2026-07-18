@@ -6,7 +6,7 @@ source_relpath: "2000s/Dropping a Han Dynasty Urn by Ai Weiwei (1995).jpg"
 collection: "2000s"
 inferred_year: "1995"
 artist: ""
-dimensions: "2701x3000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

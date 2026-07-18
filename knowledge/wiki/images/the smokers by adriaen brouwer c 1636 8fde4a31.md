@@ -6,7 +6,7 @@ source_relpath: "1600s/the_smokers_by_adriaen_brouwer_c_1636.jpg"
 collection: "1600s"
 inferred_year: "1636"
 artist: "adriaen brouwer"
-dimensions: "2943x3665"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

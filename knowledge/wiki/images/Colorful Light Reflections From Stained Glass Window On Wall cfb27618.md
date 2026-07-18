@@ -6,7 +6,7 @@ source_relpath: "photography/Colorful Light Reflections From Stained Glass Windo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "650x505"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

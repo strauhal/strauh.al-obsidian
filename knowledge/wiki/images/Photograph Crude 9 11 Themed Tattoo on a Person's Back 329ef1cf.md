@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Crude 9-11 Themed Tattoo on a Person's Back.
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "680x680"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

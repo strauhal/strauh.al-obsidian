@@ -6,7 +6,7 @@ source_relpath: "photography/Blurred Figures on a Wet Street in Black and White.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "960x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

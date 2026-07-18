@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Blue Bird on Branch with Red Leaves, Ink W
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1180x738"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

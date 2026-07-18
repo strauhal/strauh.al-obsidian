@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Sepia-Toned Ink Drawing of Girl Walking Up
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Yoh Yoshinari"
-dimensions: "650x963"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

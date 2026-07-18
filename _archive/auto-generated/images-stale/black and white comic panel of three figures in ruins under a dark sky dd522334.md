@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Comic Three Figures In Ruins Under Dark Sky 80e5d8e8|Comic Three Figures In Ruins Under Dark Sky]] — shared language: ruins, comic, three
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, panel
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: ruins, comic
 - [[knowledge/wiki/images/Comic Black And White Comic Panel Of Young Woman In Dark Uniform b99f0bee|Comic Black And White Comic Panel Of Young Woman In Dark Uniform]] — shared language: comic, panel, dark
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: ruins
 - [[knowledge/wiki/images/Comic Black And White Comic Panel Of Crying Woman (2) 58837ea7|Comic Black And White Comic Panel Of Crying Woman (2)]] — shared language: comic, panel
 <!-- vault-crosslinks:end -->

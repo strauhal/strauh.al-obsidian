@@ -6,7 +6,7 @@ source_relpath: "1900s/one_number_31_1950_by_jackson_pollock_1950.jpeg"
 collection: "1900s"
 inferred_year: "1950"
 artist: "jackson pollock"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

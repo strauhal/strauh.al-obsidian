@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Man with Art Briefcase Contemplates Taped 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Mike Harris"
-dimensions: "1170x1649"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

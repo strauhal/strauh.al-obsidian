@@ -6,7 +6,7 @@ source_relpath: "1800s/the_arrest_of_christ_by_francisco_de_goya_y_lucientes_c_1
 collection: "1800s"
 inferred_year: "1800s"
 artist: "francisco de goya y lucientes"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Intense Portrait of Man with Grey Body Paint by Yan
 collection: "photography"
 inferred_year: ""
 artist: "Yann Arthus Bertrand"
-dimensions: "540x361"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

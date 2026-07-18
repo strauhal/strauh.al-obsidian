@@ -6,7 +6,7 @@ source_relpath: "photography/Syrup Bottles, Funnel, and Handgun on Wooden Table.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1536x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

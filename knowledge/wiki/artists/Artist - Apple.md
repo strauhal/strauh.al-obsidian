@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/Photograph White Apple iMac G4 Computer on White Background 9fa92b0d|Photograph White Apple iMac G4 Computer on White Background]] — shared language: apple
 - [[knowledge/wiki/artists/Artist - Apple Inc|Artist - Apple Inc]] — shared language: apple
 - [[knowledge/wiki/images/Screenshot Three Virtual Avatars with Usernames in Apple Vision Pro Interface 0c512e48|Screenshot Three Virtual Avatars with Usernames in Apple Vision Pro Interface]] — shared language: apple, pro
-- [[knowledge/wiki/images/Apple M1 chip family lineup 220308 big.jpg.slideshow medium 2x 4d0bbbe0|Apple M1 chip family lineup 220308 big.jpg.slideshow medium 2x]] — shared language: apple, chip
+- [[knowledge/wiki/images/Man using Apple II computer in kitchen, woman in background c941dc90|Man using Apple II computer in kitchen, woman in background]] — shared language: apple
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Intricate Portrait of Man with Symbols,
 collection: "unsorted"
 inferred_year: ""
 artist: "Shawn Thornton"
-dimensions: "384x384"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

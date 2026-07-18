@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Surreal DeepDream Image of Dog-like Creatu
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Google DeepDream"
-dimensions: "1280x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

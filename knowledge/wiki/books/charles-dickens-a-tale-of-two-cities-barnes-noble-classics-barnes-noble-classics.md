@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Charles Dickens - A Tale of Two Cities (Barnes & Noble Classics)  -Barnes & Noble Classics (2004).epub"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # A Tale of Two Cities (Barnes & Noble Classics) -Barnes & Noble Classics

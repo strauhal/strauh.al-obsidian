@@ -6,7 +6,7 @@ source_relpath: "2000s/Casadores by Carlos Torres.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Carlos Torres"
-dimensions: "736x550"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

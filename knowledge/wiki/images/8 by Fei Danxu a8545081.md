@@ -6,7 +6,7 @@ source_relpath: "2000s/费丹旭十二金钗图册-8 by Fei Danxu.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Fei Danxu"
-dimensions: "1280x938"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

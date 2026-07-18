@@ -6,7 +6,7 @@ source_relpath: "1900s/study_for_self_portrait_by_francis_bacon_1964.webp"
 collection: "1900s"
 inferred_year: "1964"
 artist: "francis bacon"
-dimensions: "465x547"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

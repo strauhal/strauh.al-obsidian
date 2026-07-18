@@ -6,7 +6,7 @@ source_relpath: "1900s/the_escalator_by_gino_severini_1915.jpg"
 collection: "1900s"
 inferred_year: "1915"
 artist: "gino severini"
-dimensions: "1080x997"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

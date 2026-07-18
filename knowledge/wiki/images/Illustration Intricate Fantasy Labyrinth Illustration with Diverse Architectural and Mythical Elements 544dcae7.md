@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Intricate Fantasy Labyrinth Illustration w
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3232x3232"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 
 - [[knowledge/wiki/images/Illustration Vibrant Surreal Artwork with Doll Characters and Fantasy Elements 150d10ca|Illustration Vibrant Surreal Artwork with Doll Characters and Fantasy Elements]] — shared language: fantasy, elements, elements.jpg
 - [[knowledge/wiki/books/martin-butler-the-corporeal-fantasy|The Corporeal Fantasy]] — shared language: fantasy
-- [[knowledge/wiki/images/Illustration Diverse Religious and Mythological Figures with Cartoon Character c8977e1c|Illustration Diverse Religious and Mythological Figures with Cartoon Character]] — shared language: diverse
 - [[knowledge/wiki/images/Illustration Vibrant Jungle Scene with Mythical Figures and Shamanic Elements by Pablo Amaringo 907dcc40|Illustration Vibrant Jungle Scene with Mythical Figures and Shamanic Elements by Pablo Amaringo]] — shared language: mythical, elements
+- [[knowledge/wiki/images/Illustration Diverse Religious and Mythological Figures with Cartoon Character c8977e1c|Illustration Diverse Religious and Mythological Figures with Cartoon Character]] — shared language: diverse
 - [[knowledge/wiki/books/robert-bringhurst-the-elements-of-typographic-style|The Elements of Typographic Style]] — shared language: elements
 <!-- vault-crosslinks:end -->

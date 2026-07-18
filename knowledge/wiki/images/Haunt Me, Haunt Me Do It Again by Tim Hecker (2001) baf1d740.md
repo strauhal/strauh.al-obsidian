@@ -6,7 +6,7 @@ source_relpath: "2000s/Haunt Me, Haunt Me Do It Again by Tim Hecker (2001).jpg"
 collection: "2000s"
 inferred_year: "2001"
 artist: ""
-dimensions: "1200x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

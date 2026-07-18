@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: children
 - [[_archive/auto-generated/images-stale/framed pointillist garden scene with figures and trees 9a7b6081|framed pointillist garden scene with figures and trees]] — shared language: scene, framed, trees
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: children
-- [[_archive/auto-generated/images-stale/Photograph Stone Relief Sculpture of a Woman and Two Children in a Park 2e92904c|Photograph Stone Relief Sculpture of a Woman and Two Children in a Park]] — shared language: children, park
+- [[_archive/auto-generated/images-stale/Photograph Stone Relief Sculpture of a Woman and Two Children in a Park 2e92904c|Photograph Stone Relief Sculpture of a Woman and Two Children in a Park]] — shared language: park, children
 <!-- vault-crosslinks:end -->

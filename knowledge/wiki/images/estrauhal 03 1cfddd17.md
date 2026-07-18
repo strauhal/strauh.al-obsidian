@@ -6,7 +6,7 @@ source_relpath: "wallpapers/estrauhal_03.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "4416x2741"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

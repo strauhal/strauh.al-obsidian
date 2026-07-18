@@ -6,7 +6,7 @@ source_relpath: "photography/Two Figures In Black Robes Carrying Weapons On Hill
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "611x404"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

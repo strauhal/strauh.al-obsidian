@@ -6,7 +6,7 @@ source_relpath: "wallpapers/falsereality.png"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "2560x1518"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

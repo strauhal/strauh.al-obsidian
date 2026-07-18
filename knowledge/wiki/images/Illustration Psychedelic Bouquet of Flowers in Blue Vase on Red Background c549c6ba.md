@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Psychedelic Bouquet of Flowers in Blue Vas
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2819x4000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/the_lagoon_world_s_columbian_exposition_by_c_d_arnold_189
 collection: "1800s"
 inferred_year: "1893"
 artist: "c d arnold"
-dimensions: "5493x3662"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

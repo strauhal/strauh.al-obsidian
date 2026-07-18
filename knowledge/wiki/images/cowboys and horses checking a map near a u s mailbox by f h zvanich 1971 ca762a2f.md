@@ -6,7 +6,7 @@ source_relpath: "1900s/cowboys_and_horses_checking_a_map_near_a_u_s_mailbox_by_f
 collection: "1900s"
 inferred_year: "1971"
 artist: "f h zvanich"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

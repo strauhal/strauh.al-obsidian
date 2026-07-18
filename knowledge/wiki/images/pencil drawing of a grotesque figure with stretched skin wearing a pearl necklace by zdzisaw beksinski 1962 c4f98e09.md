@@ -6,7 +6,7 @@ source_relpath: "1900s/pencil_drawing_of_a_grotesque_figure_with_stretched_skin_
 collection: "1900s"
 inferred_year: "1962"
 artist: "zdzisaw beksinski"
-dimensions: "700x981"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

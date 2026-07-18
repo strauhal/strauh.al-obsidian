@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Surreal Abstract Drawing Displayed in Mic
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1120x959"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

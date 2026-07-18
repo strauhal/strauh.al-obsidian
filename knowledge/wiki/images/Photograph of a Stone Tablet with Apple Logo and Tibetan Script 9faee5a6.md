@@ -6,7 +6,7 @@ source_relpath: "photography/Photograph of a Stone Tablet with Apple Logo and Ti
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "800x589"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_artist_in_his_studio_by_john_singer_sargent_1904.jpeg
 collection: "1900s"
 inferred_year: "1904"
 artist: "john singer sargent"
-dimensions: "5712x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

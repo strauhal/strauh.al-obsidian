@@ -6,7 +6,7 @@ source_relpath: "1800s/A Soul Brought to Heaven by William-Adolphe Bouguereau (1
 collection: "1800s"
 inferred_year: "1878"
 artist: ""
-dimensions: "1584x3072"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

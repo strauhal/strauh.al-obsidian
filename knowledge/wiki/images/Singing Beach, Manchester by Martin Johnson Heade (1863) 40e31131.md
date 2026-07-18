@@ -6,7 +6,7 @@ source_relpath: "1800s/Singing Beach, Manchester by Martin Johnson Heade (1863).
 collection: "1800s"
 inferred_year: "1863"
 artist: ""
-dimensions: "4032x2268"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

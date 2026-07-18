@@ -6,7 +6,7 @@ source_relpath: "1900s/o_que_e_arte_by_paulo_bruscky_1978.jpg"
 collection: "1900s"
 inferred_year: "1978"
 artist: "paulo bruscky"
-dimensions: "1428x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

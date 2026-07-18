@@ -6,7 +6,7 @@ source_relpath: "1900s/ashville_by_willem_de_kooning_1948_1949.jpeg"
 collection: "1900s"
 inferred_year: "1949"
 artist: "willem de kooning"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

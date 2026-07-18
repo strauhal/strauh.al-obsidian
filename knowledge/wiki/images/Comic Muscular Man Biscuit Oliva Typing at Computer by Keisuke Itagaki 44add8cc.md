@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Muscular Man Biscuit Oliva Typing at Computer 
 collection: "unsorted"
 inferred_year: ""
 artist: "Keisuke Itagaki"
-dimensions: "649x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

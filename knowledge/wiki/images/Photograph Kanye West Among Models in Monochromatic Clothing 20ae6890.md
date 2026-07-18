@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Kanye West Among Models in Monochromatic Clo
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "786x524"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

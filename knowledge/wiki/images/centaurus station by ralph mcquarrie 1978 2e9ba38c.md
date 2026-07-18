@@ -6,7 +6,7 @@ source_relpath: "1900s/centaurus_station_by_ralph_mcquarrie_1978.jpeg"
 collection: "1900s"
 inferred_year: "1978"
 artist: "ralph mcquarrie"
-dimensions: "1600x1414"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

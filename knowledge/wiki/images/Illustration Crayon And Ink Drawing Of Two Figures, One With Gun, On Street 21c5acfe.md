@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Crayon And Ink Drawing Of Two Figures, 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1520"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

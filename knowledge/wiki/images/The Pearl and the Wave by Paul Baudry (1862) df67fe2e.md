@@ -6,7 +6,7 @@ source_relpath: "1800s/The Pearl and the Wave by Paul Baudry (1862).jpg"
 collection: "1800s"
 inferred_year: "1862"
 artist: ""
-dimensions: "1280x1714"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/swimming_by_hiroshi_nagai_1982.jpg"
 collection: "1900s"
 inferred_year: "1982"
 artist: "hiroshi nagai"
-dimensions: "1440x1795"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

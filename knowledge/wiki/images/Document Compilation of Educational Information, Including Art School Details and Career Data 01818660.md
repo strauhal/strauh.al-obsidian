@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Compilation of Educational Information, Inc
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1752x6796"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

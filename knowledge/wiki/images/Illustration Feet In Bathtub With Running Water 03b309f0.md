@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Feet In Bathtub With Running Water.jpeg
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "512x704"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

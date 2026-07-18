@@ -6,7 +6,7 @@ source_relpath: "1800s/le_cardinal_de_richelieu_au_siege_de_la_rochelle_by_henri
 collection: "1800s"
 inferred_year: "1881"
 artist: "henri paul motte"
-dimensions: "3000x1705"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

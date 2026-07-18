@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Detailed Black and White Illustration of G
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "712x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

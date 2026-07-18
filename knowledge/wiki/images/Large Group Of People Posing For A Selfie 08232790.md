@@ -6,7 +6,7 @@ source_relpath: "photography/Large Group Of People Posing For A Selfie.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "3522x2418"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

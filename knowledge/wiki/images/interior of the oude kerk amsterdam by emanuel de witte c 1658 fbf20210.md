@@ -6,7 +6,7 @@ source_relpath: "1600s/interior_of_the_oude_kerk_amsterdam_by_emanuel_de_witte_c
 collection: "1600s"
 inferred_year: "1658"
 artist: "emanuel de witte"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

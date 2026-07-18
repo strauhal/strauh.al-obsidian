@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Tattooed Man MC Ride and Young Girl Sitting 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1125x621"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Person Wearing Black T-Shirt With Anti-Brand List O
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1242x1205"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

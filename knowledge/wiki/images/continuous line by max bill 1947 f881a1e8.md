@@ -6,7 +6,7 @@ source_relpath: "1900s/continuous_line_by_max_bill_1947.jpeg"
 collection: "1900s"
 inferred_year: "1947"
 artist: "max bill"
-dimensions: "900x537"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

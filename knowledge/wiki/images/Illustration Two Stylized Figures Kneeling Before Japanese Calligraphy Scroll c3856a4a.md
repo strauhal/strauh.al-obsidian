@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Stylized Figures Kneeling Before Ja
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1080x781"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Hideo Kojima, Timothée Chalamet, and Person in Fut
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1920x1179"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

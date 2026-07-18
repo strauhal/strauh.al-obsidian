@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Screenshot of MIT News Article with Yellow H
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "816x989"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

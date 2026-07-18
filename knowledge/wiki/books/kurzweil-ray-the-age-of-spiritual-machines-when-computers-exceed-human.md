@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The age of spiritual machines - when computers exceed human -- Kurzweil, Ray -- New York, 2000 -- Penguin (Non-Classics) -- 9781101066447 -- b6436a2e4d75bafc4e2c7ed69f7d400b -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # The age of spiritual machines - when computers exceed human
@@ -46,5 +46,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/thomas-ligotti-ray-brassier-the-conspiracy-against-the-human-race-a-contrivance-of-horror-hippocampus-press|The Conspiracy against the Human Race A Contrivance of Horror-Hippocampus Press]] — same category: media technology
 - [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — same category: media technology
 - [[knowledge/wiki/books/neil-postman-amusing-ourselves-to-death-public-discourse-in-the-age-of-show-business|Amusing Ourselves to Death Public Discourse in the Age of Show Business]] — same category: media technology
-- [[knowledge/wiki/books/neil-postman-technopoly-the-surrender-of-culture-to-technology|Technopoly The Surrender of Culture to Technology]] — same category: media technology
+- [[knowledge/wiki/books/perloff-marjorie-frank-o-hara-poet-among-painters|Frank O'Hara poet among painters]] — same category: media technology
 <!-- vault-crosslinks:end -->

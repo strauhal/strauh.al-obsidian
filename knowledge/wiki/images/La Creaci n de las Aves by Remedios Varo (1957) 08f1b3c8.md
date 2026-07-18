@@ -6,7 +6,7 @@ source_relpath: "1900s/La Creación de las Aves by Remedios Varo (1957).png"
 collection: "1900s"
 inferred_year: "1957"
 artist: ""
-dimensions: "799x815"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

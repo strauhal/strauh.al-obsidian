@@ -6,7 +6,7 @@ source_relpath: "1900s/uzumaki_by_junji_ito_1998_1999.jpeg"
 collection: "1900s"
 inferred_year: "1999"
 artist: "junji ito"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

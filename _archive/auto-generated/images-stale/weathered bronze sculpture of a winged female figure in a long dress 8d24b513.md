@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Weathered Bronze Sculpture of Winged Female Figure in Long Dress 82523a91|Illustration Weathered Bronze Sculpture of Winged Female Figure in Long Dress]] — shared language: bronze, weathered, winged
-- [[knowledge/wiki/images/Illustration Line Drawing of Standing Female Figure in Long Dress ad8d9efa|Illustration Line Drawing of Standing Female Figure in Long Dress]] — shared language: female, long, dress
-- [[_archive/auto-generated/images-stale/line drawing of a standing female figure in a long dress 27f7be60|line drawing of a standing female figure in a long dress]] — shared language: female, long, dress
+- [[knowledge/wiki/images/Illustration Line Drawing of Standing Female Figure in Long Dress ad8d9efa|Illustration Line Drawing of Standing Female Figure in Long Dress]] — shared language: female, dress, long
+- [[_archive/auto-generated/images-stale/line drawing of a standing female figure in a long dress 27f7be60|line drawing of a standing female figure in a long dress]] — shared language: female, dress, long
 - [[knowledge/wiki/images/Illustration Portrait of a Woman in a White Dress c6374fdf|Illustration Portrait of a Woman in a White Dress]] — shared language: dress, dress.jpeg
 - [[knowledge/wiki/images/Illustration Loose Line Drawing of Standing Female Figure in Dress e1c0879b|Illustration Loose Line Drawing of Standing Female Figure in Dress]] — shared language: female, dress, dress.jpeg
 <!-- vault-crosslinks:end -->

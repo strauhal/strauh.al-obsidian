@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Tibetan Thangka Painting of Red Amitāb
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "504x650"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

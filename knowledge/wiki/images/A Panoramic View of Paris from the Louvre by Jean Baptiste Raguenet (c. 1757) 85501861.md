@@ -6,7 +6,7 @@ source_relpath: "1700s/A Panoramic View of Paris from the Louvre by Jean-Baptist
 collection: "1700s"
 inferred_year: "1757"
 artist: ""
-dimensions: "4797x3191"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

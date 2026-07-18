@@ -6,7 +6,7 @@ source_relpath: "1900s/Interior with a Woman Seen from the Back by Vilhelm Hamme
 collection: "1900s"
 inferred_year: "1904"
 artist: ""
-dimensions: "1544x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/the_vision_of_the_valley_of_dry_bones_by_gustave_dore_186
 collection: "1800s"
 inferred_year: "1866"
 artist: "gustave dore"
-dimensions: "1200x777"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

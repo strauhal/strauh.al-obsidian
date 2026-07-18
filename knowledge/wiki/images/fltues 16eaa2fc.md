@@ -6,7 +6,7 @@ source_relpath: "diary/fltues.JPG"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "480x640"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

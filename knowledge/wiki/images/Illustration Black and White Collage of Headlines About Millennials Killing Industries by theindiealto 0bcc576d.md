@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black and White Collage of Headlines Ab
 collection: "unsorted"
 inferred_year: ""
 artist: "theindiealto"
-dimensions: "634x652"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

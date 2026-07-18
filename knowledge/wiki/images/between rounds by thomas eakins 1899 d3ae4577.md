@@ -6,7 +6,7 @@ source_relpath: "1800s/between_rounds_by_thomas_eakins_1899.jpeg"
 collection: "1800s"
 inferred_year: "1899"
 artist: "thomas eakins"
-dimensions: "4284x5712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

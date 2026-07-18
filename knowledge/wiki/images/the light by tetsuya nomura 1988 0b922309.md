@@ -6,7 +6,7 @@ source_relpath: "1900s/the_light_by_tetsuya_nomura_1988.jpg"
 collection: "1900s"
 inferred_year: "1988"
 artist: "tetsuya nomura"
-dimensions: "1501x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

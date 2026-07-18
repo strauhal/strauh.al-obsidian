@@ -6,7 +6,7 @@ source_relpath: "1900s/the_annunciation_by_john_william_waterhouse_1914.jpg"
 collection: "1900s"
 inferred_year: "1914"
 artist: "john william waterhouse"
-dimensions: "3000x2189"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

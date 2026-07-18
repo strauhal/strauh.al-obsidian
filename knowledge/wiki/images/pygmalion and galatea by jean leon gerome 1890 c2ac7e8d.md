@@ -6,7 +6,7 @@ source_relpath: "1800s/pygmalion_and_galatea_by_jean_leon_gerome_1890.jpeg"
 collection: "1800s"
 inferred_year: "1890"
 artist: "jean leon gerome"
-dimensions: "1259x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

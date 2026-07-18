@@ -6,7 +6,7 @@ source_relpath: "influences/david_foster_wallace.png"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "1040x1040"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

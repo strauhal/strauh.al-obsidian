@@ -6,7 +6,7 @@ source_relpath: "1900s/Coyote by Joseph Beuys (1974).jpg"
 collection: "1900s"
 inferred_year: "1974"
 artist: ""
-dimensions: "1200x850"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

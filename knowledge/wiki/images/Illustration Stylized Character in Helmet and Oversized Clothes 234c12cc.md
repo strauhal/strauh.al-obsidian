@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Character in Helmet and Oversized
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "736x1053"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_enraged_jonah_by_david_hockney_1969.jpg"
 collection: "1900s"
 inferred_year: "1969"
 artist: "david hockney"
-dimensions: "1080x946"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

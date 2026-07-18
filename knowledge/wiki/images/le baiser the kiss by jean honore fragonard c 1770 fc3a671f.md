@@ -6,7 +6,7 @@ source_relpath: "1700s/le_baiser_the_kiss_by_jean_honore_fragonard_c_1770.jpeg"
 collection: "1700s"
 inferred_year: "1770"
 artist: "jean honore fragonard"
-dimensions: "700x433"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

@@ -184,7 +184,7 @@ Files: 112
 - [[knowledge/wiki/people/Rembrandt|Rembrandt]] — named in this note
 - [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
 - [[knowledge/wiki/images/guido 52af9147|guido]] — named in this note
-- [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint, virgin, baptist
+- [[knowledge/wiki/artists/Artist - peter paul rubens|Artist - peter paul rubens]] — shared language: rubens, peter, paul
 <!-- vault-crosslinks:end -->

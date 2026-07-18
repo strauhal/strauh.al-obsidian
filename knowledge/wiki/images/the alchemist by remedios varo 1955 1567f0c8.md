@@ -6,7 +6,7 @@ source_relpath: "1900s/the_alchemist_by_remedios_varo_1955.jpeg"
 collection: "1900s"
 inferred_year: "1955"
 artist: "remedios varo"
-dimensions: "1170x1170"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

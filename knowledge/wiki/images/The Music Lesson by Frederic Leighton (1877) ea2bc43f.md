@@ -6,7 +6,7 @@ source_relpath: "1800s/The Music Lesson by Frederic Leighton (1877).jpeg"
 collection: "1800s"
 inferred_year: "1877"
 artist: ""
-dimensions: "2268x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

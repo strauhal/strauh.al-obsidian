@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Grumpy White Cat With Spiky Hair.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1080x1283"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

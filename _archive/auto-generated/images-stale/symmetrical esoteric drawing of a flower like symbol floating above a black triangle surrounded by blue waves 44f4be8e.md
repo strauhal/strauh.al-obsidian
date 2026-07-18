@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Colorful Symmetrical Mandala with Flower like Symbol, Waves, Star, and Triangle by Carl Jung 99f2841c|Illustration Colorful Symmetrical Mandala with Flower like Symbol, Waves, Star, and Triangle by Carl Jung]] — shared language: waves, triangle, symbol
 - [[_archive/auto-generated/images-stale/symmetrical drawing of a stylized flower mandala surrounded by blue waves and a star 30c7dac2|symmetrical drawing of a stylized flower mandala surrounded by blue waves and a star]] — shared language: waves, symmetrical, flower
 - [[knowledge/archive/auto-generated/artists-stale/Artist - blue waves and a star|Artist - blue waves and a star]] — shared language: waves, symmetrical, flower
-- [[knowledge/wiki/maps/Library - Spirituality and Esoterica|Library - Spirituality and Esoterica]] — shared language: esoteric
 - [[knowledge/wiki/books/daoist-alchemy-in-the-west-the-esoteric-paradigms|Daoist Alchemy in the West: The Esoteric Paradigms]] — shared language: esoteric
+- [[knowledge/wiki/images/rolling waves d61ff2f1|rolling waves]] — shared language: waves
 <!-- vault-crosslinks:end -->

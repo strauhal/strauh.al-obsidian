@@ -6,7 +6,7 @@ source_relpath: "1900s/gustav_klimt_portrait_of_a_woman_c_1910_nga_48302_jpg.jpg
 collection: "1900s"
 inferred_year: "1910"
 artist: ""
-dimensions: "1975x3000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

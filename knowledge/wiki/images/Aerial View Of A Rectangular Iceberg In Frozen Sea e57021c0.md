@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View Of A Rectangular Iceberg In Frozen Sea.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "526x771"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Panda Bear Resting on Bookshelf Filled 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "896x1344"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

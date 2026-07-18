@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Chinese Calligraphy in Black Ink on Whi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "800x404"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

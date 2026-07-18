@@ -6,7 +6,7 @@ source_relpath: "photography/Orange Cat Biting Page Of Open Textbook.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "564x564"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

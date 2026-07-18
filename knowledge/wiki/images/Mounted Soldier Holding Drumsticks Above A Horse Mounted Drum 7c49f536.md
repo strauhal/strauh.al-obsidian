@@ -6,7 +6,7 @@ source_relpath: "photography/Mounted Soldier Holding Drumsticks Above A Horse-Mo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1280x1818"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

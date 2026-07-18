@@ -6,7 +6,7 @@ source_relpath: "1800s/joan_of_arc_by_jules_bastien_lepage_1879.jpg"
 collection: "1800s"
 inferred_year: "1879"
 artist: "jules bastien lepage"
-dimensions: "3612x3250"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

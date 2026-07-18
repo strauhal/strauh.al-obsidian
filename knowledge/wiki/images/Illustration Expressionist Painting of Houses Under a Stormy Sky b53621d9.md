@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Expressionist Painting of Houses Under 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1324x1049"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

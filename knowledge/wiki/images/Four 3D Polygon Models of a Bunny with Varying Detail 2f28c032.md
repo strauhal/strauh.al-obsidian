@@ -6,7 +6,7 @@ source_relpath: "diagrams/Four_3D_Polygon_Models_of_a_Bunny_with_Varying_Detail.
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "619x638"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

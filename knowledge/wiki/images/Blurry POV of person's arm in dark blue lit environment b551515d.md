@@ -6,7 +6,7 @@ source_relpath: "photography/Blurry POV of person's arm in dark blue-lit environ
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1536x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

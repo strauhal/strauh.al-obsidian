@@ -6,7 +6,7 @@ source_relpath: "photography/Painting of a Market Fruit Stall Displayed on Galle
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "4032x2268"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

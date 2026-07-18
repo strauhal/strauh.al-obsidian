@@ -6,7 +6,7 @@ source_relpath: "pictures_of_musicians/death grips/EisvKcbXYAIXwcu.jpeg"
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: "960x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---

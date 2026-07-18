@@ -11,7 +11,7 @@ Stub concept created to keep the Obsidian graph connected. Expand this when the 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/2024-misc-bookmarks|2024 misc bookmarks]] — named in this note
+- [[knowledge/archive/auto-generated/anchors-stale/2024-misc-bookmarks|2024 misc bookmarks]] — shared language: bookmarks, misc, important
 - [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: obsidian, concept
 - [[_archive/auto-generated/concept-stubs/Image Archive|Image Archive]] — shared language: obsidian
 - [[_archive/auto-generated/concept-stubs/degas|degas]] — shared language: stub, obsidian, created

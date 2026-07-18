@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Geometric Pattern With Overlap
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1990x974"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Johnny Joestar Riding a White Horse, Reach
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Dai Yi"
-dimensions: "2048x1310"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

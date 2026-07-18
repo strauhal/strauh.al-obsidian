@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Mr. Cigarette Mascot Giving Cigarette to Hos
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1320x1409"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

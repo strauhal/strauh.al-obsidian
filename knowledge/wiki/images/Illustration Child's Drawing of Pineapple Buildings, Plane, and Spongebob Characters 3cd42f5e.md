@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Child's Drawing of Pineapple Buildings,
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1536x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: child's
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: child's
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings
 - [[knowledge/wiki/images/Illustration Child's Drawing of Skull like Figure in Pink Shirt e9e70b03|Illustration Child's Drawing of Skull like Figure in Pink Shirt]] — shared language: child's
 - [[knowledge/wiki/images/Diorama of Graham Cracker Buildings, Toy Plane, Miniature Figures 6ec6d638|Diorama of Graham Cracker Buildings, Toy Plane, Miniature Figures]] — shared language: plane, buildings
-- [[knowledge/wiki/images/Illustration Child's Drawing of Negative Thoughts and Social Media 70a205f7|Illustration Child's Drawing of Negative Thoughts and Social Media]] — shared language: child's
 <!-- vault-crosslinks:end -->

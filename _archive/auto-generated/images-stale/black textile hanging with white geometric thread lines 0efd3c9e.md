@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Black Textile Hanging with White Geometric Thread Lines d1befc11|Illustration Black Textile Hanging with White Geometric Thread Lines]] — shared language: thread, textile, hanging
 - [[knowledge/wiki/images/Illustration Vibrant Geometric Textile with Abstract Patterns and Fuchsia Border e9845833|Illustration Vibrant Geometric Textile with Abstract Patterns and Fuchsia Border]] — shared language: textile, geometric
 - [[knowledge/wiki/images/Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines 3896cd1d|Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines]] — shared language: geometric, lines, lines.jpeg
-- [[_archive/auto-generated/images-stale/not straight lines jpg 75de846e|not straight lines jpg]] — shared language: lines
 - [[_archive/auto-generated/images-stale/gallery photo of green thread installation with artist a45d8ecf|gallery photo of green thread installation with artist]] — shared language: thread
+- [[knowledge/wiki/images/Complex Geometric Diagram with Intersecting Circles and Lines 6a399687|Complex Geometric Diagram with Intersecting Circles and Lines]] — shared language: geometric, lines, lines.jpeg
 <!-- vault-crosslinks:end -->

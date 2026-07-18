@@ -6,7 +6,7 @@ source_relpath: "photography/Man In Loincloth Meditating Outdoors, Black And Whi
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1354x1354"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/reductions_of_five_figures_from_the_burghers_of_calais_by
 collection: "1900s"
 inferred_year: "1900s"
 artist: "auguste rodin 18861902"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

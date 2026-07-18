@@ -6,7 +6,7 @@ source_relpath: "1900s/girl_reading_by_lucian_freud_1947_1948.webp"
 collection: "1900s"
 inferred_year: "1948"
 artist: "lucian freud"
-dimensions: "1484x1947"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

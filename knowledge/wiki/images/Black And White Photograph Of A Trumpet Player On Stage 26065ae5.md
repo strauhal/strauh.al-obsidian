@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photograph Of A Trumpet Player On S
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "786x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Black And 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
+- [[knowledge/wiki/images/player 6b321c3d|player]] — shared language: player
 - [[knowledge/wiki/images/Louis Armstrong Plays Trumpet For Wife Lucille By Sphinx, Egypt ce8a742e|Louis Armstrong Plays Trumpet For Wife Lucille By Sphinx, Egypt]] — shared language: trumpet
 - [[knowledge/wiki/images/A Trumpet Modified With Tactical Weapon Parts And Scope df8f812c|A Trumpet Modified With Tactical Weapon Parts And Scope]] — shared language: trumpet
 - [[knowledge/wiki/images/The Guitar Player by Thomas Eakins (1874) 8c957314|The Guitar Player by Thomas Eakins (1874)]] — shared language: player

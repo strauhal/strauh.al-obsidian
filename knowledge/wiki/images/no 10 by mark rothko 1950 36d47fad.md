@@ -6,7 +6,7 @@ source_relpath: "1900s/no_10_by_mark_rothko_1950.jpeg"
 collection: "1900s"
 inferred_year: "1950"
 artist: "mark rothko"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

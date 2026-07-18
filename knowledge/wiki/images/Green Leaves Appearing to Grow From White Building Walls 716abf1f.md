@@ -6,7 +6,7 @@ source_relpath: "photography/Green Leaves Appearing to Grow From White Building 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "526x789"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

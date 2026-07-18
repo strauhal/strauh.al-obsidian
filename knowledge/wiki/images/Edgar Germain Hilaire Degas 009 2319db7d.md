@@ -6,7 +6,7 @@ source_relpath: "artists/degas/Edgar_Germain_Hilaire_Degas_009.jpg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "2560x1893"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

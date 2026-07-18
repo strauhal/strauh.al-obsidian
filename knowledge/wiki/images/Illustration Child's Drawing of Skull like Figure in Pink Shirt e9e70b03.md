@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Child's Drawing of Skull-like Figure in Pi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "640x853"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: child's, like
 - [[knowledge/wiki/images/Pink T Shirt With 'Piero Scaruffi' Text And Child's Photo 55c9e642|Pink T Shirt With 'Piero Scaruffi' Text And Child's Photo]] — shared language: child's, shirt, pink
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: child's
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: like
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: like
-- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: like
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1900s/big_jay_mcneely_driving_the_crowd_at_the_olympic_auditori
 collection: "1900s"
 inferred_year: "1953"
 artist: "bob willoughby"
-dimensions: "2980x2250"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

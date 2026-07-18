@@ -6,7 +6,7 @@ source_relpath: "photography/Donald Trump Watches Boy Play With Fingerboard.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "639x539"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

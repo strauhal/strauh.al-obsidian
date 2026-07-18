@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Green Pixelated Portrait of Lain in MEKA 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1026x795"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

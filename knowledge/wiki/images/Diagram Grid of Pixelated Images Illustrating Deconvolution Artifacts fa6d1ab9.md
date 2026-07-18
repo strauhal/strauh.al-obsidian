@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Grid of Pixelated Images Illustrating Deconvolu
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "850x433"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Dynamic Sketch of Men and Bulls in Action.
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "800x745"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

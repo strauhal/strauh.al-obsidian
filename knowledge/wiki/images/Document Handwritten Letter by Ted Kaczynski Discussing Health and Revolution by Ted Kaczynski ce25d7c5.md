@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Handwritten Letter by Ted Kaczynski Discuss
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1125x1166"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

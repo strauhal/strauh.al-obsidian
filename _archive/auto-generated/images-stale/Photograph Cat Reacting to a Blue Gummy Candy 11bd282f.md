@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Cat Reacting to a Blue Gummy Candy 4b4f58cc|Cat Reacting to a Blue Gummy Candy]] — named in this note
 - [[_archive/auto-generated/images-stale/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
-- [[knowledge/wiki/images/candy sticks by wayne thiebaud 1994 34bc0527|candy sticks by wayne thiebaud 1994]] — shared language: candy
 - [[_archive/auto-generated/images-stale/Photograph Woman In Australian Uniform Reacting Against Purple Background 3e388733|Photograph Woman In Australian Uniform Reacting Against Purple Background]] — shared language: reacting
 - [[knowledge/wiki/images/Woman In Australian Uniform Reacting Against Purple Background c238c07c|Woman In Australian Uniform Reacting Against Purple Background]] — shared language: reacting
+- [[knowledge/wiki/images/candy sticks by wayne thiebaud 1994 34bc0527|candy sticks by wayne thiebaud 1994]] — shared language: candy
 <!-- vault-crosslinks:end -->

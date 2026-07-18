@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/frank miller 1f32b801|frank miller]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - frank miller 1994|Artist - frank miller 1994]] — shared language: miller, frank, kill
-- [[knowledge/wiki/images/sin city a dame to kill for by frank miller 1994 fa2627b4|sin city a dame to kill for by frank miller 1994]] — shared language: miller, frank, kill
+- [[knowledge/archive/auto-generated/artists-stale/Artist - frank miller 1994|Artist - frank miller 1994]] — shared language: miller, frank, dame
+- [[knowledge/wiki/images/sin city a dame to kill for by frank miller 1994 fa2627b4|sin city a dame to kill for by frank miller 1994]] — shared language: miller, frank, dame
 - [[knowledge/wiki/artists/Artist - frank miller|Artist - frank miller]] — shared language: miller, frank, sin
 - [[knowledge/archive/auto-generated/artists-stale/Artist - frank miller 1996|Artist - frank miller 1996]] — shared language: miller, frank, kill
 - [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: miller, frank, sin

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_window_by_andrew_loomis_1929.jpg"
 collection: "1900s"
 inferred_year: "1929"
 artist: "andrew loomis"
-dimensions: "838x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

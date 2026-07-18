@@ -6,7 +6,7 @@ source_relpath: "photography/Murmuration of Starlings Over Water Forming Abstrac
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/CASA EDDI.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

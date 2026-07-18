@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Horseman in Red Cloak on White Horse at St
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - H
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: well
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: well
 - [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In A Dark Cloak 623d3648|Photograph Black And White Portrait Of A Man In A Dark Cloak]] — shared language: cloak
 - [[knowledge/wiki/images/Illustration Framed Painting Of Horseman In Desert Landscape be59aa1f|Illustration Framed Painting Of Horseman In Desert Landscape]] — shared language: horseman
 - [[knowledge/wiki/books/william-zinsser-on-writing-well|On Writing Well]] — shared language: well
+- [[knowledge/wiki/images/Illustration Figures, Horses, Goats Gathered at Stone Well in Rocky Landscape 3e790e05|Illustration Figures, Horses, Goats Gathered at Stone Well in Rocky Landscape]] — shared language: stone, well
 <!-- vault-crosslinks:end -->

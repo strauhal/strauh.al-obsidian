@@ -6,7 +6,7 @@ source_relpath: "1900s/futuristic_cityscape_with_flying_vehicles_and_canal_by_ma
 collection: "1900s"
 inferred_year: "1984"
 artist: "mac grea"
-dimensions: "2700x2205"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

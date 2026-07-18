@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Black And White Figure With Ob
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1638x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

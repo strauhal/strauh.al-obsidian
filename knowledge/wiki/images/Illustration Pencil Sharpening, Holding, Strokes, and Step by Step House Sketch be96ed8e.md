@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pencil Sharpening, Holding, Strokes, an
 collection: "unsorted"
 inferred_year: ""
 artist: "Step House Sketch"
-dimensions: "800x1068"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

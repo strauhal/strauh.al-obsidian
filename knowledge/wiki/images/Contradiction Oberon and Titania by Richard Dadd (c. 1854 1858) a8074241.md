@@ -6,7 +6,7 @@ source_relpath: "1800s/Contradiction: Oberon and Titania by Richard Dadd (c. 185
 collection: "1800s"
 inferred_year: "1858"
 artist: ""
-dimensions: "1828x1176"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

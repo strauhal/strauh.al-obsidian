@@ -6,7 +6,7 @@ source_relpath: "gif_collection/manzibar3.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: "393x550"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

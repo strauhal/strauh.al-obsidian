@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Isometric Pixel Art Illustration of Robots
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2304x2880"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

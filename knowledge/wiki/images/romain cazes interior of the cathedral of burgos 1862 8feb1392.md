@@ -6,7 +6,7 @@ source_relpath: "1800s/romain_cazes_interior_of_the_cathedral_of_burgos_1862.jpg
 collection: "1800s"
 inferred_year: "1862"
 artist: ""
-dimensions: "1500x1097"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

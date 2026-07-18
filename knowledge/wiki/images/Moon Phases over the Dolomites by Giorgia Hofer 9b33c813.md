@@ -6,7 +6,7 @@ source_relpath: "2000s/Moon Phases over the Dolomites by Giorgia Hofer.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Giorgia Hofer"
-dimensions: "720x501"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

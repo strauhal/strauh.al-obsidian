@@ -6,7 +6,7 @@ source_relpath: "1900s/lighthouse_in_capri_by_konrad_magi_1913.jpg"
 collection: "1900s"
 inferred_year: "1913"
 artist: "konrad magi"
-dimensions: "4000x2919"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

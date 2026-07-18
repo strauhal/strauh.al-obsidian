@@ -6,7 +6,7 @@ source_relpath: "photography/Three Young People at Night, Two Kissing, One Alone
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1205x805"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Improbably Compatible by Falseknees.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Falseknees"
-dimensions: "1000x1500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Colorful Psychedelic Woman, Fetus, DNA,
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "759x1053"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

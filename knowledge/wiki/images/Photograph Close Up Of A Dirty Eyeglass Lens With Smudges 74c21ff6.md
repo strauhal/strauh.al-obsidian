@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Close-Up Of A Dirty Eyeglass Lens With Smudg
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2048x1536"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

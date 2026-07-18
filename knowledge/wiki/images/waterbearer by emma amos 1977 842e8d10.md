@@ -6,7 +6,7 @@ source_relpath: "1900s/waterbearer_by_emma_amos_1977.jpeg"
 collection: "1900s"
 inferred_year: "1977"
 artist: "emma amos"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

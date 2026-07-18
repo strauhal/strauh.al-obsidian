@@ -6,7 +6,7 @@ source_relpath: "photography/Steve Jobs in his living room, Woodside, California
 collection: "photography"
 inferred_year: ""
 artist: "Diana Walker"
-dimensions: "1920x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

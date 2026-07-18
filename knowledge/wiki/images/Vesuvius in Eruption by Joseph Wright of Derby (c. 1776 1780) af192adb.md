@@ -6,7 +6,7 @@ source_relpath: "1700s/Vesuvius in Eruption by Joseph Wright of Derby (c. 1776-1
 collection: "1700s"
 inferred_year: "1780"
 artist: ""
-dimensions: "4357x3271"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

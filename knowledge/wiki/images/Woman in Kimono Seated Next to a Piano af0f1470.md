@@ -6,7 +6,7 @@ source_relpath: "photography/Woman in Kimono Seated Next to a Piano.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1421"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

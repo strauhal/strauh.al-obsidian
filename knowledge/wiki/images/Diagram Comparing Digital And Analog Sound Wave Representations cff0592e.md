@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Comparing_Digital_And_Analog_Sound_Wave_Repres
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1165x757"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

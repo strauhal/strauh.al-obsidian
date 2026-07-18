@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/Diagram Diagram of a central point with radiating and converging arrows d31c729e|Diagram Diagram of a central point with radiating and converging arrows]] — shared language: converging, diagram
 - [[knowledge/wiki/images/Diagram of a central point with radiating and converging arrows f3ce2b07|Diagram of a central point with radiating and converging arrows]] — shared language: converging, diagram
 - [[knowledge/wiki/images/Diagram Black And White Visualization Of Curved Lines In 3D cbca891d|Diagram Black And White Visualization Of Curved Lines In 3D]] — shared language: lines, diagram
-- [[_archive/auto-generated/images-stale/not straight lines jpg 75de846e|not straight lines jpg]] — shared language: lines
+- [[_archive/auto-generated/images-stale/Diagram Complex Geometric Diagram with Intersecting Circles and Lines 74da075e|Diagram Complex Geometric Diagram with Intersecting Circles and Lines]] — shared language: diagram, lines
 <!-- vault-crosslinks:end -->

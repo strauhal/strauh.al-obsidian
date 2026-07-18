@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Cartoon Man Pointing to Shirt with Digital
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "767x591"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 
 - [[knowledge/wiki/images/Black and White Grid of Adversarial Examples 7d052f86|Black and White Grid of Adversarial Examples]] — shared language: examples, examples.png
 - [[knowledge/wiki/images/Illustration Colorful Abstract and Cartoon Figures in Yellow, Blue, and Red 8670b001|Illustration Colorful Abstract and Cartoon Figures in Yellow, Blue, and Red]] — shared language: cartoon
-- [[knowledge/wiki/images/Illustration Cartoon Children Thanking Each Other For Music bffdab86|Illustration Cartoon Children Thanking Each Other For Music]] — shared language: cartoon
 - [[knowledge/wiki/images/Illustration Abstract Painting of Figure Riding Horse and Pointing dbf31a5d|Illustration Abstract Painting of Figure Riding Horse and Pointing]] — shared language: pointing
 - [[knowledge/wiki/images/Illustration Cartoon Couple Expressing Love For Their Spouses f59223a8|Illustration Cartoon Couple Expressing Love For Their Spouses]] — shared language: cartoon
+- [[knowledge/wiki/images/Illustration Portrait of a Man in Dark Jacket and Blue Shirt 3cec8479|Illustration Portrait of a Man in Dark Jacket and Blue Shirt]] — shared language: shirt
 <!-- vault-crosslinks:end -->

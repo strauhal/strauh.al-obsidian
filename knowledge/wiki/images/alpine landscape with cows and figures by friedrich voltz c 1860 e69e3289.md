@@ -6,7 +6,7 @@ source_relpath: "1800s/alpine_landscape_with_cows_and_figures_by_friedrich_voltz
 collection: "1800s"
 inferred_year: "1860"
 artist: "friedrich voltz"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

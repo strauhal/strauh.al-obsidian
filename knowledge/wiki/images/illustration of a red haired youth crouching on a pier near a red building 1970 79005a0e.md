@@ -6,7 +6,7 @@ source_relpath: "1900s/illustration_of_a_red_haired_youth_crouching_on_a_pier_ne
 collection: "1900s"
 inferred_year: "1970"
 artist: ""
-dimensions: "2292x3056"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

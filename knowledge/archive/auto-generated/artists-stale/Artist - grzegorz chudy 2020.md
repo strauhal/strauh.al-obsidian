@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - grzegorz chudy|Artist - grzegorz chudy]] — named in this note
 - [[knowledge/wiki/images/Illustration Black and White Drawing of Three Stylized Figures 79ec4642|Illustration Black and White Drawing of Three Stylized Figures]] — shared language: three
-- [[_archive/auto-generated/images-stale/abstract geometric composition with concentric arcs and color blocks d0530a10|abstract geometric composition with concentric arcs and color blocks]] — shared language: blocks
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting with Magenta, Orange, Blue, and Teal Blocks 30608ec4|Illustration Abstract Geometric Painting with Magenta, Orange, Blue, and Teal Blocks]] — shared language: blocks
 - [[_archive/auto-generated/images-stale/abstract geometric painting with magenta orange blue and dark teal blocks e23e4183|abstract geometric painting with magenta orange blue and dark teal blocks]] — shared language: blocks
 - [[knowledge/archive/auto-generated/anchors-stale/artist-collapsing-city-structures-and-abstract-color-blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: blocks
+- [[_archive/auto-generated/artists-noise/Artist - collapsing city structures and abstract color blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: blocks
 <!-- vault-crosslinks:end -->

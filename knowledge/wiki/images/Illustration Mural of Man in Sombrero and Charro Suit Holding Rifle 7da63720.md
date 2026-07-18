@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Mural of Man in Sombrero and Charro Sui
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1271x1241"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

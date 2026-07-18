@@ -6,7 +6,7 @@ source_relpath: "photography/Purple And Green Excavator On A Construction Site.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1392"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

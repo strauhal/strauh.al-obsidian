@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pixel Art Of Figure In Tunnel And Arche
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3200x3200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

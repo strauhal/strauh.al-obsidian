@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Embroidered Patch of Formosan Bear Punc
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "608x772"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

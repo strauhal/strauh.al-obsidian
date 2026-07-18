@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Red Car Drifting with Woman's Eyes in B
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

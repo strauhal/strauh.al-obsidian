@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of Detroit Skyline and River.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x630"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

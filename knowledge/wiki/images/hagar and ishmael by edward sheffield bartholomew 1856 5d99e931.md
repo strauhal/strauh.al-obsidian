@@ -6,7 +6,7 @@ source_relpath: "1800s/hagar_and_ishmael_by_edward_sheffield_bartholomew_1856.jp
 collection: "1800s"
 inferred_year: "1856"
 artist: "edward sheffield bartholomew"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

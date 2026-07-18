@@ -6,7 +6,7 @@ source_relpath: "1500s/portrait_of_cardinal_john_fisher_by_hans_holbein_the_youn
 collection: "1500s"
 inferred_year: "1535"
 artist: "hans holbein the younger"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

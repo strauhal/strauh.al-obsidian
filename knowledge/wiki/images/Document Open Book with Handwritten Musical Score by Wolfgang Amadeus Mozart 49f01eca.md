@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Open Book with Handwritten Musical Score by
 collection: "unsorted"
 inferred_year: ""
 artist: "Wolfgang Amadeus Mozart"
-dimensions: "2048x1365"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

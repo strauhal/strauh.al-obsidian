@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Detailed Line Drawing of Mechanics Work
 collection: "unsorted"
 inferred_year: ""
 artist: "Kim Jung Gi"
-dimensions: "1128x890"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

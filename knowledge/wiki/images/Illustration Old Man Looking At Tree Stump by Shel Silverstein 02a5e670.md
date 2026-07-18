@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Old Man Looking At Tree Stump by Shel S
 collection: "unsorted"
 inferred_year: ""
 artist: "Shel Silverstein"
-dimensions: "600x400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

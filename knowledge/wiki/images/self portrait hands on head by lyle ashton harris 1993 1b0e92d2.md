@@ -6,7 +6,7 @@ source_relpath: "1900s/self_portrait_hands_on_head_by_lyle_ashton_harris_1993.jp
 collection: "1900s"
 inferred_year: "1993"
 artist: "lyle ashton harris"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Figures in Yellow and White Ar
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "4096x3031"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

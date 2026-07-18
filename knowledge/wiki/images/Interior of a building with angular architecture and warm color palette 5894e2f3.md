@@ -6,7 +6,7 @@ source_relpath: "photography/Interior of a building with angular architecture an
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

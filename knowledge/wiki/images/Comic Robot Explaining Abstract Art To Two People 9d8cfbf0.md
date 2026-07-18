@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Robot Explaining Abstract Art To Two People.jp
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2817x2113"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

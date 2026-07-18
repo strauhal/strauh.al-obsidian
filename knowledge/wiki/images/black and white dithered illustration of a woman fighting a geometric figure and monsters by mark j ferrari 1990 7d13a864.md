@@ -6,7 +6,7 @@ source_relpath: "1900s/black_and_white_dithered_illustration_of_a_woman_fighting
 collection: "1900s"
 inferred_year: "1990"
 artist: "mark j ferrari"
-dimensions: "1901x576"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

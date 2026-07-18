@@ -6,7 +6,7 @@ source_relpath: "photography/Donald Trump with Fast Food Spread for Clemson Tige
 collection: "photography"
 inferred_year: ""
 artist: "Doug Mills"
-dimensions: "1600x899"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

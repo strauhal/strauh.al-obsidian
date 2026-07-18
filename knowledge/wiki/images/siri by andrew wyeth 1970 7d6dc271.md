@@ -6,7 +6,7 @@ source_relpath: "1900s/siri_by_andrew_wyeth_1970.jpeg"
 collection: "1900s"
 inferred_year: "1970"
 artist: "andrew wyeth"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

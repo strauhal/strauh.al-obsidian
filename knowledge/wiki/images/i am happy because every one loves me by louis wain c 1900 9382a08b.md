@@ -6,7 +6,7 @@ source_relpath: "1900s/i_am_happy_because_every_one_loves_me_by_louis_wain_c_190
 collection: "1900s"
 inferred_year: "1900"
 artist: "louis wain"
-dimensions: "1109x1272"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/i_am_happy_becau
 - [[knowledge/wiki/images/Illustration Six Cat Artworks Showing Progressive Stylistic Changes by Louis Wain 1987a45b|Illustration Six Cat Artworks Showing Progressive Stylistic Changes by Louis Wain]] — same artist: louis wain
 - [[knowledge/wiki/images/The Evolution of Louis Wain's Cats by Louis Wain (1919 1939) 426a9490|The Evolution of Louis Wain's Cats by Louis Wain (1919 1939)]] — shared language: wain, louis
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: every, one
-- [[knowledge/wiki/images/HEROIN MAKES HAPPY demo 2000 (2000) 5ba15482|HEROIN MAKES HAPPY demo 2000 (2000)]] — shared language: happy
+- [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
 <!-- vault-crosslinks:end -->

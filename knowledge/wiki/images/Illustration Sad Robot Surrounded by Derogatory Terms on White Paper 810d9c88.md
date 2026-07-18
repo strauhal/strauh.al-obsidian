@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Sad Robot Surrounded by Derogatory Term
 collection: "unsorted"
 inferred_year: ""
 artist: "Derogatory Terms on White Paper"
-dimensions: "1536x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

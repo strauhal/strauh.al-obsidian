@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Paths of 800 Unmanned Bicycles Being Pushed Unt
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "960x604"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

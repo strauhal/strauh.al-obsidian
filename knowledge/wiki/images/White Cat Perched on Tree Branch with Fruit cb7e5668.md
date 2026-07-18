@@ -6,7 +6,7 @@ source_relpath: "photography/White Cat Perched on Tree Branch with Fruit.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "735x899"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

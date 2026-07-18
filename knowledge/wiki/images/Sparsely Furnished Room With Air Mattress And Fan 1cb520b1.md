@@ -6,7 +6,7 @@ source_relpath: "photography/Sparsely Furnished Room With Air Mattress And Fan.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1536x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

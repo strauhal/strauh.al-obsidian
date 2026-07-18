@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - Agnes Martin|Artist - Agnes Martin]] — shared language: martin
 - [[knowledge/wiki/images/Illustration Untitled by Agnes Martin 03c5d4b8|Illustration Untitled by Agnes Martin]] — shared language: martin
 - [[knowledge/wiki/images/pandemonium by john martin 1841 9e0ff65b|pandemonium by john martin 1841]] — shared language: martin
-- [[knowledge/wiki/images/the bard by john martin 1817 70385a39|the bard by john martin 1817]] — shared language: martin
+- [[knowledge/wiki/images/john martin belshazzars feast 1821 011bcb64|john martin belshazzars feast 1821]] — shared language: martin
 <!-- vault-crosslinks:end -->

@@ -6,8 +6,8 @@ category: drawing-submission
 message_count: 1
 incoming_count: 1
 tags: [private, correspondence, fanmail]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # computerdrawing.club submission!!
@@ -30,3 +30,16 @@ you have a great day!!!!
 ![[knowledge/private/fanmail/attachments/5fd353a917f3.png]]
 
 ![[knowledge/private/fanmail/attachments/7ba660ee3b21.png]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/private/fanmail/threads/12-drawing-submission|Private Correspondence - 12 - Drawing Submission]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/04-art-submission|Private Correspondence - 04 - Art Submission]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/19-submission|Private Correspondence - 19 - Submission]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/43-angel|Private Correspondence - 43 - 天使 (Angel)]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/19-image-submission-for-the-website|Private Correspondence - 19 - image submission for the website....]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/40-untitled|Private Correspondence - 40 - Untitled]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/36-submission|Private Correspondence - 36 - Submission]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/34-sierra-computer-drawing-submission|Private Correspondence - 34 - Sierra Computer Drawing Submission]] — same category: drawing-submission
+<!-- vault-crosslinks:end -->

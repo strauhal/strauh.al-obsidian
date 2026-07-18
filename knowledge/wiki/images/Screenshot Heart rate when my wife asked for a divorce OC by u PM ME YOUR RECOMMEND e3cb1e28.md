@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Heart rate when my wife asked for a divor
 collection: "unsorted"
 inferred_year: ""
 artist: "u PM ME YOUR RECOMMEND"
-dimensions: "1290x1121"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "influences/kees_van_dongen.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "1604x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

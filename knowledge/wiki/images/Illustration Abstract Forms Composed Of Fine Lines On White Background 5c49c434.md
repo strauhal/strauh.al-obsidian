@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Forms Composed Of Fine Lines O
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1440x1800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

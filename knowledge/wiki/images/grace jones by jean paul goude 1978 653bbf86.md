@@ -6,7 +6,7 @@ source_relpath: "1900s/grace_jones_by_jean_paul_goude_1978.jpeg"
 collection: "1900s"
 inferred_year: "1978"
 artist: "jean paul goude"
-dimensions: "1280x1431"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

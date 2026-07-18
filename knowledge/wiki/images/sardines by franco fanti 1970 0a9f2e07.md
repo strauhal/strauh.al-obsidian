@@ -6,7 +6,7 @@ source_relpath: "1900s/sardines_by_franco_fanti_1970.jpeg"
 collection: "1900s"
 inferred_year: "1970"
 artist: "franco fanti"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

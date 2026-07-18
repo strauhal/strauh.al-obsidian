@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Three Figures Amidst Vibrant, Patterned
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1500x1071"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

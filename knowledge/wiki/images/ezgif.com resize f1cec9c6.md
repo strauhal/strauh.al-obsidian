@@ -6,7 +6,7 @@ source_relpath: "gif_collection/ezgif.com-resize.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: "512x512"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/van_gogh_bild
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van, gogh
 - [[knowledge/archive/auto-generated/artists-stale/Artist - vincent van gogh 1885|Artist - vincent van gogh 1885]] — shared language: gogh, van
 - [[knowledge/archive/auto-generated/artists-stale/Artist - vincent van gogh 1886|Artist - vincent van gogh 1886]] — shared language: gogh, van
-- [[knowledge/wiki/images/Portrait of a Woman in Blue by Vincent van Gogh (1885) 7f72f315|Portrait of a Woman in Blue by Vincent van Gogh (1885)]] — shared language: gogh, van
 - [[_archive/auto-generated/images-stale/portrait of a woman in blue by vincent van gogh 1885 5b000063|portrait of a woman in blue by vincent van gogh 1885]] — shared language: gogh, van
+- [[knowledge/wiki/images/Portrait of a Woman in Blue by Vincent van Gogh (1885) 7f72f315|Portrait of a Woman in Blue by Vincent van Gogh (1885)]] — shared language: gogh, van
 <!-- vault-crosslinks:end -->

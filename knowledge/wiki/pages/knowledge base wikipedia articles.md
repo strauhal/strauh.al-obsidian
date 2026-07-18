@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/wikipedia_articles.html"
 source_relpath: "knowledge_base/wikipedia_articles.html"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:40"
+compiled_at: "2026-07-18T00:07:16"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base wikipedia articles
@@ -597,6 +597,14 @@ strauh.al/knowledge_base/wikipedia_articles
 [Treebank](https://en.wikipedia.org/wiki/Treebank)
 [Cybersquatting](https://en.wikipedia.org/wiki/Cybersquatting)
 
+## new imports
+
+[Death from laughter - Wikipedia](https://en.wikipedia.org/wiki/Death_from_laughter)
+[Tickle torture - Wikipedia](https://en.wikipedia.org/wiki/Tickle_torture)
+[List of selfie-related injuries and deaths - Wikipedia](https://en.wikipedia.org/wiki/List_of_selfie-related_injuries_and_deaths)
+[Black swan theory - Wikipedia](https://en.wikipedia.org/wiki/Black_swan_theory)
+[Wimmelbilderbuch - Wikipedia](https://en.wikipedia.org/wiki/Wimmelbilderbuch)
+
 ## Related Local Pages
 
 - None yet
@@ -604,7 +612,7 @@ strauh.al/knowledge_base/wikipedia_articles
 <!-- kb-links:start -->
 ## Connections
 
-*Every bookmark on this page wired to the ideas, people, and books it touches — 39 of 545 links connected (30 nodes).*
+*Every bookmark on this page wired to the ideas, people, and books it touches — 39 of 550 links connected (30 nodes).*
 
 **[[Art Fills the God-Shaped Hole]]** — [Sacred geometry](https://en.wikipedia.org/wiki/Sacred_geometry) · [Christ of Saint John of the Cross](https://en.wikipedia.org/wiki/Christ_of_Saint_John_of_the_Cross) · [God and Man at Yale](https://en.wikipedia.org/wiki/God_and_Man_at_Yale) · [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy) · [Unfulfilled Christian religious predictions](https://en.wikipedia.org/wiki/Unfulfilled_Christian_religious_predictions) · [Esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language#Shakespeare) · [Spiritual bypass](https://en.wikipedia.org/wiki/Spiritual_bypass) · [Religious views on capitalism](https://en.wikipedia.org/wiki/Religious_views_on_capitalism) · [God Shammgod](https://en.wikipedia.org/wiki/God_Shammgod) · [Soul City, NC](https://en.wikipedia.org/wiki/Soul_City,_North_Carolina)
 

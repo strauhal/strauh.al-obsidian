@@ -6,7 +6,7 @@ source_relpath: "1900s/chimneys_by_frantisek_kupka_1910_1911.jpg"
 collection: "1900s"
 inferred_year: "1911"
 artist: "frantisek kupka"
-dimensions: "800x1183"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

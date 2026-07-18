@@ -6,7 +6,7 @@ source_relpath: "photography/Interior of a Modern Industrial Loft Apartment with
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1277"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Brown Leather Car Seat Folded Forward Inside Vehicl
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "793x1410"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

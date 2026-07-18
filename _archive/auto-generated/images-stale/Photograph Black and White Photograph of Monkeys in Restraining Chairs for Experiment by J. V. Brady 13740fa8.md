@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[_archive/auto-generated/images-stale/nasa spiders drugs experiment 3 jpg c62cd931|nasa spiders drugs experiment 3 jpg]] — shared language: experiment
 - [[_archive/auto-generated/images-stale/nasa spiders drugs experiment 5 jpg e3d55f1c|nasa spiders drugs experiment 5 jpg]] — shared language: experiment
 - [[_archive/auto-generated/images-stale/nasa spiders drugs experiment 6 jpg b1381893|nasa spiders drugs experiment 6 jpg]] — shared language: experiment
-- [[_archive/auto-generated/images-stale/Nasa spiders drugs experiment (7) dd73a059|Nasa spiders drugs experiment (7)]] — shared language: experiment
+- [[knowledge/wiki/images/athena restraining achilles by john flaxman c 1793 1794 0f549aa6|athena restraining achilles by john flaxman c 1793 1794]] — shared language: restraining
 <!-- vault-crosslinks:end -->

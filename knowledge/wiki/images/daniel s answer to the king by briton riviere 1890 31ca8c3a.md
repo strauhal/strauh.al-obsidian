@@ -6,7 +6,7 @@ source_relpath: "1800s/daniel_s_answer_to_the_king_by_briton_riviere_1890.jpg"
 collection: "1800s"
 inferred_year: "1890"
 artist: "briton riviere"
-dimensions: "1600x1006"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

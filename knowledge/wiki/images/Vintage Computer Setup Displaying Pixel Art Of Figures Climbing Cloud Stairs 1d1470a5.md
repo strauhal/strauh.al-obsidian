@@ -6,7 +6,7 @@ source_relpath: "photography/Vintage Computer Setup Displaying Pixel Art Of Figu
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1356"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

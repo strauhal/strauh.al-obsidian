@@ -6,7 +6,7 @@ source_relpath: "diagrams/Architectural_Diagrams_of_Vaults_and_Domes_from_Damasc
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1102x1572"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

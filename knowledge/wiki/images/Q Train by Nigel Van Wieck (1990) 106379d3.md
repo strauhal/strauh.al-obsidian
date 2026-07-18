@@ -6,7 +6,7 @@ source_relpath: "2000s/Q Train by Nigel Van Wieck (1990).jpeg"
 collection: "2000s"
 inferred_year: "1990"
 artist: ""
-dimensions: "1920x1277"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

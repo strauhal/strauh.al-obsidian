@@ -4,7 +4,7 @@ slug: no-more-human-art
 type: secondary-source
 author: Ben Read
 subject: Ernest Strauhal
-ingested: 2026-07-15
+ingested: 2026-07-18
 compiled: true
 tags: [raw, criticism, ai-art, gan]
 ---

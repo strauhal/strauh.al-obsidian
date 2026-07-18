@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Painting of a Large Red Rock Cliff with
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "680x508"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

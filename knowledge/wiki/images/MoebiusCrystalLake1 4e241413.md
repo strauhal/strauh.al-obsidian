@@ -6,7 +6,7 @@ source_relpath: "artists/moebius/MoebiusCrystalLake1.jpg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "600x841"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

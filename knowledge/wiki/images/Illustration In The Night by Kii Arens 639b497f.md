@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - In The Night by Kii Arens.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Kii Arens"
-dimensions: "1448x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

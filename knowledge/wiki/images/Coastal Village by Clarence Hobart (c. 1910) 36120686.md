@@ -6,7 +6,7 @@ source_relpath: "1900s/Coastal Village by Clarence Hobart (c. 1910).jpeg"
 collection: "1900s"
 inferred_year: "1910"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

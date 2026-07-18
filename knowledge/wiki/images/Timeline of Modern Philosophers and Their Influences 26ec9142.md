@@ -6,7 +6,7 @@ source_relpath: "diagrams/Timeline_of_Modern_Philosophers_and_Their_Influences.p
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "850x611"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

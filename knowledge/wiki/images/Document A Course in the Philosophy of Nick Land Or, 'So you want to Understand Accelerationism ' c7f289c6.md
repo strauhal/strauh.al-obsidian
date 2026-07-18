@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - A Course in the Philosophy of Nick Land Or,
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1000x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - A 
 
 - [[knowledge/wiki/anchors/nick-land|Nick Land]] — named in this note
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: want
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: want
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: nick, land
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: philosophy, want
+- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: course, philosophy
 <!-- vault-crosslinks:end -->

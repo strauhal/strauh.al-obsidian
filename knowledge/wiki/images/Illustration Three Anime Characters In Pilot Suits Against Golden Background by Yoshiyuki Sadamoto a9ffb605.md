@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Three Anime Characters In Pilot Suits A
 collection: "unsorted"
 inferred_year: ""
 artist: "Yoshiyuki Sadamoto"
-dimensions: "2822x3768"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

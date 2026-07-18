@@ -6,7 +6,7 @@ source_relpath: "2000s/Biblis by William-Adolphe Bouguereau (1884).jpg"
 collection: "2000s"
 inferred_year: "1884"
 artist: ""
-dimensions: "3839x2357"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

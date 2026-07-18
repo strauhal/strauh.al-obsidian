@@ -6,7 +6,7 @@ source_relpath: "1700s/the_death_of_general_montgomery_in_the_attack_on_quebec_d
 collection: "1700s"
 inferred_year: "1786"
 artist: "john trumbull"
-dimensions: "5712x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---
@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/the_death_of_gen
 
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: montgomery
+- [[knowledge/wiki/images/general von wolkern 1912 591100f1|general von wolkern 1912]] — shared language: general
 - [[knowledge/wiki/images/the death of general wolfe by benjamin west 1770 52a85010|the death of general wolfe by benjamin west 1770]] — shared language: general, death
 - [[knowledge/wiki/images/the death of general wolfe by benjamin west 1770 2 41ce179a|the death of general wolfe by benjamin west 1770 2]] — shared language: general, death
-- [[knowledge/wiki/images/general von wolkern 1912 591100f1|general von wolkern 1912]] — shared language: general
 <!-- vault-crosslinks:end -->

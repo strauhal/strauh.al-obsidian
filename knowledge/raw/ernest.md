@@ -31,7 +31,7 @@ i'd love to hear from you!  shoot me an email at  mailto:ernest@strauh.al ______
 - [[knowledge/wiki/books/laska-sadie-bio-cv-2023|LASKA Sadie BIO CV 2023]] — shared language: bio
 - [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: designing
 - [[knowledge/wiki/pages/epk|epk]] — shared language: bio, https, greater
-- [[knowledge/private/fanmail/threads/17-saw-your-ads-clicked-the-about-page|Private Correspondence - 17 - saw your ads, clicked the about page]] — shared language: i'm, enjoy, email
 - [[knowledge/wiki/images/Screenshot Aerial View of Agricultural Fields and Urban Area 25b25d23|Screenshot Aerial View of Agricultural Fields and Urban Area]] — shared language: fields, area
-- [[knowledge/wiki/images/Illustration Ethnolinguistic Map of Africa with People and Languages by Richard M. Powers 73b5243b|Illustration Ethnolinguistic Map of Africa with People and Languages by Richard M. Powers]] — shared language: languages, people
+- [[knowledge/private/fanmail/threads/32-saw-your-ads-clicked-the-about-page|Private Correspondence - 32 - saw your ads, clicked the about page]] — shared language: i'm, enjoy, email
+- [[knowledge/private/fanmail/threads/17-saw-your-ads-clicked-the-about-page|Private Correspondence - 17 - saw your ads, clicked the about page]] — shared language: i'm, enjoy, email
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1800s/sir_frank_dicksee_the_sick_kitten_1879.jpg"
 collection: "1800s"
 inferred_year: "1879"
 artist: ""
-dimensions: "703x900"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

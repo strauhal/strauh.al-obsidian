@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Architectural Sketch of a Staircase wit
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2387x1653"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

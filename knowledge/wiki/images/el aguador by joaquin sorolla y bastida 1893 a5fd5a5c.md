@@ -6,7 +6,7 @@ source_relpath: "1800s/el_aguador_by_joaquin_sorolla_y_bastida_1893.jpeg"
 collection: "1800s"
 inferred_year: "1893"
 artist: "joaquin sorolla y bastida"
-dimensions: "1920x1290"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

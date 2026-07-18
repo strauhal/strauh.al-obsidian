@@ -6,7 +6,7 @@ source_relpath: "photography/Motorcyclist Doing Wheelie with Fibonacci Spiral Ov
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "727x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

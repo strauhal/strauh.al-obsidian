@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - hermen anglada camarasa|Artist - hermen anglada camarasa]] — named in this note
+- [[knowledge/wiki/books/the-end-of-reading-is-here-the-atlantic|The Atlantic]] — shared language: end
 - [[knowledge/wiki/images/The End of Evangelion (1997) 97513b0f|The End of Evangelion (1997)]] — shared language: end
 - [[knowledge/wiki/images/The End of Evangelion (1997) a066c24b|The End of Evangelion (1997)]] — shared language: end
 - [[_archive/auto-generated/images-stale/end of eva jpg 2eeaba1b|end of eva jpg]] — shared language: end
 - [[_archive/auto-generated/images-stale/end of eva png f0e67867|end of eva png]] — shared language: end
-- [[knowledge/private/fanmail/threads/06-dinner-tmrw|Private Correspondence - 06 - Dinner tmrw]] — shared language: dinner
 <!-- vault-crosslinks:end -->

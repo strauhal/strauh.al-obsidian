@@ -6,7 +6,7 @@ source_relpath: "photography/Art Installation Of Red Bricks In A White Gallery.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "564x828"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

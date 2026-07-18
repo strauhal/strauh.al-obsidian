@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Complex Modular Synthesizer Software Inte
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "666x496"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

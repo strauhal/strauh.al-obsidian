@@ -6,7 +6,7 @@ source_relpath: "photography/Stone Relief Sculpture of a Woman and Two Children 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "557x499"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Man with a Guitar by Georges Braque (1911-1912).jpeg"
 collection: "1900s"
 inferred_year: "1912"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

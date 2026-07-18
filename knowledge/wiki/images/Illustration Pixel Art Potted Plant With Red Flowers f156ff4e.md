@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pixel Art Potted Plant With Red Flowers
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1280x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

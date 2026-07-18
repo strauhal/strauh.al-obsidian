@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Male Characters in School Uniforms 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3799x2835"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

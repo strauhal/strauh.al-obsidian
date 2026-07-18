@@ -6,7 +6,7 @@ source_relpath: "2000s/Democracy is Merry by Joseph Beuys (1973).jpeg"
 collection: "2000s"
 inferred_year: "1973"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

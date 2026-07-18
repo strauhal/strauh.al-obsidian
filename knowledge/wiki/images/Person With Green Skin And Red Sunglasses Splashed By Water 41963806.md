@@ -6,7 +6,7 @@ source_relpath: "photography/Person With Green Skin And Red Sunglasses Splashed 
 collection: "photography"
 inferred_year: ""
 artist: "Water"
-dimensions: "1741x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

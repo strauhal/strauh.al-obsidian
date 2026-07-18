@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Bearded Man In Traditional Attire Holding A Sw
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1266x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

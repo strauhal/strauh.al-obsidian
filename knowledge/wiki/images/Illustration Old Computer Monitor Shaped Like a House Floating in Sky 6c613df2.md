@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Old Computer Monitor Shaped Like a House F
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1984x1984"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - O
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: monitor, computer
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: monitor
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
-- [[knowledge/wiki/images/Illustration Digital Files Bursting From Computer Monitor And Keyboard 15174844|Illustration Digital Files Bursting From Computer Monitor And Keyboard]] — shared language: monitor, computer
 - [[knowledge/wiki/images/Photograph Old Main Library, Cincinnati bf464e16|Photograph Old Main Library, Cincinnati]] — shared language: old
+- [[knowledge/wiki/images/Illustration Digital Files Bursting From Computer Monitor And Keyboard 15174844|Illustration Digital Files Bursting From Computer Monitor And Keyboard]] — shared language: monitor, computer
 <!-- vault-crosslinks:end -->

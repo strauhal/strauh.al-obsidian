@@ -6,7 +6,7 @@ source_relpath: "influences/ray_harryhausen.jpeg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "1486x1194"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

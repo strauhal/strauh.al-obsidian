@@ -6,7 +6,7 @@ source_relpath: "1900s/galatea_of_the_spheres_by_salvador_dali_1952.jpg"
 collection: "1900s"
 inferred_year: "1952"
 artist: "salvador dali"
-dimensions: "800x954"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

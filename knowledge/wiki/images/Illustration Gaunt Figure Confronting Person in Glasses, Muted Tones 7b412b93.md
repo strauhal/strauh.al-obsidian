@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Gaunt Figure Confronting Person in Glasses
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1080x1359"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

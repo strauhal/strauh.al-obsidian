@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Psychedelic Cat with Blue Eyes and Wavy
 collection: "unsorted"
 inferred_year: ""
 artist: "Louis Wain"
-dimensions: "848x1099"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/i am happy because every one loves me by louis wain c 1900 9382a08b|i am happy because every one loves me by louis wain c 1900]] — same artist: louis wain
 - [[knowledge/wiki/images/The Evolution of Louis Wain's Cats by Louis Wain (1919 1939) 426a9490|The Evolution of Louis Wain's Cats by Louis Wain (1919 1939)]] — shared language: wain, louis
 - [[knowledge/wiki/images/Illustration Black Wavy Lines on White Background 989a4fe6|Illustration Black Wavy Lines on White Background]] — shared language: wavy, background
-- [[knowledge/wiki/images/Illustration Cartoon Cat Sleeping Under Quilt With Psychedelic Background 85ffcc10|Illustration Cartoon Cat Sleeping Under Quilt With Psychedelic Background]] — shared language: psychedelic, cat, background
+- [[knowledge/wiki/images/Illustration Black Cat With Glowing Eyes And Two Orbs 6da566be|Illustration Black Cat With Glowing Eyes And Two Orbs]] — shared language: eyes, cat
 <!-- vault-crosslinks:end -->

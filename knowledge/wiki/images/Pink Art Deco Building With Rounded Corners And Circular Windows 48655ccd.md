@@ -6,7 +6,7 @@ source_relpath: "photography/Pink Art Deco Building With Rounded Corners And Cir
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "640x640"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

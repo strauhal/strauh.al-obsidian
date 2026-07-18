@@ -6,7 +6,7 @@ source_relpath: "photography/Figurine of Super Sonico and a Fish Fossil Displaye
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1982x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Benebell Wen - The Tao of Craft_ Fu Talismans and Casting Sigils in the Eastern Esoteric Tradition-North Atlantic Books (2016).epub"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # The Tao of Craft Fu Talismans and Casting Sigils in the Eastern Esoteric Tradition-North Atlantic Books
@@ -39,6 +39,7 @@ Status: available in the local iCloud Readings folder.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/books/the-end-of-reading-is-here-the-atlantic|The Atlantic]] — named in this note
 - [[knowledge/wiki/books/daoist-alchemy-in-the-west-the-esoteric-paradigms|Daoist Alchemy in the West: The Esoteric Paradigms]] — same category: esoterica
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — same category: esoterica
 - [[knowledge/wiki/books/stoic-4chan|stoic 4chan]] — same category: esoterica
@@ -46,5 +47,4 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/epictetus-the-enchiridion|The Enchiridion,]] — same category: esoterica
 - [[knowledge/wiki/books/augustine-of-hippo-confessions|Confessions]] — same category: esoterica
 - [[knowledge/wiki/books/timothy-leary-what-does-woman-want|What Does WoMan Want]] — same category: esoterica
-- [[knowledge/wiki/books/liphas-l-vi-trans-a-e-waite-the-history-of-magic|The History of Magic]] — same category: esoterica
 <!-- vault-crosslinks:end -->

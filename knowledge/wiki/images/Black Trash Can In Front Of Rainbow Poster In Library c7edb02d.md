@@ -6,7 +6,7 @@ source_relpath: "photography/Black Trash Can In Front Of Rainbow Poster In Libra
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "700x933"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

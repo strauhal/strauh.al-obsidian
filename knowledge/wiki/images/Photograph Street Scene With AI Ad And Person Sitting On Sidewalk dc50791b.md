@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Street Scene With AI Ad And Person Sitting O
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "640x611"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

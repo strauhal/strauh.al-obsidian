@@ -6,7 +6,7 @@ source_relpath: "photography/Two Gravestones with Etched Portraits and Mementos 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1179x1118"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

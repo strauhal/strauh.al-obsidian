@@ -6,7 +6,7 @@ source_relpath: "1800s/The Bacchanal by William-Adolphe Bouguereau (1894).jpg"
 collection: "1800s"
 inferred_year: "1894"
 artist: ""
-dimensions: "1450x1081"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_Harmonic_Series_Above_X-Ray_Image_of_Seashe
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1355x1570"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

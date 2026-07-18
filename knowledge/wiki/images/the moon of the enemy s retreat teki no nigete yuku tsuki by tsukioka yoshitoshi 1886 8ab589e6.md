@@ -6,7 +6,7 @@ source_relpath: "1800s/the_moon_of_the_enemy_s_retreat_teki_no_nigete_yuku_tsuki
 collection: "1800s"
 inferred_year: "1886"
 artist: "tsukioka yoshitoshi"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_moon_of_the_
 - [[knowledge/wiki/images/the battle of the gods of the five directions goshin no tatakai by tsukioka yoshitoshi 1885 82bf1d91|the battle of the gods of the five directions goshin no tatakai by tsukioka yoshitoshi 1885]] — same artist: tsukioka yoshitoshi
 - [[knowledge/wiki/images/moon aa55e4b4|moon]] — shared language: moon
 - [[knowledge/wiki/artists/Artist - sarah moon|Artist - sarah moon]] — shared language: moon
-- [[knowledge/wiki/images/adolph northen napoleons retreat from moscow 1866 aa20f426|adolph northen napoleons retreat from moscow 1866]] — shared language: retreat
+- [[knowledge/wiki/pages/ukiyo e|ukiyo e]] — shared language: tsukioka, yoshitoshi
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "photography/Man in Pirate Costume Holding Floppy Disk Next to C
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1071x871"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

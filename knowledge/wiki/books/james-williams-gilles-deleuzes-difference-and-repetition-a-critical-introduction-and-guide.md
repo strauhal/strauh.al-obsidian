@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Gilles Deleuzes  Difference and Repetition A Critical Introduction and Guide by James Williams (z-lib.org).pdf"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Gilles Deleuzes Difference and Repetition A Critical Introduction and Guide

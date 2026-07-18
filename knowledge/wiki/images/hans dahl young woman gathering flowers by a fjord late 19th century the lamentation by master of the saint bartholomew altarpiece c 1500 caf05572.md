@@ -6,7 +6,7 @@ source_relpath: "1800s/hans_dahl_young_woman_gathering_flowers_by_a_fjord_late_1
 collection: "1800s"
 inferred_year: "1500"
 artist: ""
-dimensions: "1260x838"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_storyteller_by_charles_m_russell_1902.jpg"
 collection: "1900s"
 inferred_year: "1902"
 artist: "charles m russell"
-dimensions: "1600x1329"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

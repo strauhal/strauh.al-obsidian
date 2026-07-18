@@ -6,7 +6,7 @@ source_relpath: "diagrams/Map_of_Detroit_Showing_Demographic_Distribution_by_Col
 collection: "diagrams"
 inferred_year: ""
 artist: "Color Coded Dots"
-dimensions: "3009x3009"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

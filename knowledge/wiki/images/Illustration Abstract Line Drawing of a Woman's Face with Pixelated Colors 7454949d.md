@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Line Drawing of a Woman's Face wi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2152x3538"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photograph of Crucifix on Utility P
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "500x709"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

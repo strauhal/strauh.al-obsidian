@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Evil and-or-as the Good: Omnicentrism, Inte
 collection: "unsorted"
 inferred_year: ""
 artist: "Brook Ziporyn"
-dimensions: "1600x2196"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

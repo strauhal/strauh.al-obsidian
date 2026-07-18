@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Sino-French Science Park Church by Shanghai 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Shanghai Dachuan Architects"
-dimensions: "724x671"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

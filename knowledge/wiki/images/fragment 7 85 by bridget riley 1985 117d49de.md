@@ -6,7 +6,7 @@ source_relpath: "1900s/fragment_7_85_by_bridget_riley_1985.jpeg"
 collection: "1900s"
 inferred_year: "1985"
 artist: "bridget riley"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

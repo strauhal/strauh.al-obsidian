@@ -6,7 +6,7 @@ source_relpath: "photography/Scanned Black and White Film Strip of Cityscape and
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "5404x1021"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Photograph - Tangled Wires on an Electronic Patch Pane
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1940"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

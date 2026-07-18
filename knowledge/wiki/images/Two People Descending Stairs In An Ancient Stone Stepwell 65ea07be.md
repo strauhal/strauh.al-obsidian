@@ -6,7 +6,7 @@ source_relpath: "photography/Two People Descending Stairs In An Ancient Stone St
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2500x1691"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

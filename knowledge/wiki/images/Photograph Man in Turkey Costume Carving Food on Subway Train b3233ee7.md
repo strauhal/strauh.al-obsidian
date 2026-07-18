@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Man in Turkey Costume Carving Food on Subway
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "382x465"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

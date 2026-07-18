@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Impressionistic Beach Scene with Many F
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1090x727"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

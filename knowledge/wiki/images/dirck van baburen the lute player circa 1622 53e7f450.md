@@ -6,7 +6,7 @@ source_relpath: "1600s/dirck_van_baburen_the_lute_player_circa_1622.jpg"
 collection: "1600s"
 inferred_year: "1622"
 artist: ""
-dimensions: "1919x2500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---
@@ -27,8 +27,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/dirck_van_babure
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
 - [[knowledge/wiki/images/zdzisaw beksiski untitled circa 1980 653d3da9|zdzisaw beksiski untitled circa 1980]] — shared language: circa
+- [[knowledge/wiki/images/player 6b321c3d|player]] — shared language: player
 - [[knowledge/wiki/images/Young Girl on a Red Carpet by Felice Casorati (circa 1912) 907c7f8e|Young Girl on a Red Carpet by Felice Casorati (circa 1912)]] — shared language: circa
 - [[knowledge/wiki/images/theodor von hrmann der calvarienberg bei linz circa 1885 3e4bf952|theodor von hrmann der calvarienberg bei linz circa 1885]] — shared language: circa
 - [[knowledge/wiki/images/Black And White Photograph Of A Trumpet Player On Stage 26065ae5|Black And White Photograph Of A Trumpet Player On Stage]] — shared language: player

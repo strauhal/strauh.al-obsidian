@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Abstract Drawings of Feet on Hanging White Fabric 4e5b117f|Illustration Abstract Drawings of Feet on Hanging White Fabric]] — shared language: feet, hanging, fabric
 - [[knowledge/wiki/images/Illustration Stylized House, Figures, And Framed Mechanical Drawings On Fabric a34f4445|Illustration Stylized House, Figures, And Framed Mechanical Drawings On Fabric]] — shared language: fabric, drawings
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: drawings
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: drawings
 - [[_archive/auto-generated/images-stale/painting of feet in a bathtub under a running faucet 8b5282be|painting of feet in a bathtub under a running faucet]] — shared language: feet
+- [[_archive/auto-generated/books-stale/drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MOMA)]] — shared language: drawings
 <!-- vault-crosslinks:end -->

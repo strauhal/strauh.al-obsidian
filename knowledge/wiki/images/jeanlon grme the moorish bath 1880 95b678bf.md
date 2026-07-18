@@ -6,7 +6,7 @@ source_relpath: "1800s/jeanlon_grme_the_moorish_bath_1880.jpg"
 collection: "1800s"
 inferred_year: "1880"
 artist: ""
-dimensions: "3736x4569"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

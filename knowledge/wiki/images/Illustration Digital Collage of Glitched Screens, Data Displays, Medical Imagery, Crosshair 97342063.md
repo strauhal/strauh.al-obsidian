@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Digital Collage of Glitched Screens, Da
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1219"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Man Painting Bank of America Building on Fire.png"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "540x775"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

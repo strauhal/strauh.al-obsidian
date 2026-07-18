@@ -6,7 +6,7 @@ source_relpath: "diagrams/Comparison_of_Sparse_Hub-and-Spoke_and_Dense_Networks.
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1456x764"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

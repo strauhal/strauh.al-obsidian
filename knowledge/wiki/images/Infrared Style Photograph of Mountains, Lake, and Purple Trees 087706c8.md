@@ -6,7 +6,7 @@ source_relpath: "photography/Infrared Style Photograph of Mountains, Lake, and P
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1359x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

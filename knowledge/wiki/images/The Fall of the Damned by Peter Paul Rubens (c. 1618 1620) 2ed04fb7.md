@@ -6,7 +6,7 @@ source_relpath: "2000s/The Fall of the Damned by Peter Paul Rubens (c. 1618-1620
 collection: "2000s"
 inferred_year: "1620"
 artist: ""
-dimensions: "1592x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

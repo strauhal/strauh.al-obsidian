@@ -6,7 +6,7 @@ source_relpath: "1900s/lune_de_miel_honeymoon_by_frank_schoonover_1907.jpg"
 collection: "1900s"
 inferred_year: "1907"
 artist: "frank schoonover"
-dimensions: "2246x3000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Timeline_of_Classical_Composers_by_Musical_Era.png"
 collection: "diagrams"
 inferred_year: ""
 artist: "Musical Era"
-dimensions: "760x705"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

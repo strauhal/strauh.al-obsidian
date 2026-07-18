@@ -6,7 +6,7 @@ source_relpath: "1900s/portrait_of_a_young_girl_with_a_cat_by_balthus_1937.jpeg"
 collection: "1900s"
 inferred_year: "1937"
 artist: "balthus"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Three People Watching Two Lobsters Fight With Tex
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "949x745"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1600s/the_triumph_of_louis_xiv_over_the_heresy_by_charles_le_br
 collection: "1600s"
 inferred_year: "1672"
 artist: "charles le brun"
-dimensions: "3522x4934"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

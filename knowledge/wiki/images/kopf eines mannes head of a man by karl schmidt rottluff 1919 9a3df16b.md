@@ -6,7 +6,7 @@ source_relpath: "1900s/kopf_eines_mannes_head_of_a_man_by_karl_schmidt_rottluff_
 collection: "1900s"
 inferred_year: "1919"
 artist: "karl schmidt rottluff"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

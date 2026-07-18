@@ -6,7 +6,7 @@ source_relpath: "1900s/new_york_movie_by_edward_hopper_1939_2.jpeg"
 collection: "1900s"
 inferred_year: "1939"
 artist: "edward hopper"
-dimensions: "800x635"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

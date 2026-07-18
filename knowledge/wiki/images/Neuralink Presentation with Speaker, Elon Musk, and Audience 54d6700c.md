@@ -6,7 +6,7 @@ source_relpath: "photography/Neuralink Presentation with Speaker, Elon Musk, and
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1920x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

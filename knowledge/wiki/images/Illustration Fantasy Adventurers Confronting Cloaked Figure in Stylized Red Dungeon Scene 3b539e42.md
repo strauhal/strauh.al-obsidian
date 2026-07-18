@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Fantasy Adventurers Confronting Cloaked
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "896x1124"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

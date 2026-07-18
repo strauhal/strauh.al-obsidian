@@ -6,7 +6,7 @@ source_relpath: "unsorted/Photograph - Two Veiled Men Holding Hands Standing Bar
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "919x1390"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Tropical Beach With Palm Trees And Distant Islands 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1365"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

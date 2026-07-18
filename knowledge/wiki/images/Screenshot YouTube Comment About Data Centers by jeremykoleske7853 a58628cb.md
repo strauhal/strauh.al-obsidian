@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - YouTube Comment About Data Centers by @je
 collection: "unsorted"
 inferred_year: ""
 artist: "jeremykoleske7853"
-dimensions: "2392x316"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

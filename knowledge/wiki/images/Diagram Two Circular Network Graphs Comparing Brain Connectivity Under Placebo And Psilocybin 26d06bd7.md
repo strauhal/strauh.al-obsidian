@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Two Circular Network Graphs Comparing Brain Con
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "529x333"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

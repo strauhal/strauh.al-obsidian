@@ -6,7 +6,7 @@ source_relpath: "1900s/hyatt_regency_san_francisco_by_john_portman_1973.jpg"
 collection: "1900s"
 inferred_year: "1973"
 artist: "john portman"
-dimensions: "700x855"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/hyatt_regency_sa
 - [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: san, francisco
-- [[knowledge/wiki/images/Photograph of San Francisco Street Art About Gentrification db35ca3f|Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: san, francisco
+- [[knowledge/wiki/images/Photograph of San Francisco Street Art About Gentrification db35ca3f|Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
 <!-- vault-crosslinks:end -->

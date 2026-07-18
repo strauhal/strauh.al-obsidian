@@ -6,7 +6,7 @@ source_relpath: "wallpapers/cranberry.png"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "1920x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

@@ -29,7 +29,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Egg Chair Siamese by Ann Mika (2010) 0df405f4|Egg Chair Siamese by Ann Mika (2010)]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ann mika 2010|Artist - ann mika 2010]] — named in this note
-- [[knowledge/wiki/images/Illustration Sperm Being Injected Into An Egg Cell 66cc47a7|Illustration Sperm Being Injected Into An Egg Cell]] — shared language: egg
 - [[knowledge/wiki/books/french-modernist-library-andr-breton-mary-ann-caws-mad-love|Mad Love]] — shared language: ann
 - [[knowledge/wiki/books/ann-temkin-bernice-rose-thinking-is-form-the-drawings-of-joseph-beuys|Thinking Is Form: The Drawings of Joseph Beuys]] — shared language: ann
+- [[knowledge/wiki/images/Illustration Sperm Being Injected Into An Egg Cell 66cc47a7|Illustration Sperm Being Injected Into An Egg Cell]] — shared language: egg
 <!-- vault-crosslinks:end -->

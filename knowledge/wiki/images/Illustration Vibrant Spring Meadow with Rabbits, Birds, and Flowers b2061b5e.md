@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Vibrant Spring Meadow with Rabbits, Bir
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1000x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

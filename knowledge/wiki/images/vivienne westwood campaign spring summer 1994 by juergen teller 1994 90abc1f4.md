@@ -6,7 +6,7 @@ source_relpath: "1900s/vivienne_westwood_campaign_spring_summer_1994_by_juergen_
 collection: "1900s"
 inferred_year: "1994"
 artist: "juergen teller"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

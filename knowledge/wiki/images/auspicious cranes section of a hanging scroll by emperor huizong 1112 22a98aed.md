@@ -6,7 +6,7 @@ source_relpath: "1100s/auspicious_cranes_section_of_a_hanging_scroll_by_emperor_
 collection: "1100s"
 inferred_year: "1100s"
 artist: "emperor huizong"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1100s"]
 ---

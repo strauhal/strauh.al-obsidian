@@ -6,7 +6,7 @@ source_relpath: "1900s/first_flight_120_feet_in_12_seconds_10_35_a_m_kitty_hawk_
 collection: "1900s"
 inferred_year: "1903"
 artist: "john t daniels"
-dimensions: "2048x1328"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

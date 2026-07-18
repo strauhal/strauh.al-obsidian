@@ -6,7 +6,7 @@ source_relpath: "1400s/the_arnolfini_portrait_by_jan_van_eyck_1434.jpeg"
 collection: "1400s"
 inferred_year: "1434"
 artist: "jan van eyck"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

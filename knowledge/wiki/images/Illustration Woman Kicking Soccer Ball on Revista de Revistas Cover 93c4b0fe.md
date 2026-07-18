@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Woman Kicking Soccer Ball on Revista de
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
 - [[knowledge/wiki/images/Black And White Photograph Of A Trumpet Player On Stage 26065ae5|Black And White Photograph Of A Trumpet Player On Stage]] — shared language: trumpet, player, stage
 - [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of A Trumpet Player On Stage a8bb6960|Photograph Black And White Photograph Of A Trumpet Player On Stage]] — shared language: trumpet, player, stage
 - [[_archive/auto-generated/images-stale/framed painting of a woman leaning on a balcony e96b994f|framed painting of a woman leaning on a balcony]] — shared language: leaning
+- [[knowledge/wiki/images/player 6b321c3d|player]] — shared language: player
 - [[knowledge/wiki/images/Louis Armstrong Plays Trumpet For Wife Lucille By Sphinx, Egypt ce8a742e|Louis Armstrong Plays Trumpet For Wife Lucille By Sphinx, Egypt]] — shared language: trumpet
 <!-- vault-crosslinks:end -->

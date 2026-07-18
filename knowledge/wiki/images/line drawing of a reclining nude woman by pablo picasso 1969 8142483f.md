@@ -6,7 +6,7 @@ source_relpath: "1900s/line_drawing_of_a_reclining_nude_woman_by_pablo_picasso_1
 collection: "1900s"
 inferred_year: "1969"
 artist: "pablo picasso"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

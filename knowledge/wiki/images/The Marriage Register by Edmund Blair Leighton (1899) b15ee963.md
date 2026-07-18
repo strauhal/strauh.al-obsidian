@@ -6,7 +6,7 @@ source_relpath: "1800s/The Marriage Register by Edmund Blair Leighton (1899).jpg
 collection: "1800s"
 inferred_year: "1899"
 artist: ""
-dimensions: "4200x3160"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

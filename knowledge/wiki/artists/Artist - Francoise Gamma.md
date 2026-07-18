@@ -24,5 +24,4 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Figure in Elaborate Ruffled Dress Holding White Parasol de30e9e0|Figure in Elaborate Ruffled Dress Holding White Parasol]] — shared language: ruffled
 - [[knowledge/wiki/images/Illustration Colorful Segmented Landscape with Fields and Trees by Wayne Thiebaud bea72eb0|Illustration Colorful Segmented Landscape with Fields and Trees by Wayne Thiebaud]] — shared language: segmented
 - [[knowledge/wiki/images/Man In Racing Suit With Woman Adjusting Collar 378582b3|Man In Racing Suit With Woman Adjusting Collar]] — shared language: collar
-- [[knowledge/wiki/images/Illustration Man's Upper Body with Americas as Lower Body, Text ca307160|Illustration Man's Upper Body with Americas as Lower Body, Text]] — shared language: body
 <!-- vault-crosslinks:end -->

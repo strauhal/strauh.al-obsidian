@@ -6,7 +6,7 @@ source_relpath: "1500s/study_of_a_woman_in_nuremberg_costume_by_albrecht_durer_c
 collection: "1500s"
 inferred_year: "1500"
 artist: "albrecht durer"
-dimensions: "1280x1681"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

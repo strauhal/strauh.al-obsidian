@@ -6,7 +6,7 @@ source_relpath: "1700s/the_sorceress_simaetha_invoking_the_moon_from_theocritus_
 collection: "1700s"
 inferred_year: "1700s"
 artist: "henry fuseli"
-dimensions: "1844x2500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/poppies_isles_of_shoals_by_childe_hassam_1890.jpg"
 collection: "1800s"
 inferred_year: "1890"
 artist: "childe hassam"
-dimensions: "1600x1345"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

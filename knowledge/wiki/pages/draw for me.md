@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/draw_for_me.html"
 source_relpath: "draw_for_me.html"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:40"
+compiled_at: "2026-07-18T00:07:15"
 tags: ["strauhal", "source/html"]
 ---
 # draw for me
@@ -33,8 +33,8 @@ rotatesquareundoredoclearsubmit
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: draw, computerdrawing.club, https
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: draw
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: draw, computerdrawing.club, drawings
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: works, work, concepts
 - [[Welcome|strauh.al Knowledge Base]] — shared language: works, pages
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: works, pages

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Elaborate_Conspiracy_Theory_Chart_of_History_and_Secre
 collection: "diagrams"
 inferred_year: ""
 artist: "Dylan Louis Monroe"
-dimensions: "2040x2689"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

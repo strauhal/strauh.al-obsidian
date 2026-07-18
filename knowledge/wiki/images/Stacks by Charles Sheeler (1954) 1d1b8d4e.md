@@ -6,7 +6,7 @@ source_relpath: "1900s/Stacks by Charles Sheeler (1954).jpeg"
 collection: "1900s"
 inferred_year: "1954"
 artist: ""
-dimensions: "1100x859"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

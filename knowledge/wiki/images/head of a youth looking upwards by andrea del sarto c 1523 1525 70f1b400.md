@@ -6,7 +6,7 @@ source_relpath: "1500s/head_of_a_youth_looking_upwards_by_andrea_del_sarto_c_152
 collection: "1500s"
 inferred_year: "1525"
 artist: "andrea del sarto"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

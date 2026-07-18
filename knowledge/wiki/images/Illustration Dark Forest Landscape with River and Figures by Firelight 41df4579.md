@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Dark Forest Landscape with River and Fi
 collection: "unsorted"
 inferred_year: ""
 artist: "Firelight"
-dimensions: "2048x1483"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

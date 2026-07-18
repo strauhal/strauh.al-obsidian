@@ -6,7 +6,7 @@ source_relpath: "photography/Person Sits Below AI Advertisement on City Street.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x675"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

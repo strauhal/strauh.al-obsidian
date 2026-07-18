@@ -30,6 +30,6 @@ Images attributed by filename: 3
 - [[knowledge/wiki/books/jean-baudrillard-the-conspiracy-of-art|The Conspiracy of Art]] — shared language: conspiracy
 - [[knowledge/wiki/collections/Collection - diagrams|Collection - diagrams]] — shared language: dylan, monroe, conspiracy
 - [[knowledge/wiki/images/marilyn monroe by richard avedon 1957 663916db|marilyn monroe by richard avedon 1957]] — shared language: monroe
+- [[knowledge/wiki/artists/Artist - louis wain|Artist - louis wain]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
-- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
 <!-- vault-crosslinks:end -->

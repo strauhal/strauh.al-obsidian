@@ -6,7 +6,7 @@ source_relpath: "1900s/the_house_of_the_good_by_nicholas_roerich_1922.jpeg"
 collection: "1900s"
 inferred_year: "1922"
 artist: "nicholas roerich"
-dimensions: "4284x5712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

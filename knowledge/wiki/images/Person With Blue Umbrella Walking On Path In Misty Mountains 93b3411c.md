@@ -6,7 +6,7 @@ source_relpath: "photography/Person With Blue Umbrella Walking On Path In Misty 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2592x1936"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

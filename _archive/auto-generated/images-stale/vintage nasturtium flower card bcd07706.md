@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/vintage poppy flower card a246b0f0|vintage poppy flower card]] — shared language: card, vintage, flower
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: vintage
 - [[knowledge/wiki/images/Illustration Pink and Red Rose on a Trade Card a9333cc4|Illustration Pink and Red Rose on a Trade Card]] — shared language: card, card.jpg
-- [[_archive/auto-generated/images-stale/illustration of an orange and red chrysanthemum flower f09465f9|illustration of an orange and red chrysanthemum flower]] — shared language: flower
+- [[knowledge/wiki/images/Illustration Vintage Illustration of Two Red Poppies 5586e7b8|Illustration Vintage Illustration of Two Red Poppies]] — shared language: vintage
 <!-- vault-crosslinks:end -->

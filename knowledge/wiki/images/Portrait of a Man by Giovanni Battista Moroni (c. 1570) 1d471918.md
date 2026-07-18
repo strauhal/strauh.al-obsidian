@@ -6,7 +6,7 @@ source_relpath: "1500s/Portrait of a Man by Giovanni Battista Moroni (c. 1570).j
 collection: "1500s"
 inferred_year: "1570"
 artist: ""
-dimensions: "1854x2560"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

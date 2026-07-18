@@ -6,7 +6,7 @@ source_relpath: "1800s/study_of_a_young_woman_with_an_olive_wreath_by_john_willi
 collection: "1800s"
 inferred_year: "1885"
 artist: "john william waterhouse"
-dimensions: "1427x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

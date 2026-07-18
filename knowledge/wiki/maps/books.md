@@ -22,7 +22,7 @@ Wiki-facing anchor for the raw books folder title list.
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: anchor
 - [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: anchor
 - [[knowledge/wiki/anchors/current-cultural-diet|current-cultural-diet]] — shared language: anchor
+- [[knowledge/wiki/anchors/technology-ai|technology ai]] — shared language: anchor
 - [[knowledge/wiki/anchors/degas|degas]] — shared language: anchor
 - [[knowledge/wiki/anchors/moebius|moebius]] — shared language: anchor
-- [[knowledge/wiki/anchors/museum|museum]] — shared language: anchor
 <!-- vault-crosslinks:end -->

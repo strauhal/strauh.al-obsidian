@@ -6,7 +6,7 @@ source_relpath: "1800s/the_duel_illustration_for_pushkin_s_eugene_onegin_by_ilya
 collection: "1800s"
 inferred_year: "1899"
 artist: "ilya repin"
-dimensions: "800x601"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Side Profiles of White Crossover SUVs b
 collection: "unsorted"
 inferred_year: ""
 artist: "Brand"
-dimensions: "908x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Adult Calvin and Hobbes Parody Comic Strip with R
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "611x755"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Comic - Adult Ca
 ## Discovered Connections
 
 - [[knowledge/wiki/images/calvin 26e16bc1|calvin]] — named in this note
-- [[knowledge/wiki/images/Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson b0fe62f2|Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — shared language: hobbes, calvin, strip
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, calvin, hobbes
 - [[knowledge/wiki/images/calvin and hobbes comic strip may 23 1994 by bill watterson 1994 f9406bed|calvin and hobbes comic strip may 23 1994 by bill watterson 1994]] — shared language: hobbes, calvin, strip
-- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, calvin
+- [[knowledge/wiki/images/Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson b0fe62f2|Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — shared language: hobbes, calvin, strip
 - [[knowledge/wiki/artists/Artist - bill watterson|Artist - bill watterson]] — shared language: calvin, hobbes, strip
 <!-- vault-crosslinks:end -->

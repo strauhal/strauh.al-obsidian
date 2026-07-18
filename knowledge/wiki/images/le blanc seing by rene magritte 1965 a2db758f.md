@@ -6,7 +6,7 @@ source_relpath: "1900s/le_blanc_seing_by_rene_magritte_1965.jpg"
 collection: "1900s"
 inferred_year: "1965"
 artist: "rene magritte"
-dimensions: "700x868"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

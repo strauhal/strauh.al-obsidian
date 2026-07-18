@@ -6,7 +6,7 @@ source_relpath: "1900s/prometheus_by_frantisek_kupka_c_1908.jpg"
 collection: "1900s"
 inferred_year: "1908"
 artist: "frantisek kupka"
-dimensions: "733x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

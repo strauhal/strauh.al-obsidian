@@ -6,7 +6,7 @@ source_relpath: "influences/john_philip_sousa.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "475x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

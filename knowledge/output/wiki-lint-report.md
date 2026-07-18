@@ -1,10 +1,10 @@
 # Wiki Lint Report
 
-Generated: 2026-07-15T01:29:05
+Generated: 2026-07-18T00:07:55
 
 ## Summary
 
-- Notes checked: 10809
+- Notes checked: 10814
 - Missing frontmatter: 0
 - Broken wikilinks: 4
 - Orphan notes: 0
@@ -32,7 +32,7 @@ Generated: 2026-07-15T01:29:05
 - [[knowledge/wiki/images/amazing 9104b34b|amazing]] — named in this note
 - [[knowledge/wiki/images/Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna 2dd4c650|Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna]] — shared language: amazing, romita, vol
 - [[knowledge/wiki/artists/Artist - John Romita Jr. and Scott Hanna|Artist - John Romita Jr. and Scott Hanna]] — shared language: romita, scott, hanna
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken, comic
 - [[knowledge/wiki/maps/Books Folder Title List|Books Folder Title List]] — shared language: knowledge
+- [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: media, wiki
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: wiki, knowledge
 <!-- vault-crosslinks:end -->

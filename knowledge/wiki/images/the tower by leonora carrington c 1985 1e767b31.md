@@ -6,7 +6,7 @@ source_relpath: "1900s/the_tower_by_leonora_carrington_c_1985.jpeg"
 collection: "1900s"
 inferred_year: "1985"
 artist: "leonora carrington"
-dimensions: "943x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

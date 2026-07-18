@@ -6,7 +6,7 @@ source_relpath: "photography/Dense Cityscape with Traditional and Modern Buildin
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1638"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

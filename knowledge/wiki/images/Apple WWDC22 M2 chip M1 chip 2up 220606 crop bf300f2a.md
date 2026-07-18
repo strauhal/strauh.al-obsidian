@@ -6,7 +6,7 @@ source_relpath: "computers/Apple-WWDC22-M2-chip-M1-chip-2up-220606_crop.jpg"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: "1568x882"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---

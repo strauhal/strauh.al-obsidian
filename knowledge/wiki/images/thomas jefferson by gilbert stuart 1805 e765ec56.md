@@ -6,7 +6,7 @@ source_relpath: "1800s/thomas_jefferson_by_gilbert_stuart_1805.jpg"
 collection: "1800s"
 inferred_year: "1805"
 artist: "gilbert stuart"
-dimensions: "2512x2996"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

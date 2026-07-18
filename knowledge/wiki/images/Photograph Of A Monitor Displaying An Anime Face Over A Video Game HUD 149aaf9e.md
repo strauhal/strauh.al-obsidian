@@ -6,7 +6,7 @@ source_relpath: "photography/Photograph Of A Monitor Displaying An Anime Face Ov
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1280x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

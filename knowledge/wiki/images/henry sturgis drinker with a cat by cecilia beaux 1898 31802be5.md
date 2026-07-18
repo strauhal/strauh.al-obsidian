@@ -6,7 +6,7 @@ source_relpath: "1800s/henry_sturgis_drinker_with_a_cat_by_cecilia_beaux_1898.jp
 collection: "1800s"
 inferred_year: "1898"
 artist: "cecilia beaux"
-dimensions: "4284x5712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Collage of Album Covers and Art Recreations Fe
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1572x1572"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Woman with Dark Hair Against Yellow and Gr
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1440x1799"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/(Cambridge texts in the history of philosophy) Williams, Bernard (ed.) - Nietzsche_ The Gay Science-Cambridge University Press (2001).epub"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Nietzsche The Gay Science-Cambridge University Press

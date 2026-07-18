@@ -6,7 +6,7 @@ source_relpath: "1800s/lion_by_edward_kemeys_1893.jpeg"
 collection: "1800s"
 inferred_year: "1893"
 artist: "edward kemeys"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

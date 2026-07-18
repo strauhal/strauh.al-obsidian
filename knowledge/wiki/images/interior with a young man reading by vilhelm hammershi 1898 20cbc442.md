@@ -6,7 +6,7 @@ source_relpath: "1800s/interior_with_a_young_man_reading_by_vilhelm_hammershi_18
 collection: "1800s"
 inferred_year: "1898"
 artist: "vilhelm hammershi"
-dimensions: "503x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

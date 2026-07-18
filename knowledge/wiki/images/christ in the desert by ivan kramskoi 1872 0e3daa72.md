@@ -6,7 +6,7 @@ source_relpath: "1800s/christ_in_the_desert_by_ivan_kramskoi_1872.png"
 collection: "1800s"
 inferred_year: "1872"
 artist: "ivan kramskoi"
-dimensions: "1920x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

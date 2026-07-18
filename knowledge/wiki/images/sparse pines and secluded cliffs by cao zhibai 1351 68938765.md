@@ -6,7 +6,7 @@ source_relpath: "1300s/sparse_pines_and_secluded_cliffs_by_cao_zhibai_1351.jpeg"
 collection: "1300s"
 inferred_year: "1300s"
 artist: "cao zhibai"
-dimensions: "2268x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1300s"]
 ---

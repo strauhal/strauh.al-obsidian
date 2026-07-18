@@ -6,7 +6,7 @@ source_relpath: "1500s/The Fall of Phaeton by Hendrick Goltzius (1588).jpg"
 collection: "1500s"
 inferred_year: "1588"
 artist: ""
-dimensions: "1194x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

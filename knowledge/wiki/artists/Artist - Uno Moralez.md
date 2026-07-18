@@ -25,4 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Abstract Red and Black Screaming Face with White Teeth e9e0621a|Illustration Abstract Red and Black Screaming Face with White Teeth]] — shared language: teeth
 - [[knowledge/wiki/images/Illustration Stylized Red and Blue Face with Yellow Eyes and Teeth 473a1c03|Illustration Stylized Red and Blue Face with Yellow Eyes and Teeth]] — shared language: teeth
 - [[knowledge/wiki/images/Image Close Up Of Teeth With Blue And White Porcelain Designs 8f71c777|Image Close Up Of Teeth With Blue And White Porcelain Designs]] — shared language: teeth
+- [[knowledge/private/fanmail/threads/33-self-portrait-of-me-brushing-my-teeth|Private Correspondence - 33 - Self Portrait of me brushing my teeth]] — shared language: teeth
 <!-- vault-crosslinks:end -->

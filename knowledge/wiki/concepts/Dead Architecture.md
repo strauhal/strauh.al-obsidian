@@ -4,8 +4,8 @@ type: concept
 aliases: [dead digital space, illusion of movement]
 tags: [concept, video, time, space, gan]
 sources: ["[[No More Human Art]]"]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Dead Architecture

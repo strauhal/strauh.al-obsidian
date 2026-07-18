@@ -6,7 +6,7 @@ source_relpath: "photography/Black Dog Looking Out Car Window At Rural Landscape
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1280x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

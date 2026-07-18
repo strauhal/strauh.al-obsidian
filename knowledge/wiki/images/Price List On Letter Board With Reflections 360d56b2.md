@@ -6,7 +6,7 @@ source_relpath: "photography/Price List On Letter Board With Reflections.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "978x955"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

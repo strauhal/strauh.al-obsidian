@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: walter
 - [[knowledge/wiki/artists/Artist - walter sickert|Artist - walter sickert]] — shared language: walter
-- [[knowledge/wiki/books/cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] — shared language: gay
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: walter
+- [[knowledge/wiki/books/cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] — shared language: gay
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: walter
 - [[knowledge/wiki/artists/Artist - walter hood fitch|Artist - walter hood fitch]] — shared language: walter
 <!-- vault-crosslinks:end -->

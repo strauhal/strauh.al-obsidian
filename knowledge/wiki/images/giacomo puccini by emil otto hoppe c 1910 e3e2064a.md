@@ -6,7 +6,7 @@ source_relpath: "1900s/giacomo_puccini_by_emil_otto_hoppe_c_1910.jpg"
 collection: "1900s"
 inferred_year: "1910"
 artist: "emil otto hoppe"
-dimensions: "1733x2423"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

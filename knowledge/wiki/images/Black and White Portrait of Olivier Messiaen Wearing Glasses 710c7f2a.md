@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Portrait of Olivier Messiaen Wearin
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "608x650"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

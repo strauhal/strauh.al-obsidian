@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_a_central_point_with_radiating_and_convergi
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "3024x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

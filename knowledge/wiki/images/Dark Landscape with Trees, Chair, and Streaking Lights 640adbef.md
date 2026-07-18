@@ -6,7 +6,7 @@ source_relpath: "photography/Dark Landscape with Trees, Chair, and Streaking Lig
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x897"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

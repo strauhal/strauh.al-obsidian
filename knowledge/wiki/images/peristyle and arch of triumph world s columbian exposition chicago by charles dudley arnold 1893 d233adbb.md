@@ -6,7 +6,7 @@ source_relpath: "1800s/peristyle_and_arch_of_triumph_world_s_columbian_expositio
 collection: "1800s"
 inferred_year: "1893"
 artist: "charles dudley arnold"
-dimensions: "4569x3688"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

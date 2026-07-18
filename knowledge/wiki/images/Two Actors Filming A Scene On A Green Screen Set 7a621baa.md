@@ -6,7 +6,7 @@ source_relpath: "photography/Two Actors Filming A Scene On A Green Screen Set.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2500x1621"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

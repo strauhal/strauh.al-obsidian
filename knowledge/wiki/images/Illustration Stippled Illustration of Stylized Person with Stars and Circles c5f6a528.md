@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stippled Illustration of Stylized Perso
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1457x1457"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_a_Generative_Adversarial_Network_(GAN)_with
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1596x1060"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram_of_a_
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: gan, generative
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: generative, network
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: gan
-- [[knowledge/wiki/artists/Artist - Hello Kitty Characters by Junji Ito|Artist - Hello Kitty Characters by Junji Ito]] — shared language: hello, kitty
+- [[knowledge/wiki/artists/Artist - Hello Kitty Characters by Junji Ito|Artist - Hello Kitty Characters by Junji Ito]] — shared language: kitty, hello
 <!-- vault-crosslinks:end -->

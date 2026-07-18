@@ -6,7 +6,7 @@ source_relpath: "photography/Close-up Portrait of Man in Fedora Hat.png"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1232x1228"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Close-up P
 - [[knowledge/wiki/images/Man In A Fedora With A Red Rose In A Vase 68e6166a|Man In A Fedora With A Red Rose In A Vase]] — shared language: fedora
 - [[knowledge/wiki/images/Illustration Two Figures Sitting By a River, One With Red Hat 82df3ccf|Illustration Two Figures Sitting By a River, One With Red Hat]] — shared language: hat, hat.png
 - [[knowledge/wiki/images/Illustration Close Up Portrait of a Person with Blue Eyes 5ec84914|Illustration Close Up Portrait of a Person with Blue Eyes]] — shared language: close, close-up
-- [[knowledge/wiki/artists/Artist - chuck close|Artist - chuck close]] — shared language: close
+- [[knowledge/wiki/images/Illustration Chibi Character in Fedora, Trench Coat, Holding Gun and Sunflowers aef6114d|Illustration Chibi Character in Fedora, Trench Coat, Holding Gun and Sunflowers]] — shared language: fedora
 <!-- vault-crosslinks:end -->

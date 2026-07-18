@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Eight Numbered Graphs Illustrating Harmonic Cur
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "600x996"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

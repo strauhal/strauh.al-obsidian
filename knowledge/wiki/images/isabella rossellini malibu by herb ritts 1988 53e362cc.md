@@ -6,7 +6,7 @@ source_relpath: "1900s/isabella_rossellini_malibu_by_herb_ritts_1988.jpeg"
 collection: "1900s"
 inferred_year: "1988"
 artist: "herb ritts"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

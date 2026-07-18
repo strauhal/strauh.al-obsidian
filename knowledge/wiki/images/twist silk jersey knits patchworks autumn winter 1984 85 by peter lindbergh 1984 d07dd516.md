@@ -6,7 +6,7 @@ source_relpath: "1900s/twist_silk_jersey_knits_patchworks_autumn_winter_1984_85_
 collection: "1900s"
 inferred_year: "1984"
 artist: "peter lindbergh"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

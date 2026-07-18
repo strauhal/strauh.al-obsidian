@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Showing_Drowning_Survival_Techniques_When_Rest
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "749x1166"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram_Showi
 ## Discovered Connections
 
 - [[knowledge/wiki/images/drowning 0f69e744|drowning]] — named in this note
-- [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: techniques
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — shared language: restrained
+- [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: techniques
 - [[knowledge/wiki/books/david-hockney-secret-knowledge-rediscovering-the-lost-techniques-of-the|Secret knowledge - rediscovering the lost techniques of the]] — shared language: techniques
-- [[knowledge/wiki/books/chris-lefteri-making-it-manufacturing-techniques-for-product-design|Making it manufacturing techniques for product design]] — shared language: techniques
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_wolfen_book_cover_by_michael_whelan_1978.jpg"
 collection: "1900s"
 inferred_year: "1978"
 artist: "michael whelan"
-dimensions: "1280x1784"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

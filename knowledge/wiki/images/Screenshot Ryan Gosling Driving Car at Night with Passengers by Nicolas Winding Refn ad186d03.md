@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Ryan Gosling Driving Car at Night with Passe
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Nicolas Winding Refn"
-dimensions: "1024x942"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

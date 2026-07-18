@@ -6,7 +6,7 @@ source_relpath: "photography/Dirt Road Leading To Bush In Field Under Blue Sky.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "3957x5928"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

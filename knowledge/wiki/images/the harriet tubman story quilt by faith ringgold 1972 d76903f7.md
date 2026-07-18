@@ -6,7 +6,7 @@ source_relpath: "1900s/the_harriet_tubman_story_quilt_by_faith_ringgold_1972.jpe
 collection: "1900s"
 inferred_year: "1972"
 artist: "faith ringgold"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

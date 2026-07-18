@@ -6,7 +6,7 @@ source_relpath: "1800s/le_gouter_by_william_adolphe_bouguereau_1886.jpg"
 collection: "1800s"
 inferred_year: "1886"
 artist: "william adolphe bouguereau"
-dimensions: "1248x1853"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

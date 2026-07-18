@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pencil Sketch of Armored Figure on Rearing
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Joe Madureira"
-dimensions: "1280x1842"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

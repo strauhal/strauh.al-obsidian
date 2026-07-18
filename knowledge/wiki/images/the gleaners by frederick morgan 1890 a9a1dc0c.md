@@ -6,7 +6,7 @@ source_relpath: "1800s/the_gleaners_by_frederick_morgan_1890.jpg"
 collection: "1800s"
 inferred_year: "1890"
 artist: "frederick morgan"
-dimensions: "1354x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
+- [[knowledge/wiki/images/player 6b321c3d|player]] — shared language: player
 - [[knowledge/wiki/images/Screenshot Screenshot of a Chrome Chair Frame Holding an Open Laptop c0329433|Screenshot Screenshot of a Chrome Chair Frame Holding an Open Laptop]] — shared language: chair, screenshot
 - [[knowledge/wiki/images/Screenshot Winamp 2.76 Media Player Interface 746fe5c5|Screenshot Winamp 2.76 Media Player Interface]] — shared language: player, screenshot
 - [[knowledge/wiki/images/Screenshot Stephen McDaniel And Interrogator In A Room, One Lying On Chair 64e0479a|Screenshot Stephen McDaniel And Interrogator In A Room, One Lying On Chair]] — shared language: chair, screenshot

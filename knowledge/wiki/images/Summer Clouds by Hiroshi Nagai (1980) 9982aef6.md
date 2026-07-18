@@ -6,7 +6,7 @@ source_relpath: "1900s/Summer Clouds by Hiroshi Nagai (1980).jpg"
 collection: "1900s"
 inferred_year: "1980"
 artist: ""
-dimensions: "1080x1382"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

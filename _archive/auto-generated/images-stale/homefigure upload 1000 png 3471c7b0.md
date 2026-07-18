@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/private/fanmail/threads/13-my-pic|Private Correspondence - 13 - My Pic]] — shared language: upload
+- [[knowledge/private/fanmail/threads/25-my-pic|Private Correspondence - 25 - My Pic]] — shared language: upload
 - [[_archive/auto-generated/images-stale/1701797844500962 png 57ed231b|1701797844500962 png]] — shared language: png.png
 - [[_archive/auto-generated/images-stale/1706555441304487 png 9341419b|1706555441304487 png]] — shared language: png.png
 - [[_archive/auto-generated/images-stale/1708974447776658 png 62038144|1708974447776658 png]] — shared language: png.png
-- [[_archive/auto-generated/images-stale/1udt png dcbd8ed1|1udt png]] — shared language: png.png
 <!-- vault-crosslinks:end -->

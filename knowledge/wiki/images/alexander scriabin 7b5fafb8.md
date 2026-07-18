@@ -6,7 +6,7 @@ source_relpath: "influences/alexander_scriabin.png"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "640x840"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

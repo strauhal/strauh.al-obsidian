@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/books/chatgpt-suicide-rtfd|chatgpt suicide.rtfd]] — shared language: chatgpt
 - [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — shared language: chatgpt
 - [[knowledge/wiki/maps/chatgpt suicide.rtfd|chatgpt suicide.rtfd]] — shared language: chatgpt
-- [[knowledge/wiki/chatgpt/Memory Candidates|ChatGPT Memory Candidates]] — shared language: chatgpt
+- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: chatgpt
 <!-- vault-crosslinks:end -->

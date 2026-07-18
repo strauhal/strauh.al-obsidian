@@ -6,7 +6,7 @@ source_relpath: "photography/Semen and Blood III by Andres Serrano (1990).jpg"
 collection: "photography"
 inferred_year: "1990"
 artist: ""
-dimensions: "1080x723"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

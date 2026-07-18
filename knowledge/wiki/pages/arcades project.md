@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/arcades_project.html"
 source_relpath: "arcades_project.html"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:40"
+compiled_at: "2026-07-18T00:07:15"
 tags: ["strauhal", "source/html"]
 ---
 # arcades project

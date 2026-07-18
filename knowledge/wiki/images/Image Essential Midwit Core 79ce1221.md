@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Essential Midwit-Core.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2027x2461"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

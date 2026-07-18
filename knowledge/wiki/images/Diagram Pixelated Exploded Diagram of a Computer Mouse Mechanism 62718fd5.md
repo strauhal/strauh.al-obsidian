@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Pixelated Exploded Diagram of a Computer Mouse 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1137x714"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

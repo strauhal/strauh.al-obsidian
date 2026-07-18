@@ -6,7 +6,7 @@ source_relpath: "photography/Dark Room With Bright Window And Door Overlooking W
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "896x1344"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

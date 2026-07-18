@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Digital Portrait of a Woman's Face with
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1937x2400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

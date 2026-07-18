@@ -6,7 +6,7 @@ source_relpath: "photography/Group of Men Posing Against a Brick Wall, Faces Obs
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1536x2086"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

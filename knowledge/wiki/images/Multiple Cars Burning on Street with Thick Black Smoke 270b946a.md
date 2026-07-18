@@ -6,7 +6,7 @@ source_relpath: "photography/Multiple Cars Burning on Street with Thick Black Sm
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "700x466"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

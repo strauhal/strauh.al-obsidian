@@ -6,7 +6,7 @@ source_relpath: "1800s/fur_traders_going_down_the_missouri_by_george_caleb_bingh
 collection: "1800s"
 inferred_year: "1845"
 artist: "george caleb bingham"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

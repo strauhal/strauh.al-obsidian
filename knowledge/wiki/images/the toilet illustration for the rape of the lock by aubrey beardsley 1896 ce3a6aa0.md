@@ -6,7 +6,7 @@ source_relpath: "1800s/the_toilet_illustration_for_the_rape_of_the_lock_by_aubre
 collection: "1800s"
 inferred_year: "1896"
 artist: "aubrey beardsley"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_toilet_illus
 - [[knowledge/wiki/images/The Peacock Skirt by Aubrey Beardsley (1894) fe4310f8|The Peacock Skirt by Aubrey Beardsley (1894)]] — shared language: beardsley, aubrey
 - [[knowledge/wiki/artists/Artist - Aubrey Powell|Artist - Aubrey Powell]] — shared language: aubrey
 - [[knowledge/wiki/images/untitled rape of the sabines by cy twombly 1960 0f53a0b2|untitled rape of the sabines by cy twombly 1960]] — shared language: rape
-- [[knowledge/wiki/images/the rape of europa by luca giordano c 16751680 4760ab48|the rape of europa by luca giordano c 16751680]] — shared language: rape
+- [[knowledge/wiki/images/Bathroom with Toilet, Shower, and Vanity 5f41809b|Bathroom with Toilet, Shower, and Vanity]] — shared language: toilet
 <!-- vault-crosslinks:end -->

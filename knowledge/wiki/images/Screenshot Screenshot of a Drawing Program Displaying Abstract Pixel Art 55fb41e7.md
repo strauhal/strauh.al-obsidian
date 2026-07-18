@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of a Drawing Program Displayin
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "946x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: program
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: pixel
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: program
-- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: program
+- [[knowledge/wiki/images/Screenshot Screenshot of Reddit Post Displaying Abstract Generative Art f4a134e0|Screenshot Screenshot of Reddit Post Displaying Abstract Generative Art]] — shared language: screenshot, displaying, art.jpeg
 - [[knowledge/wiki/images/Screenshot Screenshot of a Computer Desktop Displaying an Abstract Pattern 19f0aa8e|Screenshot Screenshot of a Computer Desktop Displaying an Abstract Pattern]] — shared language: screenshot, displaying
 <!-- vault-crosslinks:end -->

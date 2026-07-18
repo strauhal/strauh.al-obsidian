@@ -6,7 +6,7 @@ source_relpath: "diary/dream.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "500x500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

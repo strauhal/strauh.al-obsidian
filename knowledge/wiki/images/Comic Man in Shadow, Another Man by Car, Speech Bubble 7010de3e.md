@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Man in Shadow, Another Man by Car, Speech Bubble.
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2048x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

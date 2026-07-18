@@ -6,7 +6,7 @@ source_relpath: "diagrams/World_Map_Comparing_Historical_Shipping_Routes_Before_
 collection: "diagrams"
 inferred_year: ""
 artist: "Ben Schmidt"
-dimensions: "819x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

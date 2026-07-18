@@ -6,7 +6,7 @@ source_relpath: "1900s/screenshot_of_a_1990s_era_computer_interface_displaying_m
 collection: "1900s"
 inferred_year: "1993"
 artist: ""
-dimensions: "996x710"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Painting of a Potted Plant, Flower, and Ha
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

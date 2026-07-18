@@ -6,7 +6,7 @@ source_relpath: "photography/White T-Shirt with 'Astral Projection' Graphic Desi
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "993x994"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

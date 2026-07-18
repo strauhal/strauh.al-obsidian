@@ -2,7 +2,7 @@
 title: Current Cultural Diet
 slug: current-cultural-diet
 type: source
-ingested: 2026-07-15
+ingested: 2026-07-18
 compiled: true
 tags: [raw, culture, reading, listening, watching]
 ---

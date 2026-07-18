@@ -6,7 +6,7 @@ source_relpath: "photography/Man Wearing VR Headset Playing Video Game.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2407x2407"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

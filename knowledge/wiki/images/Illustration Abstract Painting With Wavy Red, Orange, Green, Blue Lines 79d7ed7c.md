@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Painting With Wavy Red, Orange
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1545x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

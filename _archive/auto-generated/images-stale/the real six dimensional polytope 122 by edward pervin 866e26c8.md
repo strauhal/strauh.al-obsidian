@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Diagram Complex Geometric Diagram of a Six Dimensional Polytope a46a5020|Diagram Complex Geometric Diagram of a Six Dimensional Polytope]] — shared language: polytope, dimensional, six
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: real
-- [[_archive/auto-generated/images-stale/image 0068 real B copy a7bc373b|image 0068 real B copy]] — shared language: real
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edward hopper 1943|Artist - edward hopper 1943]] — shared language: edward
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edward hopper 1932|Artist - edward hopper 1932]] — shared language: edward
+- [[_archive/auto-generated/images-stale/image 0068 real B copy a7bc373b|image 0068 real B copy]] — shared language: real
 <!-- vault-crosslinks:end -->

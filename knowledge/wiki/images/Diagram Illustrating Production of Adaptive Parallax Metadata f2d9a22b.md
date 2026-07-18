@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Illustrating_Production_of_Adaptive_Parallax_M
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "3360x2100"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

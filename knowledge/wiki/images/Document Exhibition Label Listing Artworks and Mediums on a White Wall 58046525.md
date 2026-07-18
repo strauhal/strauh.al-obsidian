@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Exhibition Label Listing Artworks and Mediu
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

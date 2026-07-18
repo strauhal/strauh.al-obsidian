@@ -6,7 +6,7 @@ source_relpath: "photography/Man in winter coat and fur-lined hat on Ainslie Str
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2400x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/pyramid_by_john_harris_1986.jpeg"
 collection: "1900s"
 inferred_year: "1986"
 artist: "john harris"
-dimensions: "1023x769"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

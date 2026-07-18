@@ -6,7 +6,7 @@ source_relpath: "photography/Microscopic View of Cells on a Fibrous Grid Substra
 collection: "photography"
 inferred_year: ""
 artist: "Cortical Labs"
-dimensions: "509x339"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

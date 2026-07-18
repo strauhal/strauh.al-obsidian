@@ -6,7 +6,7 @@ source_relpath: "diary/batmanvillains.jpeg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1037x967"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

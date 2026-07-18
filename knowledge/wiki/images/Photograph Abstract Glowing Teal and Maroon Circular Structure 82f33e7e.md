@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Abstract Glowing Teal and Maroon Circular St
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2048x1366"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

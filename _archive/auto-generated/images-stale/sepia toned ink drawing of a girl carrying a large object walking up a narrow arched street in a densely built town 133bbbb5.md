@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Sepia Toned Ink Drawing of Girl Walking Up Arched Street by Yoh Yoshinari 7129c943|Illustration Sepia Toned Ink Drawing of Girl Walking Up Arched Street by Yoh Yoshinari]] — shared language: arched, toned, sepia
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, built
 - [[knowledge/wiki/artists/Artist - Yoh Yoshinari|Artist - Yoh Yoshinari]] — shared language: arched, toned, sepia
 - [[_archive/auto-generated/images-stale/sepia toned portrait photograph of a man in a jacket and open shirt bf701646|sepia toned portrait photograph of a man in a jacket and open shirt]] — shared language: toned, sepia
 - [[_archive/auto-generated/images-stale/ink and marker sketch of a sunlit orange toned cafe interior with arched windows 77c32668|ink and marker sketch of a sunlit orange toned cafe interior with arched windows]] — shared language: arched, toned, ink
+- [[knowledge/wiki/images/Illustration Man Washing Hands in Sepia Toned Bathroom df72f550|Illustration Man Washing Hands in Sepia Toned Bathroom]] — shared language: toned, sepia
 <!-- vault-crosslinks:end -->

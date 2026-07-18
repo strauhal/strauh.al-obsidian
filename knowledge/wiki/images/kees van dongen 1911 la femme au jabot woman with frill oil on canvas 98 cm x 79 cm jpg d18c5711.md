@@ -6,7 +6,7 @@ source_relpath: "1900s/kees_van_dongen_1911_la_femme_au_jabot_woman_with_frill_o
 collection: "1900s"
 inferred_year: "1911"
 artist: ""
-dimensions: "1280x1622"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

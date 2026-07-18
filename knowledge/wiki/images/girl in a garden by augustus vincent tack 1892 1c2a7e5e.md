@@ -6,7 +6,7 @@ source_relpath: "1800s/girl_in_a_garden_by_augustus_vincent_tack_1892.jpeg"
 collection: "1800s"
 inferred_year: "1892"
 artist: "augustus vincent tack"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Pencil Drawing of Male Head with Proportional Construction Lines 6dff7708|Illustration Pencil Drawing of Male Head with Proportional Construction Lines]] — named in this note
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pencil
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: head
-- [[_archive/auto-generated/images-stale/not straight lines jpg 75de846e|not straight lines jpg]] — shared language: lines
 - [[_archive/auto-generated/images-stale/pencil drawing of a woman s head looking upward 23d1557f|pencil drawing of a woman s head looking upward]] — shared language: pencil, head
+- [[knowledge/wiki/images/Document Pencil Drawing and Photograph of Fragmented Male Marble Torso 74a456dd|Document Pencil Drawing and Photograph of Fragmented Male Marble Torso]] — shared language: male, pencil
 <!-- vault-crosslinks:end -->

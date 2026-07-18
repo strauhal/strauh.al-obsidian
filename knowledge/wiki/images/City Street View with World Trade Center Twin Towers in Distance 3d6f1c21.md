@@ -6,7 +6,7 @@ source_relpath: "photography/City Street View with World Trade Center Twin Tower
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1024x667"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

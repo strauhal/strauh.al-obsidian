@@ -6,7 +6,7 @@ source_relpath: "photography/Irwin Schiff Holding Books in Front of Freedom Book
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1199x1816"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

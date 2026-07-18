@@ -6,7 +6,7 @@ source_relpath: "photography/Concrete Pillar with Grey Paint and Humorous Graffi
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1024x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

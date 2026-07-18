@@ -6,7 +6,7 @@ source_relpath: "1900s/the_sound_of_distant_thunder_by_howard_terpning_1991.jpg"
 collection: "1900s"
 inferred_year: "1991"
 artist: "howard terpning"
-dimensions: "800x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

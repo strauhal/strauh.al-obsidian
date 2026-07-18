@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - henry monnier|Artist - henry monnier]] — shared language: henry
 - [[knowledge/wiki/artists/Artist - henry fuseli|Artist - henry fuseli]] — shared language: henry
 - [[knowledge/wiki/images/Vase of Flowers by George Henry Hall (1879) cd735ae4|Vase of Flowers by George Henry Hall (1879)]] — shared language: henry
-- [[knowledge/wiki/artists/Artist - henry justice ford|Artist - henry justice ford]] — shared language: henry
+- [[knowledge/wiki/images/the living room by Paul Heaston (2009) 06093bca|the living room by Paul Heaston (2009)]] — shared language: paul
 <!-- vault-crosslinks:end -->

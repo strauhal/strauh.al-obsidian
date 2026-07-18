@@ -6,7 +6,7 @@ source_relpath: "1900s/1960_d_by_clyfford_still_1960.jpg"
 collection: "1900s"
 inferred_year: "1960"
 artist: "clyfford still"
-dimensions: "1799x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

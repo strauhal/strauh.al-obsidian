@@ -6,7 +6,7 @@ source_relpath: "1900s/sacramento_by_wayne_thiebaud_1982.jpeg"
 collection: "1900s"
 inferred_year: "1982"
 artist: "wayne thiebaud"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

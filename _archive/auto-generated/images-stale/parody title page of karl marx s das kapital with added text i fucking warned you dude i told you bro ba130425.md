@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Image Parody Title Page of Das Kapital with Modern Text cbeee0e8|Image Parody Title Page of Das Kapital with Modern Text]] — shared language: kapital, das, parody
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: added, page
 - [[knowledge/wiki/maps/Library - Politics and Society|Library - Politics and Society]] — shared language: marx, karl
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: added, page
 - [[knowledge/wiki/books/karl-marx-capital-volume-i|Capital, Volume I]] — shared language: marx, karl
 - [[knowledge/wiki/books/karl-marx-capital-volume-ii|Capital, Volume II]] — shared language: marx, karl
 <!-- vault-crosslinks:end -->

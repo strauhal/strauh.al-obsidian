@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Aerial View of Agricultural Fields and Ur
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1535x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/three_dancers_by_edgar_degas_c_1898.jpeg"
 collection: "1800s"
 inferred_year: "1898"
 artist: "edgar degas"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

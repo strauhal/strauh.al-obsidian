@@ -6,7 +6,7 @@ source_relpath: "2000s/The Colossus by Francisco de Goya (1808-1812).jpg"
 collection: "2000s"
 inferred_year: "1812"
 artist: ""
-dimensions: "1280x1439"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/lady_in_a_garden_by_frederick_carl_frieseke_1912.jpeg"
 collection: "1900s"
 inferred_year: "1912"
 artist: "frederick carl frieseke"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

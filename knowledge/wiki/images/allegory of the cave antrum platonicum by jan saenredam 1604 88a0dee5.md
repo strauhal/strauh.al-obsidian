@@ -6,7 +6,7 @@ source_relpath: "1600s/allegory_of_the_cave_antrum_platonicum_by_jan_saenredam_1
 collection: "1600s"
 inferred_year: "1604"
 artist: "jan saenredam"
-dimensions: "1600x1166"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

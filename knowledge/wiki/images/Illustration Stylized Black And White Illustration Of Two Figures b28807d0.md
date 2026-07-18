@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Black And White Illustration O
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "669x824"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

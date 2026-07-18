@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Colours of Air by Loscil and Lawrence E
 collection: "unsorted"
 inferred_year: ""
 artist: "Loscil and Lawrence English"
-dimensions: "1200x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

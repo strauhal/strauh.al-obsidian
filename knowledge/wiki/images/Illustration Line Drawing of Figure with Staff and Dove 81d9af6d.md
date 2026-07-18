@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Line Drawing of Figure with Staff and D
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1159x1185"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

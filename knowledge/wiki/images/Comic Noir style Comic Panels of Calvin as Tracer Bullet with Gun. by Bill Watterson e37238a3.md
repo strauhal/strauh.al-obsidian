@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Noir-style Comic Panels of Calvin as Tracer Bu
 collection: "unsorted"
 inferred_year: ""
 artist: "Bill Watterson"
-dimensions: "741x372"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

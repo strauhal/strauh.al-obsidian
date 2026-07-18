@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Impasto Painting of Speed Racer's Mach 
 collection: "unsorted"
 inferred_year: ""
 artist: "Erik"
-dimensions: "2964x2458"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

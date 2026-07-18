@@ -6,7 +6,7 @@ source_relpath: "2000s/error_could_not_retrieve_structured_data_from_the_api_res
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1000x1345"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

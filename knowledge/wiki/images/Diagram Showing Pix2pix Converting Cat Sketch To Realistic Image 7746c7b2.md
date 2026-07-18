@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Showing_Pix2pix_Converting_Cat_Sketch_To_Reali
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1350x620"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Caeruleum: Zen R26 by Takada Design (2026).jpeg"
 collection: "2000s"
 inferred_year: "2026"
 artist: ""
-dimensions: "3277x4096"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

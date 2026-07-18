@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Aerial View Of A Green River Winding Through Fields 8dcac42e|Illustration Aerial View Of A Green River Winding Through Fields]] — shared language: fields, aerial, view
 - [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: aerial, view
 - [[knowledge/wiki/images/Photograph Aerial View of Suburban Houses and Green Lawns e6b2ab60|Photograph Aerial View of Suburban Houses and Green Lawns]] — shared language: aerial, view
-- [[knowledge/wiki/images/Photograph Aerial View of Chicago City Grid at Night by thefacetpixel 391f7c96|Photograph Aerial View of Chicago City Grid at Night by thefacetpixel]] — shared language: aerial, view
+- [[knowledge/wiki/artists/Artist - thefacetpixel|Artist - thefacetpixel]] — shared language: aerial, view
 <!-- vault-crosslinks:end -->

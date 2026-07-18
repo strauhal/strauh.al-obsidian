@@ -6,7 +6,7 @@ source_relpath: "1700s/athena_restraining_achilles_by_john_flaxman_c_1793_1794.j
 collection: "1700s"
 inferred_year: "1794"
 artist: "john flaxman"
-dimensions: "2400x2400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

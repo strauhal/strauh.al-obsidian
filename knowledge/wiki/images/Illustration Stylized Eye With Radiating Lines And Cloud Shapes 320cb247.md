@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Eye With Radiating Lines And C
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "564x705"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

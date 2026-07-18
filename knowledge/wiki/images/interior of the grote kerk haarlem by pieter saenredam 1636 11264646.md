@@ -6,7 +6,7 @@ source_relpath: "1600s/interior_of_the_grote_kerk_haarlem_by_pieter_saenredam_16
 collection: "1600s"
 inferred_year: "1636"
 artist: "pieter saenredam"
-dimensions: "3513x2615"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/View From Inside A Moving Streetcar With Blurred Ou
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x799"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

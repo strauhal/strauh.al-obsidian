@@ -6,7 +6,7 @@ source_relpath: "diagrams/Illustration_of_Parallel_and_Cascaded_SpeechCLIP_Model
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "2746x1444"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

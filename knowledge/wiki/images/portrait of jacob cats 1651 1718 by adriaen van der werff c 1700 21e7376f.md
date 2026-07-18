@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_jacob_cats_1651_1718_by_adriaen_van_der_werff
 collection: "1700s"
 inferred_year: "1700"
 artist: "adriaen van der werff"
-dimensions: "813x1061"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---
@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/portrait_of_jaco
 - [[knowledge/wiki/artists/Artist - adriaen hanneman|Artist - adriaen hanneman]] — shared language: adriaen
 - [[knowledge/wiki/artists/Artist - adriaen brouwer|Artist - adriaen brouwer]] — shared language: adriaen
 - [[knowledge/wiki/artists/Artist - jacob lawrence|Artist - jacob lawrence]] — shared language: jacob
-- [[knowledge/wiki/images/jacob van ruisdael dune landscape c 1646 d450a432|jacob van ruisdael dune landscape c 1646]] — shared language: jacob, van
+- [[knowledge/wiki/artists/Artist - rogier van der weyden|Artist - rogier van der weyden]] — shared language: der, van
 <!-- vault-crosslinks:end -->

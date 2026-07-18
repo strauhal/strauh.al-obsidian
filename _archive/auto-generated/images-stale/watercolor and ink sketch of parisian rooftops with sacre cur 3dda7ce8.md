@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Watercolor and Ink Sketch of Parisian Rooftops with Sacr C ur e11ee032|Illustration Watercolor and Ink Sketch of Parisian Rooftops with Sacr C ur]] — shared language: parisian, rooftops, watercolor
 - [[knowledge/wiki/images/Illustration Abstract Watercolor and Ink Sketch of a Woman dca3f6d7|Illustration Abstract Watercolor and Ink Sketch of a Woman]] — shared language: watercolor, sketch, ink
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch, ink
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Watercolor and Ink Sketch of a Small Garden with Rocks 43decec8|Illustration Watercolor and Ink Sketch of a Small Garden with Rocks]] — shared language: watercolor, sketch, ink
 <!-- vault-crosslinks:end -->

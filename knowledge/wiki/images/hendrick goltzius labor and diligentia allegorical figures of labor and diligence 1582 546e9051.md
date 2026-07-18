@@ -6,7 +6,7 @@ source_relpath: "1500s/hendrick_goltzius_labor_and_diligentia_allegorical_figure
 collection: "1500s"
 inferred_year: "1582"
 artist: ""
-dimensions: "2919x3999"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

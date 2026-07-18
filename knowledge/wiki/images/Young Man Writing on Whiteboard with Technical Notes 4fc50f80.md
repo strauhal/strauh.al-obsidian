@@ -6,7 +6,7 @@ source_relpath: "photography/Young Man Writing on Whiteboard with Technical Note
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1600x939"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

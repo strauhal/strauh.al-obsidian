@@ -6,7 +6,7 @@ source_relpath: "diagrams/Generated_Images_Illustrating_Deconvolution_Layer_Arti
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "744x255"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

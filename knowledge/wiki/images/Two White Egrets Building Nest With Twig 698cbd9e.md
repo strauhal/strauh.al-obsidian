@@ -6,7 +6,7 @@ source_relpath: "photography/Two White Egrets Building Nest With Twig.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1342x1072"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Wireframe 3D Model of Classical Sculptu
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1348x634"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

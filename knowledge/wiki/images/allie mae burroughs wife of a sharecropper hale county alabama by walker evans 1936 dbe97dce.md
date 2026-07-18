@@ -6,7 +6,7 @@ source_relpath: "1900s/allie_mae_burroughs_wife_of_a_sharecropper_hale_county_al
 collection: "1900s"
 inferred_year: "1936"
 artist: "walker evans"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

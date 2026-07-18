@@ -6,7 +6,7 @@ source_relpath: "2000s/Ludens by Kojima Productions (2016).jpg"
 collection: "2000s"
 inferred_year: "2016"
 artist: ""
-dimensions: "4608x3456"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -3,8 +3,8 @@ title: Map - Recent Dreams
 type: map
 tags: [map, dreams, journal, threshold]
 sources: ["[[recent-dreams-before-ayahuasca]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Map - Recent Dreams
@@ -78,10 +78,10 @@ These links are descriptive rather than diagnostic. Dream images can remain funn
 
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken, ceremony
-- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: memory, life, ernest's
 - [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00001 0401c221|dream 00001]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00002 0db5cf73|dream 00002]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00003 9f1e7ff8|dream 00003]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00004 80771321|dream 00004]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00005 421501aa|dream 00005]] — shared language: dream, dreams
 <!-- vault-crosslinks:end -->

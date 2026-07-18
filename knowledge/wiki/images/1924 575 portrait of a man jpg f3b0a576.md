@@ -6,7 +6,7 @@ source_relpath: "1900s/1924_575_portrait_of_a_man_jpg.jpg"
 collection: "1900s"
 inferred_year: "1924"
 artist: ""
-dimensions: "2120x2665"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

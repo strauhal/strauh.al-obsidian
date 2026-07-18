@@ -6,7 +6,7 @@ source_relpath: "1800s/Alphonsine Fournaise by Pierre-Auguste Renoir (1879).jpg"
 collection: "1800s"
 inferred_year: "1879"
 artist: ""
-dimensions: "2161x1752"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

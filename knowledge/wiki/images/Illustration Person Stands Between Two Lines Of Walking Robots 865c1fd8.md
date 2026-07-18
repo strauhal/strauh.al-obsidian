@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Person Stands Between Two Lines Of Walk
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1200x750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

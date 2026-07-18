@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Brutalist Concrete Building with Curved Ramps and Arches 589dbe9d|Brutalist Concrete Building with Curved Ramps and Arches]] — shared language: ramps, brutalist, concrete
 - [[_archive/auto-generated/images-stale/Photograph Brutalist Concrete Building with Curved Ramps and Arches a4e5db6f|Photograph Brutalist Concrete Building with Curved Ramps and Arches]] — shared language: ramps, brutalist, concrete
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
-- [[knowledge/wiki/images/00081 brutalist architecture 1960 png 205768a0|00081 brutalist architecture 1960 png]] — shared language: brutalist
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: levels
 <!-- vault-crosslinks:end -->

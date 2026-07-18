@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/grandmas_house.html"
 source_relpath: "grandmas_house.html"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:40"
+compiled_at: "2026-07-18T00:07:16"
 tags: ["strauhal", "source/html"]
 ---
 # grandmas house
@@ -41,5 +41,5 @@ strauh.al/grandmas_house
 - [[knowledge/wiki/images/Illustration Black And White ASCII Art Of A House And Tree 4f37e911|Illustration Black And White ASCII Art Of A House And Tree]] — shared language: house
 - [[knowledge/wiki/books/chris-carter-rupert-sheldrake-science-and-psychic-phenomena-the-fall-of-the-house-of-skeptics-inner-traditions|Science and Psychic Phenomena The Fall of the House of Skeptics-Inner Traditions]] — shared language: house
 - [[knowledge/wiki/artists/Artist - Step House Sketch|Artist - Step House Sketch]] — shared language: house
-- [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: none, related, yet
+- [[knowledge/wiki/images/Blue House with Lit Windows at Night f6f95007|Blue House with Lit Windows at Night]] — shared language: house
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Winamp 2.76 Media Player Interface.png"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "275x348"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Win
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
 - [[knowledge/wiki/images/Screenshot Green Winamp Music Player Interface With Playlist 1be5a16e|Screenshot Green Winamp Music Player Interface With Playlist]] — shared language: winamp, player, interface
 - [[knowledge/wiki/images/Screenshot Blue and Silver Metallic Winamp Audio Player Interface 8fe22321|Screenshot Blue and Silver Metallic Winamp Audio Player Interface]] — shared language: winamp, player, interface
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: media
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: media
+- [[knowledge/wiki/maps/Map - Image Archive|Map - Image Archive]] — shared language: media
 <!-- vault-crosslinks:end -->

@@ -20,7 +20,9 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/books/the-end-of-reading-is-here-the-atlantic|The Atlantic]] — shared language: end
 - [[knowledge/wiki/images/The End of Evangelion (1997) 97513b0f|The End of Evangelion (1997)]] — shared language: end
 - [[knowledge/wiki/images/The End of Evangelion (1997) a066c24b|The End of Evangelion (1997)]] — shared language: end
 - [[knowledge/private/fanmail/threads/06-dinner-tmrw|Private Correspondence - 06 - Dinner tmrw]] — shared language: dinner
+- [[knowledge/private/fanmail/threads/09-dinner-tmrw|Private Correspondence - 09 - Dinner tmrw]] — shared language: dinner
 <!-- vault-crosslinks:end -->

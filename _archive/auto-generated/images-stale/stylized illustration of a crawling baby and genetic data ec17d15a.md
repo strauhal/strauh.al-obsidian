@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
 - [[knowledge/wiki/images/Illustration Expressionistic Oil Painting of Baby in Striped Outfit 68dcf6cf|Illustration Expressionistic Oil Painting of Baby in Striped Outfit]] — shared language: baby
 - [[knowledge/wiki/images/Illustration Stylized Blue City With Angel Statue And Glowing Data Grid e91f95a6|Illustration Stylized Blue City With Angel Statue And Glowing Data Grid]] — shared language: data, stylized
-- [[knowledge/wiki/images/Illustration Black and White Drawing of Three Stylized Figures 79ec4642|Illustration Black and White Drawing of Three Stylized Figures]] — shared language: stylized
+- [[_archive/auto-generated/images-stale/line drawing of three separate motifs a figure holding the moon and earth a crawling devil and a silhouette carrying buckets bf5ee4f8|line drawing of three separate motifs a figure holding the moon and earth a crawling devil and a silhouette carrying buckets]] — shared language: crawling
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Collage of a Woman's Head with Anatomical 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1200x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

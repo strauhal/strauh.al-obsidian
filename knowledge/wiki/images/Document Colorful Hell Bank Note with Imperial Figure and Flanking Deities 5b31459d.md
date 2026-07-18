@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Colorful Hell Bank Note with Imperial Figur
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1000x570"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

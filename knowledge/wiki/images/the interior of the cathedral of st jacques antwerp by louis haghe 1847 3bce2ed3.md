@@ -6,7 +6,7 @@ source_relpath: "1800s/the_interior_of_the_cathedral_of_st_jacques_antwerp_by_lo
 collection: "1800s"
 inferred_year: "1847"
 artist: "louis haghe"
-dimensions: "1920x1424"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/ansicht_einer_stadt_an_einem_fluss_mit_gebirgslandschaft_
 collection: "1800s"
 inferred_year: "1840"
 artist: "rudolf ruller"
-dimensions: "1919x1367"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

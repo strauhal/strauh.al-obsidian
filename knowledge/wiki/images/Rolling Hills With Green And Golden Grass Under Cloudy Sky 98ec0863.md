@@ -6,7 +6,7 @@ source_relpath: "photography/Rolling Hills With Green And Golden Grass Under Clo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1400x1050"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

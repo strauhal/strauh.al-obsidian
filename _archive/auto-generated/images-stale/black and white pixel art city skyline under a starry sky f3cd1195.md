@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/images/Illustration Pixel Art Hand Reaching Out Against Starry Black Background 975ece8a|Illustration Pixel Art Hand Reaching Out Against Starry Black Background]] — shared language: starry, pixel
 - [[knowledge/wiki/images/Illustration Stylized City Skyline Against Red Sky and Full Moon c080b1b4|Illustration Stylized City Skyline Against Red Sky and Full Moon]] — shared language: skyline, sky, city
-- [[_archive/auto-generated/images-stale/animated style painting of a dark city skyline against a red sky 3a6191fb|animated style painting of a dark city skyline against a red sky]] — shared language: skyline, city, sky
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: pixel
 <!-- vault-crosslinks:end -->

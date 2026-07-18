@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - pieter saenredam|Artist - pieter saenredam]] — shared language: saenredam
 - [[knowledge/wiki/artists/Artist - jan sadeler i|Artist - jan sadeler i]] — shared language: jan
 - [[knowledge/wiki/images/jan matejko staczyk 1862 995481af|jan matejko staczyk 1862]] — shared language: jan
-- [[knowledge/wiki/artists/Artist - jan mandijn|Artist - jan mandijn]] — shared language: jan
 - [[knowledge/wiki/images/interior of the grote kerk haarlem by pieter saenredam 1636 11264646|interior of the grote kerk haarlem by pieter saenredam 1636]] — shared language: saenredam
+- [[knowledge/wiki/artists/Artist - jan mandijn|Artist - jan mandijn]] — shared language: jan
 - [[knowledge/wiki/artists/Artist - jan weenix|Artist - jan weenix]] — shared language: jan
 <!-- vault-crosslinks:end -->

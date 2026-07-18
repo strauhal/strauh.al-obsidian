@@ -6,7 +6,7 @@ source_relpath: "1900s/detroit_michigan_skyline_ca_1929_png.png"
 collection: "1900s"
 inferred_year: "1929"
 artist: ""
-dimensions: "1574x360"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

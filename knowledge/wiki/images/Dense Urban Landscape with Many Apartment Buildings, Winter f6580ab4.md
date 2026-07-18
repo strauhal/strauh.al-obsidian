@@ -6,7 +6,7 @@ source_relpath: "photography/Dense Urban Landscape with Many Apartment Buildings
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "828x516"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

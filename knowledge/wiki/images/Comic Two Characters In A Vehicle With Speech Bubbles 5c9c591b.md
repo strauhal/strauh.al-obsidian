@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Two Characters In A Vehicle With Speech Bubble
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "571x339"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

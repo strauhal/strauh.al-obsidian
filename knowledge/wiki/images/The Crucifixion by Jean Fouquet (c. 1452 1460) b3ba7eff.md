@@ -6,7 +6,7 @@ source_relpath: "1400s/The Crucifixion by Jean Fouquet (c. 1452-1460).jpeg"
 collection: "1400s"
 inferred_year: "1460"
 artist: ""
-dimensions: "1502x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

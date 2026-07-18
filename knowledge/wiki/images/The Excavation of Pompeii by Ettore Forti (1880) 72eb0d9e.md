@@ -6,7 +6,7 @@ source_relpath: "1800s/The Excavation of Pompeii by Ettore Forti (1880).jpg"
 collection: "1800s"
 inferred_year: "1880"
 artist: ""
-dimensions: "1427x1783"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

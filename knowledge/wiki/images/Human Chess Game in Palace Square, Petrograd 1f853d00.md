@@ -6,7 +6,7 @@ source_relpath: "photography/Human Chess Game in Palace Square, Petrograd.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1320x918"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

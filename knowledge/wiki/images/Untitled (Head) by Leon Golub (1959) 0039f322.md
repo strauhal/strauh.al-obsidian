@@ -6,7 +6,7 @@ source_relpath: "1900s/Untitled (Head) by Leon Golub (1959).jpg"
 collection: "1900s"
 inferred_year: "1900s"
 artist: ""
-dimensions: "2000x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

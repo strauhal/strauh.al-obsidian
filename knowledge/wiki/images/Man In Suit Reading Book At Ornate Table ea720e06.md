@@ -6,7 +6,7 @@ source_relpath: "photography/Man In Suit Reading Book At Ornate Table.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "550x550"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

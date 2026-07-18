@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Person in Dark Clothing and Red Beret Pointi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1382x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -27,12 +27,12 @@ For you, my brother
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/private/fanmail/threads/17-i-drewed-a-picur|Private Correspondence - 17 - I drewed a picur]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/40-untitled|Private Correspondence - 40 - Untitled]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/18-site-drawings|Private Correspondence - 18 - site drawings]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/08-drawing|Private Correspondence - 08 - drawing]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/13-my-pic|Private Correspondence - 13 - My Pic]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/20-submit-me-daddy|Private Correspondence - 20 - submit me daddy]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/07-draw-club|Private Correspondence - 07 - Draw club]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/15-new-draw-for-youu|Private Correspondence - 15 - New Draw_for_YOUU]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/19-submission|Private Correspondence - 19 - Submission]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/03-art|Private Correspondence - 03 - art]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/23-my-drawing|Private Correspondence - 23 - My drawing]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/29-picture|Private Correspondence - 29 - picture]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/13-hello|Private Correspondence - 13 - Hello]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/01-no-subject|Private Correspondence - 01 - (No Subject)]] — same category: drawing-submission
 <!-- vault-crosslinks:end -->

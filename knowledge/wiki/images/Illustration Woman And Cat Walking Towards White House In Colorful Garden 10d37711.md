@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Woman And Cat Walking Towards White Hou
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2731x4096"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

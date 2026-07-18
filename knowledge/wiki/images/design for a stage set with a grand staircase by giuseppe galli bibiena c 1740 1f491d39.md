@@ -6,7 +6,7 @@ source_relpath: "1700s/design_for_a_stage_set_with_a_grand_staircase_by_giuseppe
 collection: "1700s"
 inferred_year: "1740"
 artist: "giuseppe galli bibiena"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

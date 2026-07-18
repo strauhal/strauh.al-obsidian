@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Blue Dithered Digital Noise Pa
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "389x389"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

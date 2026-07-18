@@ -6,7 +6,7 @@ source_relpath: "1800s/Troupeau de Bœufs au Bord de la Mer by Eugène Burnand (
 collection: "1800s"
 inferred_year: "1878"
 artist: ""
-dimensions: "3971x2030"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

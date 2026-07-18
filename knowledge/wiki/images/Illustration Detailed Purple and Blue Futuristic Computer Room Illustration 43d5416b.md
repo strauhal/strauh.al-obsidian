@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Detailed Purple and Blue Futuristic Comput
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1920x909"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/images/Illustration Detailed Sketch of a Futuristic Communications Bay Interior with Figure 2d830078|Illustration Detailed Sketch of a Futuristic Communications Bay Interior with Figure]] — shared language: futuristic, detailed
 - [[knowledge/wiki/images/Illustration Detailed Isometric Illustration of a Bustling Futuristic City eb32de33|Illustration Detailed Isometric Illustration of a Bustling Futuristic City]] — shared language: futuristic, detailed
-- [[knowledge/wiki/images/Illustration Futuristic Landscape with Sleek Vehicles and Figures baf6d38f|Illustration Futuristic Landscape with Sleek Vehicles and Figures]] — shared language: futuristic
 - [[knowledge/wiki/images/Illustration Abstract Painting with Swirling White and Purple Brushstrokes on Blue a1c6d24f|Illustration Abstract Painting with Swirling White and Purple Brushstrokes on Blue]] — shared language: purple
+- [[knowledge/wiki/images/Highly Cluttered Room With Computer Desk And Trash 0503be2c|Highly Cluttered Room With Computer Desk And Trash]] — shared language: computer, room
 <!-- vault-crosslinks:end -->

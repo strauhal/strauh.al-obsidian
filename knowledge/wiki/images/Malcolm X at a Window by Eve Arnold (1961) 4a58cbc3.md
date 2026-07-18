@@ -6,7 +6,7 @@ source_relpath: "1900s/Malcolm X at a Window by Eve Arnold (1961).jpeg"
 collection: "1900s"
 inferred_year: "1961"
 artist: ""
-dimensions: "399x399"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

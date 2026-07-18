@@ -6,7 +6,7 @@ source_relpath: "1900s/the_milliner_la_modiste_by_henri_de_toulouse_lautrec_c_19
 collection: "1900s"
 inferred_year: "1900"
 artist: "henri de toulouse lautrec"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

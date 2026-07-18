@@ -6,7 +6,7 @@ source_relpath: "1700s/mrs_ezekial_goldthwait_by_john_singleton_copley_1771.jpeg
 collection: "1700s"
 inferred_year: "1771"
 artist: "john singleton copley"
-dimensions: "4284x5712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Yellow-Red-Blue by Wassily Kandinsky (1925).jpeg"
 collection: "1900s"
 inferred_year: "1925"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

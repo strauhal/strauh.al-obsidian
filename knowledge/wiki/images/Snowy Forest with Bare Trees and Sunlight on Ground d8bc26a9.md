@@ -6,7 +6,7 @@ source_relpath: "photography/Snowy Forest with Bare Trees and Sunlight on Ground
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1000x750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

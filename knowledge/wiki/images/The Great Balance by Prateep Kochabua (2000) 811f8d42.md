@@ -6,7 +6,7 @@ source_relpath: "2000s/The Great Balance by Prateep Kochabua (2000).jpg"
 collection: "2000s"
 inferred_year: "2000"
 artist: ""
-dimensions: "2000x1443"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unnamed/IMG_0259.png"
 collection: "unnamed"
 inferred_year: ""
 artist: ""
-dimensions: "1552x1938"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unnamed"]
 ---

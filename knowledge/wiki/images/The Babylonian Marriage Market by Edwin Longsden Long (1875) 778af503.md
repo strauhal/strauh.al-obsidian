@@ -6,7 +6,7 @@ source_relpath: "1800s/The Babylonian Marriage Market by Edwin Longsden Long (18
 collection: "1800s"
 inferred_year: "1875"
 artist: ""
-dimensions: "3069x1720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

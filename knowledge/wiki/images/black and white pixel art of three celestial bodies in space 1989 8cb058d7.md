@@ -6,7 +6,7 @@ source_relpath: "1900s/black_and_white_pixel_art_of_three_celestial_bodies_in_sp
 collection: "1900s"
 inferred_year: "1989"
 artist: ""
-dimensions: "2304x2880"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

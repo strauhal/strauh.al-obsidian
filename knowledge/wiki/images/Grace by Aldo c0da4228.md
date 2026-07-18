@@ -6,7 +6,7 @@ source_relpath: "unsorted/Grace by Aldo.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Aldo"
-dimensions: "1440x1798"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

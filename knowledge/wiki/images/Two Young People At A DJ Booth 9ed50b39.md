@@ -6,7 +6,7 @@ source_relpath: "photography/Two Young People At A DJ Booth.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "828x822"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Shopping Carts by Ben Shahn (1957).jpg"
 collection: "1900s"
 inferred_year: "1957"
 artist: ""
-dimensions: "540x334"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

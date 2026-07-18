@@ -6,7 +6,7 @@ source_relpath: "1800s/the_print_collector_by_honore_daumier_c_1860_1865.jpeg"
 collection: "1800s"
 inferred_year: "1865"
 artist: "honore daumier"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Portrait of a Woman in a White Dress.jp
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Hegel's_Philosophical_System_Diagram:_Logic,_Nature,_a
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "400x338"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

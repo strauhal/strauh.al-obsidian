@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Newspaper Clipping With Halftone Photo Of A
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "953x4231"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

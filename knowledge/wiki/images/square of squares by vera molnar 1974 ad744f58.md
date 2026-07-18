@@ -6,7 +6,7 @@ source_relpath: "1900s/square_of_squares_by_vera_molnar_1974.png"
 collection: "1900s"
 inferred_year: "1974"
 artist: "vera molnar"
-dimensions: "1125x2436"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

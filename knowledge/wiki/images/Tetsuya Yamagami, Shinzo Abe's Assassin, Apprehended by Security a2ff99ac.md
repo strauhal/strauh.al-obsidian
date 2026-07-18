@@ -6,7 +6,7 @@ source_relpath: "photography/Tetsuya Yamagami, Shinzo Abe's Assassin, Apprehende
 collection: "photography"
 inferred_year: ""
 artist: "Security"
-dimensions: "640x499"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

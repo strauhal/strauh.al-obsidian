@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Simple Line Drawing of Winged Figure wi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "561x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

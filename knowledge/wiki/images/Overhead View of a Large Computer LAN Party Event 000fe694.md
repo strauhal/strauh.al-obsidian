@@ -6,7 +6,7 @@ source_relpath: "photography/Overhead View of a Large Computer LAN Party Event.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1536"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

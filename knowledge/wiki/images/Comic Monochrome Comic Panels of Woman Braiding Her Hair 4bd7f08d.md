@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Monochrome Comic Panels of Woman Braiding Her 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1476x2188"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

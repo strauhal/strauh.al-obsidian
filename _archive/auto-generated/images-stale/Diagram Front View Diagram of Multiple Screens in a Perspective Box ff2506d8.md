@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Fro
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: screens
 - [[_archive/auto-generated/images-stale/Diagram Instructional Diagram Showing Human Proportions And Foreshortening In Perspective 0287d748|Diagram Instructional Diagram Showing Human Proportions And Foreshortening In Perspective]] — shared language: perspective, diagram
-- [[knowledge/wiki/images/Screenshot Virtual Newsroom With Multiple Data Screens And Avatar 6750560e|Screenshot Virtual Newsroom With Multiple Data Screens And Avatar]] — shared language: screens, multiple
+- [[_archive/auto-generated/images-stale/instructional diagram showing human proportions and foreshortening in perspective 679b1dac|instructional diagram showing human proportions and foreshortening in perspective]] — shared language: perspective, diagram
 <!-- vault-crosslinks:end -->

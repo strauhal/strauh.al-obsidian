@@ -6,7 +6,7 @@ source_relpath: "gif_collection/03_multiscreens.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: "960x836"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1700s/the_misses_paine_by_sir_joshua_reynolds_c_1765.jpeg"
 collection: "1700s"
 inferred_year: "1765"
 artist: "sir joshua reynolds"
-dimensions: "4284x5712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---
@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/the_misses_paine
 - [[knowledge/wiki/images/The Dive by Joshua Budich (2022) e4a3ae5b|The Dive by Joshua Budich (2022)]] — shared language: joshua
 - [[knowledge/wiki/artists/Artist - charles joshua chaplin|Artist - charles joshua chaplin]] — shared language: joshua
 - [[knowledge/wiki/artists/Artist - sir robert strange|Artist - sir robert strange]] — shared language: sir
-- [[knowledge/wiki/artists/Artist - sir thomas lawrence|Artist - sir thomas lawrence]] — shared language: sir
+- [[knowledge/wiki/images/the watering can by charles joshua chaplin 1870 652b0083|the watering can by charles joshua chaplin 1870]] — shared language: joshua
 <!-- vault-crosslinks:end -->

@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/madonna and child by allan d arcangelo 1963 3d9e982c|madonna and child by allan d arcangelo 1963]] — shared language: allan
 - [[knowledge/wiki/books/alexandre-koja-ve-allan-bloom-james-h-nichols-introduction-to-the-reading-of-hegel-lectures-on-the-phenomenology-of-spirit-cornell-universit|Introduction to the Reading of Hegel Lectures on the Phenomenology of Spirit-Cornell University Press]] — shared language: allan
 - [[knowledge/wiki/books/karl-marx-capital-volume-iii|Capital, Volume III]] — shared language: iii
-- [[knowledge/wiki/images/Screenshot Masked King Baldwin IV in White Robes on Throne 2099d9e6|Screenshot Masked King Baldwin IV in White Robes on Throne]] — shared language: king, robes
+- [[knowledge/wiki/images/Screenshot Masked King Baldwin IV in White Robes on Throne 2099d9e6|Screenshot Masked King Baldwin IV in White Robes on Throne]] — shared language: robes, king
 - [[knowledge/wiki/images/The Coronation of Napoleon by Jacques Louis David (1805 1807) ce4d6847|The Coronation of Napoleon by Jacques Louis David (1805 1807)]] — shared language: coronation, david
 <!-- vault-crosslinks:end -->

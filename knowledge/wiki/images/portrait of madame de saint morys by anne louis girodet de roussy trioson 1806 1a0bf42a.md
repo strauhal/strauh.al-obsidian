@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_madame_de_saint_morys_by_anne_louis_girodet_d
 collection: "1800s"
 inferred_year: "1806"
 artist: "anne louis girodet de roussy trioson"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Young Men Wearing Mexican Pointy Boots.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "777x580"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

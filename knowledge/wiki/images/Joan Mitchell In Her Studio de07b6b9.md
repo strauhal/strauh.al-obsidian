@@ -6,7 +6,7 @@ source_relpath: "photography/Joan Mitchell In Her Studio.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1327x2100"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

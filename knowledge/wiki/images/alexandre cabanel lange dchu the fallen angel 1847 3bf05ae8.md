@@ -6,7 +6,7 @@ source_relpath: "1800s/alexandre_cabanel_lange_dchu_the_fallen_angel_1847.png"
 collection: "1800s"
 inferred_year: "1847"
 artist: ""
-dimensions: "1240x700"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

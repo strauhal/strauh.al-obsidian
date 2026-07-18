@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Black Parallel Wavy Lines on White Page ea294cce|Illustration Black Parallel Wavy Lines on White Page]] — shared language: parallel, lines
 - [[_archive/auto-generated/images-stale/black and white abstract pattern of parallel wavy lines d74d38d8|black and white abstract pattern of parallel wavy lines]] — shared language: parallel, lines
 - [[_archive/auto-generated/images-stale/man painting parallel wavy lines in cool colors on a brick wall ae4be113|man painting parallel wavy lines in cool colors on a brick wall]] — shared language: parallel, lines
-- [[_archive/auto-generated/images-stale/not straight lines jpg 75de846e|not straight lines jpg]] — shared language: lines
+- [[knowledge/wiki/images/Illustration Stylized Human Figure Made of Interconnected Lines on Textured Paper 4195e69f|Illustration Stylized Human Figure Made of Interconnected Lines on Textured Paper]] — shared language: textured, lines
 <!-- vault-crosslinks:end -->

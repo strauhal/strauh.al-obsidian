@@ -6,7 +6,7 @@ source_relpath: "photography/Naked Person Lying On Dirty Floor With White Object
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "500x375"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

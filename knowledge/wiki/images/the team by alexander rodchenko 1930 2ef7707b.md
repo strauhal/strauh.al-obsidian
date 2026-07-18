@@ -6,7 +6,7 @@ source_relpath: "1900s/the_team_by_alexander_rodchenko_1930.jpg"
 collection: "1900s"
 inferred_year: "1930"
 artist: "alexander rodchenko"
-dimensions: "1248x871"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

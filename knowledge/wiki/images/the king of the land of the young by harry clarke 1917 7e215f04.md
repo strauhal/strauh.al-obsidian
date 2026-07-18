@@ -6,7 +6,7 @@ source_relpath: "1900s/the_king_of_the_land_of_the_young_by_harry_clarke_1917.jp
 collection: "1900s"
 inferred_year: "1917"
 artist: "harry clarke"
-dimensions: "1280x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

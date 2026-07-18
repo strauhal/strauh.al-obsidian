@@ -6,7 +6,7 @@ source_relpath: "photography/People Dining With Empire State Building View At Ni
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "480x640"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

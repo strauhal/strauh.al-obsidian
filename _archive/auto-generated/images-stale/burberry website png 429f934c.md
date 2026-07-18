@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: website
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: website
 - [[_archive/auto-generated/images-stale/flowerkite website png 5b33fcc0|flowerkite website png]] — shared language: website, png.png
+- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: website
 - [[_archive/auto-generated/images-stale/flowerkite website poster 88d11050|flowerkite website poster]] — shared language: website
-- [[knowledge/private/fanmail/threads/05-changes-in-website|Private Correspondence - 05 - Changes in website]] — shared language: website
 <!-- vault-crosslinks:end -->

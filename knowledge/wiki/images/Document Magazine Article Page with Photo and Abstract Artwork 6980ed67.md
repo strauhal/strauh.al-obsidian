@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Magazine Article Page with Photo and Abstra
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2048x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

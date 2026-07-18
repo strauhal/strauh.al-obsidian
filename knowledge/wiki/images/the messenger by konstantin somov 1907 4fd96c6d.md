@@ -6,7 +6,7 @@ source_relpath: "1900s/the_messenger_by_konstantin_somov_1907.png"
 collection: "1900s"
 inferred_year: "1907"
 artist: "konstantin somov"
-dimensions: "555x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

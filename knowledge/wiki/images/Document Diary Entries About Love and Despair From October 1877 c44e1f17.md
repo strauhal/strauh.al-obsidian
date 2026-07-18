@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Diary Entries About Love and Despair From O
 collection: "unsorted"
 inferred_year: "1877"
 artist: ""
-dimensions: "1284x529"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Di
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: entries, diary
-- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: diary
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: diary
+- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: diary
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: diary
 - [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: diary
 <!-- vault-crosslinks:end -->

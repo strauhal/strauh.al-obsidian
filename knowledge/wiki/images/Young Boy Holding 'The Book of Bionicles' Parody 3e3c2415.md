@@ -6,7 +6,7 @@ source_relpath: "photography/Young Boy Holding 'The Book of Bionicles' Parody.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "750x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

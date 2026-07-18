@@ -6,7 +6,7 @@ source_relpath: "comics/panel_1.jpg"
 collection: "comics"
 inferred_year: ""
 artist: ""
-dimensions: "496x657"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/comics"]
 ---

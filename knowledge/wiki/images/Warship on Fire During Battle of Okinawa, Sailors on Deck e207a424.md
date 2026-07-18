@@ -6,7 +6,7 @@ source_relpath: "photography/Warship on Fire During Battle of Okinawa, Sailors o
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1280x853"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

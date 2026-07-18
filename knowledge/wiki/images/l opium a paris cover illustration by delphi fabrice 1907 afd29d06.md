@@ -6,7 +6,7 @@ source_relpath: "1900s/l_opium_a_paris_cover_illustration_by_delphi_fabrice_1907
 collection: "1900s"
 inferred_year: "1907"
 artist: "delphi fabrice"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

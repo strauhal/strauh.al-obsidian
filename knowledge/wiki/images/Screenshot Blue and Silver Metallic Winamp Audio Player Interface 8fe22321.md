@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Blue and Silver Metallic Winamp Audio Player
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "275x406"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Blu
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
 - [[knowledge/wiki/images/Screenshot Winamp 2.76 Media Player Interface 746fe5c5|Screenshot Winamp 2.76 Media Player Interface]] — shared language: winamp, player, interface
 - [[knowledge/wiki/images/Screenshot Green Winamp Music Player Interface With Playlist 1be5a16e|Screenshot Green Winamp Music Player Interface With Playlist]] — shared language: winamp, player, interface
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: audio
 - [[knowledge/wiki/images/Screenshot Digital Audio Workstation Interface with Tracks, Effects, and Mixer Controls 79635fbc|Screenshot Digital Audio Workstation Interface with Tracks, Effects, and Mixer Controls]] — shared language: audio, interface, screenshot
+- [[knowledge/wiki/images/Screenshot Digital Audio Synthesizer Software Interface With Waveforms And Keyboard ed040387|Screenshot Digital Audio Synthesizer Software Interface With Waveforms And Keyboard]] — shared language: audio, interface, screenshot
 <!-- vault-crosslinks:end -->

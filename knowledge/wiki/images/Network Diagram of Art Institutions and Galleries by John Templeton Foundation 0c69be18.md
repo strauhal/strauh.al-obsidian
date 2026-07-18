@@ -6,7 +6,7 @@ source_relpath: "diagrams/Network_Diagram_of_Art_Institutions_and_Galleries_by_J
 collection: "diagrams"
 inferred_year: ""
 artist: "John Templeton Foundation"
-dimensions: "3360x2100"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/a_r_penck_die_rothschildgiraffe_1978.jpg"
 collection: "1900s"
 inferred_year: "1978"
 artist: ""
-dimensions: "2550x3148"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

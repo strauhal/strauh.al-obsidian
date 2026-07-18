@@ -6,7 +6,7 @@ source_relpath: "1900s/cephalopodes_irises_by_hans_bellmer_1939.jpeg"
 collection: "1900s"
 inferred_year: "1939"
 artist: "hans bellmer"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

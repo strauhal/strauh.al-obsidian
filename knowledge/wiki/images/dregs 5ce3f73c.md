@@ -6,7 +6,7 @@ source_relpath: "album_covers/dregs.png"
 collection: "album_covers"
 inferred_year: ""
 artist: ""
-dimensions: "1212x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/album_covers"]
 ---

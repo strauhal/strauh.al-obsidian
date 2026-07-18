@@ -6,7 +6,7 @@ source_relpath: "gif_collection/tumblr_p7mnl9250n1tanofjo3_540.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: "540x540"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

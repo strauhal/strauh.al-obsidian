@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Rainbow-Colored Layered Shapes on
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "390x540"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Screenshot Underlined Text '(You)' on Light Background 02efe092|Screenshot Underlined Text '(You)' on Light Background]] — shared language: light, text, background
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: rainbow
+- [[knowledge/wiki/images/Screenshot Underlined Text '(You)' on Light Background 02efe092|Screenshot Underlined Text '(You)' on Light Background]] — shared language: light, text, background
 - [[knowledge/wiki/images/Illustration Abstract Painting of Layered Geometric Shapes in Yellow, Green, Blue 0e042ece|Illustration Abstract Painting of Layered Geometric Shapes in Yellow, Green, Blue]] — shared language: layered, shapes
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting With Various Colored Shapes 530e7213|Illustration Abstract Geometric Painting With Various Colored Shapes]] — shared language: colored, shapes
 - [[knowledge/wiki/images/Illustration Abstract Red and Blue Geometric Shapes on Black Background 825d4435|Illustration Abstract Red and Blue Geometric Shapes on Black Background]] — shared language: shapes, background

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_great_beast_by_gerry_georgatos_1975.jpg"
 collection: "1900s"
 inferred_year: "1975"
 artist: "gerry georgatos"
-dimensions: "3000x4000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

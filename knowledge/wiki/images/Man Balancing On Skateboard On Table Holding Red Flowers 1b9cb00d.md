@@ -6,7 +6,7 @@ source_relpath: "photography/Man Balancing On Skateboard On Table Holding Red Fl
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "500x625"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

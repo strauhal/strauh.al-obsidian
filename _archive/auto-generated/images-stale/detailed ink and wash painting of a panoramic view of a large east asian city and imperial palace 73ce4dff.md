@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Detailed Ink And Wash Painting Of An East Asian City 0ec4adfa|Illustration Detailed Ink And Wash Painting Of An East Asian City]] — shared language: asian, east, wash
+- [[knowledge/wiki/images/Illustration Detailed Ink And Wash Painting Of An East Asian City 0ec4adfa|Illustration Detailed Ink And Wash Painting Of An East Asian City]] — shared language: east, asian, wash
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, view
-- [[knowledge/wiki/images/Photograph Photograph of Traditional East Asian Ink Wash Mountain Scroll Paintings 8d5f32de|Photograph Photograph of Traditional East Asian Ink Wash Mountain Scroll Paintings]] — shared language: asian, east, wash
+- [[knowledge/wiki/images/Photograph Photograph of Traditional East Asian Ink Wash Mountain Scroll Paintings 8d5f32de|Photograph Photograph of Traditional East Asian Ink Wash Mountain Scroll Paintings]] — shared language: east, asian, wash
 - [[knowledge/wiki/images/Illustration Detailed Black and White Panoramic Drawing of Figures and Animals 9d6fc5c1|Illustration Detailed Black and White Panoramic Drawing of Figures and Animals]] — shared language: panoramic, detailed
-- [[knowledge/wiki/images/Illustration Oil Painting Portrait of an East Asian Woman with Floral Background 9c3c5857|Illustration Oil Painting Portrait of an East Asian Woman with Floral Background]] — shared language: asian, east
+- [[knowledge/wiki/images/Illustration Oil Painting Portrait of an East Asian Woman with Floral Background 9c3c5857|Illustration Oil Painting Portrait of an East Asian Woman with Floral Background]] — shared language: east, asian
 <!-- vault-crosslinks:end -->

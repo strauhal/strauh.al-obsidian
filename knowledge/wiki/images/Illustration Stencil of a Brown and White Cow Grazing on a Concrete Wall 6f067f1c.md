@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stencil of a Brown and White Cow Grazing o
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1111x1111"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

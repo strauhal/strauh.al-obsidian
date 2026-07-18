@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Watercolor and Ink Sketch of a
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1195x1920"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Illustration Watercolor and Ink Sketch of a Small Garden with Rocks 43decec8|Illustration Watercolor and Ink Sketch of a Small Garden with Rocks]] — shared language: watercolor, sketch, ink
 - [[knowledge/wiki/images/Illustration Watercolor Sketch of a Cafe Interior with Baristas and Customers 2a300ad4|Illustration Watercolor Sketch of a Cafe Interior with Baristas and Customers]] — shared language: watercolor, sketch
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch, ink
 - [[knowledge/wiki/images/Illustration Watercolor Sketch of a Woman in Dark Drapery 44f499b9|Illustration Watercolor Sketch of a Woman in Dark Drapery]] — shared language: watercolor, sketch
 - [[knowledge/wiki/images/Illustration Watercolor and Ink Sketch of Parisian Rooftops with Sacr C ur e11ee032|Illustration Watercolor and Ink Sketch of Parisian Rooftops with Sacr C ur]] — shared language: watercolor, sketch, ink
-- [[knowledge/wiki/images/Illustration Black Ink Sketch of People at a City Intersection acb63f75|Illustration Black Ink Sketch of People at a City Intersection]] — shared language: sketch, ink
 <!-- vault-crosslinks:end -->

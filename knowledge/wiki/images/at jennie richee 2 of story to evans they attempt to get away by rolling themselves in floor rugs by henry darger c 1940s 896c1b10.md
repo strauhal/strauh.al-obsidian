@@ -6,7 +6,7 @@ source_relpath: "1900s/at_jennie_richee_2_of_story_to_evans_they_attempt_to_get_
 collection: "1900s"
 inferred_year: "1940"
 artist: "rolling themselves in floor rugs by henry darger"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/thomas_cole_the_consummation_of_empire_1836.jpg"
 collection: "1800s"
 inferred_year: "1836"
 artist: ""
-dimensions: "2560x1735"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

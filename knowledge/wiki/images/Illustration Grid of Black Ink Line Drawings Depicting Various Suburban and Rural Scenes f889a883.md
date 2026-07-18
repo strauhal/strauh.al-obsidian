@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Grid of Black Ink Line Drawings Depicti
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2000x1390"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

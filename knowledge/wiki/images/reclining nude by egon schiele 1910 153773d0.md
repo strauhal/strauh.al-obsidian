@@ -6,7 +6,7 @@ source_relpath: "1900s/reclining_nude_by_egon_schiele_1910.jpeg"
 collection: "1900s"
 inferred_year: "1910"
 artist: "egon schiele"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

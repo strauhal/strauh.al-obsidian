@@ -6,7 +6,7 @@ source_relpath: "photography/White Cat Sitting Among Flowers Under Cloudy Sky.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "736x736"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

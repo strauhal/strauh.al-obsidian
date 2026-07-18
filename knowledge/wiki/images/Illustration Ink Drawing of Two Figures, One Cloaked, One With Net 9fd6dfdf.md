@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Ink Drawing of Two Figures, One Cloaked
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "932x1240"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

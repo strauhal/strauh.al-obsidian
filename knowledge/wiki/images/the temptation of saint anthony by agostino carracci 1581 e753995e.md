@@ -6,7 +6,7 @@ source_relpath: "1500s/the_temptation_of_saint_anthony_by_agostino_carracci_1581
 collection: "1500s"
 inferred_year: "1581"
 artist: "agostino carracci"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

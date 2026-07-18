@@ -6,7 +6,7 @@ source_relpath: "1900s/official_poster_for_the_xx_summer_olympics_munich_1972_ar
 collection: "1900s"
 inferred_year: "1972"
 artist: "otl aicher"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

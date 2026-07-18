@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Donald Trump And Kim Jong Un At DMZ, Photogr
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "860x525"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Colorful Illustration of Woman on White
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1440x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

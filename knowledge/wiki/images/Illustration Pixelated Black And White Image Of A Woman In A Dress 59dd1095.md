@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pixelated Black And White Image Of A Wo
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1370x2400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

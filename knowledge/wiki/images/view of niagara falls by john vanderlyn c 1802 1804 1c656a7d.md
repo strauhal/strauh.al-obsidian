@@ -6,7 +6,7 @@ source_relpath: "1800s/view_of_niagara_falls_by_john_vanderlyn_c_1802_1804.jpeg"
 collection: "1800s"
 inferred_year: "1804"
 artist: "john vanderlyn"
-dimensions: "5712x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

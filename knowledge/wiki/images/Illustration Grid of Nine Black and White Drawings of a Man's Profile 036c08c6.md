@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Grid of Nine Black and White Drawings of a
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "340x453"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

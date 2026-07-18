@@ -6,7 +6,7 @@ source_relpath: "diagrams/Chart_of_orchestral_instrument_and_human_voice_ranges.
 collection: "diagrams"
 inferred_year: ""
 artist: "Vienna Symphonic Library GmbH"
-dimensions: "1400x1982"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

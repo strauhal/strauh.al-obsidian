@@ -6,7 +6,7 @@ source_relpath: "photography/Interior of a Modernist Building with Curved Walls 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x801"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

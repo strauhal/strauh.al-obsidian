@@ -6,7 +6,7 @@ source_relpath: "1900s/franklin_booth_flying_islands_illustration_1913_jpg.jpg"
 collection: "1900s"
 inferred_year: "1913"
 artist: ""
-dimensions: "454x682"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

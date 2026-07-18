@@ -6,7 +6,7 @@ source_relpath: "1900s/Champagne Codorniu by Ramon Casas i Carbó (1902).jpeg"
 collection: "1900s"
 inferred_year: "1902"
 artist: ""
-dimensions: "2268x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

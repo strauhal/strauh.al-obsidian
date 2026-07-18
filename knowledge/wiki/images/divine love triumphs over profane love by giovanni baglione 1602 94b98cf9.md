@@ -6,7 +6,7 @@ source_relpath: "1600s/divine_love_triumphs_over_profane_love_by_giovanni_baglio
 collection: "1600s"
 inferred_year: "1602"
 artist: "giovanni baglione"
-dimensions: "1200x1841"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---
@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/divine_love_triu
 
 - [[knowledge/wiki/books/brian-massumi-on-affect-divine-curation|Brian Massumi on Affect - divine curation]] — shared language: divine
 - [[knowledge/wiki/books/french-modernist-library-andr-breton-mary-ann-caws-mad-love|Mad Love]] — shared language: love
-- [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — shared language: giovanni
 - [[knowledge/wiki/artists/Artist - giovanni bellini|Artist - giovanni bellini]] — shared language: giovanni
+- [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — shared language: giovanni
 - [[knowledge/wiki/artists/Artist - giovanni boldini|Artist - giovanni boldini]] — shared language: giovanni
 <!-- vault-crosslinks:end -->

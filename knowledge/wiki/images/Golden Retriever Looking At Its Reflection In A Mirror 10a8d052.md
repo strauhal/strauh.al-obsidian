@@ -6,7 +6,7 @@ source_relpath: "photography/Golden Retriever Looking At Its Reflection In A Mir
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "666x612"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

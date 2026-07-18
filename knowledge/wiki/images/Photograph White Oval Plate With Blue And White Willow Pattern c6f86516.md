@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - White Oval Plate With Blue And White Willow 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "750x626"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

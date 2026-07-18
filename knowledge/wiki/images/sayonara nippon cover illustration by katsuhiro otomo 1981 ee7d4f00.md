@@ -6,7 +6,7 @@ source_relpath: "1900s/sayonara_nippon_cover_illustration_by_katsuhiro_otomo_198
 collection: "1900s"
 inferred_year: "1981"
 artist: "katsuhiro otomo"
-dimensions: "1080x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

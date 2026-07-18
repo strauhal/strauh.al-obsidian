@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Man in Dark Coat Gazing at Wall of Funko P
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "834x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

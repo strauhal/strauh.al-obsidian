@@ -6,7 +6,7 @@ source_relpath: "1800s/study_for_a_sunday_afternoon_on_the_island_of_la_grande_j
 collection: "1800s"
 inferred_year: "1884"
 artist: "georges seurat"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

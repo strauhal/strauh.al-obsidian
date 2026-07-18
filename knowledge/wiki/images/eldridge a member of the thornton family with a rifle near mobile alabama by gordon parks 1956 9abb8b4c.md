@@ -6,7 +6,7 @@ source_relpath: "1900s/eldridge_a_member_of_the_thornton_family_with_a_rifle_nea
 collection: "1900s"
 inferred_year: "1956"
 artist: "gordon parks"
-dimensions: "962x964"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

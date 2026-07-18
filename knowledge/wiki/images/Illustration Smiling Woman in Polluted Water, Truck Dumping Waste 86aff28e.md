@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Smiling Woman in Polluted Water, Truck Dum
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "794x735"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

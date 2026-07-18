@@ -6,7 +6,7 @@ source_relpath: "1900s/Kullervo's Mother by Akseli Gallen-Kallela (1906-1917).jp
 collection: "1900s"
 inferred_year: "1917"
 artist: ""
-dimensions: "1800x1376"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

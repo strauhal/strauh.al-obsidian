@@ -6,7 +6,7 @@ source_relpath: "photography/Waymo Self-Driving Car on Los Angeles Freeway with 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "750x500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

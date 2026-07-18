@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Detailed Cutaway Illustration of a Medieva
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Stephen Biesty"
-dimensions: "3192x3933"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

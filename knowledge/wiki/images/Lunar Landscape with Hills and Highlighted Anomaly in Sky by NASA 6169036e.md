@@ -6,7 +6,7 @@ source_relpath: "photography/Lunar Landscape with Hills and Highlighted Anomaly 
 collection: "photography"
 inferred_year: ""
 artist: "NASA"
-dimensions: "4400x4600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

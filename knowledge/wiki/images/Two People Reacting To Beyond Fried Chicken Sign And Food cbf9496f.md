@@ -6,7 +6,7 @@ source_relpath: "photography/Two People Reacting To Beyond Fried Chicken Sign An
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1067x1212"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

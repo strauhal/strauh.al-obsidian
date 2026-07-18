@@ -6,7 +6,7 @@ source_relpath: "2000s/'Modello' for the Ascension of the Virgin by Peter Paul R
 collection: "2000s"
 inferred_year: "1620"
 artist: ""
-dimensions: "1200x1775"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

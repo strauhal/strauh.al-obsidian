@@ -6,7 +6,7 @@ source_relpath: "1600s/the_flagellation_of_christ_by_peter_paul_rubens_c_1614_16
 collection: "1600s"
 inferred_year: "1617"
 artist: "peter paul rubens"
-dimensions: "1093x1500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1600s/jacob_van_ruisdael_dune_landscape_c_1646.jpg"
 collection: "1600s"
 inferred_year: "1646"
 artist: ""
-dimensions: "3369x2721"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

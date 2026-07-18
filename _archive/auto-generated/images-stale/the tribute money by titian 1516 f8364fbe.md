@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/The Tribute Money by Titian (1516) 731153ae|The Tribute Money by Titian (1516)]] — named in this note
 - [[knowledge/wiki/images/portrait of a man by titian c 1540 9f9bdcd1|portrait of a man by titian c 1540]] — same artist: titian
 - [[knowledge/wiki/images/portrait of a man with a letter by titian c 1545 2e10f942|portrait of a man with a letter by titian c 1545]] — same artist: titian
+- [[knowledge/private/fanmail/threads/39-tribute-to-china|Private Correspondence - 39 - Tribute to china]] — shared language: tribute
 - [[knowledge/wiki/images/Screenshot Men In A Club Holding Stacks Of Money, One Wearing Goggles 0861ac7c|Screenshot Men In A Club Holding Stacks Of Money, One Wearing Goggles]] — shared language: money
-- [[knowledge/wiki/collections/Collection - 1500s|Collection - 1500s]] — shared language: titian
 <!-- vault-crosslinks:end -->

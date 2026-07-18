@@ -6,7 +6,7 @@ source_relpath: "1800s/By the Spring by Henryk Siemiradzki (1880).jpg"
 collection: "1800s"
 inferred_year: "1880"
 artist: ""
-dimensions: "2046x1400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

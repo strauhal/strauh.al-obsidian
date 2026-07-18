@@ -6,7 +6,7 @@ source_relpath: "diagrams/Geocentric_Diagram_Illustrating_Complex_Planetary_Orbi
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1600x1574"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

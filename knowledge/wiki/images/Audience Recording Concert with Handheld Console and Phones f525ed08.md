@@ -6,7 +6,7 @@ source_relpath: "photography/Audience Recording Concert with Handheld Console an
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1120x2015"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

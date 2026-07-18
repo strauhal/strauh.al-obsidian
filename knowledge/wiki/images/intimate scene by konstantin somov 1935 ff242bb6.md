@@ -6,7 +6,7 @@ source_relpath: "1900s/intimate_scene_by_konstantin_somov_1935.jpg"
 collection: "1900s"
 inferred_year: "1935"
 artist: "konstantin somov"
-dimensions: "2000x1616"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/view_of_the_grand_basin_and_exposition_buildings_world_s_
 collection: "1800s"
 inferred_year: "1893"
 artist: "charles dudley arnold"
-dimensions: "5549x3699"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

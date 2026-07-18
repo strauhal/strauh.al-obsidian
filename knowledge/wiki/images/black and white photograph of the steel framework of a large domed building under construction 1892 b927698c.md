@@ -6,7 +6,7 @@ source_relpath: "1800s/black_and_white_photograph_of_the_steel_framework_of_a_la
 collection: "1800s"
 inferred_year: "1892"
 artist: ""
-dimensions: "4436x3712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

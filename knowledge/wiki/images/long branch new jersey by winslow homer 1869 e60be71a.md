@@ -6,7 +6,7 @@ source_relpath: "1800s/long_branch_new_jersey_by_winslow_homer_1869.jpeg"
 collection: "1800s"
 inferred_year: "1869"
 artist: "winslow homer"
-dimensions: "5712x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

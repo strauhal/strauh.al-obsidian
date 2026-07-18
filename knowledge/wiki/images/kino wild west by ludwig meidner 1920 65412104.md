@@ -6,7 +6,7 @@ source_relpath: "1900s/kino_wild_west_by_ludwig_meidner_1920.jpeg"
 collection: "1900s"
 inferred_year: "1920"
 artist: "ludwig meidner"
-dimensions: "736x1479"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

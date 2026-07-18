@@ -6,7 +6,7 @@ source_relpath: "photography/Skateboard Ramp Inside a Former Church with Graffit
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2725x4096"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

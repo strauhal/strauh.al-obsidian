@@ -6,7 +6,7 @@ source_relpath: "1800s/french_pavilion_world_s_columbian_exposition_chicago_1893
 collection: "1800s"
 inferred_year: "1893"
 artist: ""
-dimensions: "6000x4828"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Intricate Geometric and Floral Patterned Cei
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Mehrdad Rasoulifard"
-dimensions: "1000x701"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

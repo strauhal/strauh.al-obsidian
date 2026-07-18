@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Loose Sketch of a Figure in Profile.jpg
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "4000x2800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

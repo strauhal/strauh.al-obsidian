@@ -6,7 +6,7 @@ source_relpath: "1900s/the_fool_by_pamela_colman_smith_1909.jpeg"
 collection: "1900s"
 inferred_year: "1909"
 artist: "pamela colman smith"
-dimensions: "800x1342"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/Moonlit Night. Smugglers by Ivan Aivazovsky (1879).jpg"
 collection: "1800s"
 inferred_year: "1879"
 artist: ""
-dimensions: "2048x1272"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

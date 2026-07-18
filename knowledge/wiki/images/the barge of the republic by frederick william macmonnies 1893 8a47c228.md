@@ -6,7 +6,7 @@ source_relpath: "1800s/the_barge_of_the_republic_by_frederick_william_macmonnies
 collection: "1800s"
 inferred_year: "1893"
 artist: "frederick william macmonnies"
-dimensions: "3600x2322"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

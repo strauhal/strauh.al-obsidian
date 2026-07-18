@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Comic Two Ink Sketch Comic Panels with Figures in Military Attire dd05ac4f|Comic Two Ink Sketch Comic Panels with Figures in Military Attire]] — shared language: attire, military, panels
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, panels
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, comic
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch, ink
 - [[_archive/auto-generated/images-stale/black and white ink drawing of interconnected surreal comic panels 09e8234c|black and white ink drawing of interconnected surreal comic panels]] — shared language: panels, comic, ink
-- [[knowledge/wiki/images/Illustration Portrait Painting of a Man in Clerical Attire e5689adb|Illustration Portrait Painting of a Man in Clerical Attire]] — shared language: attire
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1900s/portrait_of_max_oppenheimer_mappus_by_egon_schiele_1910.j
 collection: "1900s"
 inferred_year: "1910"
 artist: "egon schiele"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

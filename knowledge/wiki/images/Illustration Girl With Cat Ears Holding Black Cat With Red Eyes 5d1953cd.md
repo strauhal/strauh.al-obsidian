@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Girl With Cat Ears Holding Black Cat Wi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "896x1344"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

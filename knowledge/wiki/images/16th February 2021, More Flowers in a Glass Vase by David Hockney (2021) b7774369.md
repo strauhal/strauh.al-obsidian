@@ -6,7 +6,7 @@ source_relpath: "2000s/16th February 2021, More Flowers in a Glass Vase by David
 collection: "2000s"
 inferred_year: "2021"
 artist: ""
-dimensions: "1116x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

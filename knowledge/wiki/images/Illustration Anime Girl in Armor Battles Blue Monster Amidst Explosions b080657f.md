@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Anime Girl in Armor Battles Blue Monste
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2560x1797"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

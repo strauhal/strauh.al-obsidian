@@ -6,7 +6,7 @@ source_relpath: "gif_collection/remix04.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: "612x784"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

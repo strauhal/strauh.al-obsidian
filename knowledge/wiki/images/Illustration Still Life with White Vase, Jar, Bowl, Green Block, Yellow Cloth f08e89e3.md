@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Still Life with White Vase, Jar, Bowl, 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "500x334"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

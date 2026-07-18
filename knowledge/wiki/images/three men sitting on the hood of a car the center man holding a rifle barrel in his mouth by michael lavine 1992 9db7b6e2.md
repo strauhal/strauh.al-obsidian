@@ -6,7 +6,7 @@ source_relpath: "1900s/three_men_sitting_on_the_hood_of_a_car_the_center_man_hol
 collection: "1900s"
 inferred_year: "1992"
 artist: "michael lavine"
-dimensions: "500x656"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Red-Haired Girl With Glasses At Vintage
 collection: "unsorted"
 inferred_year: ""
 artist: "pepe salot"
-dimensions: "1016x700"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1200s/190809_voidmap_al_1254_webp.webp"
 collection: "1200s"
 inferred_year: "1200s"
 artist: ""
-dimensions: "1120x1118"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1200s"]
 ---

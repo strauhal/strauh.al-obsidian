@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Close-Up Of Pixelated Eye And Face On Dark
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1170x755"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/two_women_by_willem_de_kooning_1954.jpeg"
 collection: "1900s"
 inferred_year: "1954"
 artist: "willem de kooning"
-dimensions: "3024x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

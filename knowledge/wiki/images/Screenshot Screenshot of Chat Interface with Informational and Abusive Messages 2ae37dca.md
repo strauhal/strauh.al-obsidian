@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Screenshot of Chat Interface with Informatio
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1179x1542"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Scr
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Chat Interface Showing Service Discontinuation and Server Shutdown Messages aeda7a7b|Screenshot Chat Interface Showing Service Discontinuation and Server Shutdown Messages]] — shared language: chat, messages, interface
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: messages
 - [[knowledge/wiki/images/Image Twitter Post with Ghibli Style Illustration and Chat Messages a16d76b3|Image Twitter Post with Ghibli Style Illustration and Chat Messages]] — shared language: chat, messages, messages.jpeg
+- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: messages
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: messages
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: messages
+- [[knowledge/wiki/images/Screenshot Screenshot of Bing Chat Analyzing a CAPTCHA with Words 0391875d|Screenshot Screenshot of Bing Chat Analyzing a CAPTCHA with Words]] — shared language: chat, screenshot
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1800s/Reply of the Zaporozhian Cossacks by Ilya Repin (1880–1
 collection: "1800s"
 inferred_year: "1891"
 artist: ""
-dimensions: "900x693"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

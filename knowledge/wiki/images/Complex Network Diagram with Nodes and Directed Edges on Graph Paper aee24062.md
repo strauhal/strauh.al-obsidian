@@ -6,7 +6,7 @@ source_relpath: "diagrams/Complex_Network_Diagram_with_Nodes_and_Directed_Edges_
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "868x1110"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

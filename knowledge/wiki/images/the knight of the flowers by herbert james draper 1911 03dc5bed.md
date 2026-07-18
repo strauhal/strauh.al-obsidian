@@ -6,7 +6,7 @@ source_relpath: "1900s/the_knight_of_the_flowers_by_herbert_james_draper_1911.jp
 collection: "1900s"
 inferred_year: "1911"
 artist: "herbert james draper"
-dimensions: "1170x729"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

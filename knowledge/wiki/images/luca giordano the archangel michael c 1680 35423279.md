@@ -6,7 +6,7 @@ source_relpath: "1600s/luca_giordano_the_archangel_michael_c_1680.jpg"
 collection: "1600s"
 inferred_year: "1680"
 artist: ""
-dimensions: "3266x4870"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/jatayu_vadham_by_raja_ravi_varma_c_1900.jpg"
 collection: "1900s"
 inferred_year: "1900"
 artist: "raja ravi varma"
-dimensions: "2590x3629"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

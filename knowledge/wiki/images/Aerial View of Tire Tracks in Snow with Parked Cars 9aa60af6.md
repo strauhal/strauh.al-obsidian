@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of Tire Tracks in Snow with Parked Cars
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "399x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

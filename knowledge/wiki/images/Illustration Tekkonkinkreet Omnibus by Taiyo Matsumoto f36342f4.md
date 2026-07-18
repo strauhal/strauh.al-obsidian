@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Tekkonkinkreet Omnibus by Taiyo Matsumoto.
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Taiyo Matsumoto"
-dimensions: "730x1070"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

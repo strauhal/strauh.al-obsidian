@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black And White Pixel Art Of Man And Cat A
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "830x980"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

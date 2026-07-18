@@ -6,7 +6,7 @@ source_relpath: "1900s/snow_at_kiyomizu_temple_by_tsuchiya_koyo_1936.jpg"
 collection: "1900s"
 inferred_year: "1936"
 artist: "tsuchiya koyo"
-dimensions: "1716x2455"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

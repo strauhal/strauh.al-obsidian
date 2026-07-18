@@ -6,7 +6,7 @@ source_relpath: "1900s/Self-Portrait by Eugène Burnand (1915).jpeg"
 collection: "1900s"
 inferred_year: "1915"
 artist: ""
-dimensions: "1280x1781"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

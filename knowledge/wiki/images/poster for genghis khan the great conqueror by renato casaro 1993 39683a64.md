@@ -6,7 +6,7 @@ source_relpath: "1900s/poster_for_genghis_khan_the_great_conqueror_by_renato_cas
 collection: "1900s"
 inferred_year: "1993"
 artist: "renato casaro"
-dimensions: "736x1020"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

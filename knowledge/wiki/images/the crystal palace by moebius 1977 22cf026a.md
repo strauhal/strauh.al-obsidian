@@ -6,7 +6,7 @@ source_relpath: "1900s/the_crystal_palace_by_moebius_1977.jpeg"
 collection: "1900s"
 inferred_year: "1977"
 artist: "moebius"
-dimensions: "2560x1710"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

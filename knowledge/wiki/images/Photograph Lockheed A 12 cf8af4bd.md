@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Lockheed A-12.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1024x760"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

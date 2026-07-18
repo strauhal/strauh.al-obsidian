@@ -6,7 +6,7 @@ source_relpath: "1900s/Anger transference by Richard Sargent (c.1954).jpg"
 collection: "1900s"
 inferred_year: "1954"
 artist: ""
-dimensions: "720x789"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

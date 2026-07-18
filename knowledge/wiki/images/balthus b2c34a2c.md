@@ -6,7 +6,7 @@ source_relpath: "diary/balthus.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1176"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Boy and Girl Observe Giant Head in Red 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2616x2626"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

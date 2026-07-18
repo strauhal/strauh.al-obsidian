@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Grayscale Study of Classical Male Sculptur
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2537x2420"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

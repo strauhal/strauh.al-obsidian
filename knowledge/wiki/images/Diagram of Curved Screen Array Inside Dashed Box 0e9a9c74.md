@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_Curved_Screen_Array_Inside_Dashed_Box.png"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1486x1070"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Japanese Illustration of Man Holding Da
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "483x715"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

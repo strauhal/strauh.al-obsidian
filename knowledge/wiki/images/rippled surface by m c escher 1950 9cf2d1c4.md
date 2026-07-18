@@ -6,7 +6,7 @@ source_relpath: "1900s/rippled_surface_by_m_c_escher_1950.jpg"
 collection: "1900s"
 inferred_year: "1950"
 artist: "m c escher"
-dimensions: "1688x1373"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

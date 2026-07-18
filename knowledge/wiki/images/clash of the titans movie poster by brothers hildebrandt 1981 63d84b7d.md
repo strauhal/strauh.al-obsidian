@@ -6,7 +6,7 @@ source_relpath: "1900s/clash_of_the_titans_movie_poster_by_brothers_hildebrandt_
 collection: "1900s"
 inferred_year: "1981"
 artist: "brothers hildebrandt"
-dimensions: "1171x1750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_shell_by_yoshitaka_amano_1992.jpeg"
 collection: "1900s"
 inferred_year: "1992"
 artist: "yoshitaka amano"
-dimensions: "1125x1410"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

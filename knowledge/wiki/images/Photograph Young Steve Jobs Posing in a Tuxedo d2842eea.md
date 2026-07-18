@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Young Steve Jobs Posing in a Tuxedo.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1163x1413"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

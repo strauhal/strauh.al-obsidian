@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Still Life Painting of Various Vessels 
 collection: "unsorted"
 inferred_year: ""
 artist: "Giorgio Morandi"
-dimensions: "774x516"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

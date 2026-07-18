@@ -6,7 +6,7 @@ source_relpath: "1800s/allegory_of_mining_by_theobald_reinhold_von_oer_1868.jpeg
 collection: "1800s"
 inferred_year: "1868"
 artist: "theobald reinhold von oer"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

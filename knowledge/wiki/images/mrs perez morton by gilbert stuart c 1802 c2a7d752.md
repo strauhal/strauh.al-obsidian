@@ -6,7 +6,7 @@ source_relpath: "1800s/mrs_perez_morton_by_gilbert_stuart_c_1802.jpeg"
 collection: "1800s"
 inferred_year: "1802"
 artist: "gilbert stuart"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

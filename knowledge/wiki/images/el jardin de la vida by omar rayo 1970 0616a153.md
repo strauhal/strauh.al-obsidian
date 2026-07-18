@@ -6,7 +6,7 @@ source_relpath: "1900s/el_jardin_de_la_vida_by_omar_rayo_1970.jpeg"
 collection: "1900s"
 inferred_year: "1970"
 artist: "omar rayo"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

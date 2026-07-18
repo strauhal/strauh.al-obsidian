@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Orange Cat in Backpack Wearing Earbuds on Su
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1212x1254"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

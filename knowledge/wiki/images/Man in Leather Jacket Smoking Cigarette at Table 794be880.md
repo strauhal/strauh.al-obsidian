@@ -6,7 +6,7 @@ source_relpath: "photography/Man in Leather Jacket Smoking Cigarette at Table.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "500x688"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

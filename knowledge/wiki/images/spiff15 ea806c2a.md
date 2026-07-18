@@ -6,7 +6,7 @@ source_relpath: "comics/spiff15.jpg"
 collection: "comics"
 inferred_year: ""
 artist: ""
-dimensions: "640x808"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/comics"]
 ---

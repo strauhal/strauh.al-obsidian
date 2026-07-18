@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black Dog Looking At Its Reflection In 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1166x1686"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Cozy Bedroom With Large Window And Many
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "800x1520"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

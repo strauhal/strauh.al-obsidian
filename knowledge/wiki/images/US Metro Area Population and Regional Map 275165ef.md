@@ -6,7 +6,7 @@ source_relpath: "diagrams/US_Metro_Area_Population_and_Regional_Map.jpeg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1364"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

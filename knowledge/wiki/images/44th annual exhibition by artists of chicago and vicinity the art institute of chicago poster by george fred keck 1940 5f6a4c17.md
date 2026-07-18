@@ -6,7 +6,7 @@ source_relpath: "1900s/44th_annual_exhibition_by_artists_of_chicago_and_vicinity
 collection: "1900s"
 inferred_year: "1940"
 artist: ""
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

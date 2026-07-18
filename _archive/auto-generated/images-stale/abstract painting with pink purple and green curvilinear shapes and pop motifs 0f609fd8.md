@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/abstract painting with pink floral shapes on orange and green background 2f24f49b|abstract painting with pink floral shapes on orange and green background]] — shared language: shapes, pink, green
 - [[knowledge/wiki/images/Illustration Abstract Painting with Pink Floral Shapes on Orange and Green Background dc9333ad|Illustration Abstract Painting with Pink Floral Shapes on Orange and Green Background]] — shared language: shapes, pink, green
 - [[knowledge/wiki/images/Illustration Abstract Curvilinear Architectural Sketch with Small Figures 7d027290|Illustration Abstract Curvilinear Architectural Sketch with Small Figures]] — shared language: curvilinear
-- [[knowledge/wiki/images/Illustration Pop Art Style Crying Woman on Pink Pocky Box 1fdd60d8|Illustration Pop Art Style Crying Woman on Pink Pocky Box]] — shared language: pop, pink
+- [[_archive/auto-generated/images-stale/pink background abstract digital shapes 159ab2a2|pink background abstract digital shapes]] — shared language: shapes, pink
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/black and white ink drawing of a mecha and a woman s face e9d3894e|black and white ink drawing of a mecha and a woman s face]] — shared language: mecha
 - [[knowledge/wiki/images/creature 64ad9ca4|creature]] — shared language: creature
 - [[knowledge/wiki/images/Illustration Line Drawing of Armored Mecha Figure in Action 236f9417|Illustration Line Drawing of Armored Mecha Figure in Action]] — shared language: mecha
-- [[knowledge/wiki/artists/Artist - FOREST|Artist - FOREST]] — shared language: forest
+- [[_archive/auto-generated/images-stale/anime style character standing on a mecha head b46c57d9|anime style character standing on a mecha head]] — shared language: mecha
 <!-- vault-crosslinks:end -->

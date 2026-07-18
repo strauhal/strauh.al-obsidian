@@ -6,7 +6,7 @@ source_relpath: "1600s/the_three_graces_by_peter_paul_rubens_c_1635.jpeg"
 collection: "1600s"
 inferred_year: "1635"
 artist: "peter paul rubens"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

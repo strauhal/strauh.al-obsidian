@@ -6,7 +6,7 @@ source_relpath: "computers/fibiCPURatnest.jpg"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: "1920x1363"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---

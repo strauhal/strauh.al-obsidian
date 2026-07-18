@@ -6,7 +6,7 @@ source_relpath: "photography/Man With Beard And Glasses Holding A Drawing.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Man With B
 - [[knowledge/wiki/images/Illustration Line Drawing Of Person With Glasses Holding Clipboard, Looking Intently df08ba96|Illustration Line Drawing Of Person With Glasses Holding Clipboard, Looking Intently]] — shared language: glasses, holding
 - [[knowledge/wiki/images/Man With Long Hair And Beard Playing Electronic Keyboard 6599ec0c|Man With Long Hair And Beard Playing Electronic Keyboard]] — shared language: beard
 - [[knowledge/wiki/images/Illustration Woman in Red Glasses and Blue Striped Top b2c3c981|Illustration Woman in Red Glasses and Blue Striped Top]] — shared language: glasses
-- [[knowledge/wiki/images/Illustration Pencil Sketch of an Elderly Man with Turban and Long Beard d4fc30d1|Illustration Pencil Sketch of an Elderly Man with Turban and Long Beard]] — shared language: beard
+- [[knowledge/wiki/images/Illustration Stylized Portrait of a Man with Glasses and Orange Jacket fff37f41|Illustration Stylized Portrait of a Man with Glasses and Orange Jacket]] — shared language: glasses
 <!-- vault-crosslinks:end -->

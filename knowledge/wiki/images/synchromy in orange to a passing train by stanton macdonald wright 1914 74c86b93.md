@@ -6,7 +6,7 @@ source_relpath: "1900s/synchromy_in_orange_to_a_passing_train_by_stanton_macdona
 collection: "1900s"
 inferred_year: "1914"
 artist: "stanton macdonald wright"
-dimensions: "4284x5712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

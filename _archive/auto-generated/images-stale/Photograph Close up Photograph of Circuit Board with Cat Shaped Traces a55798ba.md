@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Close up Photograph of Circuit Board with Cat Shaped Traces 32f2bbdc|Close up Photograph of Circuit Board with Cat Shaped Traces]] — shared language: traces, circuit, board
+- [[knowledge/wiki/images/Close up Photograph of Circuit Board with Cat Shaped Traces 32f2bbdc|Close up Photograph of Circuit Board with Cat Shaped Traces]] — shared language: traces, circuit, shaped
 - [[knowledge/wiki/images/Close Up Photograph of a Yellow and Green Circuit Board 46e31fce|Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board, close
 - [[_archive/auto-generated/images-stale/Photograph Close Up Photograph of a Yellow and Green Circuit Board 5f0d80c9|Photograph Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board, close
 - [[_archive/auto-generated/images-stale/close up photograph of a yellow and green circuit board a9513ebb|close up photograph of a yellow and green circuit board]] — shared language: circuit, board, close

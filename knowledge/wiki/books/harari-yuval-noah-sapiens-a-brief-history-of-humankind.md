@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Sapiens _ a brief history of humankind -- Harari, Yuval Noah -- Cloth ed, Toronto, Ontario, 2014 -- Signal Books -- 9780771038501 -- b95ec4dd19dd78efa28a3af7b9c19899 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Sapiens a brief history of humankind

@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photograph Of Person Falling From A
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "605x701"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

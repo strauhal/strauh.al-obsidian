@@ -6,7 +6,7 @@ source_relpath: "influences/marcel_proust.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "800x1119"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

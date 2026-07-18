@@ -16,9 +16,9 @@ This note exists because generated pages linked this spelling or alias. The rich
 - [[_archive/auto-generated/images-stale/mc escher metamorphosis ii 19391940 d6c6e046|mc escher metamorphosis ii 19391940]] — shared language: escher
 - [[knowledge/archive/auto-generated/artists-stale/Artist - m c escher 1952|Artist - m c escher 1952]] — shared language: escher
 - [[knowledge/archive/auto-generated/artists-stale/Artist - m c escher 1961|Artist - m c escher 1961]] — shared language: escher
-- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, alias, richer
-- [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, alias, richer
-- [[_archive/auto-generated/concept-stubs/AI Slop|AI Slop]] — shared language: canonical, alias, richer
-- [[_archive/auto-generated/concept-stubs/Memory and Preservation|Memory and Preservation]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, richer, spelling
+- [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, richer, spelling
+- [[_archive/auto-generated/concept-stubs/AI Slop|AI Slop]] — shared language: canonical, richer, spelling
+- [[_archive/auto-generated/concept-stubs/Memory and Preservation|Memory and Preservation]] — shared language: canonical, richer, spelling
 - [[knowledge/archive/auto-generated/artists-stale/Artist - m c escher 1950|Artist - m c escher 1950]] — shared language: escher
 <!-- vault-crosslinks:end -->

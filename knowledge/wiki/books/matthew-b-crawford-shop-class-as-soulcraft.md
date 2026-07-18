@@ -9,8 +9,8 @@ metadata: curated
 aliases: [shop class as soulcraft copy]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/shop class as soulcraft copy.pdf"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Shop Class as Soulcraft

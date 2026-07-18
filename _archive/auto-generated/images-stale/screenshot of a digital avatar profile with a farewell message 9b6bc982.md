@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Screenshot Roblox Avatar Profile with Farewell Message 'My Cancer Won Guys' c5b089f5|Screenshot Roblox Avatar Profile with Farewell Message 'My Cancer Won Guys']] — shared language: farewell, avatar, message
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: profile
+- [[knowledge/wiki/images/Screenshot Virtual Newsroom With Multiple Data Screens And Avatar 6750560e|Screenshot Virtual Newsroom With Multiple Data Screens And Avatar]] — shared language: avatar, screenshot
 - [[_archive/auto-generated/images-stale/Screenshot from 2024 09 09 00 11 54 79450143|Screenshot from 2024 09 09 00 11 54]] — shared language: screenshot
-- [[_archive/auto-generated/images-stale/Screenshot from 2024 09 09 00 19 21 9a465f13|Screenshot from 2024 09 09 00 19 21]] — shared language: screenshot
 <!-- vault-crosslinks:end -->

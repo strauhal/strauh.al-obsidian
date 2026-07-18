@@ -6,7 +6,7 @@ source_relpath: "diagrams/Log-Log_Plot_of_Validation_Loss_Versus_Compute.jpeg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1385x845"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

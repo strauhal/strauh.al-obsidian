@@ -6,7 +6,7 @@ source_relpath: "1500s/kayumars_and_his_court_by_sultan_muhammad_c_15241525.jpg"
 collection: "1500s"
 inferred_year: "1500s"
 artist: "sultan muhammad"
-dimensions: "2000x2964"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Swimming Pool with Palm Trees 
 collection: "unsorted"
 inferred_year: ""
 artist: "Hiroshi Nagai"
-dimensions: "1995x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

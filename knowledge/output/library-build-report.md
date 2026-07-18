@@ -1,10 +1,10 @@
 # Library Build Report
 
-Generated: 2026-07-10T12:26:42
+Generated: 2026-07-18T00:07:18
 
-Entries parsed: 420
+Entries parsed: 421
 
-- Art and Aesthetics: 69
+- Art and Aesthetics: 70
 - Design and Making: 10
 - Literature: 30
 - Media and Technology: 33
@@ -24,6 +24,6 @@ Entries parsed: 420
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: making, design
 - [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: music, sound
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: technology, aesthetics, media
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: music, sound
 - [[knowledge/wiki/books/filmstudents-attentionspan|filmstudents attentionspan]] — shared language: psychology
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: music, sound
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Silver Surfer on his board above a planet with
 collection: "unsorted"
 inferred_year: ""
 artist: "M bius"
-dimensions: "1080x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

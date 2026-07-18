@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Oil Painting of Pink Roses in a Garden.
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2048x2034"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

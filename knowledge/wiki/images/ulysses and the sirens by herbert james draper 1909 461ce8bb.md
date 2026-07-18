@@ -6,7 +6,7 @@ source_relpath: "1900s/ulysses_and_the_sirens_by_herbert_james_draper_1909.jpg"
 collection: "1900s"
 inferred_year: "1909"
 artist: "herbert james draper"
-dimensions: "1870x2212"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

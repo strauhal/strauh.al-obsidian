@@ -6,7 +6,7 @@ source_relpath: "1800s/Time, the Destroyer by Jean-Baptiste Regnault (1800).jpg"
 collection: "1800s"
 inferred_year: "1800"
 artist: ""
-dimensions: "481x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

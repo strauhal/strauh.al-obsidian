@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - XPENG Iron by XPENG.webp"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "XPENG"
-dimensions: "1080x1147"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

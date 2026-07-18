@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Colorful Detailed Cityscape on Mountain wi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1628x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

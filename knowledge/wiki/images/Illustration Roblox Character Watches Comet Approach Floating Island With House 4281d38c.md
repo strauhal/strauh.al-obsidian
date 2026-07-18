@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Roblox Character Watches Comet Approach
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

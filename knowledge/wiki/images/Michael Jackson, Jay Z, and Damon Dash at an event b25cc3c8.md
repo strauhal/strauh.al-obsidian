@@ -6,7 +6,7 @@ source_relpath: "photography/Michael Jackson, Jay-Z, and Damon Dash at an event.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1284x1226"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/selbstbildnis_self_portrait_by_karl_schmidt_rottluff_1919
 collection: "1900s"
 inferred_year: "1919"
 artist: "karl schmidt rottluff"
-dimensions: "522x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

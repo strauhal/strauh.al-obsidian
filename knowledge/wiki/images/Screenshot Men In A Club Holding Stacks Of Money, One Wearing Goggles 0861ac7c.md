@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Men In A Club Holding Stacks Of Money, On
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3360x1782"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

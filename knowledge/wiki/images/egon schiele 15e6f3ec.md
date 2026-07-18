@@ -6,7 +6,7 @@ source_relpath: "influences/egon_schiele.jpeg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "849x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

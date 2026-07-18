@@ -6,7 +6,7 @@ source_relpath: "1900s/pablo_picasso_drawing_a_figure_with_light_by_gjon_mili_19
 collection: "1900s"
 inferred_year: "1949"
 artist: "gjon mili"
-dimensions: "620x612"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

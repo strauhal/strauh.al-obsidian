@@ -64,7 +64,7 @@ from it, and the baseline the [[The Ceremony|ceremony]] is meant to work on.
 - [[knowledge/wiki/anchors/california|california]] — named in this note
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: failures, bottom, abandoned
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: work, projects, label
-- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: rebuild, failures, projects
+- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: rebuild, failures, abandoned
 - [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: work, attention, economy
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: teaching, work, ryuichi
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: diary, amor, fati

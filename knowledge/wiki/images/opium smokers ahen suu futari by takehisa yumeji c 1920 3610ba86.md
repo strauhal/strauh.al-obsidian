@@ -6,7 +6,7 @@ source_relpath: "1900s/opium_smokers_ahen_suu_futari_by_takehisa_yumeji_c_1920.j
 collection: "1900s"
 inferred_year: "1920"
 artist: "takehisa yumeji"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

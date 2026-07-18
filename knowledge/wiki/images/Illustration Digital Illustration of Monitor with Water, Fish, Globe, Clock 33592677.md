@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Digital Illustration of Monitor with Wa
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "766x360"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/fruit_by_yoshitaka_amano_1989.jpg"
 collection: "1900s"
 inferred_year: "1989"
 artist: "yoshitaka amano"
-dimensions: "1989x2724"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

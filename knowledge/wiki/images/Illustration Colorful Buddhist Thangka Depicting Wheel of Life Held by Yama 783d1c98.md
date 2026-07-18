@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Colorful Buddhist Thangka Depicting Whe
 collection: "unsorted"
 inferred_year: ""
 artist: "Yama"
-dimensions: "888x1218"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

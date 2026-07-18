@@ -6,7 +6,7 @@ source_relpath: "1800s/el_gran_capitan_recorriendo_el_campo_de_la_batalla_de_cer
 collection: "1800s"
 inferred_year: "1835"
 artist: "federico de madrazo y kuntz"
-dimensions: "2952x2082"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

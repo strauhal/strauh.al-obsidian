@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Digital Sketch and Diagrams Illustrating F
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1920x925"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

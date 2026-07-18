@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Isometric View of a Chaotic, Crowded, Dyst
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3259x2344"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

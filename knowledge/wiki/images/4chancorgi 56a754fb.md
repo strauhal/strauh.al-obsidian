@@ -6,7 +6,7 @@ source_relpath: "wallpapers/4chancorgi.png"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "1680x1050"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

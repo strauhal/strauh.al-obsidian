@@ -6,7 +6,7 @@ source_relpath: "1500s/charles_brandon_1st_duke_of_suffolk_by_hans_holbein_the_y
 collection: "1500s"
 inferred_year: "1500s"
 artist: "hans holbein the younger"
-dimensions: "1052x1500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

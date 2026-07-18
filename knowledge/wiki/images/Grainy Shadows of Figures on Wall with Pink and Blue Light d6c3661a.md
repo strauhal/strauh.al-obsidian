@@ -6,7 +6,7 @@ source_relpath: "photography/Grainy Shadows of Figures on Wall with Pink and Blu
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "896x1344"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

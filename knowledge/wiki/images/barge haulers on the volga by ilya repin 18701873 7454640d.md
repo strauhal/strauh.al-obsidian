@@ -6,7 +6,7 @@ source_relpath: "1800s/barge_haulers_on_the_volga_by_ilya_repin_18701873.jpg"
 collection: "1800s"
 inferred_year: "1800s"
 artist: "ilya repin 18701873"
-dimensions: "4586x2120"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

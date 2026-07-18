@@ -6,7 +6,7 @@ source_relpath: "1900s/Valley of Silence by Franklin Booth (1919).jpg"
 collection: "1900s"
 inferred_year: "1919"
 artist: ""
-dimensions: "1214x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

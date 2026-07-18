@@ -38,8 +38,8 @@ Images attributed by filename: 7
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/woman i by willem de kooning 195052 91bd517a|woman i by willem de kooning 195052]] — shared language: kooning, willem
 - [[knowledge/wiki/artists/Artist - willem de kooning 195052|Artist - willem de kooning 195052]] — shared language: kooning, willem
+- [[knowledge/wiki/images/woman i by willem de kooning 195052 91bd517a|woman i by willem de kooning 195052]] — shared language: kooning, willem
 - [[knowledge/wiki/artists/Artist - willem de kooning 194346|Artist - willem de kooning 194346]] — shared language: kooning, willem
 - [[knowledge/wiki/images/queen of hearts by willem de kooning 194346 f2356877|queen of hearts by willem de kooning 194346]] — shared language: kooning, willem
 - [[knowledge/wiki/images/willem de kooning in his studio springs long island by hans namuth 1964 85bf15cd|willem de kooning in his studio springs long island by hans namuth 1964]] — shared language: kooning, willem

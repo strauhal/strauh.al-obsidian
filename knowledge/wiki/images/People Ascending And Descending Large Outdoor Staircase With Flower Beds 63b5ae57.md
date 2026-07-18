@@ -6,7 +6,7 @@ source_relpath: "photography/People Ascending And Descending Large Outdoor Stair
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "960x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

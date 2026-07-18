@@ -6,7 +6,7 @@ source_relpath: "photography/Two Silhouetted Figures Fishing on a Small Island i
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1079x805"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

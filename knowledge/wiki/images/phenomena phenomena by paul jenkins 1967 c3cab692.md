@@ -6,7 +6,7 @@ source_relpath: "1900s/phenomena_phenomena_by_paul_jenkins_1967.jpeg"
 collection: "1900s"
 inferred_year: "1967"
 artist: "paul jenkins"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

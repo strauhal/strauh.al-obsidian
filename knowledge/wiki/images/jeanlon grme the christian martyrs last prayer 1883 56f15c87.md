@@ -6,7 +6,7 @@ source_relpath: "1800s/jeanlon_grme_the_christian_martyrs_last_prayer_1883.jpg"
 collection: "1800s"
 inferred_year: "1883"
 artist: ""
-dimensions: "1280x747"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

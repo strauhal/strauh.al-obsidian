@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Eyes Over Water With Setting Sun And Tear.
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1179x1169"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

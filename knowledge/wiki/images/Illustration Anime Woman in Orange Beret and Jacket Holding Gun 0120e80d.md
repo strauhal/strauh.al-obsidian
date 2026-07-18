@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Anime Woman in Orange Beret and Jacket 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3144x4361"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

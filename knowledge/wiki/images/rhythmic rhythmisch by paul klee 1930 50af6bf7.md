@@ -6,7 +6,7 @@ source_relpath: "1900s/rhythmic_rhythmisch_by_paul_klee_1930.jpeg"
 collection: "1900s"
 inferred_year: "1930"
 artist: "paul klee"
-dimensions: "1040x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

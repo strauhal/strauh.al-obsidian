@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Green Willow Branches Reflected in Wate
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1378x1180"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

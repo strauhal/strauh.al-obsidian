@@ -6,7 +6,7 @@ source_relpath: "1900s/high_speed_ground_transportation_system_concept_by_david_
 collection: "1900s"
 inferred_year: "1978"
 artist: "david s schlinke"
-dimensions: "2795x1994"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

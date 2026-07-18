@@ -6,7 +6,7 @@ source_relpath: "1900s/portrait_of_the_cellist_robert_kollman_by_julian_story_19
 collection: "1900s"
 inferred_year: "1904"
 artist: "julian story"
-dimensions: "1080x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

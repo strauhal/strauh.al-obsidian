@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_a_man_holding_a_portrait_of_a_woman_by_nicola
 collection: "1700s"
 inferred_year: "1720"
 artist: "nicolas de largilliere"
-dimensions: "871x1181"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

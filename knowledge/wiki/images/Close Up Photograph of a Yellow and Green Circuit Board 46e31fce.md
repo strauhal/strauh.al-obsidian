@@ -6,7 +6,7 @@ source_relpath: "photography/Close-Up Photograph of a Yellow and Green Circuit B
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1100x1100"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

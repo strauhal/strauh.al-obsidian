@@ -6,7 +6,7 @@ source_relpath: "1500s/saint_thomas_and_saint_simon_by_jost_amman_1573.jpg"
 collection: "1500s"
 inferred_year: "1573"
 artist: "jost amman"
-dimensions: "1280x1643"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

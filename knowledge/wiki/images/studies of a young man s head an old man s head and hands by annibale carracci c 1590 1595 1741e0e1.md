@@ -6,7 +6,7 @@ source_relpath: "1500s/studies_of_a_young_man_s_head_an_old_man_s_head_and_hands
 collection: "1500s"
 inferred_year: "1595"
 artist: "annibale carracci"
-dimensions: "752x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

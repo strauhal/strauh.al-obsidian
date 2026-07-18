@@ -6,7 +6,7 @@ source_relpath: "unsorted/Reliquary of Mary Magdalene.jpeg"
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "525x703"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

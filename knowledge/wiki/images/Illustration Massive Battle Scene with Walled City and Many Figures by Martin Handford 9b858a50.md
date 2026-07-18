@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Massive Battle Scene with Walled City and 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Martin Handford"
-dimensions: "2048x1324"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

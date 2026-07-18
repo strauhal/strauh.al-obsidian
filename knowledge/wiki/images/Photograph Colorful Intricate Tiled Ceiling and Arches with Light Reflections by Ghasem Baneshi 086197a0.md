@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Colorful Intricate Tiled Ceiling and Arches 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Ghasem Baneshi"
-dimensions: "1080x1346"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

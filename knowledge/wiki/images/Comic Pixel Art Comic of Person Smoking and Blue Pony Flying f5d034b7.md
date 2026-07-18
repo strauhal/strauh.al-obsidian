@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Pixel Art Comic of Person Smoking and Blue Pony F
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "640x683"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

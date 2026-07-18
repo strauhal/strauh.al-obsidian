@@ -6,7 +6,7 @@ source_relpath: "1700s/david_hume_by_allan_ramsay_1754.jpg"
 collection: "1700s"
 inferred_year: "1754"
 artist: "allan ramsay"
-dimensions: "835x1023"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photo of Figure Buried Headfirst in
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "552x779"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

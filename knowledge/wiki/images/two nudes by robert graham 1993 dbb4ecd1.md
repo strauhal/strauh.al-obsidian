@@ -6,7 +6,7 @@ source_relpath: "1900s/two_nudes_by_robert_graham_1993.jpeg"
 collection: "1900s"
 inferred_year: "1993"
 artist: "robert graham"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

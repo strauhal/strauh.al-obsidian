@@ -6,7 +6,7 @@ source_relpath: "1900s/der_gieer_by_edgar_ende_1948.jpg"
 collection: "1900s"
 inferred_year: "1948"
 artist: "edgar ende"
-dimensions: "1080x850"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

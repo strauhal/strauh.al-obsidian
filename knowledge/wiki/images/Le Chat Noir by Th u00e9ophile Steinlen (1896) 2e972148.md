@@ -6,7 +6,7 @@ source_relpath: "1800s/Le Chat Noir by Th-u00e9ophile Steinlen (1896).jpg"
 collection: "1800s"
 inferred_year: "1896"
 artist: ""
-dimensions: "2048x2563"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

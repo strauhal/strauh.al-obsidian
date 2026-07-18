@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Green Field With Fire And Black Smoke Agai
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1400x1400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/yosemite_falls_by_chiura_obata_1930.jpeg"
 collection: "1900s"
 inferred_year: "1930"
 artist: "chiura obata"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

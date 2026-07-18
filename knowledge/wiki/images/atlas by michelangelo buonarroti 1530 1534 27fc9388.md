@@ -6,7 +6,7 @@ source_relpath: "1500s/atlas_by_michelangelo_buonarroti_1530_1534.jpeg"
 collection: "1500s"
 inferred_year: "1534"
 artist: "michelangelo buonarroti"
-dimensions: "1280x1886"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

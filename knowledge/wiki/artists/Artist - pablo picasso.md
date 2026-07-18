@@ -91,9 +91,9 @@ Images attributed by filename: 25
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Line Drawing Of Reclining Nude Woman 60246e28|Illustration Line Drawing Of Reclining Nude Woman]] — named in this note
-- [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
 - [[knowledge/wiki/images/T u00eate de femme (Head of a Woman) by Pablo Picasso (1952 1953) 9666a4d3|T u00eate de femme (Head of a Woman) by Pablo Picasso (1952 1953)]] — shared language: picasso, pablo, femme
 - [[knowledge/wiki/images/pablo picasso femme dans un fauteuil woman in an armchair 1938 0b88bc86|pablo picasso femme dans un fauteuil woman in an armchair 1938]] — shared language: picasso, pablo, femme
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: femme, nude, reclining
 - [[knowledge/wiki/images/pablo picasso les demoiselles davignon 1907 38a86cf2|pablo picasso les demoiselles davignon 1907]] — shared language: picasso, pablo, demoiselles
+- [[knowledge/wiki/images/Jacqueline (Reine) by Pablo Picasso (1959) b5f82836|Jacqueline (Reine) by Pablo Picasso (1959)]] — shared language: picasso, pablo, jacqueline
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1800s/Rainy Day, Boston by Childe Hassam (1885).jpg"
 collection: "1800s"
 inferred_year: "1885"
 artist: ""
-dimensions: "1920x1027"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

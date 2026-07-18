@@ -6,7 +6,7 @@ source_relpath: "diagrams/Car_Colors_By_Year.jpeg"
 collection: "diagrams"
 inferred_year: ""
 artist: "Year"
-dimensions: "1440x810"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

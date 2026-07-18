@@ -6,7 +6,7 @@ source_relpath: "1900s/monument_logan_square_by_the_elevated_lines_1927.jpeg"
 collection: "1900s"
 inferred_year: "1927"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

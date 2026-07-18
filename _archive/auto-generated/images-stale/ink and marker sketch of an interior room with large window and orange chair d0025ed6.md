@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Ink and Marker Sketch of Interior Room with Orange Chair 1909bb5c|Illustration Ink and Marker Sketch of Interior Room with Orange Chair]] — shared language: marker, chair, orange
 - [[knowledge/wiki/images/Illustration Ink and Marker Sketch of a Busy Restaurant Interior e3b10591|Illustration Ink and Marker Sketch of a Busy Restaurant Interior]] — shared language: marker, sketch, interior
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch, ink
 - [[_archive/auto-generated/images-stale/ink and marker sketch of a sunlit orange toned cafe interior with arched windows 77c32668|ink and marker sketch of a sunlit orange toned cafe interior with arched windows]] — shared language: marker, orange, sketch
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "photography/Man Painting On Floating Easel In Water Near City.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "810x984"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - Daniel Landin|Artist - Daniel Landin]] — shared language: daniel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - daniel isles|Artist - Daniel Isles]] — shared language: daniel
 - [[knowledge/wiki/artists/Artist - Daniel Isles|Artist - Daniel Isles]] — shared language: daniel
-- [[knowledge/archive/auto-generated/artists-stale/Artist - daniel isles 2018|Artist - daniel isles 2018]] — shared language: daniel
 - [[knowledge/wiki/books/daniel-kolitz-the-goon-squad|The Goon Squad,]] — shared language: daniel
+- [[knowledge/archive/auto-generated/artists-stale/Artist - daniel isles 2018|Artist - daniel isles 2018]] — shared language: daniel
 <!-- vault-crosslinks:end -->

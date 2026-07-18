@@ -6,7 +6,7 @@ source_relpath: "1900s/the_rest_of_us_by_susan_kare_1983.png"
 collection: "1900s"
 inferred_year: "1983"
 artist: "susan kare"
-dimensions: "1830x945"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

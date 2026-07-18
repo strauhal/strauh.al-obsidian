@@ -6,7 +6,7 @@ source_relpath: "2000s/The City of Dreams by Yiqing Zhao (2020).jpg"
 collection: "2000s"
 inferred_year: "2020"
 artist: ""
-dimensions: "8192x5522"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

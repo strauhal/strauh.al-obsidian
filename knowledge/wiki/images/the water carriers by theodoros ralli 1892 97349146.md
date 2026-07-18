@@ -6,7 +6,7 @@ source_relpath: "1800s/the_water_carriers_by_theodoros_ralli_1892.jpg"
 collection: "1800s"
 inferred_year: "1892"
 artist: "theodoros ralli"
-dimensions: "1920x1442"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

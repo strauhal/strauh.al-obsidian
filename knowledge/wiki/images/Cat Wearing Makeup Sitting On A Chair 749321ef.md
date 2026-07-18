@@ -6,7 +6,7 @@ source_relpath: "photography/Cat Wearing Makeup Sitting On A Chair.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "479x640"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

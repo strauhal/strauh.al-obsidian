@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Liquor Store at Dusk, Tall Trees, Mountains,
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Nick Carver"
-dimensions: "661x529"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

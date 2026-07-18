@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Pink Horned Creature With Garbled Text And Fir
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "512x512"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

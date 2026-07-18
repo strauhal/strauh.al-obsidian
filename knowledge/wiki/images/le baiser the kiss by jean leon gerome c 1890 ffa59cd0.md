@@ -6,7 +6,7 @@ source_relpath: "1800s/le_baiser_the_kiss_by_jean_leon_gerome_c_1890.jpeg"
 collection: "1800s"
 inferred_year: "1890"
 artist: "jean leon gerome"
-dimensions: "1000x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

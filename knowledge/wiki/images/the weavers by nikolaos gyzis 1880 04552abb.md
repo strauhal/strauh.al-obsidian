@@ -6,7 +6,7 @@ source_relpath: "1800s/the_weavers_by_nikolaos_gyzis_1880.jpg"
 collection: "1800s"
 inferred_year: "1880"
 artist: "nikolaos gyzis"
-dimensions: "1647x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1600s/portrait_of_juan_de_pareja_by_diego_velazquez_1650.jpeg"
 collection: "1600s"
 inferred_year: "1650"
 artist: "diego velazquez"
-dimensions: "3363x3908"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Intricately Tiled Islamic Dome And Archway I
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

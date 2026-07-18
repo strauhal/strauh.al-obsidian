@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Alpine Ibex Leaping Across a Deep Chasm.jpeg
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "822x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

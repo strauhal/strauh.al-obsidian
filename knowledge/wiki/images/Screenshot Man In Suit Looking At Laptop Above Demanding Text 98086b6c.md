@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Man In Suit Looking At Laptop Above Deman
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "554x753"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

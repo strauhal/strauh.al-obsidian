@@ -6,7 +6,7 @@ source_relpath: "1800s/Lake Lucerne by Robert Zünd (c. 1880).jpg"
 collection: "1800s"
 inferred_year: "1880"
 artist: ""
-dimensions: "1024x700"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/Lake Lucerne by 
 - [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: robert
 - [[knowledge/wiki/images/Illustration Two Figures Lighting Cigarette At Sunset By Lake fc5de742|Illustration Two Figures Lighting Cigarette At Sunset By Lake]] — shared language: lake
 - [[knowledge/wiki/images/On Lake Attersee by Gustav Klimt 80d2aa4e|On Lake Attersee by Gustav Klimt]] — shared language: lake
-- [[knowledge/wiki/images/Illustration Landscape Painting of Lake, Trees, Mountains, and Sheep 2b2f295d|Illustration Landscape Painting of Lake, Trees, Mountains, and Sheep]] — shared language: lake
+- [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — shared language: robert
 <!-- vault-crosslinks:end -->

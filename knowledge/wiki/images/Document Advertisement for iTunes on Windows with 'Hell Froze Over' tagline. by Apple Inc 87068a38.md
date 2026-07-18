@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Advertisement for iTunes on Windows with 'H
 collection: "unsorted"
 inferred_year: ""
 artist: "Apple Inc"
-dimensions: "1327x1157"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/The American by Bo Bartlett (2016).jpg"
 collection: "2000s"
 inferred_year: "2016"
 artist: ""
-dimensions: "766x623"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

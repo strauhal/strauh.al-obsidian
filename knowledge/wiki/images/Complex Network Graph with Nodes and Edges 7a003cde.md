@@ -6,7 +6,7 @@ source_relpath: "diagrams/Complex_Network_Graph_with_Nodes_and_Edges.png"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1904x1622"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

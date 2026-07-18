@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Nāgārjuna (philosophe)_ David J. Kalupahana - The philosophy of the middle way_ Mūlamadhyamakakārikā-SUNY Press (1986).epub"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # The philosophy of the middle way Mūlamadhyamakakārikā-SUNY Press

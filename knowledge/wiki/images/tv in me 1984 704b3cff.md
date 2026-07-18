@@ -6,7 +6,7 @@ source_relpath: "1900s/tv_in_me_1984.png"
 collection: "1900s"
 inferred_year: "1900s"
 artist: ""
-dimensions: "1408x2628"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

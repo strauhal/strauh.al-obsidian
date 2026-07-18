@@ -6,7 +6,7 @@ source_relpath: "photography/Person with Blonde Pigtails Wearing Sweater with Cr
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1280x1920"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

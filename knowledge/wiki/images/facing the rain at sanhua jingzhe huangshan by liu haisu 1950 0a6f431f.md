@@ -6,7 +6,7 @@ source_relpath: "1900s/facing_the_rain_at_sanhua_jingzhe_huangshan_by_liu_haisu_
 collection: "1900s"
 inferred_year: "1950"
 artist: "liu haisu"
-dimensions: "2268x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/facing_the_rain_
 - [[knowledge/wiki/images/The Man on the Sofa by Liu Ye (2003) 776f8d48|The Man on the Sofa by Liu Ye (2003)]] — shared language: liu
 - [[knowledge/wiki/artists/Artist - liu xiaodong|Artist - liu xiaodong]] — shared language: liu
 - [[knowledge/wiki/images/the waitress by liu xiaodong 1994 f0ce6cc5|the waitress by liu xiaodong 1994]] — shared language: liu
-- [[knowledge/wiki/images/the son of the earth by liu xiaodong 1999 0847c546|the son of the earth by liu xiaodong 1999]] — shared language: liu
+- [[knowledge/wiki/artists/Artist - Liu Heung Shing|Artist - Liu Heung Shing]] — shared language: liu
 <!-- vault-crosslinks:end -->

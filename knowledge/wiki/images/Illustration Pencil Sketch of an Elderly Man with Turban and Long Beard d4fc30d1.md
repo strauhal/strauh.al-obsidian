@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pencil Sketch of an Elderly Man with Tu
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "463x467"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

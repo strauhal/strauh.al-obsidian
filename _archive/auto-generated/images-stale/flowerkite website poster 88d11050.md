@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/flowerkite website png 5b33fcc0|flowerkite website png]] — shared language: flowerkite, website
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: website
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: website
+- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: website
 - [[_archive/auto-generated/images-stale/burberry website png 429f934c|burberry website png]] — shared language: website
-- [[_archive/auto-generated/images-stale/busted psychedelic poster d6906db3|busted psychedelic poster]] — shared language: poster, poster.png
 <!-- vault-crosslinks:end -->

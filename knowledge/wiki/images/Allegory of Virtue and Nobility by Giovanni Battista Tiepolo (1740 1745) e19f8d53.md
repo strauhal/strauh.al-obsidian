@@ -6,7 +6,7 @@ source_relpath: "2000s/Allegory of Virtue and Nobility by Giovanni Battista Tiep
 collection: "2000s"
 inferred_year: "1745"
 artist: ""
-dimensions: "5094x6001"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

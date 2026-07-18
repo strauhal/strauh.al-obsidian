@@ -6,7 +6,7 @@ source_relpath: "photography/Tall Buildings Against Blue Sky With Single Cloud.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1801x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

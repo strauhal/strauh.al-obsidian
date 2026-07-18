@@ -6,7 +6,7 @@ source_relpath: "influences/congo.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "1200x980"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

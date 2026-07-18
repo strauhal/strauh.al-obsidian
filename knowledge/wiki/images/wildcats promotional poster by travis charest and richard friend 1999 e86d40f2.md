@@ -6,7 +6,7 @@ source_relpath: "1900s/wildcats_promotional_poster_by_travis_charest_and_richard
 collection: "1900s"
 inferred_year: "1999"
 artist: "travis charest and richard friend"
-dimensions: "1243x1910"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

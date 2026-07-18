@@ -6,7 +6,7 @@ source_relpath: "photography/Person Balancing Tall Stack Of Baseball Caps On Hea
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "523x586"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

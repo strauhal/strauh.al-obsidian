@@ -6,7 +6,7 @@ source_relpath: "1700s/ecstasy_of_st_francis_by_giambattista_piazzetta_c_1730.jp
 collection: "1700s"
 inferred_year: "1730"
 artist: "giambattista piazzetta"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

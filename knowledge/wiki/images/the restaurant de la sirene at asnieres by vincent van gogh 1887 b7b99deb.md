@@ -6,7 +6,7 @@ source_relpath: "1800s/the_restaurant_de_la_sirene_at_asnieres_by_vincent_van_go
 collection: "1800s"
 inferred_year: "1887"
 artist: "vincent van gogh"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

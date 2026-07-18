@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Digitally Manipulated Ornate Wooden Str
 collection: "unsorted"
 inferred_year: ""
 artist: "Ferruccio Laviani"
-dimensions: "640x906"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

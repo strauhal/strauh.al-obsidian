@@ -6,7 +6,7 @@ source_relpath: "1900s/The Elephants by Salvador Dalí (1948).jpeg"
 collection: "1900s"
 inferred_year: "1948"
 artist: ""
-dimensions: "1080x901"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Animated Character With Blonde Hair And P
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "900x900"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

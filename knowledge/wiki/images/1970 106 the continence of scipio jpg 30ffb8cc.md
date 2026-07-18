@@ -6,7 +6,7 @@ source_relpath: "1900s/1970_106_the_continence_of_scipio_jpg.jpg"
 collection: "1900s"
 inferred_year: "1970"
 artist: ""
-dimensions: "2899x2250"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

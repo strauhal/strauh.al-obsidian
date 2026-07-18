@@ -6,7 +6,7 @@ source_relpath: "photography/Wet Park Bench And Brick Paving.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "3974x5953"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

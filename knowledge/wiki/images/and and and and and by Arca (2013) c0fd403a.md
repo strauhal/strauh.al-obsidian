@@ -6,7 +6,7 @@ source_relpath: "2000s/&&&&& by Arca (2013).jpg"
 collection: "2000s"
 inferred_year: "2013"
 artist: ""
-dimensions: "800x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

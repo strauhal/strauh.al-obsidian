@@ -558,12 +558,12 @@ strauh.al/knowledge_base/2024_misc_bookmarks
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[_archive/auto-generated/images-stale/miftalkcollage jesse kanda 8c32f32f|miftalkcollage jesse kanda]] — named in this note
 - [[knowledge/wiki/images/jesse kanda 3f3393b2|jesse kanda]] — named in this note
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
-- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — named in this note
-- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — named in this note
-- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — named in this note
-- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — named in this note
-- [[knowledge/wiki/books/ambient-art|Ambient art]] — named in this note
 - [[knowledge/wiki/anchors/aphex-twin|Aphex Twin]] — named in this note
+- [[knowledge/wiki/pages/culture society|culture society]] — named in this note
+- [[knowledge/wiki/anchors/james-bridle|James Bridle]] — named in this note
+- [[knowledge/wiki/anchors/katsuhiro-otomo|Katsuhiro Otomo]] — named in this note
+- [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pixel Art of White Character in Blue Je
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "100x100"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

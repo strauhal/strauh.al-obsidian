@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Tim
 
 - [[knowledge/wiki/images/Timeline of Modern Philosophers and Their Influences 26ec9142|Timeline of Modern Philosophers and Their Influences]] — named in this note
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — named in this note
-- [[_archive/auto-generated/images-stale/Timeline of modern philosophers who have influenced philosophies of science b1bfe461|Timeline of modern philosophers who have influenced philosophies of science]] — shared language: timeline, modern
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences
+- [[_archive/auto-generated/images-stale/Timeline of modern philosophers who have influenced philosophies of science b1bfe461|Timeline of modern philosophers who have influenced philosophies of science]] — shared language: timeline, modern
 <!-- vault-crosslinks:end -->

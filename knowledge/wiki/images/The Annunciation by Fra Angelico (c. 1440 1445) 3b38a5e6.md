@@ -6,7 +6,7 @@ source_relpath: "1400s/The Annunciation by Fra Angelico (c. 1440–1445).jpg"
 collection: "1400s"
 inferred_year: "1445"
 artist: ""
-dimensions: "3200x2234"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

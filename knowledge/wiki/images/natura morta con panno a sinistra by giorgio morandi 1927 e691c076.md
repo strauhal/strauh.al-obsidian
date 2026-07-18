@@ -6,7 +6,7 @@ source_relpath: "1900s/natura_morta_con_panno_a_sinistra_by_giorgio_morandi_1927
 collection: "1900s"
 inferred_year: "1927"
 artist: "giorgio morandi"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

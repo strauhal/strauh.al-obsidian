@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Profile of a Person with Swirl
 collection: "unsorted"
 inferred_year: ""
 artist: "Ruth Robbins"
-dimensions: "250x347"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

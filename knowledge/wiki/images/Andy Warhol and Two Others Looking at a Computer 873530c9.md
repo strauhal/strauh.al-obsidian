@@ -6,7 +6,7 @@ source_relpath: "photography/Andy Warhol and Two Others Looking at a Computer.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1000x643"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

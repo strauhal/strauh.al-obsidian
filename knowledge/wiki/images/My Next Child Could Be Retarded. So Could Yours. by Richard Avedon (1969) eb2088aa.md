@@ -6,7 +6,7 @@ source_relpath: "1900s/My Next Child Could Be Retarded. So Could Yours. by Richa
 collection: "1900s"
 inferred_year: "1969"
 artist: ""
-dimensions: "1618x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

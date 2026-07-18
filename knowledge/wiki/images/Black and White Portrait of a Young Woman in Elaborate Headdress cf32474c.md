@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Portrait of a Young Woman in Elabor
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "340x467"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

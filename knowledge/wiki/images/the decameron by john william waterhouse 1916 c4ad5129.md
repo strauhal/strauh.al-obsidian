@@ -6,7 +6,7 @@ source_relpath: "1900s/the_decameron_by_john_william_waterhouse_1916.jpg"
 collection: "1900s"
 inferred_year: "1916"
 artist: "john william waterhouse"
-dimensions: "1200x758"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

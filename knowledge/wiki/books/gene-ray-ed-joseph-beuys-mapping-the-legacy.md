@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Ray Gene ed Joseph Beuys Mapping the Legacy]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Ray_Gene_ed_Joseph_Beuys_Mapping_the_Legacy.pdf"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Joseph Beuys: Mapping the Legacy

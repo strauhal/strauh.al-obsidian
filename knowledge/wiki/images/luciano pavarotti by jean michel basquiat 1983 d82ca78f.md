@@ -6,7 +6,7 @@ source_relpath: "1900s/luciano_pavarotti_by_jean_michel_basquiat_1983.jpg"
 collection: "1900s"
 inferred_year: "1983"
 artist: "jean michel basquiat"
-dimensions: "800x1052"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

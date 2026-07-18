@@ -6,7 +6,7 @@ source_relpath: "2000s/Hill Climber by Vulfpeck (2018).jpg"
 collection: "2000s"
 inferred_year: "2018"
 artist: ""
-dimensions: "960x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

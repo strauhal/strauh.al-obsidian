@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Weathered Bronze Sculpture of Winged Femal
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3000x3000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Line Drawing of Standing Female Figure in Long Dress ad8d9efa|Illustration Line Drawing of Standing Female Figure in Long Dress]] — shared language: female, long, dress
+- [[knowledge/wiki/images/Illustration Line Drawing of Standing Female Figure in Long Dress ad8d9efa|Illustration Line Drawing of Standing Female Figure in Long Dress]] — shared language: female, dress, long
 - [[knowledge/wiki/images/Illustration Portrait of a Woman in a White Dress c6374fdf|Illustration Portrait of a Woman in a White Dress]] — shared language: dress, dress.jpeg
 - [[knowledge/wiki/images/Illustration Loose Line Drawing of Standing Female Figure in Dress e1c0879b|Illustration Loose Line Drawing of Standing Female Figure in Dress]] — shared language: female, dress, dress.jpeg
 - [[knowledge/wiki/images/Illustration Woman In Long Dress By Fireplace 9a3142bd|Illustration Woman In Long Dress By Fireplace]] — shared language: dress, long

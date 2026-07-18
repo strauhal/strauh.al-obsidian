@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Geometric Composition with Dis
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1152x2047"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

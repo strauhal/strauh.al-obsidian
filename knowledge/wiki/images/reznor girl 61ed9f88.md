@@ -6,7 +6,7 @@ source_relpath: "pictures_of_musicians/reznor girl.jpg"
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: "800x721"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---

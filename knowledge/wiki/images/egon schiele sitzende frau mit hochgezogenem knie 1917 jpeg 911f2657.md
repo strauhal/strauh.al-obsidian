@@ -6,7 +6,7 @@ source_relpath: "1900s/egon_schiele_sitzende_frau_mit_hochgezogenem_knie_1917_jp
 collection: "1900s"
 inferred_year: "1917"
 artist: ""
-dimensions: "3816x5658"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

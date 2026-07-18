@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Social Media Post Featuring ASCII Art Cha
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1125x957"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Screenshot of Social Media Post with Abstract Line Drawing 7b8adc36|Screenshot Screenshot of Social Media Post with Abstract Line Drawing]] — shared language: social, post, media
-- [[knowledge/wiki/images/Screenshot Social Media Post Featuring Vanilla Ice in American Flag Jacket f50f650f|Screenshot Social Media Post Featuring Vanilla Ice in American Flag Jacket]] — shared language: social, post, featuring
 - [[knowledge/wiki/images/Screenshot Social Media Post With Text And Suburban Street Photograph 9324eabd|Screenshot Social Media Post With Text And Suburban Street Photograph]] — shared language: social, post, media
 - [[knowledge/wiki/images/Screenshot Social Media Post About OpenAI Whistleblower News a264621e|Screenshot Social Media Post About OpenAI Whistleblower News]] — shared language: social, post, media
 - [[knowledge/wiki/images/Screenshot Social Media Post With Four Women In Halloween Costumes 5d9755eb|Screenshot Social Media Post With Four Women In Halloween Costumes]] — shared language: social, post, media
+- [[knowledge/wiki/images/Screenshot Social Media Post Featuring Vanilla Ice in American Flag Jacket f50f650f|Screenshot Social Media Post Featuring Vanilla Ice in American Flag Jacket]] — shared language: social, post, featuring
 <!-- vault-crosslinks:end -->

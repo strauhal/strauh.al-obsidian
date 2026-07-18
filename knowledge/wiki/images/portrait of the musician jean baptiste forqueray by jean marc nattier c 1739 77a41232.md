@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_the_musician_jean_baptiste_forqueray_by_jean_
 collection: "1700s"
 inferred_year: "1739"
 artist: "jean marc nattier"
-dimensions: "619x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

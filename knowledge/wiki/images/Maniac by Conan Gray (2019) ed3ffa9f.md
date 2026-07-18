@@ -6,7 +6,7 @@ source_relpath: "2000s/Maniac by Conan Gray (2019).jpeg"
 collection: "2000s"
 inferred_year: "2019"
 artist: ""
-dimensions: "2048x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of News Article About Vacant H
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "995x1257"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

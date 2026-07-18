@@ -6,7 +6,7 @@ source_relpath: "1800s/public_prayer_in_cairo_by_jean_leon_gerome_1865.jpg"
 collection: "1800s"
 inferred_year: "1865"
 artist: "jean leon gerome"
-dimensions: "1250x758"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

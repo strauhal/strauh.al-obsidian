@@ -6,7 +6,7 @@ source_relpath: "1900s/circle_limit_iii_by_m_c_escher_1958.jpeg"
 collection: "1900s"
 inferred_year: "1958"
 artist: "m c escher"
-dimensions: "712x713"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Winged Figure Kneeling On Clouds With A
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1024x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

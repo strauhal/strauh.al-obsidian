@@ -6,7 +6,7 @@ source_relpath: "photography/Person in Niqab Reading 'The Stranger' by Albert Ca
 collection: "photography"
 inferred_year: ""
 artist: "Albert Camus"
-dimensions: "1280x943"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Wii Sports by Nintendo (2006).jpeg"
 collection: "2000s"
 inferred_year: "2006"
 artist: ""
-dimensions: "1280x1270"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

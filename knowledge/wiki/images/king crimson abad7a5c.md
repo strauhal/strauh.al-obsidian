@@ -6,7 +6,7 @@ source_relpath: "influences/king_crimson.jpeg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "640x640"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

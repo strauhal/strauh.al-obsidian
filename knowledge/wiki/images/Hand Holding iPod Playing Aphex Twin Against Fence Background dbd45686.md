@@ -6,7 +6,7 @@ source_relpath: "photography/Hand Holding iPod Playing Aphex Twin Against Fence 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "736x981"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

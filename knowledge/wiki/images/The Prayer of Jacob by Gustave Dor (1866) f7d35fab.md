@@ -6,7 +6,7 @@ source_relpath: "1800s/The Prayer of Jacob by Gustave Doré (1866).jpg"
 collection: "1800s"
 inferred_year: "1866"
 artist: ""
-dimensions: "2347x3236"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

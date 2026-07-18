@@ -6,7 +6,7 @@ source_relpath: "1900s/femme_assise_pres_d_une_fenetre_marie_therese_by_pablo_pi
 collection: "1900s"
 inferred_year: "1932"
 artist: "pablo picasso"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

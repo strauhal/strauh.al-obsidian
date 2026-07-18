@@ -6,7 +6,7 @@ source_relpath: "1800s/Marin County Hills by Thaddeus Welch (1899).jpeg"
 collection: "1800s"
 inferred_year: "1899"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

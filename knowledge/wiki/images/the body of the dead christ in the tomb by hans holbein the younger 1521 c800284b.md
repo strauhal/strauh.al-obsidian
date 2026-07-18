@@ -6,7 +6,7 @@ source_relpath: "1500s/the_body_of_the_dead_christ_in_the_tomb_by_hans_holbein_t
 collection: "1500s"
 inferred_year: "1521"
 artist: "hans holbein the younger"
-dimensions: "3344x595"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

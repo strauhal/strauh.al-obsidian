@@ -6,7 +6,7 @@ source_relpath: "photography/Figure In White Robe And Metallic Mask Raising A Ha
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "688x694"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

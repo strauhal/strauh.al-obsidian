@@ -6,7 +6,7 @@ source_relpath: "1900s/napoleon_s_nose_transformed_into_a_pregnant_woman_musing_
 collection: "1900s"
 inferred_year: "1971"
 artist: "salvador dali"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

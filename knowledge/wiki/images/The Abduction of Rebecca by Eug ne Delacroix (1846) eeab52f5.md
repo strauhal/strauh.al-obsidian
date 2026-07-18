@@ -6,7 +6,7 @@ source_relpath: "1800s/The Abduction of Rebecca by Eugène Delacroix (1846).jpg"
 collection: "1800s"
 inferred_year: "1846"
 artist: ""
-dimensions: "850x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

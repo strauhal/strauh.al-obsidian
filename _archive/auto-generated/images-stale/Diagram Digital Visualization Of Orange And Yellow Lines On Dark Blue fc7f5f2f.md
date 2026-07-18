@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Dig
 - [[_archive/auto-generated/images-stale/digital visualization of orange and yellow lines on a dark blue background split horizontally 759de7db|digital visualization of orange and yellow lines on a dark blue background split horizontally]] — shared language: orange, lines, yellow
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/images/Illustration Abstract Painting with Yellow Shape and Intersecting Black Lines e2602731|Illustration Abstract Painting with Yellow Shape and Intersecting Black Lines]] — shared language: lines, yellow
-- [[_archive/auto-generated/images-stale/not straight lines jpg 75de846e|not straight lines jpg]] — shared language: lines
+- [[knowledge/wiki/images/Diagram Black And White Visualization Of Curved Lines In 3D cbca891d|Diagram Black And White Visualization Of Curved Lines In 3D]] — shared language: lines, diagram
 <!-- vault-crosslinks:end -->

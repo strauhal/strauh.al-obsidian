@@ -6,7 +6,7 @@ source_relpath: "1900s/Jardín de Aranjuez by Santiago Rusiñol (1907).jpg"
 collection: "1900s"
 inferred_year: "1907"
 artist: ""
-dimensions: "1280x872"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

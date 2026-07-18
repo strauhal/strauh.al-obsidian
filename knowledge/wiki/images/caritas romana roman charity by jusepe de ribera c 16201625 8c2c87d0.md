@@ -6,7 +6,7 @@ source_relpath: "1600s/caritas_romana_roman_charity_by_jusepe_de_ribera_c_162016
 collection: "1600s"
 inferred_year: "1600s"
 artist: "jusepe de ribera"
-dimensions: "2121x2952"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

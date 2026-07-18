@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Two Spider Webs, One Regular, One Irregular.jpg
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1600x891"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

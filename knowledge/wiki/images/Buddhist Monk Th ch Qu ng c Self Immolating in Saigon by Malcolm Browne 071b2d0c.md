@@ -6,7 +6,7 @@ source_relpath: "photography/Buddhist Monk Thích Quảng Đức Self-Immolating
 collection: "photography"
 inferred_year: ""
 artist: "Malcolm Browne"
-dimensions: "3000x1909"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

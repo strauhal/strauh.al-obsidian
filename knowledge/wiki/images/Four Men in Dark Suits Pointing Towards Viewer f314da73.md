@@ -6,7 +6,7 @@ source_relpath: "photography/Four Men in Dark Suits Pointing Towards Viewer.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "360x217"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

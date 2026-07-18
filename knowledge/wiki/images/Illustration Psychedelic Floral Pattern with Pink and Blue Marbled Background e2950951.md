@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Psychedelic Floral Pattern with Pink an
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "562x750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

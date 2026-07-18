@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of Sprawling City with Mountains and To
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1070x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

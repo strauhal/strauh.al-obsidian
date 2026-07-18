@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - AI 
 
 - [[knowledge/wiki/images/AI Image Transformation Man on Horse to Zebra Striped Man on Zebra 31140d73|AI Image Transformation Man on Horse to Zebra Striped Man on Zebra]] — named in this note
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
-- [[knowledge/wiki/images/grevy s zebra from endangered species by andy warhol 1983 7676a10c|grevy s zebra from endangered species by andy warhol 1983]] — shared language: zebra
 - [[_archive/auto-generated/images-stale/fashion portrait of a woman in a striped wrap 712f7973|fashion portrait of a woman in a striped wrap]] — shared language: striped
+- [[knowledge/wiki/images/grevy s zebra from endangered species by andy warhol 1983 7676a10c|grevy s zebra from endangered species by andy warhol 1983]] — shared language: zebra
 - [[knowledge/wiki/images/Illustration Colorful Illustration of Woman on White Horse with Dog 19e74511|Illustration Colorful Illustration of Woman on White Horse with Dog]] — shared language: horse
 <!-- vault-crosslinks:end -->

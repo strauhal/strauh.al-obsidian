@@ -6,7 +6,7 @@ source_relpath: "1500s/saint_bartholomew_s_day_massacre_by_francois_dubois_c_157
 collection: "1500s"
 inferred_year: "1500s"
 artist: "francois dubois"
-dimensions: "2304x1398"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

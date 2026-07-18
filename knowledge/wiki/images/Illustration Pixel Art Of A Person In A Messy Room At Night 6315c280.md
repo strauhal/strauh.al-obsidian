@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pixel Art Of A Person In A Messy Room At N
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2247x1455"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

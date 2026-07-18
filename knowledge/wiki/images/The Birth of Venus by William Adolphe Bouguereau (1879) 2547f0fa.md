@@ -6,7 +6,7 @@ source_relpath: "1800s/The Birth of Venus by William-Adolphe Bouguereau (1879).j
 collection: "1800s"
 inferred_year: "1879"
 artist: ""
-dimensions: "1239x1749"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

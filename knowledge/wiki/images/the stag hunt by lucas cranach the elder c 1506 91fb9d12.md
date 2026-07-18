@@ -6,7 +6,7 @@ source_relpath: "1500s/the_stag_hunt_by_lucas_cranach_the_elder_c_1506.jpeg"
 collection: "1500s"
 inferred_year: "1506"
 artist: "lucas cranach the elder"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

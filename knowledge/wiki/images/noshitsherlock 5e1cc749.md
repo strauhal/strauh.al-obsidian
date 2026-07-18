@@ -6,7 +6,7 @@ source_relpath: "diary/noshitsherlock.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1012x1012"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

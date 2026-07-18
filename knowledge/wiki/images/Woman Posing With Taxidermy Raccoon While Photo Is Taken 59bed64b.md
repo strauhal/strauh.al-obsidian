@@ -6,7 +6,7 @@ source_relpath: "photography/Woman Posing With Taxidermy Raccoon While Photo Is 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "856x1054"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

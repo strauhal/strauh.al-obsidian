@@ -6,7 +6,7 @@ source_relpath: "1900s/Peine del Viento XV by Eduardo Chillida (1976).jpg"
 collection: "1900s"
 inferred_year: "1976"
 artist: ""
-dimensions: "1024x768"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

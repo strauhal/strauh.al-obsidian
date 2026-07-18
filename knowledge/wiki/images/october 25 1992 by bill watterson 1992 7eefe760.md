@@ -6,7 +6,7 @@ source_relpath: "1900s/october_25_1992_by_bill_watterson_1992.jpg"
 collection: "1900s"
 inferred_year: "1992"
 artist: "bill watterson"
-dimensions: "525x704"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

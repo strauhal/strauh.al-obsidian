@@ -6,7 +6,7 @@ source_relpath: "1900s/lying_nude_by_edvard_munch_1905.jpeg"
 collection: "1900s"
 inferred_year: "1905"
 artist: "edvard munch"
-dimensions: "4096x3200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

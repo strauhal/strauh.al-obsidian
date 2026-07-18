@@ -6,7 +6,7 @@ source_relpath: "2000s/The City by Vladimir Kush (2000).jpg"
 collection: "2000s"
 inferred_year: "2000"
 artist: ""
-dimensions: "1280x1564"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

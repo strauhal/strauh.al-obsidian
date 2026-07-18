@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - A Modern child's conundrum by Lauren Sa
 collection: "unsorted"
 inferred_year: ""
 artist: "Lauren Santoro"
-dimensions: "680x514"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

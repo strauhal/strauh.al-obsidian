@@ -6,7 +6,7 @@ source_relpath: "2000s/L'Uomo Che Lavora by Gianfranco Meggiato (2019).jpg"
 collection: "2000s"
 inferred_year: "2019"
 artist: ""
-dimensions: "892x892"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

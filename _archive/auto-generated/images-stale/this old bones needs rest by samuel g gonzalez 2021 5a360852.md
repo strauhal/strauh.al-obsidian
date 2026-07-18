@@ -29,7 +29,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/This Old Bones Needs Rest by Samuel G. Gonzalez (2021) 34dc86ba|This Old Bones Needs Rest by Samuel G. Gonzalez (2021)]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - samuel g gonzalez 2021|Artist - samuel g gonzalez 2021]] — named in this note
-- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: rest
 - [[knowledge/wiki/artists/Artist - samuel f b morse 18311833|Artist - samuel f b morse 18311833]] — shared language: samuel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - samuel m price|Artist - samuel m price]] — shared language: samuel
+- [[knowledge/archive/auto-generated/artists-stale/Artist - samuel m price 2023|Artist - samuel m price 2023]] — shared language: samuel
 <!-- vault-crosslinks:end -->

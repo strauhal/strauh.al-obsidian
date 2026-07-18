@@ -6,7 +6,7 @@ source_relpath: "1900s/the_harvest_by_frederick_booth_1918.jpg"
 collection: "1900s"
 inferred_year: "1918"
 artist: "frederick booth"
-dimensions: "815x1592"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

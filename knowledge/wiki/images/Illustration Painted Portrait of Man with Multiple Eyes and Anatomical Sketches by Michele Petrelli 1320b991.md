@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Painted Portrait of Man with Multiple E
 collection: "unsorted"
 inferred_year: ""
 artist: "Michele Petrelli"
-dimensions: "675x844"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

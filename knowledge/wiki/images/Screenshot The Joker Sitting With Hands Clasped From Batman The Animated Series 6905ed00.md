@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - The Joker Sitting With Hands Clasped From
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "680x627"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

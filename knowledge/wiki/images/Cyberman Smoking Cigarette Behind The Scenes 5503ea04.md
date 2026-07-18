@@ -6,7 +6,7 @@ source_relpath: "photography/Cyberman Smoking Cigarette Behind The Scenes.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "599x930"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

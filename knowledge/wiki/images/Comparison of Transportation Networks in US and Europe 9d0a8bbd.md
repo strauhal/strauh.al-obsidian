@@ -6,7 +6,7 @@ source_relpath: "diagrams/Comparison_of_Transportation_Networks_in_US_and_Europe
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "680x663"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

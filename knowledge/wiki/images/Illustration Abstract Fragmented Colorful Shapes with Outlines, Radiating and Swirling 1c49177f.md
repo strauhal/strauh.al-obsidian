@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Fragmented Colorful Shapes wit
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3200x3200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

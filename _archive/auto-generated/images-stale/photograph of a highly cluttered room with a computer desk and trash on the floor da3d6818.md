@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Highly Cluttered Room With Computer Desk And Trash 0503be2c|Highly Cluttered Room With Computer Desk And Trash]] — named in this note
-- [[_archive/auto-generated/images-stale/Photograph Highly Cluttered Room With Computer Desk And Trash c4d7a90b|Photograph Highly Cluttered Room With Computer Desk And Trash]] — shared language: trash, highly, cluttered
+- [[_archive/auto-generated/images-stale/Photograph Highly Cluttered Room With Computer Desk And Trash c4d7a90b|Photograph Highly Cluttered Room With Computer Desk And Trash]] — shared language: trash, cluttered, highly
 - [[knowledge/wiki/images/Cluttered Attic Room With Computer Desk And Bed 57dafd01|Cluttered Attic Room With Computer Desk And Bed]] — shared language: cluttered, desk, computer
 - [[_archive/auto-generated/images-stale/Photograph Cluttered Attic Room With Computer Desk And Bed 37331f90|Photograph Cluttered Attic Room With Computer Desk And Bed]] — shared language: cluttered, desk, computer
 - [[_archive/auto-generated/images-stale/photograph of a cluttered attic room with a computer desk and bed fac90992|photograph of a cluttered attic room with a computer desk and bed]] — shared language: cluttered, desk, computer

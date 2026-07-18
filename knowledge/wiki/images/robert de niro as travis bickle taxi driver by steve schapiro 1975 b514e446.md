@@ -6,7 +6,7 @@ source_relpath: "1900s/robert_de_niro_as_travis_bickle_taxi_driver_by_steve_scha
 collection: "1900s"
 inferred_year: "1975"
 artist: "steve schapiro"
-dimensions: "500x748"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Man With Dreadlocks And Cap Wearing Black Jacket An
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1125x1406"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

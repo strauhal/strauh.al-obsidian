@@ -6,7 +6,7 @@ source_relpath: "2000s/The Adoration of Pan by Johfra Bosschart (1979) (2).jpeg"
 collection: "2000s"
 inferred_year: "1979"
 artist: ""
-dimensions: "1650x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

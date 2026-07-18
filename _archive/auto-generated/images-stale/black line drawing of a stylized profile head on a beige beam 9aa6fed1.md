@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Black Line Drawing of Stylized Profile Head on Beige Beam cb1168dc|Illustration Black Line Drawing of Stylized Profile Head on Beige Beam]] — shared language: beam, beige, profile
 - [[_archive/auto-generated/images-stale/black and white line drawing of a woman s head in front and profile view 8b441203|black and white line drawing of a woman s head in front and profile view]] — shared language: profile, head, line
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
-- [[_archive/auto-generated/images-stale/black and white print of a woman s head in profile b8887c17|black and white print of a woman s head in profile]] — shared language: profile, head
 - [[_archive/auto-generated/images-stale/abstract generative line drawing of intersecting black lines on beige background aa0725f4|abstract generative line drawing of intersecting black lines on beige background]] — shared language: beige, line
+- [[_archive/auto-generated/images-stale/black and white print of a woman s head in profile b8887c17|black and white print of a woman s head in profile]] — shared language: profile, head
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Concentric Circles with Sun Face and Bl
 collection: "unsorted"
 inferred_year: ""
 artist: "Robert Fludd"
-dimensions: "801x865"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

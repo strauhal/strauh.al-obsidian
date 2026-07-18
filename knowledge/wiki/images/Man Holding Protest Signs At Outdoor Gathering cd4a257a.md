@@ -6,7 +6,7 @@ source_relpath: "photography/Man Holding Protest Signs At Outdoor Gathering.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "480x468"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Figure On Washing Machines Wit
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1250x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

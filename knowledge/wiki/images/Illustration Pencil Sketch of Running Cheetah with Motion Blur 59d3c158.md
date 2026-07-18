@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pencil Sketch of Running Cheetah with M
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "828x809"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Soundscape Editor Digital Audio Workstati
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1536"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

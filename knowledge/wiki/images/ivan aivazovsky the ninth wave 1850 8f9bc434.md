@@ -6,7 +6,7 @@ source_relpath: "1800s/ivan_aivazovsky_the_ninth_wave_1850.jpg"
 collection: "1800s"
 inferred_year: "1850"
 artist: ""
-dimensions: "2000x1321"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

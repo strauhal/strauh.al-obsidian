@@ -6,7 +6,7 @@ source_relpath: "1900s/franklin_d_roosevelt_shaking_hands_with_a_farmer_1932.jpg
 collection: "1900s"
 inferred_year: "1932"
 artist: ""
-dimensions: "1600x1231"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/ Gabor MatÃ© - Scattered Minds_ The Origins and Healing of Attention Deficit Disorder (2019, Random House) - libgen.li.epub"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Scattered Minds The Origins and Healing of Attention Deficit Disorder

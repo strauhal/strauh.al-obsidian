@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black and White Line Drawing of Elon Musk 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Rob Israel"
-dimensions: "1088x1360"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 - [[knowledge/wiki/books/kandinsky-wassily-concerning-the-spiritual-in-art|Concerning the Spiritual in Art]] — shared language: concerning
 - [[knowledge/wiki/images/Comic Blue Caricature of Elon Musk as a Rich Baby d5c04ed6|Comic Blue Caricature of Elon Musk as a Rich Baby]] — shared language: musk, elon
 - [[knowledge/wiki/artists/Artist - Rob Pointon|Artist - Rob Pointon]] — shared language: rob
-- [[knowledge/wiki/images/Pulled Up by Rob Pointon (2016) ab382f11|Pulled Up by Rob Pointon (2016)]] — shared language: rob
+- [[knowledge/wiki/artists/Artist - Rob Woodcox|Artist - Rob Woodcox]] — shared language: rob
 <!-- vault-crosslinks:end -->

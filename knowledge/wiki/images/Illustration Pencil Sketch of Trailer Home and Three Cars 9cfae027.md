@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pencil Sketch of Trailer Home and Three Ca
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "512x324"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

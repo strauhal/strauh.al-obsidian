@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Dream and Cat in Fantastical Desert Landscape by 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "J.H. Williams III"
-dimensions: "2880x1620"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

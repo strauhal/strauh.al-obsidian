@@ -6,7 +6,7 @@ source_relpath: "1600s/A Philosopher in Contemplation by Rembrandt van Rijn (163
 collection: "1600s"
 inferred_year: "1632"
 artist: ""
-dimensions: "489x579"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

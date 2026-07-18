@@ -6,7 +6,7 @@ source_relpath: "wallpapers/vaportokyo.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1362"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

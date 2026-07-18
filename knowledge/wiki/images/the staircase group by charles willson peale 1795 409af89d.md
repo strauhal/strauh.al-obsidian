@@ -6,7 +6,7 @@ source_relpath: "1700s/the_staircase_group_by_charles_willson_peale_1795.jpeg"
 collection: "1700s"
 inferred_year: "1795"
 artist: "charles willson peale"
-dimensions: "4284x5712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

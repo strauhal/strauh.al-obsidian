@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Grid of Small Abstract Maze-Like Black-
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1448x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

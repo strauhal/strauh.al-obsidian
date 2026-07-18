@@ -22,6 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - zhu pei 2019|Artist - zhu pei 2019]] — named in this note
 - [[knowledge/wiki/images/Control Center 4c3b112b|Control Center]] — shared language: center
-- [[_archive/auto-generated/images-stale/Photograph Woman Watching World Trade Center Towers Smoking ea2b6f6c|Photograph Woman Watching World Trade Center Towers Smoking]] — shared language: center
-- [[knowledge/wiki/images/Woman Watching World Trade Center Towers Smoking 4ff2ea42|Woman Watching World Trade Center Towers Smoking]] — shared language: center
+- [[knowledge/archive/auto-generated/artists-stale/Artist - zidaren|Artist - Zidaren]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

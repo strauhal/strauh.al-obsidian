@@ -6,7 +6,7 @@ source_relpath: "influences/alexander_calder.jpeg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "1600x1199"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

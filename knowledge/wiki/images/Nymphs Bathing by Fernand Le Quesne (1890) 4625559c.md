@@ -6,7 +6,7 @@ source_relpath: "1800s/Nymphs Bathing by Fernand Le Quesne (1890).jpg"
 collection: "1800s"
 inferred_year: "1890"
 artist: ""
-dimensions: "2048x2932"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

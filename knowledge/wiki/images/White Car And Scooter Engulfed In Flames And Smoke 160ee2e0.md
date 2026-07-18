@@ -6,7 +6,7 @@ source_relpath: "photography/White Car And Scooter Engulfed In Flames And Smoke.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "660x372"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

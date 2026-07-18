@@ -6,7 +6,7 @@ source_relpath: "photography/Tropical Island With Palm Trees, Turquoise Water, A
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "4341x2841"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

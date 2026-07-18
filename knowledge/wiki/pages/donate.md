@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/donate.html"
 source_relpath: "donate.html"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:40"
+compiled_at: "2026-07-18T00:07:15"
 tags: ["strauhal", "source/html"]
 ---
 # donate
@@ -34,8 +34,8 @@ you can buy an album from [strauhal.bandcamp.com](https://strauhal.bandcamp.com)
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/strauh.al Home|strauh.al Home]] — shared language: donate, none, related
-- [[knowledge/wiki/pages/nyce|nyce]] — shared language: referenced, preserved, none
 - [[knowledge/wiki/pages/about|about]] — shared language: donate, donations, stamp.png
+- [[knowledge/wiki/pages/nyce|nyce]] — shared language: referenced, preserved, none
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: none, related, yet
 - [[knowledge/wiki/images/estrauhal 05 967e9f35|estrauhal 05]] — shared language: estrauhal
 - [[knowledge/wiki/pages/artists escher|artists escher]] — shared language: none, related, yet

@@ -6,7 +6,7 @@ source_relpath: "2000s/Cat in the Garden by Anastasia Trusova (2024).jpeg"
 collection: "2000s"
 inferred_year: "2024"
 artist: ""
-dimensions: "1516x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

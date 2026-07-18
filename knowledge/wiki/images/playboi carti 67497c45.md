@@ -6,7 +6,7 @@ source_relpath: "influences/playboi_carti.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "500x492"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

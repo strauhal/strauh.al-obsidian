@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Screenshot of 3D Modeling Software Interface
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "463x441"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

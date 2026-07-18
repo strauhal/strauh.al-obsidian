@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[_archive/auto-generated/artists-noise/Artist - white lines on a black background|Artist - white lines on a black background]] — named in this note
 - [[knowledge/archive/auto-generated/anchors-stale/artist-white-lines-on-a-black-background|Artist - white lines on a black background]] — shared language: lines, background
-- [[_archive/auto-generated/images-stale/not straight lines jpg 75de846e|not straight lines jpg]] — shared language: lines
 - [[knowledge/wiki/images/Illustration Black Wavy Lines on White Background 989a4fe6|Illustration Black Wavy Lines on White Background]] — shared language: lines, background
 - [[knowledge/wiki/images/Illustration Abstract Yellow Shape With Black Lines On White Background ab1ff155|Illustration Abstract Yellow Shape With Black Lines On White Background]] — shared language: lines, background
 - [[knowledge/wiki/images/Illustration Abstract Drawing Overlapping Dark Lines On White Background 8b6f7d16|Illustration Abstract Drawing Overlapping Dark Lines On White Background]] — shared language: lines, background
+- [[knowledge/wiki/images/Screenshot Screenshot of Abstract White Lines on Purple Background e006d48d|Screenshot Screenshot of Abstract White Lines on Purple Background]] — shared language: lines, background
 <!-- vault-crosslinks:end -->

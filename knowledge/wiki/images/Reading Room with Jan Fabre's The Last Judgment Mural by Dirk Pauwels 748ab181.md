@@ -6,7 +6,7 @@ source_relpath: "photography/Reading Room with Jan Fabre's The Last Judgment Mur
 collection: "photography"
 inferred_year: ""
 artist: "Dirk Pauwels"
-dimensions: "1170x1392"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

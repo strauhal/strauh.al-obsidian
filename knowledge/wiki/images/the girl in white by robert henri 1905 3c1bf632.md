@@ -6,7 +6,7 @@ source_relpath: "1900s/the_girl_in_white_by_robert_henri_1905.jpg"
 collection: "1900s"
 inferred_year: "1905"
 artist: "robert henri"
-dimensions: "2573x3693"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

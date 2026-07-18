@@ -6,7 +6,7 @@ source_relpath: "1900s/abstract_expressionist_by_gary_larson_1986.jpg"
 collection: "1900s"
 inferred_year: "1986"
 artist: "gary larson"
-dimensions: "736x587"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

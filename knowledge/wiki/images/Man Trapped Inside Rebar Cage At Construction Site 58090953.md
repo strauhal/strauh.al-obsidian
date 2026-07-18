@@ -6,7 +6,7 @@ source_relpath: "photography/Man Trapped Inside Rebar Cage At Construction Site.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "521x521"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

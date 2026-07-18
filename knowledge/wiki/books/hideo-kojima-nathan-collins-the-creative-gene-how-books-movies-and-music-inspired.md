@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The creative gene _ how books, movies, and music inspired -- Hideo Kojima; Nathan Collins -- San Francisco, CA, 2021 -- Viz Media, LLC -- 9781974725915 -- 6c2219c700e2e948429459a3d0d8999f -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # The creative gene how books, movies, and music inspired

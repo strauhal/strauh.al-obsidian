@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Wavy Black Lines On Grey Backg
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "492x492"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

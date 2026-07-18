@@ -6,7 +6,7 @@ source_relpath: "photography/Cat Lying On A Grey Couch With A Plaid Blanket.gif"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "343x498"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1600s/portrait_of_jules_hardouin_mansart_by_hyacinthe_rigaud_c_
 collection: "1600s"
 inferred_year: "1699"
 artist: "hyacinthe rigaud"
-dimensions: "903x1198"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

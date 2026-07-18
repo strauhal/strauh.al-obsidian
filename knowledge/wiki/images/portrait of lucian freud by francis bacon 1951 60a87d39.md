@@ -6,7 +6,7 @@ source_relpath: "1900s/portrait_of_lucian_freud_by_francis_bacon_1951.jpeg"
 collection: "1900s"
 inferred_year: "1951"
 artist: "francis bacon"
-dimensions: "1200x1382"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

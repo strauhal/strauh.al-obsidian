@@ -6,7 +6,7 @@ source_relpath: "1700s/the_death_of_dido_by_sir_robert_strange_1762.jpeg"
 collection: "1700s"
 inferred_year: "1762"
 artist: "sir robert strange"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

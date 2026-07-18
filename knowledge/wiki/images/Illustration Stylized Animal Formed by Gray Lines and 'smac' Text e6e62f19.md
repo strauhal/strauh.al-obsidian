@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Animal Formed by Gray Lines and '
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Gray Lines and 'smac' Text"
-dimensions: "831x756"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 - [[knowledge/wiki/images/Illustration Op Art Pattern of Wavy Lines in Dark Gray and White bb9a007c|Illustration Op Art Pattern of Wavy Lines in Dark Gray and White]] — shared language: gray, lines
 - [[knowledge/wiki/images/Illustration Abstract Drawing of Overlapping Black and Gray Gestural Lines f7ed9174|Illustration Abstract Drawing of Overlapping Black and Gray Gestural Lines]] — shared language: gray, lines
 - [[knowledge/wiki/images/Illustration Distorted, Pixelated Black Text on a Light Gray Background 04b170a8|Illustration Distorted, Pixelated Black Text on a Light Gray Background]] — shared language: gray, text
-- [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text
+- [[knowledge/wiki/images/Illustration Stylized Portrait with Topographic Lines and Golden Hues 02c70165|Illustration Stylized Portrait with Topographic Lines and Golden Hues]] — shared language: lines, stylized
 <!-- vault-crosslinks:end -->

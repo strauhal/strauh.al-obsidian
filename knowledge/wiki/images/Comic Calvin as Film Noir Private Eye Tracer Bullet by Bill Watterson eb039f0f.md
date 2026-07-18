@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Calvin as Film Noir Private Eye Tracer Bullet 
 collection: "unsorted"
 inferred_year: ""
 artist: "Bill Watterson"
-dimensions: "1400x2920"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

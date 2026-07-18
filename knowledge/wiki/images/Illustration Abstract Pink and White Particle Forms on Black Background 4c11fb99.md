@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Pink and White Particle Forms 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2134x2333"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

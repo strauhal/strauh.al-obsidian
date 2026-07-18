@@ -6,7 +6,7 @@ source_relpath: "photography/Golden Temple at Sunrise with Person Meditating by 
 collection: "photography"
 inferred_year: ""
 artist: "Water"
-dimensions: "2122x2122"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

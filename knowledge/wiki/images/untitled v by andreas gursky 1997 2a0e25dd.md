@@ -6,7 +6,7 @@ source_relpath: "1900s/untitled_v_by_andreas_gursky_1997.jpeg"
 collection: "1900s"
 inferred_year: "1997"
 artist: "andreas gursky"
-dimensions: "800x1117"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

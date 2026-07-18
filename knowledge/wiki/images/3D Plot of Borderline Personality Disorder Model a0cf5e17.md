@@ -6,7 +6,7 @@ source_relpath: "diagrams/3D_Plot_of_Borderline_Personality_Disorder_Model.jpg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1080x646"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/3D_Plot_of_Bo
 - [[knowledge/wiki/life/Personality (PAS)|Personality (PAS)]] — shared language: personality
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: model
 - [[knowledge/wiki/books/gabor-mat-scattered-minds-the-origins-and-healing-of-attention-deficit-disorder|Scattered Minds The Origins and Healing of Attention Deficit Disorder]] — shared language: disorder
-- [[knowledge/wiki/pages/knowledge base psychology|knowledge base psychology]] — shared language: disorder, personality
+- [[knowledge/wiki/images/Photograph of an Abstract Architectural Model with Transparent Panels 674ee24a|Photograph of an Abstract Architectural Model with Transparent Panels]] — shared language: model
 <!-- vault-crosslinks:end -->

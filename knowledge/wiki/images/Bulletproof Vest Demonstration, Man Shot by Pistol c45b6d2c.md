@@ -6,7 +6,7 @@ source_relpath: "photography/Bulletproof Vest Demonstration, Man Shot by Pistol.
 collection: "photography"
 inferred_year: ""
 artist: "Pistol"
-dimensions: "680x554"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

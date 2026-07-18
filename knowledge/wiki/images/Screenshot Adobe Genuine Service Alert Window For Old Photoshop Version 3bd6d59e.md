@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Adobe Genuine Service Alert Window For Ol
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "767x509"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

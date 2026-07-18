@@ -6,7 +6,7 @@ source_relpath: "photography/Neuschwanstein Castle Perched on a Hilltop with Lak
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2560x1913"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

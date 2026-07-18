@@ -6,7 +6,7 @@ source_relpath: "1900s/ada_in_green_cap_by_alex_katz_1980.jpeg"
 collection: "1900s"
 inferred_year: "1980"
 artist: "alex katz"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

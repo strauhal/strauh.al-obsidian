@@ -6,7 +6,7 @@ source_relpath: "1500s/the_annunciation_by_hendrick_goltzius_1594.jpeg"
 collection: "1500s"
 inferred_year: "1594"
 artist: "hendrick goltzius"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

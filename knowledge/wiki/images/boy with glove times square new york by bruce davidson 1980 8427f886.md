@@ -6,7 +6,7 @@ source_relpath: "1900s/boy_with_glove_times_square_new_york_by_bruce_davidson_19
 collection: "1900s"
 inferred_year: "1980"
 artist: "bruce davidson"
-dimensions: "2396x3600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

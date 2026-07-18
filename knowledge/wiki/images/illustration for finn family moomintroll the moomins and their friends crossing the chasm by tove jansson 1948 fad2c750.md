@@ -6,7 +6,7 @@ source_relpath: "1900s/illustration_for_finn_family_moomintroll_the_moomins_and_
 collection: "1900s"
 inferred_year: "1948"
 artist: "tove jansson"
-dimensions: "500x726"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Composite of Pixel Art and Col
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1484"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

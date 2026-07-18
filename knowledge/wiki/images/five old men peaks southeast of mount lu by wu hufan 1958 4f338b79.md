@@ -6,7 +6,7 @@ source_relpath: "1900s/five_old_men_peaks_southeast_of_mount_lu_by_wu_hufan_1958
 collection: "1900s"
 inferred_year: "1958"
 artist: "wu hufan"
-dimensions: "2268x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

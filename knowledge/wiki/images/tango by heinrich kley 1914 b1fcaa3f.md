@@ -6,7 +6,7 @@ source_relpath: "1900s/tango_by_heinrich_kley_1914.jpg"
 collection: "1900s"
 inferred_year: "1914"
 artist: "heinrich kley"
-dimensions: "921x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

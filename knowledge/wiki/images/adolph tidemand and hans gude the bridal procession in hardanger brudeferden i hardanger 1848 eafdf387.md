@@ -6,7 +6,7 @@ source_relpath: "1800s/adolph_tidemand_and_hans_gude_the_bridal_procession_in_ha
 collection: "1800s"
 inferred_year: "1848"
 artist: ""
-dimensions: "7713x5489"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

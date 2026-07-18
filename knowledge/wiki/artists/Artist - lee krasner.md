@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/Illustration Untitled by Lee Bontecou 5adc429c|Illustration Untitled by Lee Bontecou]] — shared language: lee
 - [[knowledge/wiki/artists/Artist - Lee Bontecou|Artist - Lee Bontecou]] — shared language: lee
-- [[knowledge/wiki/anchors/ang-lee|Ang Lee]] — shared language: lee
 - [[knowledge/wiki/artists/Artist - Ethan Lee|Artist - Ethan Lee]] — shared language: lee
+- [[knowledge/wiki/anchors/ang-lee|Ang Lee]] — shared language: lee
 - [[knowledge/wiki/images/Absolut P.U.L.S.E. by Paul Lee (1990) 55a4059c|Absolut P.U.L.S.E. by Paul Lee (1990)]] — shared language: lee
 - [[knowledge/wiki/images/Illustration Complex Abstract Sculpture of Interconnected Metal Shapes and Spheres by Lee Bontecou 8943a3c5|Illustration Complex Abstract Sculpture of Interconnected Metal Shapes and Spheres by Lee Bontecou]] — shared language: lee
 <!-- vault-crosslinks:end -->

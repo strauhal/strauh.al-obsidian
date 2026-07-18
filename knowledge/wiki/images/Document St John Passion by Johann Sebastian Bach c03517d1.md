@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - St John Passion by Johann Sebastian Bach.jp
 collection: "unsorted"
 inferred_year: ""
 artist: "Johann Sebastian Bach"
-dimensions: "2283x3707"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

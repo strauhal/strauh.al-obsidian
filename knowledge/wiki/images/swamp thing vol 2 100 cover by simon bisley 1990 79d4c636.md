@@ -6,7 +6,7 @@ source_relpath: "1900s/swamp_thing_vol_2_100_cover_by_simon_bisley_1990.jpg"
 collection: "1900s"
 inferred_year: "1990"
 artist: "simon bisley"
-dimensions: "955x1419"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of Mecca with Grand Mosque and Clock To
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "800x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

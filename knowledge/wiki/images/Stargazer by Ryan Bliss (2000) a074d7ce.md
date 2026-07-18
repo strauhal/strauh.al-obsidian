@@ -6,7 +6,7 @@ source_relpath: "2000s/Stargazer by Ryan Bliss (2000).jpeg"
 collection: "2000s"
 inferred_year: "2000"
 artist: ""
-dimensions: "980x735"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

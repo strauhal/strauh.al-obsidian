@@ -6,7 +6,7 @@ source_relpath: "photography/Lawson Convenience Store with Mount Fuji in Backgro
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

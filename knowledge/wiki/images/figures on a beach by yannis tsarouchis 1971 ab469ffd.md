@@ -6,7 +6,7 @@ source_relpath: "1900s/figures_on_a_beach_by_yannis_tsarouchis_1971.jpeg"
 collection: "1900s"
 inferred_year: "1971"
 artist: "yannis tsarouchis"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

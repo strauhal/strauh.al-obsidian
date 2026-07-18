@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Stylized Women With Umbrellas And A Framed Portrait On Grey Background b936b744|Illustration Stylized Women With Umbrellas And A Framed Portrait On Grey Background]] — shared language: women
 - [[knowledge/wiki/images/Illustration Two Women Seated Under Bamboo and Rock d68096f0|Illustration Two Women Seated Under Bamboo and Rock]] — shared language: women
 - [[knowledge/wiki/images/two women by willem de kooning 1954 f413895c|two women by willem de kooning 1954]] — shared language: women
-- [[knowledge/wiki/images/two women seated reading by edgar degas c 1878 30164653|two women seated reading by edgar degas c 1878]] — shared language: women
+- [[knowledge/wiki/artists/Artist - toshusai sharaku|Artist - toshusai sharaku]] — shared language: nakamura
 <!-- vault-crosslinks:end -->

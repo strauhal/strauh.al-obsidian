@@ -6,7 +6,7 @@ source_relpath: "2000s/Rasetsu by Tenmyouya Hisashi (2010).jpg"
 collection: "2000s"
 inferred_year: "2010"
 artist: ""
-dimensions: "1600x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

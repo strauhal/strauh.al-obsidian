@@ -6,7 +6,7 @@ source_relpath: "1900s/marilyn_monroe_by_richard_avedon_1957.jpg"
 collection: "1900s"
 inferred_year: "1957"
 artist: "richard avedon"
-dimensions: "1500x1866"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

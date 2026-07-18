@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Digital Image of Swirling Whit
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "700x700"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

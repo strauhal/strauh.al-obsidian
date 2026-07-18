@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Painting of Peter Falk as Columbo in a 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1648x2033"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

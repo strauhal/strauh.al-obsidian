@@ -6,7 +6,7 @@ source_relpath: "1600s/The Fall of Phaeton by Peter Paul Rubens (1604–1605).we
 collection: "1600s"
 inferred_year: "1605"
 artist: ""
-dimensions: "1600x1209"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/The Great Balance by Prateep Kochabua (2000) 811f8d42|The Great Balance by Prateep Kochabua (2000)]] — shared language: balance, great
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: great
 - [[knowledge/wiki/books/israel-regardie-the-middle-pillar-the-balance-between-mind-and-magic|The Middle Pillar: The Balance Between Mind and Magic]] — shared language: balance
-- [[_archive/failed-intelligence-tests/Constellation - Ursa Major|Constellation - Ursa Major]] — shared language: great
+- [[_archive/auto-generated/books-stale/the-middle-pillar-the-balance-between-mind-and-magic-israel-regardie-chic-cicero-etc|The Middle Pillar The Balance Between Mind and Magic (Israel Regardie, Chic Cicero etc.)]] — shared language: balance
 <!-- vault-crosslinks:end -->

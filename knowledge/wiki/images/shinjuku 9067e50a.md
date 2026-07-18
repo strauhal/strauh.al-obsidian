@@ -6,7 +6,7 @@ source_relpath: "wallpapers/shinjuku.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "1333x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

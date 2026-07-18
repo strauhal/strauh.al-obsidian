@@ -6,7 +6,7 @@ source_relpath: "1900s/crucifixion_by_leonora_carrington_1951.jpeg"
 collection: "1900s"
 inferred_year: "1951"
 artist: "leonora carrington"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of Large Crowd and Circular Arrangement
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

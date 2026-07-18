@@ -6,7 +6,7 @@ source_relpath: "photography/Man in Dark Coat and Green Turtleneck Holding Wine 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "363x310"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

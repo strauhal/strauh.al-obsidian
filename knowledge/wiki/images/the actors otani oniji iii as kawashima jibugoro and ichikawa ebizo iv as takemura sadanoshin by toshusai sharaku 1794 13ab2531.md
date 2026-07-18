@@ -6,7 +6,7 @@ source_relpath: "1700s/the_actors_otani_oniji_iii_as_kawashima_jibugoro_and_ichi
 collection: "1700s"
 inferred_year: "1794"
 artist: "toshusai sharaku"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

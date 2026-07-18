@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Cross-Hatched Portrait of a Woman in Pr
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "960x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Couple in Small Motorboat on Water.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1275x942"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Close-up of a colorful woven textile with fabric st
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1284x1284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

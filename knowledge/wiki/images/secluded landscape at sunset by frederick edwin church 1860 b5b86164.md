@@ -6,7 +6,7 @@ source_relpath: "1800s/secluded_landscape_at_sunset_by_frederick_edwin_church_18
 collection: "1800s"
 inferred_year: "1860"
 artist: "frederick edwin church"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

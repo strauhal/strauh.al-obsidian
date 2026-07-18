@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Abstract Digital Composition with Fragmented Figures and Distorted Text aab6797d|Illustration Abstract Digital Composition with Fragmented Figures and Distorted Text]] — shared language: fragmented, distorted, composition
 - [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: composition
 - [[knowledge/wiki/images/Illustration Pixelated, Colorful, Fragmented Figure with 'NOW IS NEVER' Text 5b57f12f|Illustration Pixelated, Colorful, Fragmented Figure with 'NOW IS NEVER' Text]] — shared language: fragmented, text
 - [[knowledge/wiki/images/Illustration Abstract Geometric Composition with Distorted Architectural Forms and Scattered Elements 65d5896e|Illustration Abstract Geometric Composition with Distorted Architectural Forms and Scattered Elements]] — shared language: distorted, composition
-- [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text, text.jpeg
 <!-- vault-crosslinks:end -->

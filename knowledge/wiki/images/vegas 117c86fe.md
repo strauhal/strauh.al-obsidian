@@ -6,7 +6,7 @@ source_relpath: "wallpapers/vegas.png"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "1920x1090"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

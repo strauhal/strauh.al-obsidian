@@ -6,7 +6,7 @@ source_relpath: "photography/Heavily Tattooed Man Posing With Garfield Mascot.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "889x1316"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

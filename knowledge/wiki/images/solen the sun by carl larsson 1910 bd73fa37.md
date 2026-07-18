@@ -6,7 +6,7 @@ source_relpath: "1900s/solen_the_sun_by_carl_larsson_1910.jpeg"
 collection: "1900s"
 inferred_year: "1910"
 artist: "carl larsson"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

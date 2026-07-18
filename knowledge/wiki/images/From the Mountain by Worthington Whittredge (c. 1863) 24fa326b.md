@@ -6,7 +6,7 @@ source_relpath: "1800s/From the Mountain by Worthington Whittredge (c. 1863).jpe
 collection: "1800s"
 inferred_year: "1863"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

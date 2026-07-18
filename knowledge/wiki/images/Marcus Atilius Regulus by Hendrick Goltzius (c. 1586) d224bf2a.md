@@ -6,7 +6,7 @@ source_relpath: "1500s/Marcus Atilius Regulus by Hendrick Goltzius (c. 1586).jpg
 collection: "1500s"
 inferred_year: "1586"
 artist: ""
-dimensions: "1000x1547"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

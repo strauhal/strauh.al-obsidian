@@ -6,7 +6,7 @@ source_relpath: "1900s/the_meditation_by_moebius_1979.jpg"
 collection: "1900s"
 inferred_year: "1979"
 artist: "moebius"
-dimensions: "1080x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

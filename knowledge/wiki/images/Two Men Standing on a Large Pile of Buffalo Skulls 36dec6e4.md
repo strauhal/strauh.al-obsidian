@@ -6,7 +6,7 @@ source_relpath: "photography/Two Men Standing on a Large Pile of Buffalo Skulls.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "4659x3907"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

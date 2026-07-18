@@ -6,7 +6,7 @@ source_relpath: "1400s/The Last Judgment by Hieronymus Bosch (c. 1485-1490).jpeg
 collection: "1400s"
 inferred_year: "1490"
 artist: ""
-dimensions: "1170x1190"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

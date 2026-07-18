@@ -53,8 +53,8 @@ shades into dread, too — the inherited compulsions of his stock-obsessed grand
 - [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
 - [[knowledge/wiki/books/handwriting|handwriting]] — named in this note
-- [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
 <!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->

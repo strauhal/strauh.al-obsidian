@@ -6,7 +6,7 @@ source_relpath: "diary/palak5.png"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1628x2120"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

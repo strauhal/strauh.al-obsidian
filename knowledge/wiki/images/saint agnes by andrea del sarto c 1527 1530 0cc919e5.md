@@ -6,7 +6,7 @@ source_relpath: "1500s/saint_agnes_by_andrea_del_sarto_c_1527_1530.jpeg"
 collection: "1500s"
 inferred_year: "1530"
 artist: "andrea del sarto"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

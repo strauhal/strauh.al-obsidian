@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Tattoo Of Anime Girl With Text.png"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "640x620"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

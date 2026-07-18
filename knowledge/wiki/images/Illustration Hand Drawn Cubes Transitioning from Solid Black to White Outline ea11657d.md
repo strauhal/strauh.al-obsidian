@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Hand-Drawn Cubes Transitioning from Sol
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1000x1007"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand, drawn
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
 - [[knowledge/wiki/images/Illustration Grid of Hand Drawn Geometric Shapes and Patterns 8e8fcb7f|Illustration Grid of Hand Drawn Geometric Shapes and Patterns]] — shared language: drawn, hand, hand-drawn
 - [[knowledge/wiki/images/Image Solid Black Rectangle b741d545|Image Solid Black Rectangle]] — shared language: solid
 - [[knowledge/wiki/images/Image Solid Black Rectangle fd47e43a|Image Solid Black Rectangle]] — shared language: solid

@@ -4,8 +4,8 @@ type: work
 aliases: [Untitled 4 Color Study 1, Pix2Pix color studies]
 tags: [work, drawing, pix2pix, gan, color]
 sources: ["[[No More Human Art]]", "[[ideas-sketchbook]]"]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # GAN Color Studies
@@ -36,8 +36,8 @@ The process makes authorship sequential rather than singular. Hand drawing estab
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: gan, color, studies
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: color, gan, studies
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: color, gan, studies
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, process
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: read, described, result
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, process
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: makes, latent, ben
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
 <!-- vault-crosslinks:end -->

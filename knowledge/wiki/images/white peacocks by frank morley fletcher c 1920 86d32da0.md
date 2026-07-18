@@ -6,7 +6,7 @@ source_relpath: "1900s/white_peacocks_by_frank_morley_fletcher_c_1920.jpg"
 collection: "1900s"
 inferred_year: "1920"
 artist: "frank morley fletcher"
-dimensions: "1000x842"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

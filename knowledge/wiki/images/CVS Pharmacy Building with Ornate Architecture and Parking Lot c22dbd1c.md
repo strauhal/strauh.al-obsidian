@@ -6,7 +6,7 @@ source_relpath: "photography/CVS Pharmacy Building with Ornate Architecture and 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1365"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Grainy Abstract Light and Shadow Through Win
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1792x2688"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

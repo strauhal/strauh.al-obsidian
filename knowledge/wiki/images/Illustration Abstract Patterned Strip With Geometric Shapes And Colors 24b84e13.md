@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Patterned Strip With Geometric
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1024x1536"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

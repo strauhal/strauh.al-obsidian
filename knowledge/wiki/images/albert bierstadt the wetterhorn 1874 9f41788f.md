@@ -6,7 +6,7 @@ source_relpath: "1800s/albert_bierstadt_the_wetterhorn_1874.jpg"
 collection: "1800s"
 inferred_year: "1874"
 artist: ""
-dimensions: "4096x2441"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

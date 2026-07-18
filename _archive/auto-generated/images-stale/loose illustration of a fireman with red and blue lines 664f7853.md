@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/fireman png 8edace81|fireman png]] — shared language: fireman
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: loose
 - [[knowledge/wiki/images/Illustration Loose Sketch of a Figure in Profile b4ed6d70|Illustration Loose Sketch of a Figure in Profile]] — shared language: loose
-- [[_archive/auto-generated/images-stale/not straight lines jpg 75de846e|not straight lines jpg]] — shared language: lines
 - [[_archive/auto-generated/images-stale/loose graphite sketch of two figures 0f19533c|loose graphite sketch of two figures]] — shared language: loose
+- [[_archive/auto-generated/images-stale/loose pastel portrait sketch of a seated woman 77c8b8a0|loose pastel portrait sketch of a seated woman]] — shared language: loose
 <!-- vault-crosslinks:end -->

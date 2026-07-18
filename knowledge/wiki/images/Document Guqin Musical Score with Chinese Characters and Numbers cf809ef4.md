@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Guqin Musical Score with Chinese Characters
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "648x824"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

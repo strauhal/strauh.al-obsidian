@@ -6,7 +6,7 @@ source_relpath: "1900s/Self-Portrait by Luc Tuymans (1997).webp"
 collection: "1900s"
 inferred_year: "1997"
 artist: ""
-dimensions: "1328x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

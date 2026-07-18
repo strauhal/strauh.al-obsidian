@@ -4,8 +4,8 @@ type: work
 year: 2024
 tags: [work, video, voice, stylegan, gan, self-portrait]
 sources: ["[[No More Human Art]]"]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Vocal Study 3

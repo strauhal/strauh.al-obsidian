@@ -6,7 +6,7 @@ source_relpath: "1900s/dellasposa_gary_hume_untitled_water_painting_1998_jpg.jpg
 collection: "1900s"
 inferred_year: "1998"
 artist: ""
-dimensions: "2400x2400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

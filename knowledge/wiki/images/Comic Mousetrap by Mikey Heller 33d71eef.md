@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Mousetrap by Mikey Heller.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Mikey Heller"
-dimensions: "640x654"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

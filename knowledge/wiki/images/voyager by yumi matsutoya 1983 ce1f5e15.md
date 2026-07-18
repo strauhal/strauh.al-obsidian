@@ -6,7 +6,7 @@ source_relpath: "1900s/voyager_by_yumi_matsutoya_1983.jpg"
 collection: "1900s"
 inferred_year: "1983"
 artist: "yumi matsutoya"
-dimensions: "1085x1073"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

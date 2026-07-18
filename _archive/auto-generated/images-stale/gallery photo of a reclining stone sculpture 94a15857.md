@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/gallery photo of black and white poster with light beams and a reclining figure 0af5b0a6|gallery photo of black and white poster with light beams and a reclining figure]] — shared language: reclining, gallery, photo
 - [[_archive/auto-generated/images-stale/gallery photo detail of a reclining pink robed figure c18f0677|gallery photo detail of a reclining pink robed figure]] — shared language: reclining, gallery, photo
+- [[_archive/auto-generated/images-stale/gallery photo of black and white poster with light beams and a reclining figure 0af5b0a6|gallery photo of black and white poster with light beams and a reclining figure]] — shared language: reclining, gallery, photo
 - [[_archive/auto-generated/images-stale/blurred black and white photo of a reclining figure 7c5ff3df|blurred black and white photo of a reclining figure]] — shared language: reclining, photo
 - [[knowledge/wiki/images/Blurred Black And White Photo Of A Reclining Figure f61afd75|Blurred Black And White Photo Of A Reclining Figure]] — shared language: reclining, photo
 - [[_archive/auto-generated/images-stale/Photograph Blurred Black And White Photo Of A Reclining Figure 0b280fa3|Photograph Blurred Black And White Photo Of A Reclining Figure]] — shared language: reclining, photo

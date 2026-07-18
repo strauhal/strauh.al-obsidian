@@ -6,7 +6,7 @@ source_relpath: "1900s/Industrial Landscape by Charles Sheeler (1929).jpeg"
 collection: "1900s"
 inferred_year: "1929"
 artist: ""
-dimensions: "2048x1464"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

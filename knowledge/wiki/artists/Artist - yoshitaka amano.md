@@ -41,7 +41,7 @@ Images attributed by filename: 7
 - [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: vol
 - [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: vol
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation-vol-1-dover-publications|The World as Will and Representation, Vol. 1-Dover Publications]] — shared language: vol
-- [[knowledge/wiki/images/Illustration Sperm Being Injected Into An Egg Cell 66cc47a7|Illustration Sperm Being Injected Into An Egg Cell]] — shared language: egg
 - [[knowledge/wiki/books/h-s-harris-hegel-s-ladder-the-odyssey-of-spirit-vol-2|Hegel's Ladder :The Odyssey of Spirit (Vol 2)]] — shared language: vol
 - [[knowledge/wiki/books/m-h-abrams-the-norton-anthology-of-english-literature-vol-1-4th-edition|The Norton Anthology of English Literature, Vol. 1, 4th Edition]] — shared language: vol
+- [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
 <!-- vault-crosslinks:end -->

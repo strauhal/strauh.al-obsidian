@@ -6,7 +6,7 @@ source_relpath: "1900s/Jacqueline (Reine) by Pablo Picasso (1959).jpeg"
 collection: "1900s"
 inferred_year: "1959"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

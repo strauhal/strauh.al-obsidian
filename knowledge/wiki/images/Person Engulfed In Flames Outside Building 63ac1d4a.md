@@ -6,7 +6,7 @@ source_relpath: "photography/Person Engulfed In Flames Outside Building.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1284x1359"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

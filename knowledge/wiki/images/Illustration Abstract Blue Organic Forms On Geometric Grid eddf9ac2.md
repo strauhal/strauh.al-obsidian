@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Blue Organic Forms On Geometri
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1477x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

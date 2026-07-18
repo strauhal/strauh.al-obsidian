@@ -6,7 +6,7 @@ source_relpath: "1400s/the_philosopher_s_stone_lapis_philosophorum_c_1415.jpeg"
 collection: "1400s"
 inferred_year: "1415"
 artist: ""
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

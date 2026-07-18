@@ -6,7 +6,7 @@ source_relpath: "diagrams/Colorful_Bar_Chart_Displaying_Pairwise_Network_Data.pn
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "3360x2100"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

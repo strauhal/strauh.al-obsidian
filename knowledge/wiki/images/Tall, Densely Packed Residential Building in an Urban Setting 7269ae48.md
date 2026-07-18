@@ -6,7 +6,7 @@ source_relpath: "photography/Tall, Densely Packed Residential Building in an Urb
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1079x1224"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

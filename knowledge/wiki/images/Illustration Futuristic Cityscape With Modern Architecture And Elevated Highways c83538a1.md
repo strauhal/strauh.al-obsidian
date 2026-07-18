@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Futuristic Cityscape With Modern Archit
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "658x536"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

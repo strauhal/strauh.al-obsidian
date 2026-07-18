@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Man in Sunglasses Profile Next to Tetsu
 collection: "unsorted"
 inferred_year: ""
 artist: "Tetsuo Hara"
-dimensions: "1200x843"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Comparison of Baker Street Underground Station
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1170x1400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Image - Compa
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: station
-- [[knowledge/wiki/images/Screenshot MI6 Underground Headquarters in a Large Arched Space 8d7ec53c|Screenshot MI6 Underground Headquarters in a Large Arched Space]] — shared language: underground
 - [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street
+- [[knowledge/wiki/images/Screenshot MI6 Underground Headquarters in a Large Arched Space 8d7ec53c|Screenshot MI6 Underground Headquarters in a Large Arched Space]] — shared language: underground
 - [[knowledge/wiki/images/Comparison of Generated Images with Deconvolution Artifacts 5be9023f|Comparison of Generated Images with Deconvolution Artifacts]] — shared language: comparison
 <!-- vault-crosslinks:end -->

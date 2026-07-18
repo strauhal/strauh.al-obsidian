@@ -6,7 +6,7 @@ source_relpath: "wallpapers/tumblr_lp4r8w1pX61qjbiy7o1_1280.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "1034x230"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "pictures_of_musicians/kanye party.jpg"
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: "1242x1226"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---

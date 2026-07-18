@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Collage of Electronic Schematics, Text, an
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1617x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Refinery by Charles Sheeler (1946).jpeg"
 collection: "1900s"
 inferred_year: "1946"
 artist: ""
-dimensions: "1671x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

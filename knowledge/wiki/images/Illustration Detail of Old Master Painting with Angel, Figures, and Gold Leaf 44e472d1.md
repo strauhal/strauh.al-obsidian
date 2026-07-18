@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Detail of Old Master Painting with Ange
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

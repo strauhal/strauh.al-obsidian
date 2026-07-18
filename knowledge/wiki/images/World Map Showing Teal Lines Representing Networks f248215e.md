@@ -6,7 +6,7 @@ source_relpath: "diagrams/World_Map_Showing_Teal_Lines_Representing_Networks.jpe
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "2244x1432"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---
@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/World_Map_Sho
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: networks
 - [[knowledge/wiki/images/Illustration Abstract Wavy Lines with Orange, Pink, and Teal Colors 7a392a42|Illustration Abstract Wavy Lines with Orange, Pink, and Teal Colors]] — shared language: teal, lines
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: networks
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: world
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: networks
 - [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: world

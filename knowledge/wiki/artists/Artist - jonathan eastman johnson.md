@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/david johnson the haymakers 1867 68a80a47|david johnson the haymakers 1867]] — shared language: johnson
 - [[knowledge/wiki/artists/Artist - John Johnson|Artist - John Johnson]] — shared language: johnson
 - [[knowledge/wiki/artists/Artist - R. Kikuo Johnson|Artist - R. Kikuo Johnson]] — shared language: johnson
-- [[knowledge/wiki/anchors/reuben-jonathan-miller|Reuben Jonathan Miller]] — shared language: jonathan
 - [[knowledge/wiki/artists/Artist - Aaron Johnson|Artist - Aaron Johnson]] — shared language: johnson
+- [[knowledge/wiki/anchors/reuben-jonathan-miller|Reuben Jonathan Miller]] — shared language: jonathan
 - [[knowledge/wiki/books/routledge-key-guides-jonathan-harris-art-history-the-key-concepts-routledge|Art History The Key Concepts-Routledge]] — shared language: jonathan
 <!-- vault-crosslinks:end -->

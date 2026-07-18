@@ -6,7 +6,7 @@ source_relpath: "1800s/man_on_a_balcony_by_gustave_caillebotte_1880.jpeg"
 collection: "1800s"
 inferred_year: "1880"
 artist: "gustave caillebotte"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -2,8 +2,8 @@
 title: Library - Unsorted
 type: map
 tags: [map, library, books]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Library - Unsorted
@@ -99,7 +99,6 @@ Books/files: 114
 - [[Dark Alliance - 1999]] — Gary Webb
 - [[The Sorrows of Young Werther and Selected Writings]] — Goethe, Johann Wolfgang von Clements, Marcelle Krimmer, Elisabeth Goethe, Johann Wolfgang von Hutter, Catherine
 - [[Ways of Being-Penguin Books Ltd]] — James Bridle
-- [[Atomic Habits Tiny Changes, Remarkable Results]] — James Clear
 - [[Guns, Germs and Steel The Fates of Human Societies]] — Jared Diamond
 - [[Nomadland Surviving America in the Twenty-First Century-W. W. Norton & Company]] — Jessica Bruder
 - [[Degenerate Moderns Modernity as Rationalized Sexual Misbehavior. 1.0-Ignatius Press]] — Jones, Eugene Michael
@@ -120,6 +119,7 @@ Books/files: 114
 - [[The Twits]] — Roald Dahl
 - [[Normal People-Faber & Faber]] — Rooney, Sally
 - [[Careless People-Flatiron Books]] — Sarah Wynn-Williams
+- [[The Atlantic]] — The End of Reading Is Here
 - [[The Confessions of an English Opium Eater Being an Extract from the Life of a Scholar]] — Thomas De Quincey
 - [[Spinal Catastrophism]] — Thomas Moynihan
 - [[The Story of Philosophy The Lives and Opinions of the World's Greatest Philosophers]] — Will Durant

@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Minimalist Concrete Interior with Skylight a
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Claus Brechenmacher and Reiner Baumann"
-dimensions: "6264x4694"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

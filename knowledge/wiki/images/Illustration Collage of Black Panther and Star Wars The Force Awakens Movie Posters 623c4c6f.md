@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Collage of Black Panther and Star Wars:
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "523x767"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

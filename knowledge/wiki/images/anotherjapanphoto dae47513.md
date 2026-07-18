@@ -6,7 +6,7 @@ source_relpath: "wallpapers/anotherjapanphoto.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1383"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

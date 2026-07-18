@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Adam Sandler Poster Above Extensive Collection of
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "480x704"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/wanes_on_the_dance_by_roger_dean_1973.jpeg"
 collection: "1900s"
 inferred_year: "1973"
 artist: "roger dean"
-dimensions: "1000x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

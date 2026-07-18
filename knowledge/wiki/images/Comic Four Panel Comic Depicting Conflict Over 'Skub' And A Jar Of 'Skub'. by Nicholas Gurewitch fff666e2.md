@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Four-Panel Comic Depicting Conflict Over 'Skub
 collection: "unsorted"
 inferred_year: ""
 artist: "Nicholas Gurewitch"
-dimensions: "479x638"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

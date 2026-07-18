@@ -6,7 +6,7 @@ source_relpath: "photography/Men in Suits Raising Hands in a Large Assembly Hall
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1024x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

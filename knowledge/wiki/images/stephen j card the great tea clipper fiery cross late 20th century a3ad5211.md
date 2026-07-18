@@ -6,7 +6,7 @@ source_relpath: "1900s/stephen_j_card_the_great_tea_clipper_fiery_cross_late_20t
 collection: "1900s"
 inferred_year: "1900s"
 artist: ""
-dimensions: "3840x2160"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

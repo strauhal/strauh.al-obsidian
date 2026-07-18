@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Line Drawing of Standing Female Figure in Long Dress ad8d9efa|Illustration Line Drawing of Standing Female Figure in Long Dress]] — shared language: female, dress, standing
 - [[_archive/auto-generated/images-stale/line drawing of a standing female figure in a long dress 27f7be60|line drawing of a standing female figure in a long dress]] — shared language: female, dress, standing
 - [[_archive/auto-generated/images-stale/loose pencil sketch of a standing woman with long wavy hair on tan paper c6eedbd6|loose pencil sketch of a standing woman with long wavy hair on tan paper]] — shared language: tan, loose, standing
-- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: loose, line
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 <!-- vault-crosslinks:end -->

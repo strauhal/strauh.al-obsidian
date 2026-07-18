@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Black And White Pixelated Geom
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "500x497"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

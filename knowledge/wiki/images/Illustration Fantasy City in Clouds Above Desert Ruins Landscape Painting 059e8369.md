@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Fantasy City in Clouds Above Desert Ruins 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "440x512"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

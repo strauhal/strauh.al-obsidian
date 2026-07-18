@@ -3,8 +3,8 @@ title: recent-dreams-before-ayahuasca
 type: source-index
 aliases: [Recent Dreams Before Ayahuasca]
 tags: [source, dreams, journal, provenance]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Recent Dreams Before Ayahuasca

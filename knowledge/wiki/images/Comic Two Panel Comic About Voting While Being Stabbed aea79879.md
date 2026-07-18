@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Two-Panel Comic About Voting While Being Stabb
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1080x567"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

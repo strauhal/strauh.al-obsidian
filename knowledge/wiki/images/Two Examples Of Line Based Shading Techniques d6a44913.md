@@ -6,7 +6,7 @@ source_relpath: "diagrams/Two_Examples_Of_Line-Based_Shading_Techniques.png"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "640x480"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

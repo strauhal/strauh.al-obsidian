@@ -6,7 +6,7 @@ source_relpath: "diagrams/Map_of_Anticommunist_Extermination_Programs_1945-2000.
 collection: "diagrams"
 inferred_year: "2000"
 artist: ""
-dimensions: "1080x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

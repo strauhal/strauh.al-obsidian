@@ -6,7 +6,7 @@ source_relpath: "1900s/The Room, Tarzana by David Hockney (1967).jpg"
 collection: "1900s"
 inferred_year: "1967"
 artist: ""
-dimensions: "1280x1536"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

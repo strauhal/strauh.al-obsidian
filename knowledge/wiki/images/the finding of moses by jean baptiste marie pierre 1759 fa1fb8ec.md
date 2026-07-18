@@ -6,7 +6,7 @@ source_relpath: "1700s/the_finding_of_moses_by_jean_baptiste_marie_pierre_1759.j
 collection: "1700s"
 inferred_year: "1759"
 artist: "jean baptiste marie pierre"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

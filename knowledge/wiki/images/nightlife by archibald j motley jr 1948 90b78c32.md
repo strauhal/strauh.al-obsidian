@@ -6,7 +6,7 @@ source_relpath: "1900s/nightlife_by_archibald_j_motley_jr_1948.jpeg"
 collection: "1900s"
 inferred_year: "1948"
 artist: "archibald j motley jr"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

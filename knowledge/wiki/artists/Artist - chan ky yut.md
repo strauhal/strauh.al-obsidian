@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: chan
 - [[knowledge/wiki/images/Screenshot Screenshot of a 4chan Thread Discussing an Artwork 9d952cbb|Screenshot Screenshot of a 4chan Thread Discussing an Artwork]] — shared language: chan
 - [[knowledge/wiki/dreams/dream-04|Dream 4 - Marriage, 4chan, and the Flight Home]] — shared language: chan
+- [[knowledge/private/fanmail/threads/14-hhiii-my-name-is-khalil-im-17-and-found-your-website-on-4-chan-lol-but-i-had-to-take-a-picture-of-it|Private Correspondence - 14 - HHIII my name is khalil im 17 and found your website on 4 chan lol but i had to take a picture of it cuz i was drawing on a my xbox believe it or not.]] — shared language: chan
 - [[knowledge/private/fanmail/threads/10-love-your-archive|Private Correspondence - 10 - Love your archive]] — shared language: chan
-- [[knowledge/private/fanmail/threads/19-submission|Private Correspondence - 19 - Submission]] — shared language: chan
 <!-- vault-crosslinks:end -->

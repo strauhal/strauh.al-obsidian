@@ -6,7 +6,7 @@ source_relpath: "1900s/Cumulus Mood Twang by Flowchart (1995).jpg"
 collection: "1900s"
 inferred_year: "1995"
 artist: ""
-dimensions: "750x750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

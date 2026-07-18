@@ -6,7 +6,7 @@ source_relpath: "diagrams/Chemical_Structures_of_Serotonin,_Psilocybin,_DMT,_and
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "470x167"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---
@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Chemical_Stru
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: serotonin
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: psilocybin
 - [[knowledge/wiki/books/how-taking-900mcg-of-lsd-permanently-enhanced-my-intelligence-hackernoon|How taking >900mcg of LSD permanently enhanced my intelligence - HackerNoon]] — shared language: lsd
 - [[knowledge/wiki/images/Architectural Diagrams of Structures in Thessaloniki and Ephesus 9396cf62|Architectural Diagrams of Structures in Thessaloniki and Ephesus]] — shared language: structures
 - [[knowledge/wiki/images/drawings made by an artist under the influence of lsd 1959 9fafb4f0|drawings made by an artist under the influence of lsd 1959]] — shared language: lsd
+- [[knowledge/wiki/images/Brain Network Diagrams Comparing Placebo and Psilocybin Effects b8e99b65|Brain Network Diagrams Comparing Placebo and Psilocybin Effects]] — shared language: psilocybin
 <!-- vault-crosslinks:end -->

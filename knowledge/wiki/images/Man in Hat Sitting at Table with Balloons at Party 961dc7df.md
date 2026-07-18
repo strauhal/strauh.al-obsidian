@@ -6,7 +6,7 @@ source_relpath: "photography/Man in Hat Sitting at Table with Balloons at Party.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "720x855"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

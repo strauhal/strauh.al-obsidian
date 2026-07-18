@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Two Framed Oil Paintings of Urban Street Sce
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Two
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, street
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, urban
 - [[knowledge/wiki/images/Photograph Two Framed Oil Paintings Hanging on a Textured Wall c46f3c7d|Photograph Two Framed Oil Paintings Hanging on a Textured Wall]] — shared language: paintings, framed, oil
 - [[knowledge/wiki/images/Illustration Nine Black and White Ink Drawings of Urban and Suburban Scenes 88cef3ee|Illustration Nine Black and White Ink Drawings of Urban and Suburban Scenes]] — shared language: urban, scenes, scenes.jpeg
 - [[knowledge/wiki/images/Photograph Installation of Ten Framed Paintings of Stylized Figures d0802470|Photograph Installation of Ten Framed Paintings of Stylized Figures]] — shared language: paintings, framed

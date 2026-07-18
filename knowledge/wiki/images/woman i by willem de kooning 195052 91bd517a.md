@@ -6,7 +6,7 @@ source_relpath: "1900s/woman_i_by_willem_de_kooning_195052.jpeg"
 collection: "1900s"
 inferred_year: "1900s"
 artist: "willem de kooning 195052"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

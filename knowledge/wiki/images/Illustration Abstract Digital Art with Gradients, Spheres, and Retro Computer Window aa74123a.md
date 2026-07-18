@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Digital Art with Gradients, Sp
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

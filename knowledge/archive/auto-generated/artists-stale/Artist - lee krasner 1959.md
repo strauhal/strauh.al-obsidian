@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - lee krasner|Artist - lee krasner]] — named in this note
 - [[knowledge/wiki/images/Illustration Untitled by Lee Bontecou 5adc429c|Illustration Untitled by Lee Bontecou]] — shared language: lee
 - [[knowledge/wiki/artists/Artist - Lee Bontecou|Artist - Lee Bontecou]] — shared language: lee
-- [[knowledge/wiki/anchors/ang-lee|Ang Lee]] — shared language: lee
 - [[knowledge/wiki/artists/Artist - Ethan Lee|Artist - Ethan Lee]] — shared language: lee
+- [[knowledge/wiki/anchors/ang-lee|Ang Lee]] — shared language: lee
 - [[knowledge/wiki/images/Absolut P.U.L.S.E. by Paul Lee (1990) 55a4059c|Absolut P.U.L.S.E. by Paul Lee (1990)]] — shared language: lee
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1900s/cathedrals_of_art_by_florine_stettheimer_1942.jpeg"
 collection: "1900s"
 inferred_year: "1942"
 artist: "florine stettheimer"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

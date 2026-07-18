@@ -6,7 +6,7 @@ source_relpath: "diary/GLOVzqiXoAAi_-u.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "954x542"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

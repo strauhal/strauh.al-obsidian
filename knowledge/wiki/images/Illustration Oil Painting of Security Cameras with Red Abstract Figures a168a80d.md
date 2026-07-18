@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Oil Painting of Security Cameras with Red 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2044x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - O
 - [[knowledge/wiki/artists/Artist - Security|Artist - Security]] — shared language: security
 - [[knowledge/wiki/books/benjamin-graham-david-dodd-warren-buffett-security-analysis-2008-mcgraw-hill-libgenlc|Security Analysis 2008 McGraw-Hill - libgenlc]] — shared language: security
 - [[knowledge/wiki/images/Illustration Abstract Oil Painting of Reclining Figure cee29e55|Illustration Abstract Oil Painting of Reclining Figure]] — shared language: oil
-- [[knowledge/wiki/images/Tetsuya Yamagami, Shinzo Abe's Assassin, Apprehended by Security a2ff99ac|Tetsuya Yamagami, Shinzo Abe's Assassin, Apprehended by Security]] — shared language: security
 - [[knowledge/wiki/images/Illustration Oil Painting of Three Figures in an Interior c259eaca|Illustration Oil Painting of Three Figures in an Interior]] — shared language: oil
+- [[knowledge/wiki/images/Tetsuya Yamagami, Shinzo Abe's Assassin, Apprehended by Security a2ff99ac|Tetsuya Yamagami, Shinzo Abe's Assassin, Apprehended by Security]] — shared language: security
 <!-- vault-crosslinks:end -->

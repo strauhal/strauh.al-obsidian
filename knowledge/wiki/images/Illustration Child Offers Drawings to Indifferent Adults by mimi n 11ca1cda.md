@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Child Offers Drawings to Indifferent Adult
 collection: "2000s"
 inferred_year: "2000s"
 artist: "mimi n"
-dimensions: "900x870"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

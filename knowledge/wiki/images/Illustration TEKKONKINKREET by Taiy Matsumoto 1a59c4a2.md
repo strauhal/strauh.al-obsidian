@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - TEKKONKINKREET by Taiyō Matsumoto.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Taiy Matsumoto"
-dimensions: "630x861"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

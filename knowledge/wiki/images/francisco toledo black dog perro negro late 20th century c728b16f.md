@@ -6,7 +6,7 @@ source_relpath: "1900s/francisco_toledo_black_dog_perro_negro_late_20th_century.
 collection: "1900s"
 inferred_year: "1900s"
 artist: ""
-dimensions: "1024x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

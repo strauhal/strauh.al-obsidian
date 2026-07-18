@@ -20,9 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: results
-- [[knowledge/wiki/images/the county election by george caleb bingham 1852 9af6bd67|the county election by george caleb bingham 1852]] — shared language: election
 - [[knowledge/wiki/images/Screenshot Academic Article Search Results Page 2f086f75|Screenshot Academic Article Search Results Page]] — shared language: results
+- [[knowledge/wiki/images/the county election by george caleb bingham 1852 9af6bd67|the county election by george caleb bingham 1852]] — shared language: election
 - [[knowledge/wiki/images/portrait of the russian prisoner of war grigory khristoforovich by egon schiele 1916 c88fd6a5|portrait of the russian prisoner of war grigory khristoforovich by egon schiele 1916]] — shared language: russian
 - [[knowledge/wiki/images/Diagram Colorful Radial Plot of the j invariant Function a503e653|Diagram Colorful Radial Plot of the j invariant Function]] — shared language: plot
 - [[knowledge/wiki/images/3D Plot of Borderline Personality Disorder Model a0cf5e17|3D Plot of Borderline Personality Disorder Model]] — shared language: plot

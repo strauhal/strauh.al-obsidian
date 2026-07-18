@@ -6,7 +6,7 @@ source_relpath: "1700s/Te Deum Laudamus by Robert Strange (1760).jpeg"
 collection: "1700s"
 inferred_year: "1760"
 artist: ""
-dimensions: "875x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

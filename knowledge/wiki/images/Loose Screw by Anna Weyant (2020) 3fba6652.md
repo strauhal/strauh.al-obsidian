@@ -6,7 +6,7 @@ source_relpath: "2000s/Loose Screw by Anna Weyant (2020).jpeg"
 collection: "2000s"
 inferred_year: "2020"
 artist: ""
-dimensions: "1440x1800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Close-Up Portrait Of Two Men With Beards Looking At
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1800x1800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

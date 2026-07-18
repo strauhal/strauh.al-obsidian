@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Shirtless Freddie Mercury Performing On Stag
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "970x1228"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

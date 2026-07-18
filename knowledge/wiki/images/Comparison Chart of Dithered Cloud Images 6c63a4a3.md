@@ -6,7 +6,7 @@ source_relpath: "diagrams/Comparison_Chart_of_Dithered_Cloud_Images.png"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1182x384"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

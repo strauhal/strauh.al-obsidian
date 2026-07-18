@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Still Life with Flowers and Fruit by David Hockney (1984) c044cd3f|Still Life with Flowers and Fruit by David Hockney (1984)]] — shared language: fruit, still, life
 - [[_archive/auto-generated/images-stale/framed still life with mandolin hat and paper e14c4d44|framed still life with mandolin hat and paper]] — shared language: still, framed, life
 - [[_archive/auto-generated/images-stale/framed flower still life with red bouquet abe692ec|framed flower still life with red bouquet]] — shared language: still, framed, life
-- [[_archive/auto-generated/images-stale/framed red table interior still life with flowers ed3f2c10|framed red table interior still life with flowers]] — shared language: still, framed, life
+- [[_archive/auto-generated/images-stale/framed still life with books papers and flowers f6c1ee8d|framed still life with books papers and flowers]] — shared language: still, framed, life
 <!-- vault-crosslinks:end -->

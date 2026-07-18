@@ -6,7 +6,7 @@ source_relpath: "photography/Tall Library Room with Wooden Bookshelves and Oval 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "750x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

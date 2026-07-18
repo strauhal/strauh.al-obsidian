@@ -6,7 +6,7 @@ source_relpath: "1900s/Coal Breaker by Max Arthur Cohn (c. 1935).jpg"
 collection: "1900s"
 inferred_year: "1935"
 artist: ""
-dimensions: "2000x1478"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

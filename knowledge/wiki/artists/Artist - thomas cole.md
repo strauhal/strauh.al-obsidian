@@ -37,5 +37,5 @@ Images attributed by filename: 5
 - [[knowledge/wiki/images/thomas cole the consummation of empire 1836 4a6c936f|thomas cole the consummation of empire 1836]] — shared language: cole, thomas
 - [[knowledge/wiki/artists/Artist - moonlight by thomas cole|Artist - moonlight by thomas cole]] — shared language: cole, thomas
 - [[knowledge/wiki/images/The Picnic by Thomas Cole (1846) 1879e9e2|The Picnic by Thomas Cole (1846)]] — shared language: cole, thomas
-- [[knowledge/wiki/images/Prometheus Bound by Thomas Cole (1847) 394a573a|Prometheus Bound by Thomas Cole (1847)]] — shared language: cole, thomas
+- [[knowledge/wiki/images/the angel appearing to the shepherds by thomas cole 18331834 2cc1b187|the angel appearing to the shepherds by thomas cole 18331834]] — shared language: cole, thomas
 <!-- vault-crosslinks:end -->

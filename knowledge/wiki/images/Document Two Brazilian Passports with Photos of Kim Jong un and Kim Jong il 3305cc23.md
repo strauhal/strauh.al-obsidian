@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Two Brazilian Passports with Photos of Kim 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1098x799"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

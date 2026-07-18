@@ -6,7 +6,7 @@ source_relpath: "diagrams/Spacetime_Diagram_Illustrating_Time-Traveler's_Life-Li
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "680x548"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

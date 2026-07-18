@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Complex Abstract Form Rendered with Fin
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

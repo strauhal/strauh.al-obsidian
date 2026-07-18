@@ -6,7 +6,7 @@ source_relpath: "wallpapers/bee syrup.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "2000x1196"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

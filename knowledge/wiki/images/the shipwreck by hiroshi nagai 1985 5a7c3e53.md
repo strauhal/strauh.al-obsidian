@@ -6,7 +6,7 @@ source_relpath: "1900s/the_shipwreck_by_hiroshi_nagai_1985.jpg"
 collection: "1900s"
 inferred_year: "1985"
 artist: "hiroshi nagai"
-dimensions: "1600x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

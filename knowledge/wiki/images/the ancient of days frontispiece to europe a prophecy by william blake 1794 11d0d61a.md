@@ -6,7 +6,7 @@ source_relpath: "1700s/the_ancient_of_days_frontispiece_to_europe_a_prophecy_by_
 collection: "1700s"
 inferred_year: "1794"
 artist: "william blake"
-dimensions: "3000x4172"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

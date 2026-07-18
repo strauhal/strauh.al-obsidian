@@ -6,7 +6,7 @@ source_relpath: "1900s/harmony1956_armonia_remediosvaro_6543542b_437e_46e1_b2db_
 collection: "1900s"
 inferred_year: "1956"
 artist: ""
-dimensions: "1100x886"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

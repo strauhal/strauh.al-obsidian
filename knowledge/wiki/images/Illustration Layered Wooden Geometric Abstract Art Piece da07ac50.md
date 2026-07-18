@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Layered Wooden Geometric Abstract Art P
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3036x2868"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

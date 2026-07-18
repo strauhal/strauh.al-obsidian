@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White Illustration Of A Ship 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "560x777"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

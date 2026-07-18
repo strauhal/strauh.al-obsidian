@@ -6,7 +6,7 @@ source_relpath: "1800s/studies_in_composition_after_goya_1899.jpeg"
 collection: "1800s"
 inferred_year: "1899"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/studies_in_compo
 
 - [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
 - [[knowledge/wiki/images/The Colossus by Francisco de Goya (1808 1812) 91ea0811|The Colossus by Francisco de Goya (1808 1812)]] — shared language: goya
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies
 - [[knowledge/wiki/artists/Artist - francisco de goya|Artist - francisco de goya]] — shared language: goya
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: studies
 <!-- vault-crosslinks:end -->

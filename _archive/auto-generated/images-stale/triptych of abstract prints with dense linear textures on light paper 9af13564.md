@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Triptych of Abstract Prints with Dense Linear Textures 725884b4|Illustration Triptych of Abstract Prints with Dense Linear Textures]] — named in this note
 - [[knowledge/wiki/images/Illustration Abstract Line Drawing with Dense Central Pattern on Light Background a227a6b3|Illustration Abstract Line Drawing with Dense Central Pattern on Light Background]] — shared language: dense, light
-- [[knowledge/wiki/images/Illustration Black and White Abstract Print with Varied Linear Patterns cc47832b|Illustration Black and White Abstract Print with Varied Linear Patterns]] — shared language: linear
 - [[knowledge/wiki/books/humphries-paper-copy|humphries paper copy]] — shared language: paper
+- [[knowledge/wiki/images/Illustration Black and White Abstract Print with Varied Linear Patterns cc47832b|Illustration Black and White Abstract Print with Varied Linear Patterns]] — shared language: linear
 - [[_archive/auto-generated/images-stale/abstract black ink brushstrokes on paper 3dd6bc32|abstract black ink brushstrokes on paper]] — shared language: paper, paper.jpeg
 <!-- vault-crosslinks:end -->

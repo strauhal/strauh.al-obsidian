@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Obama Holding Blue Pill Amidst Drones, Sku
 collection: "2000s"
 inferred_year: "2000s"
 artist: "David Dees"
-dimensions: "600x533"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

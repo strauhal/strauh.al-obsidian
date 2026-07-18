@@ -43,8 +43,8 @@ and the thing he keeps trying to write his way out of.
 - [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
 - [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: quotes, archive-links, start
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: quotes, you're, see
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: quotes, going, say
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: quotes, you're, see
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: quotes, can't, you're
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: quotes, can't
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: quotes, can't

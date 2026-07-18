@@ -6,7 +6,7 @@ source_relpath: "2000s/Man and Cat by Valeriy Kucherenko (2018).jpg"
 collection: "2000s"
 inferred_year: "2018"
 artist: ""
-dimensions: "680x567"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

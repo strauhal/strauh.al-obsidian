@@ -6,7 +6,7 @@ source_relpath: "1900s/the_corridor_by_marie_helene_vieira_da_silva_1950.jpeg"
 collection: "1900s"
 inferred_year: "1950"
 artist: "marie helene vieira da silva"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/the_castle_of_the_sleeping_beauty_by_gustave_dore_1867.jp
 collection: "1800s"
 inferred_year: "1867"
 artist: "gustave dore"
-dimensions: "1690x2250"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

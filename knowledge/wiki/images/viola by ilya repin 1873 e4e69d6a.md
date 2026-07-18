@@ -6,7 +6,7 @@ source_relpath: "1800s/viola_by_ilya_repin_1873.jpg"
 collection: "1800s"
 inferred_year: "1873"
 artist: "ilya repin"
-dimensions: "715x1100"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

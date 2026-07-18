@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Digital Illustration of a Woman in Green D
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1125x1620"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

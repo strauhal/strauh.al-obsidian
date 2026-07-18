@@ -6,7 +6,7 @@ source_relpath: "1900s/jean_harlow_1983.jpg"
 collection: "1900s"
 inferred_year: "1983"
 artist: ""
-dimensions: "2292x3056"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

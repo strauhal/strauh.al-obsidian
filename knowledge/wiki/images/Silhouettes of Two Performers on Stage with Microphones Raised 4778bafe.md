@@ -6,7 +6,7 @@ source_relpath: "photography/Silhouettes of Two Performers on Stage with Microph
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1440x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

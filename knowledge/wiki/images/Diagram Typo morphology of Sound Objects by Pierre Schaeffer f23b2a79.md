@@ -6,7 +6,7 @@ source_relpath: "unsorted/Diagram - Typo-morphology of Sound Objects by Pierre S
 collection: "unsorted"
 inferred_year: ""
 artist: "Pierre Schaeffer"
-dimensions: "800x566"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

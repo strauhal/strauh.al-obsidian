@@ -2,14 +2,14 @@
 title: Books Folder Title List
 slug: books
 type: library
-ingested: 2026-07-10
+ingested: 2026-07-18
 compiled: true
 tags: [raw, books]
 ---
 
 # Books Folder Title List
 
-Entries: 420
+Entries: 421
 
 - Figure Drawing for All It's Worth — Andrew Loomis (1951)
 - Introductory Lectures on Aesthetics — Bosanquet, Bernard Hegel,Georg,Wilhelm Friedrich Inwood, Michael (2010)
@@ -186,7 +186,6 @@ Entries: 420
 - JPEG image
 - New Dark Age - Technology and the End of the Future-Verso Books — James Bridle
 - Ways of Being-Penguin Books Ltd — James Bridle (2022)
-- Atomic Habits Tiny Changes, Remarkable Results — James Clear (2018)
 - Chaos Making a New Science — James Gleick (2008)
 - Guns, Germs and Steel The Fates of Human Societies — Jared Diamond (1999)
 - The Spirit of Terrorism — Jean Baudrillard (2014)
@@ -293,6 +292,7 @@ Entries: 420
 - The Crying of Lot 49 — Pynchon, Thomas
 - The Elements of Typographic Style — Robert Bringhurst
 - The Enchiridion, — Epictetus
+- The Atlantic — The End of Reading Is Here
 - The Essays of Warren Buffett: Lessons for Corporate America — Warren Buffett, Lawrence A. Cunningham (1997)
 - The Goon Squad, — Daniel Kolitz
 - The History of Magic — Éliphas Lévi (trans. A. E. Waite) (1860)
@@ -402,6 +402,7 @@ Entries: 420
 - Is the Rectum a Grave? — Leo Bersani (1987)
 - lit wiki
 - The Communist Manifesto — Karl Marx, Friedrich Engels (1848)
+- martin-heidegger-hegels-phenomenology-of-spirit
 - The Complete Essays — Michel de Montaigne (1580)
 - music reading
 - Nicomachean Ethics — Aristotle

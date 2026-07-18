@@ -6,7 +6,7 @@ source_relpath: "1900s/the_half_open_window_la_fenetre_entr_ouverte_by_kiyoshi_h
 collection: "1900s"
 inferred_year: "1930"
 artist: "kiyoshi hasegawa"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

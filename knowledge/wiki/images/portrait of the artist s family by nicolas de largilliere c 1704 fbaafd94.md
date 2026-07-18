@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_the_artist_s_family_by_nicolas_de_largilliere
 collection: "1700s"
 inferred_year: "1704"
 artist: "nicolas de largilliere"
-dimensions: "800x654"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

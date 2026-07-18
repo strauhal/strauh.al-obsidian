@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Complex Wireframe Geometric Form Drawn on Grid 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2922x1564"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Comple
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex, wireframe, grid
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: wireframe, complex, grid
 - [[knowledge/wiki/images/Complex Diagram of Nodes and Arrows on Grid Paper 5e521ede|Complex Diagram of Nodes and Arrows on Grid Paper]] — shared language: complex, grid, paper
 - [[knowledge/wiki/images/Complex Network Diagram on Grid 6975378a|Complex Network Diagram on Grid]] — shared language: complex, grid, diagram
 - [[knowledge/wiki/images/Illustration Complex Symmetrical Geometric Design on Grid Paper with Lines and Dots 2feae159|Illustration Complex Symmetrical Geometric Design on Grid Paper with Lines and Dots]] — shared language: complex, paper, grid

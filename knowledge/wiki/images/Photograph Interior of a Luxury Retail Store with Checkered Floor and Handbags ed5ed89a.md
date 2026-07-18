@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Interior of a Luxury Retail Store with Check
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Int
 - [[knowledge/wiki/images/Person Playing Chess On Checkered Bathroom Floor 98837a51|Person Playing Chess On Checkered Bathroom Floor]] — shared language: checkered, floor
 - [[knowledge/wiki/images/Illustration Black Cat Peeking From Behind Screen on Checkered Floor 7d8e27da|Illustration Black Cat Peeking From Behind Screen on Checkered Floor]] — shared language: checkered, floor
 - [[knowledge/wiki/images/Interior of Amoeba Music Store, San Francisco 2d857a3f|Interior of Amoeba Music Store, San Francisco]] — shared language: store, interior
-- [[knowledge/wiki/images/Illustration Abstract Red And Black Checkered Spheres And Planes 0b63037c|Illustration Abstract Red And Black Checkered Spheres And Planes]] — shared language: checkered
+- [[knowledge/wiki/images/Luxury Private Jet Interior with Velvet Seating and Bar 58973b98|Luxury Private Jet Interior with Velvet Seating and Bar]] — shared language: luxury, interior
 <!-- vault-crosslinks:end -->

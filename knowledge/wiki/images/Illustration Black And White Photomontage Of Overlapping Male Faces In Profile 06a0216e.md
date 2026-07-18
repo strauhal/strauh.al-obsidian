@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White Photomontage Of Overlap
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3219x4096"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

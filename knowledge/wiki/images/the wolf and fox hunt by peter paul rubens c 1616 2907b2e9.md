@@ -6,7 +6,7 @@ source_relpath: "1600s/the_wolf_and_fox_hunt_by_peter_paul_rubens_c_1616.jpg"
 collection: "1600s"
 inferred_year: "1616"
 artist: "peter paul rubens"
-dimensions: "3786x2427"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

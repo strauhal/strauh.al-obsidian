@@ -6,7 +6,7 @@ source_relpath: "photography/Ariana Grande Posing In Pink Outfit At R.E.M. Beaut
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "850x987"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

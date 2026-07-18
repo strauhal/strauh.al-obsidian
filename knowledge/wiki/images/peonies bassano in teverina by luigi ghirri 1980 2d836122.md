@@ -6,7 +6,7 @@ source_relpath: "1900s/peonies_bassano_in_teverina_by_luigi_ghirri_1980.jpeg"
 collection: "1900s"
 inferred_year: "1980"
 artist: "luigi ghirri"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

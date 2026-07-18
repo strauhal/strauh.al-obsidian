@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - White Rabbit with Bitcoin Spiral Clock and
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1290x1672"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 - [[knowledge/wiki/books/jean-baudrillard-the-conspiracy-of-art|The Conspiracy of Art]] — shared language: conspiracy
 - [[knowledge/wiki/books/david-graeber-bullshit-jobs-a-theory|Bullshit Jobs A Theory]] — shared language: theory
 - [[knowledge/wiki/books/athlone-contemporary-european-thinkers-theodor-w-adorno-aesthetic-theory|Aesthetic Theory]] — shared language: theory
-- [[knowledge/wiki/books/thomas-ligotti-ray-brassier-the-conspiracy-against-the-human-race-a-contrivance-of-horror-hippocampus-press|The Conspiracy against the Human Race A Contrivance of Horror-Hippocampus Press]] — shared language: conspiracy
 - [[knowledge/wiki/images/Motorcyclist Doing Wheelie with Fibonacci Spiral Overlay 7ac313f1|Motorcyclist Doing Wheelie with Fibonacci Spiral Overlay]] — shared language: spiral
+- [[knowledge/wiki/books/thomas-ligotti-ray-brassier-the-conspiracy-against-the-human-race-a-contrivance-of-horror-hippocampus-press|The Conspiracy against the Human Race A Contrivance of Horror-Hippocampus Press]] — shared language: conspiracy
 <!-- vault-crosslinks:end -->

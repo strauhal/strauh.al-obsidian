@@ -6,7 +6,7 @@ source_relpath: "photography/Three Custom-Built Extra-Long Limousines Parked on 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "828x971"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Three Cust
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: built
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: built
 - [[Welcome|strauh.al Knowledge Base]] — shared language: built
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: built
 - [[knowledge/wiki/images/Black Custom Car with Whitewall Tires Parked by Brick Building 25b16326|Black Custom Car with Whitewall Tires Parked by Brick Building]] — shared language: parked, custom
+- [[knowledge/wiki/images/Custom Built Electronic Devices with Knobs and Switches by Kazumoto Endo 8294f48b|Custom Built Electronic Devices with Knobs and Switches by Kazumoto Endo]] — shared language: custom, built, custom-built
 <!-- vault-crosslinks:end -->

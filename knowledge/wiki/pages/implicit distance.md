@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/implicit_distance.html"
 source_relpath: "implicit_distance.html"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:40"
+compiled_at: "2026-07-18T00:07:16"
 tags: ["strauhal", "source/html"]
 ---
 # implicit distance
@@ -38,7 +38,7 @@ playpausestop
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/visuals|visuals]] — named in this note
-- [[knowledge/raw/implicit-distance|Implicit Distance]] — shared language: implicit, distance, audio
+- [[knowledge/raw/implicit-distance|Implicit Distance]] — shared language: implicit, distance, warping
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: distance, implicit
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: implicit, distance
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: implicit, distance

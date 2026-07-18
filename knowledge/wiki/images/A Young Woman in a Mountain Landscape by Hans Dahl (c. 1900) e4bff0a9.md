@@ -6,7 +6,7 @@ source_relpath: "1900s/A Young Woman in a Mountain Landscape by Hans Dahl (c. 19
 collection: "1900s"
 inferred_year: "1900"
 artist: ""
-dimensions: "2500x1653"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

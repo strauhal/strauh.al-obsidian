@@ -6,7 +6,7 @@ source_relpath: "photography/Cat Sits Among Destroyed Window Blinds.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1101"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

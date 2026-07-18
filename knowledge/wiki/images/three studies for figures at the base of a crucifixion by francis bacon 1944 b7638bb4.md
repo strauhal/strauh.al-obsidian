@@ -6,7 +6,7 @@ source_relpath: "1900s/three_studies_for_figures_at_the_base_of_a_crucifixion_by
 collection: "1900s"
 inferred_year: "1944"
 artist: "francis bacon"
-dimensions: "1536x651"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

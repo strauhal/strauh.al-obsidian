@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Still Life with Pears, Apples, and Waln
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "4000x3000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

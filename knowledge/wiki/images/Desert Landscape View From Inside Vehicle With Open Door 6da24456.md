@@ -6,7 +6,7 @@ source_relpath: "photography/Desert Landscape View From Inside Vehicle With Open
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1079x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

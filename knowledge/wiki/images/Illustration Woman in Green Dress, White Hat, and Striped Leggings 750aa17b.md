@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Woman in Green Dress, White Hat, and St
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "650x1322"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

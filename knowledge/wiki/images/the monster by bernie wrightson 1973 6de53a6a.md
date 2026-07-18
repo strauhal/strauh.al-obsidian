@@ -6,7 +6,7 @@ source_relpath: "1900s/the_monster_by_bernie_wrightson_1973.jpg"
 collection: "1900s"
 inferred_year: "1973"
 artist: "bernie wrightson"
-dimensions: "1000x1377"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

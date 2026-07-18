@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Line Drawing Of Person With Glasses Hol
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1187x1422"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Black And White Line Drawing Of A Person With Messy Hair And Glasses 1c67f68b|Illustration Black And White Line Drawing Of A Person With Messy Hair And Glasses]] — shared language: glasses, line, person
 - [[knowledge/wiki/images/Illustration Line Drawing Of Person With Messy Hair And Glasses a78ca284|Illustration Line Drawing Of Person With Messy Hair And Glasses]] — shared language: glasses, line, person
 - [[knowledge/wiki/images/Illustration Line Drawing of Person with Red Glasses and Debian Logo 02aedd5a|Illustration Line Drawing of Person with Red Glasses and Debian Logo]] — shared language: glasses, line, person
-- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: looking
+- [[knowledge/wiki/images/Illustration Simple Line Drawing of a Person with Messy Hair and Glasses 945077b0|Illustration Simple Line Drawing of a Person with Messy Hair and Glasses]] — shared language: glasses, line, person
 <!-- vault-crosslinks:end -->

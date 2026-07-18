@@ -6,7 +6,7 @@ source_relpath: "diagrams/Map_of_Manhattan_Neighborhoods_with_Labeled_Points_of_
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1622x1920"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

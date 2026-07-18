@@ -6,7 +6,7 @@ source_relpath: "1900s/still_life_with_apple_and_guitar_by_david_hockney_1991.jp
 collection: "1900s"
 inferred_year: "1991"
 artist: "david hockney"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

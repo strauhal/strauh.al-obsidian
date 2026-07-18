@@ -6,7 +6,7 @@ source_relpath: "1800s/manufactures_and_liberal_arts_building_world_s_columbian_
 collection: "1800s"
 inferred_year: "1892"
 artist: "charles dudley arnold"
-dimensions: "4295x3639"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

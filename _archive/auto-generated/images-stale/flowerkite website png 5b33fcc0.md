@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/flowerkite_we
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: website
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: website
 - [[_archive/auto-generated/images-stale/burberry website png 429f934c|burberry website png]] — shared language: website, png.png
-- [[knowledge/private/fanmail/threads/05-changes-in-website|Private Correspondence - 05 - Changes in website]] — shared language: website
+- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: website
 <!-- vault-crosslinks:end -->

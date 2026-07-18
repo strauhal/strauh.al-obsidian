@@ -6,7 +6,7 @@ source_relpath: "1900s/der_untergang_des_hauses_usher_by_alfred_kubin_1908.jpg"
 collection: "1900s"
 inferred_year: "1908"
 artist: "alfred kubin"
-dimensions: "1000x834"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

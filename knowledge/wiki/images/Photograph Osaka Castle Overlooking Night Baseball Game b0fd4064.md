@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Osaka Castle Overlooking Night Baseball Game
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "811x1014"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Chronocyclegraph Motion Study of a Worker by Frank 
 collection: "photography"
 inferred_year: ""
 artist: "Frank and Lillian Gilbreth"
-dimensions: "425x368"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

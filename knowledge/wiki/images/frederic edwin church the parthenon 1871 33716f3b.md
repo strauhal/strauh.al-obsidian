@@ -6,7 +6,7 @@ source_relpath: "1800s/frederic_edwin_church_the_parthenon_1871.jpg"
 collection: "1800s"
 inferred_year: "1871"
 artist: ""
-dimensions: "1920x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

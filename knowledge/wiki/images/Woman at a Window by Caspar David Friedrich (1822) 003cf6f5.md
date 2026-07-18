@@ -6,7 +6,7 @@ source_relpath: "1800s/Woman at a Window by Caspar David Friedrich (1822).jpg"
 collection: "1800s"
 inferred_year: "1822"
 artist: ""
-dimensions: "900x1237"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/The Wasps Nest by William-Adolphe Bouguereau (1892).jpeg"
 collection: "1800s"
 inferred_year: "1892"
 artist: ""
-dimensions: "839x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/madonna_and_child_by_allan_d_arcangelo_1963.jpeg"
 collection: "1900s"
 inferred_year: "1963"
 artist: "allan d arcangelo"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

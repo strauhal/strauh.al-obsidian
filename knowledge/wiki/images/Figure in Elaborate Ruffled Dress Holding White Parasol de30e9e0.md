@@ -6,7 +6,7 @@ source_relpath: "photography/Figure in Elaborate Ruffled Dress Holding White Par
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "554x833"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

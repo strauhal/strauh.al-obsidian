@@ -6,7 +6,7 @@ source_relpath: "2000s/Cooking by Jeremy Miranda (2023).jpg"
 collection: "2000s"
 inferred_year: "2023"
 artist: ""
-dimensions: "1440x1768"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

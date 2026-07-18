@@ -6,7 +6,7 @@ source_relpath: "diagrams/Grid_of_Visual_Filters_or_Feature_Maps.png"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "781x730"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

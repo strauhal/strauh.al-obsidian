@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Surreal Scene with Grotesque Unicorn Figur
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2048x1170"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

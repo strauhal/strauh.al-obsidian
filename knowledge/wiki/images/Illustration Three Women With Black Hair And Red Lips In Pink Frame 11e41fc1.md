@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Three Women With Black Hair And Red Lip
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "800x772"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

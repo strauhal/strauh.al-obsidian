@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Man Painting A Red Road With White Dash
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "640x857"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

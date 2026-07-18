@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - louis r lowery|Artist - louis r lowery]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jacques louis david 1787|Artist - jacques louis david 1787]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis wain|Artist - louis wain]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
 - [[knowledge/archive/auto-generated/artists-stale/Artist - louis de silvestre 1715|Artist - louis de silvestre 1715]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
-- [[knowledge/wiki/artists/Artist - louis wain|Artist - louis wain]] — shared language: louis
 <!-- vault-crosslinks:end -->

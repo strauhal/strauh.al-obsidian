@@ -6,7 +6,7 @@ source_relpath: "2000s/Arzach by Jean Giraud (Moebius) (1975).jpeg"
 collection: "2000s"
 inferred_year: "1975"
 artist: ""
-dimensions: "2048x1444"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

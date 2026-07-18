@@ -6,7 +6,7 @@ source_relpath: "photography/Portrait of Francis Bacon in his studio.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "964x971"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Wii Game Case Featuring John Coltrane's A Love Su
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1536x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

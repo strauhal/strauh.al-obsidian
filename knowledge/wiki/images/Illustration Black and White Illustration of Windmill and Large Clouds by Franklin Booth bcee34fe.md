@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black and White Illustration of Windmil
 collection: "unsorted"
 inferred_year: ""
 artist: "Franklin Booth"
-dimensions: "736x1119"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

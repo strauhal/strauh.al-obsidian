@@ -6,7 +6,7 @@ source_relpath: "photography/Skeleton with material on head, dark background.jpe
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2634x1789"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Modern Kitchen Interior with Dark Cabinets and Brea
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2018x1611"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

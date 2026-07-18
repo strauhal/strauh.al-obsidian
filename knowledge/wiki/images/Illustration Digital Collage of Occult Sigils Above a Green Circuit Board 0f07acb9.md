@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Digital Collage of Occult Sigils Above 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1384"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

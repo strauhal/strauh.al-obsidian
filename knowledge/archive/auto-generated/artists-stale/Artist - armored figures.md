@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/Illustration Woman In Ornate Gown In Grand Hall With Armored Figures 64e197be|Illustration Woman In Ornate Gown In Grand Hall With Armored Figures]] — shared language: armored, gown, hall
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Armored Figure with Sword 2d2e4200|Illustration Black and White Sketch of Armored Figure with Sword]] — shared language: armored
-- [[_archive/auto-generated/images-stale/black and white drawing of a highly detailed monstrous mechanical figure carrying an armored rider and holding a small lantern 9d341f6f|black and white drawing of a highly detailed monstrous mechanical figure carrying an armored rider and holding a small lantern]] — shared language: armored, highly, detailed
 - [[knowledge/wiki/images/Illustration Line Drawing of Armored Mecha Figure in Action 236f9417|Illustration Line Drawing of Armored Mecha Figure in Action]] — shared language: armored
+- [[_archive/auto-generated/images-stale/black and white drawing of a highly detailed monstrous mechanical figure carrying an armored rider and holding a small lantern 9d341f6f|black and white drawing of a highly detailed monstrous mechanical figure carrying an armored rider and holding a small lantern]] — shared language: armored, highly, detailed
 - [[knowledge/wiki/images/Illustration Line Drawing of Man's Head and Armored Robot 49572eeb|Illustration Line Drawing of Man's Head and Armored Robot]] — shared language: armored
 - [[_archive/auto-generated/images-stale/engraving of an armored warrior with plumes 98d88f93|engraving of an armored warrior with plumes]] — shared language: armored
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1900s/smoke_by_nick_knight_1998.jpeg"
 collection: "1900s"
 inferred_year: "1998"
 artist: "nick knight"
-dimensions: "858x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

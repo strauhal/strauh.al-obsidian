@@ -6,7 +6,7 @@ source_relpath: "1900s/cy_twombly_bolsena_1969.jpg"
 collection: "1900s"
 inferred_year: "1969"
 artist: ""
-dimensions: "2000x1893"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

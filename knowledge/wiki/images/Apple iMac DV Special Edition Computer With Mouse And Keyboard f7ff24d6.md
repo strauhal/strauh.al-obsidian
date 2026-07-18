@@ -6,7 +6,7 @@ source_relpath: "photography/Apple iMac DV Special Edition Computer With Mouse A
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "722x700"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

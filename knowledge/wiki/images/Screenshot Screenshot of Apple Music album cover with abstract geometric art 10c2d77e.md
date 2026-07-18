@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Screenshot of Apple Music album cover with a
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1125x1500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

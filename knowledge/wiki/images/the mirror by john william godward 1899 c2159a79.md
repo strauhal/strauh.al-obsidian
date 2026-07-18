@@ -6,7 +6,7 @@ source_relpath: "1800s/the_mirror_by_john_william_godward_1899.jpeg"
 collection: "1800s"
 inferred_year: "1899"
 artist: "john william godward"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

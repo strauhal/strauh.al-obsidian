@@ -6,7 +6,7 @@ source_relpath: "photography/Halley Welch Interviews Slavoj Žižek on Talk Tuah
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "562x534"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/The Sword of Light by John Duncan (1910).jpg"
 collection: "1900s"
 inferred_year: "1910"
 artist: ""
-dimensions: "996x1920"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/the_disciples_peter_and_john_running_to_the_sepulchre_by_
 collection: "1800s"
 inferred_year: "1898"
 artist: "eugene burnand"
-dimensions: "1000x584"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

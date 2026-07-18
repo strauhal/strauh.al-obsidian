@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/ernest.html"
 source_relpath: "ernest.html"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:40"
+compiled_at: "2026-07-18T00:07:15"
 tags: ["strauhal", "source/html"]
 ---
 # ernest
@@ -47,7 +47,7 @@ strauh.al/ernest
 - [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: designing
 - [[knowledge/wiki/pages/donate|donate]] — shared language: stamp.png, referenced, preserved
 - [[knowledge/wiki/pages/disclaimer|disclaimer]] — shared language: i'm, stamp.png, currently
-- [[knowledge/private/fanmail/threads/17-saw-your-ads-clicked-the-about-page|Private Correspondence - 17 - saw your ads, clicked the about page]] — shared language: i'm, enjoy, email
 - [[knowledge/wiki/pages/nyce|nyce]] — shared language: referenced, preserved, none
-- [[knowledge/wiki/pages/draw for me|draw for me]] — shared language: email, love, none
+- [[knowledge/wiki/pages/draw for me|draw for me]] — shared language: email, none, love
+- [[knowledge/wiki/images/Screenshot Aerial View of Agricultural Fields and Urban Area 25b25d23|Screenshot Aerial View of Agricultural Fields and Urban Area]] — shared language: fields, area
 <!-- vault-crosslinks:end -->

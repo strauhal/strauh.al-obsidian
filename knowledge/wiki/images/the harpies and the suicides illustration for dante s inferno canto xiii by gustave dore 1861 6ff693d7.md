@@ -6,7 +6,7 @@ source_relpath: "1800s/the_harpies_and_the_suicides_illustration_for_dante_s_inf
 collection: "1800s"
 inferred_year: "1861"
 artist: "gustave dore"
-dimensions: "2048x1612"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

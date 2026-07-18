@@ -6,7 +6,7 @@ source_relpath: "photography/Paved Road and Sidewalk with Green Hills Under Blue
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1352"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

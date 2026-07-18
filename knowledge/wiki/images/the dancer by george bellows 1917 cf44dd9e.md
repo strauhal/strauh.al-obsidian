@@ -6,7 +6,7 @@ source_relpath: "1900s/the_dancer_by_george_bellows_1917.jpeg"
 collection: "1900s"
 inferred_year: "1917"
 artist: "george bellows"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

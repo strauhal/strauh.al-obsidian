@@ -6,7 +6,7 @@ source_relpath: "photography/Motion-Blurred Black And White Photo Of A Reclining
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1184x841"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

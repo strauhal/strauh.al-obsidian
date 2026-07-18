@@ -6,7 +6,7 @@ source_relpath: "photography/Soldiers Running Across Field with Helicopter and W
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x803"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/fallen_warrior_by_leon_golub_1960.jpg"
 collection: "1900s"
 inferred_year: "1960"
 artist: "leon golub"
-dimensions: "1920x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

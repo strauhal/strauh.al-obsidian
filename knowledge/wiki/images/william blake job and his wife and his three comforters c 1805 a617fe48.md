@@ -6,7 +6,7 @@ source_relpath: "1800s/william_blake_job_and_his_wife_and_his_three_comforters_c
 collection: "1800s"
 inferred_year: "1805"
 artist: ""
-dimensions: "800x664"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/william_blake_jo
 
 - [[knowledge/wiki/images/nebuchadnezzar by william blake c 1795 d9d30f8e|nebuchadnezzar by william blake c 1795]] — named in this note
 - [[knowledge/wiki/artists/Artist - william blake|Artist - william blake]] — shared language: blake, william
-- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: job
 - [[knowledge/wiki/images/the great red dragon and the woman clothed with the sun by william blake c 1805 5eb7daeb|the great red dragon and the woman clothed with the sun by william blake c 1805]] — shared language: blake, william
+- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: job
 - [[knowledge/wiki/images/the ancient of days frontispiece to europe a prophecy by william blake 1794 11d0d61a|the ancient of days frontispiece to europe a prophecy by william blake 1794]] — shared language: blake, william
 <!-- vault-crosslinks:end -->

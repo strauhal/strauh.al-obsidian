@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Aerial View of Train Passing Through Densely
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1920x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

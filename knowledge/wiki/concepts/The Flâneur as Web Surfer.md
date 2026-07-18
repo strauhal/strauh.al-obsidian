@@ -53,10 +53,10 @@ of drift through a built landscape.
 - [[knowledge/wiki/anchors/katsuhiro-otomo|Katsuhiro Otomo]] — named in this note
 - [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
 - [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
 - [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
 - [[knowledge/wiki/images/cemetery 5775776a|cemetery]] — named in this note
 - [[knowledge/wiki/images/cyberpunk 5cf1f5a5|cyberpunk]] — named in this note
-- [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd, quotes, feed
 <!-- vault-crosslinks:end -->
 

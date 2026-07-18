@@ -6,7 +6,7 @@ source_relpath: "1800s/An Eagle by Rosa Bonheur (1870).jpg"
 collection: "1800s"
 inferred_year: "1870"
 artist: ""
-dimensions: "1610x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

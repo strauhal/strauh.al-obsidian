@@ -26,10 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
 - [[knowledge/wiki/images/Screenshot Screenshot of Abstract Monochromatic Digital Drawing in Microsoft Paint 3069550b|Screenshot Screenshot of Abstract Monochromatic Digital Drawing in Microsoft Paint]] — shared language: microsoft, screenshot
 - [[knowledge/wiki/images/Screenshot Complex Black And White Abstract Art In Microsoft Paint bdb8af90|Screenshot Complex Black And White Abstract Art In Microsoft Paint]] — shared language: microsoft, screenshot
 - [[knowledge/wiki/images/Screenshot Surreal Abstract Drawing Displayed in Microsoft Paint a800d482|Screenshot Surreal Abstract Drawing Displayed in Microsoft Paint]] — shared language: microsoft, screenshot
 - [[knowledge/wiki/images/Screenshot Microsoft Paint Screenshot of Pixel Art Landscape with Seated Figure d95e4f02|Screenshot Microsoft Paint Screenshot of Pixel Art Landscape with Seated Figure]] — shared language: microsoft, screenshot
 - [[knowledge/wiki/books/anne-friedberg-the-virtual-window-from-alberti-to-microsoft|The Virtual Window: From Alberti to Microsoft]] — shared language: microsoft, media
+- [[knowledge/wiki/images/Screenshot Vibrant Abstract Digital Artwork Viewed In Microsoft Paint 7fbcd096|Screenshot Vibrant Abstract Digital Artwork Viewed In Microsoft Paint]] — shared language: microsoft, screenshot
 <!-- vault-crosslinks:end -->

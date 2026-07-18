@@ -6,7 +6,7 @@ source_relpath: "photography/Two Figures in Black Leather Coats and Helmets with
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "434x665"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

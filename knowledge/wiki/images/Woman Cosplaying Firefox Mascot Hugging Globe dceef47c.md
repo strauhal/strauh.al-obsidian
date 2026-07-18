@@ -6,7 +6,7 @@ source_relpath: "photography/Woman Cosplaying Firefox Mascot Hugging Globe.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1304x1230"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Busy Cartoon Art Market Scene with Many Ch
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Jan Van Haasteren"
-dimensions: "4134x2982"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

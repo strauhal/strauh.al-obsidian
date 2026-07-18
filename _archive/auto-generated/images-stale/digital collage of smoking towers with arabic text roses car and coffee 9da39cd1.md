@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/roses gaeta 2004 e6740a3b|roses gaeta 2004]] — shared language: roses
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[knowledge/archive/auto-generated/artists-stale/Artist - roses|Artist - roses]] — shared language: roses
-- [[knowledge/wiki/images/Image Digital Collage of Artists in Car with Starry Night Background and Text by Anwir aba02a2b|Image Digital Collage of Artists in Car with Starry Night Background and Text by Anwir]] — shared language: collage, car, text
+- [[_archive/auto-generated/images-stale/digital collage of a woman smoking above a gray sedan driving d1506949|digital collage of a woman smoking above a gray sedan driving]] — shared language: smoking, collage, digital
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "photography/Repetitive Pattern of Balconies on a Building Facad
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "696x902"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

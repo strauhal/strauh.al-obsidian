@@ -6,7 +6,7 @@ source_relpath: "photography/Photograph of Anís del Mono Poster in a Book.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2268x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

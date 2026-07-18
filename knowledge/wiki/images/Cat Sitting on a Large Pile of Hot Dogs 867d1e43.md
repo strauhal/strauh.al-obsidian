@@ -6,7 +6,7 @@ source_relpath: "photography/Cat Sitting on a Large Pile of Hot Dogs.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "640x566"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

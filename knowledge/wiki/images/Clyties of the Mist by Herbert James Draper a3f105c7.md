@@ -6,7 +6,7 @@ source_relpath: "2000s/Clyties of the Mist by Herbert James Draper.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Herbert James Draper"
-dimensions: "758x1416"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

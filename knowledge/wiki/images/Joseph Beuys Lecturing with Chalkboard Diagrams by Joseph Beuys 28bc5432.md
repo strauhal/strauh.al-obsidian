@@ -6,7 +6,7 @@ source_relpath: "photography/Joseph Beuys Lecturing with Chalkboard Diagrams by 
 collection: "photography"
 inferred_year: ""
 artist: "Joseph Beuys"
-dimensions: "430x280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

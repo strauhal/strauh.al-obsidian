@@ -2,8 +2,8 @@
 title: Map - Audience Correspondence
 type: map
 tags: [map, audience, correspondence, archive, community]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Map - Audience Correspondence
@@ -46,3 +46,16 @@ An aggregate view of correspondence received around strauh.al and computerdrawin
 ## Privacy
 
 Full messages, pseudonymized thread notes, and attachments are stored under `knowledge/private/fanmail/`. This map deliberately avoids names, addresses, phone numbers, and intimate personal disclosures.
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/private/fanmail/Private Fanmail Index|Private Fanmail Index]] — named in this note
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: internet, messages
+- [[knowledge/output/fanmail-import-report|fanmail-import-report]] — shared language: unique, messages, fanmail
+- [[knowledge/private/fanmail/threads/18-site-drawings|Private Correspondence - 18 - site drawings]] — shared language: site, private
+- [[knowledge/private/fanmail/threads/35-site-drawings|Private Correspondence - 35 - site drawings]] — shared language: site, private
+- [[knowledge/private/fanmail/threads/15-https-x-com-pitzspecial-https-computerdrawing-club|Private Correspondence - 15 - https://x.com/pitzspecial https://computerdrawing.club/]] — shared language: computerdrawing.club, private
+- [[knowledge/wiki/images/Image Twitter Post with Ghibli Style Illustration and Chat Messages a16d76b3|Image Twitter Post with Ghibli Style Illustration and Chat Messages]] — shared language: messages
+<!-- vault-crosslinks:end -->

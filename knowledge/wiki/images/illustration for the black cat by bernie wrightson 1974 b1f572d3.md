@@ -6,7 +6,7 @@ source_relpath: "1900s/illustration_for_the_black_cat_by_bernie_wrightson_1974.j
 collection: "1900s"
 inferred_year: "1974"
 artist: "bernie wrightson"
-dimensions: "1600x1222"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

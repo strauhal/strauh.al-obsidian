@@ -6,7 +6,7 @@ source_relpath: "photography/People Pushing a Piano Off a Building Roof by Charl
 collection: "photography"
 inferred_year: ""
 artist: "Charles Brooks"
-dimensions: "813x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

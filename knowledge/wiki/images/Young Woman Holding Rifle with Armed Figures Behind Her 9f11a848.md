@@ -6,7 +6,7 @@ source_relpath: "photography/Young Woman Holding Rifle with Armed Figures Behind
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "529x1026"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

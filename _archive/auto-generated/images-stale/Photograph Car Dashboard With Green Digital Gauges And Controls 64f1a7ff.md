@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[_archive/auto-generated/images-stale/photograph of a car dashboard with green digital gauges 2ff01d56|photograph of a car dashboard with green digital gauges]] — named in this note
 - [[knowledge/wiki/images/Car Dashboard With Green Digital Gauges And Controls 5a279e50|Car Dashboard With Green Digital Gauges And Controls]] — named in this note
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[knowledge/wiki/images/Screenshot Digital Audio Workstation Interface with Tracks, Effects, and Mixer Controls 79635fbc|Screenshot Digital Audio Workstation Interface with Tracks, Effects, and Mixer Controls]] — shared language: controls, digital, controls.jpeg
 - [[knowledge/wiki/images/Illustration Digital Illustration of a Woman in Green Dress 19879809|Illustration Digital Illustration of a Woman in Green Dress]] — shared language: digital, green
+- [[_archive/auto-generated/images-stale/advertisement graphic of a white car in a green landscape 2010 20235e54|advertisement graphic of a white car in a green landscape 2010]] — shared language: car, green
 <!-- vault-crosslinks:end -->

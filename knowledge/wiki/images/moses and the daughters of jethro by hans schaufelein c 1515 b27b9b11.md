@@ -6,7 +6,7 @@ source_relpath: "1500s/moses_and_the_daughters_of_jethro_by_hans_schaufelein_c_1
 collection: "1500s"
 inferred_year: "1515"
 artist: "hans schaufelein"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

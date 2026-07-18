@@ -6,7 +6,7 @@ source_relpath: "1900s/The Dog Handlers by Milan Slenić (1970).jpeg"
 collection: "1900s"
 inferred_year: "1970"
 artist: ""
-dimensions: "3024x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

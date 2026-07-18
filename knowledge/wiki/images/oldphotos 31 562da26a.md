@@ -6,7 +6,7 @@ source_relpath: "old_photos/oldphotos 31.png"
 collection: "old_photos"
 inferred_year: ""
 artist: ""
-dimensions: "1204x1770"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/old_photos"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Grid of 100 Black and White Japanese Fa
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "468x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

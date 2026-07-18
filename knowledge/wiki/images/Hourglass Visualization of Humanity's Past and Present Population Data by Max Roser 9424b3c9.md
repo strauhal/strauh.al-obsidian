@@ -6,7 +6,7 @@ source_relpath: "diagrams/Hourglass_Visualization_of_Humanity's_Past_and_Present
 collection: "diagrams"
 inferred_year: ""
 artist: "Max Roser"
-dimensions: "800x1192"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

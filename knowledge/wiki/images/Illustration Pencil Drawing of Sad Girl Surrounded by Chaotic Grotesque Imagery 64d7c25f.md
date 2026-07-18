@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pencil Drawing of Sad Girl Surrounded by C
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Chaotic Grotesque Imagery"
-dimensions: "1292x1977"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/a_forest_stream_with_a_fisherman_by_peder_mrk_mnsted_1910
 collection: "1900s"
 inferred_year: "1910"
 artist: "peder mrk mnsted"
-dimensions: "2000x1415"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

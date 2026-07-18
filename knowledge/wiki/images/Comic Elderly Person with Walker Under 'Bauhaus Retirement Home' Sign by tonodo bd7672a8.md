@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Elderly Person with Walker Under 'Bauhaus Retirem
 collection: "2000s"
 inferred_year: "2000s"
 artist: "tonodo"
-dimensions: "738x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

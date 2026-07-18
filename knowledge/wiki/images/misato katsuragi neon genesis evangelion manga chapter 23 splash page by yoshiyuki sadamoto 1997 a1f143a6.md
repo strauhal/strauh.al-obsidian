@@ -6,7 +6,7 @@ source_relpath: "1900s/misato_katsuragi_neon_genesis_evangelion_manga_chapter_23
 collection: "1900s"
 inferred_year: "1997"
 artist: "yoshiyuki sadamoto"
-dimensions: "3743x6000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

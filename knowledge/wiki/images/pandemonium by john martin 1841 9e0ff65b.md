@@ -6,7 +6,7 @@ source_relpath: "1800s/pandemonium_by_john_martin_1841.jpg"
 collection: "1800s"
 inferred_year: "1841"
 artist: "john martin"
-dimensions: "3224x2127"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

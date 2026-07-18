@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - M1a1 Abrams - USPS Livery by LunaHydreigon
 collection: "2000s"
 inferred_year: "2000s"
 artist: "LunaHydreigon"
-dimensions: "1080x1061"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

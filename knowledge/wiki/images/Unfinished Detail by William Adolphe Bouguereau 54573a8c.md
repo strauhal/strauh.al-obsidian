@@ -6,7 +6,7 @@ source_relpath: "2000s/Unfinished Detail by William Adolphe Bouguereau.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "William Adolphe Bouguereau"
-dimensions: "1932x2576"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

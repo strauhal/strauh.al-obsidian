@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Windows Media Player Displaying Red Abstr
 collection: "unsorted"
 inferred_year: ""
 artist: "Microsoft"
-dimensions: "595x419"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 
 - [[knowledge/wiki/images/Illustration Grid of Vintage Computer Operating System Icons by Microsoft d26aafd3|Illustration Grid of Vintage Computer Operating System Icons by Microsoft]] — same artist: microsoft
 - [[knowledge/wiki/images/Illustration Abstract Dark Blue Pattern Resembling Ice Shards by Microsoft aadd0085|Illustration Abstract Dark Blue Pattern Resembling Ice Shards by Microsoft]] — same artist: microsoft
-- [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: information, sound
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: media, sound
+- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: sound
 <!-- vault-crosslinks:end -->

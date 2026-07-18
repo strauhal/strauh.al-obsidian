@@ -6,7 +6,7 @@ source_relpath: "photography/People on a Staircase and Balcony in a Brutalist Bu
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1041x520"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

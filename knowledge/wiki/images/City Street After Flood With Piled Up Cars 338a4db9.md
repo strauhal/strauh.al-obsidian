@@ -6,7 +6,7 @@ source_relpath: "photography/City Street After Flood With Piled-Up Cars.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1070x1419"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

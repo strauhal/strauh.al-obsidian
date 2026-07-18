@@ -6,7 +6,7 @@ source_relpath: "photography/Damaged Game Boy on display with informational plaq
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "544x680"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

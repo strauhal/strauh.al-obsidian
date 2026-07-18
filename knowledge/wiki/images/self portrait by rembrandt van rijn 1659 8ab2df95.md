@@ -6,7 +6,7 @@ source_relpath: "1600s/self_portrait_by_rembrandt_van_rijn_1659.jpg"
 collection: "1600s"
 inferred_year: "1659"
 artist: "rembrandt van rijn"
-dimensions: "546x332"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

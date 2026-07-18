@@ -6,7 +6,7 @@ source_relpath: "2000s/Beethoven on his Deathbed by Josef Danhauser (1827).jpg"
 collection: "2000s"
 inferred_year: "1827"
 artist: ""
-dimensions: "1923x1443"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

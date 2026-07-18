@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Image Five Men Feasting at a Golden Table 03b86987|Image Five Men Feasting at a Golden Table]] — shared language: five, men
 - [[knowledge/wiki/images/Photograph Old Main Library, Cincinnati bf464e16|Photograph Old Main Library, Cincinnati]] — shared language: old
 - [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: men
+- [[knowledge/wiki/images/Photograph Five Men, One in Wheelchair, Against Tiled Wall 6751ddbe|Photograph Five Men, One in Wheelchair, Against Tiled Wall]] — shared language: five, men
 - [[knowledge/wiki/artists/Artist - william sidney mount|Artist - william sidney mount]] — shared language: mount
-- [[knowledge/archive/auto-generated/artists-stale/Artist - william sidney mount 1856|Artist - william sidney mount 1856]] — shared language: mount
 <!-- vault-crosslinks:end -->

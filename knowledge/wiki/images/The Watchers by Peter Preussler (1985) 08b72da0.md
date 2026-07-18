@@ -6,7 +6,7 @@ source_relpath: "1900s/The Watchers by Peter Preussler (1985).png"
 collection: "1900s"
 inferred_year: "1985"
 artist: ""
-dimensions: "880x748"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

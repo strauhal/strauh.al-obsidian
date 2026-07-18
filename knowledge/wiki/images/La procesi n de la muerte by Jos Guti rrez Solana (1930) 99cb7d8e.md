@@ -6,7 +6,7 @@ source_relpath: "1900s/La procesión de la muerte by José Gutiérrez Solana (19
 collection: "1900s"
 inferred_year: "1930"
 artist: ""
-dimensions: "2182x3706"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

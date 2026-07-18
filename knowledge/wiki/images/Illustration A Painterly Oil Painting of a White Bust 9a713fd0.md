@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - A Painterly Oil Painting of a White Bust.j
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1600x1973"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

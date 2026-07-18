@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of Snowy Chicago Skyline and Frozen Lak
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2040x1224"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

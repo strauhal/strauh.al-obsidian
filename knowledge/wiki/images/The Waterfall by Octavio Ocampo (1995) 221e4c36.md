@@ -6,7 +6,7 @@ source_relpath: "1900s/The Waterfall by Octavio Ocampo (1995).jpg"
 collection: "1900s"
 inferred_year: "1995"
 artist: ""
-dimensions: "880x1198"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

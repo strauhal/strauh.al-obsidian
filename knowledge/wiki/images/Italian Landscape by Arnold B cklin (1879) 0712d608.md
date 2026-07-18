@@ -6,7 +6,7 @@ source_relpath: "1800s/Italian Landscape by Arnold Böcklin (1879).jpg"
 collection: "1800s"
 inferred_year: "1879"
 artist: ""
-dimensions: "2048x1493"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

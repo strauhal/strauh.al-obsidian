@@ -6,7 +6,7 @@ source_relpath: "artists/degas/Edgar_Degas_-_Ballet_(L'Étoile).jpg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "3652x5315"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Whales Floating Vertically Above Beach Wit
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1344x756"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

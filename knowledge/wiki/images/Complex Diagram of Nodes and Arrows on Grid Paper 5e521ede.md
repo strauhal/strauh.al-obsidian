@@ -6,7 +6,7 @@ source_relpath: "diagrams/Complex_Diagram_of_Nodes_and_Arrows_on_Grid_Paper.jpeg
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "819x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

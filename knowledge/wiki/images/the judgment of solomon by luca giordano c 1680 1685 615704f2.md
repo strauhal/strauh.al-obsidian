@@ -6,7 +6,7 @@ source_relpath: "1600s/the_judgment_of_solomon_by_luca_giordano_c_1680_1685.jpg"
 collection: "1600s"
 inferred_year: "1685"
 artist: "luca giordano"
-dimensions: "1135x1430"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

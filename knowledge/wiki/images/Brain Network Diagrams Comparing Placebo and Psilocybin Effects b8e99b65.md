@@ -6,7 +6,7 @@ source_relpath: "diagrams/Brain_Network_Diagrams_Comparing_Placebo_and_Psilocybi
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "690x385"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

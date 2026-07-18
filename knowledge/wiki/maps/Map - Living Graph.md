@@ -54,6 +54,6 @@ The index is rebuilt during `python3 tools/wiki_refresh.py`.
 - [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: icon
 - [[knowledge/wiki/books/cal-newport-deep-work-rules-for-focused-success-in-a-distracted-world|Deep Work Rules for focused success in a distracted world]] — shared language: focused
 - [[knowledge/wiki/images/Illustration Red Abstract Looping Line Drawing On Graph Paper ab7a839e|Illustration Red Abstract Looping Line Drawing On Graph Paper]] — shared language: graph
-- [[knowledge/wiki/images/the living room by Paul Heaston (2009) 06093bca|the living room by Paul Heaston (2009)]] — shared language: living
 - [[knowledge/wiki/images/Illustration Abstract Red Ink Biomorphic Drawing on Graph Paper 45c8b400|Illustration Abstract Red Ink Biomorphic Drawing on Graph Paper]] — shared language: graph
+- [[knowledge/wiki/images/the living room by Paul Heaston (2009) 06093bca|the living room by Paul Heaston (2009)]] — shared language: living
 <!-- vault-crosslinks:end -->

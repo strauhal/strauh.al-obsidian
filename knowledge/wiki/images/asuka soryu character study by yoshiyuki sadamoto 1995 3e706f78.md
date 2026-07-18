@@ -6,7 +6,7 @@ source_relpath: "1900s/asuka_soryu_character_study_by_yoshiyuki_sadamoto_1995.jp
 collection: "1900s"
 inferred_year: "1995"
 artist: "yoshiyuki sadamoto"
-dimensions: "3150x4138"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

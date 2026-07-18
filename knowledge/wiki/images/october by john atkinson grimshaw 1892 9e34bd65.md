@@ -6,7 +6,7 @@ source_relpath: "1800s/october_by_john_atkinson_grimshaw_1892.jpg"
 collection: "1800s"
 inferred_year: "1892"
 artist: "john atkinson grimshaw"
-dimensions: "2000x1320"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

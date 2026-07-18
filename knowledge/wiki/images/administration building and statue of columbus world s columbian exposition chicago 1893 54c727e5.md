@@ -6,7 +6,7 @@ source_relpath: "1800s/administration_building_and_statue_of_columbus_world_s_co
 collection: "1800s"
 inferred_year: "1893"
 artist: ""
-dimensions: "6000x4846"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

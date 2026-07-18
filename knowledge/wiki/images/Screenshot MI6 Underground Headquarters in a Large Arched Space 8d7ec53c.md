@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - MI6 Underground Headquarters in a Large Arch
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1916x804"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/the_kiss_la_caress_by_mary_cassatt_c_1890_1891.jpeg"
 collection: "1800s"
 inferred_year: "1891"
 artist: "mary cassatt"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pastel Drawing of a Dark Road with Motion 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1442x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

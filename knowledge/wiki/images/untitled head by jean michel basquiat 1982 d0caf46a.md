@@ -6,7 +6,7 @@ source_relpath: "1900s/untitled_head_by_jean_michel_basquiat_1982.jpg"
 collection: "1900s"
 inferred_year: "1982"
 artist: "jean michel basquiat"
-dimensions: "1497x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

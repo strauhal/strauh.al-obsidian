@@ -1,7 +1,7 @@
 ---
 title: "Collection - ernest"
 source_kind: "image_collection"
-count: "15"
+count: "17"
 compiled: "True"
 tags: ["strauhal", "collection"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "collection"]
 
 Part of [[strauh.al Image Archive]].
 
-Files: 15
+Files: 17
 
 ## Sample
 
@@ -43,6 +43,10 @@ Files: 15
 
 ![[media/strauh.al3.1/ernest/essence.jpg]]
 
+![[media/strauh.al3.1/ernest/face_cutout.png]]
+
+![[media/strauh.al3.1/ernest/image-1784268007911.jpg]]
+
 ## Image Notes
 
 - [[000003070022 (edited) df9a83ef|000003070022 (edited)]]
@@ -60,6 +64,8 @@ Files: 15
 - [[bald ernest 431626f7|bald ernest]]
 - [[byasvin byasvin R1 009 3 90b0a29f|byasvin byasvin R1 009 3]]
 - [[essence dbff3c59|essence]]
+- [[face cutout 379d205e|face cutout]]
+- [[image 1784268007911 7eaf7917|image 1784268007911]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -67,9 +73,9 @@ Files: 15
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: edited
 - [[knowledge/wiki/books/aldous-huxley-ape-and-essence|Ape and Essence]] — shared language: essence
-- [[knowledge/wiki/images/Photograph Black and White Photograph of a Bald Person Covering Face f2eda825|Photograph Black and White Photograph of a Bald Person Covering Face]] — shared language: bald
+- [[knowledge/wiki/images/Photograph Black and White Photograph of a Bald Person Covering Face f2eda825|Photograph Black and White Photograph of a Bald Person Covering Face]] — shared language: bald, face
 - [[knowledge/wiki/images/Illustration Nude Bald Figure Smiling and Holding a Cup 6384d755|Illustration Nude Bald Figure Smiling and Holding a Cup]] — shared language: bald
 - [[knowledge/wiki/images/Cluttered Electronics Shop Interior With Bald Man ef1f6424|Cluttered Electronics Shop Interior With Bald Man]] — shared language: bald
 - [[knowledge/wiki/images/Illustration Nude Bald Figure Smiling, Holding Cup, Sitting On Plinth 5df934f7|Illustration Nude Bald Figure Smiling, Holding Cup, Sitting On Plinth]] — shared language: bald
-- [[knowledge/wiki/images/Philosophical Concepts Flowchart Being, Essence, Reflection, Appearance, Actuality 73464361|Philosophical Concepts Flowchart Being, Essence, Reflection, Appearance, Actuality]] — shared language: essence
+- [[knowledge/wiki/images/Anime Character Cutout with Crying Cinnamoroll Sticker and School Award 5b2c3729|Anime Character Cutout with Crying Cinnamoroll Sticker and School Award]] — shared language: cutout
 <!-- vault-crosslinks:end -->

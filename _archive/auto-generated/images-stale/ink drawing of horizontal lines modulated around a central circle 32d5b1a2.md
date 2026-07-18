@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Abstract Drawing of Horizontal Lines Modulating Around a Central Circle e125bb53|Illustration Abstract Drawing of Horizontal Lines Modulating Around a Central Circle]] — shared language: circle, horizontal, around
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
-- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: around
 - [[knowledge/wiki/images/Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines 3896cd1d|Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines]] — shared language: horizontal, lines
+- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: around
 - [[knowledge/wiki/images/Illustration Stylized Figures Dancing Around a Central Fire 81bd370b|Illustration Stylized Figures Dancing Around a Central Fire]] — shared language: around, central
 <!-- vault-crosslinks:end -->

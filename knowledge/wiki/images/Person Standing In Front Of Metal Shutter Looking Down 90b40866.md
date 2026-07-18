@@ -6,7 +6,7 @@ source_relpath: "photography/Person Standing In Front Of Metal Shutter Looking D
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "673x1022"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

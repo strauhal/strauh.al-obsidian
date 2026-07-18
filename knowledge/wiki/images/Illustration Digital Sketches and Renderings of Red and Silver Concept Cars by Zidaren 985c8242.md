@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Digital Sketches and Renderings of Red and
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Zidaren"
-dimensions: "3840x2160"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

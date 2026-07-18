@@ -6,7 +6,7 @@ source_relpath: "influences/clyfford_still.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "1166x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

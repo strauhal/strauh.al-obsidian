@@ -6,7 +6,7 @@ source_relpath: "1900s/Interior with a Woman at a Piano by Vilhelm Hammershøi (
 collection: "1900s"
 inferred_year: "1904"
 artist: ""
-dimensions: "561x640"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

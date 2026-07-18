@@ -6,8 +6,8 @@ category: drawing-submission
 message_count: 2
 incoming_count: 2
 tags: [private, correspondence, fanmail]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Name change
@@ -31,3 +31,16 @@ Thank you very much
 **Direction:** incoming
 
 Thank you very much
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/private/fanmail/threads/14-name-change|Private Correspondence - 14 - Name change]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/13-my-pic|Private Correspondence - 13 - My Pic]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/25-my-pic|Private Correspondence - 25 - My Pic]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/40-untitled|Private Correspondence - 40 - Untitled]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/03-art|Private Correspondence - 03 - art]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/43-angel|Private Correspondence - 43 - 天使 (Angel)]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/27-name-change-request-re-an-outdated-reference-comic|Private Correspondence - 27 - Name change request Re: An outdated reference (comic?)]] — same category: drawing-submission
+<!-- vault-crosslinks:end -->

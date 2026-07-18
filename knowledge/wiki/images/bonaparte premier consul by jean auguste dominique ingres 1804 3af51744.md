@@ -6,7 +6,7 @@ source_relpath: "1800s/bonaparte_premier_consul_by_jean_auguste_dominique_ingres
 collection: "1800s"
 inferred_year: "1804"
 artist: "jean auguste dominique ingres"
-dimensions: "1047x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

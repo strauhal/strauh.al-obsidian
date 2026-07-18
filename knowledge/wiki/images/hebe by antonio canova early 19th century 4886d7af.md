@@ -6,7 +6,7 @@ source_relpath: "1800s/hebe_by_antonio_canova_early_19th_century.jpg"
 collection: "1800s"
 inferred_year: "1800s"
 artist: "antonio canova early 19th century"
-dimensions: "1699x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

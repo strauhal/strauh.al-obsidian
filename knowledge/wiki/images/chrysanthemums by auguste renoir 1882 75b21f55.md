@@ -6,7 +6,7 @@ source_relpath: "1800s/chrysanthemums_by_auguste_renoir_1882.jpeg"
 collection: "1800s"
 inferred_year: "1882"
 artist: "auguste renoir"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

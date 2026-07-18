@@ -6,7 +6,7 @@ source_relpath: "photography/Child On Bicycle With Large, Multi-Faced Orange Fig
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "640x422"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

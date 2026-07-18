@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Soft Focus Close-Up of Two Pink Roses.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Sof
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: focus
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: focus
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: focus
-- [[knowledge/wiki/images/Illustration Oil Painting of Pink Roses in a Garden f171b4f7|Illustration Oil Painting of Pink Roses in a Garden]] — shared language: roses, pink
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: focus
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1800s/horace_vernet_prise_de_la_tour_de_malakoff_1858.jpg"
 collection: "1800s"
 inferred_year: "1858"
 artist: ""
-dimensions: "1961x1312"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

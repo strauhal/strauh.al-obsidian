@@ -6,7 +6,7 @@ source_relpath: "photography/Sign on Chain-Link Fence at Seravalli Playground.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1536x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

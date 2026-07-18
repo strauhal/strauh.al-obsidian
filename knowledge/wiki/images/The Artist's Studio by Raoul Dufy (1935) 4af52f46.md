@@ -6,7 +6,7 @@ source_relpath: "1900s/The Artist's Studio by Raoul Dufy (1935).jpg"
 collection: "1900s"
 inferred_year: "1935"
 artist: ""
-dimensions: "1200x956"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "influences/frank_miller.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "736x1313"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

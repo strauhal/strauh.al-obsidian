@@ -6,7 +6,7 @@ source_relpath: "1900s/ada_in_striped_shirt_by_alex_katz_1973.jpeg"
 collection: "1900s"
 inferred_year: "1973"
 artist: "alex katz"
-dimensions: "2268x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/the_battle_of_the_gods_of_the_five_directions_goshin_no_t
 collection: "1800s"
 inferred_year: "1885"
 artist: "tsukioka yoshitoshi"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

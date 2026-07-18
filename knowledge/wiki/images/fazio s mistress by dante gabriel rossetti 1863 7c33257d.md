@@ -6,7 +6,7 @@ source_relpath: "1800s/fazio_s_mistress_by_dante_gabriel_rossetti_1863.jpg"
 collection: "1800s"
 inferred_year: "1863"
 artist: "dante gabriel rossetti"
-dimensions: "1378x1920"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Light Blue Art Deco Building with Rounded Corners a
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "981x1570"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

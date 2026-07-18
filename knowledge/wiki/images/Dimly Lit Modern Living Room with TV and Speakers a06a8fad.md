@@ -6,7 +6,7 @@ source_relpath: "photography/Dimly Lit Modern Living Room with TV and Speakers.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2048x2731"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

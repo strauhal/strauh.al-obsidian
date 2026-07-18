@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Still Life With Two Vases And 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3024x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

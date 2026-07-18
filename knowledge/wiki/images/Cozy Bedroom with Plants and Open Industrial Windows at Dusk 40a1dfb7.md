@@ -6,7 +6,7 @@ source_relpath: "photography/Cozy Bedroom with Plants and Open Industrial Window
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1278"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

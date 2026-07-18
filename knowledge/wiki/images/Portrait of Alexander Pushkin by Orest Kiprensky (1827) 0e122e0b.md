@@ -6,7 +6,7 @@ source_relpath: "1800s/Portrait of Alexander Pushkin by Orest Kiprensky (1827).j
 collection: "1800s"
 inferred_year: "1827"
 artist: ""
-dimensions: "1280x1482"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

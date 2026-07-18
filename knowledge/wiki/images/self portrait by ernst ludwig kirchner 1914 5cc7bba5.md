@@ -6,7 +6,7 @@ source_relpath: "1900s/self_portrait_by_ernst_ludwig_kirchner_1914.jpg"
 collection: "1900s"
 inferred_year: "1914"
 artist: "ernst ludwig kirchner"
-dimensions: "666x872"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

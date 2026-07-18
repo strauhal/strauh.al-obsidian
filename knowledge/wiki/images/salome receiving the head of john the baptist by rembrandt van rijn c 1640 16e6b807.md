@@ -6,7 +6,7 @@ source_relpath: "1600s/salome_receiving_the_head_of_john_the_baptist_by_rembrand
 collection: "1600s"
 inferred_year: "1640"
 artist: "rembrandt van rijn"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

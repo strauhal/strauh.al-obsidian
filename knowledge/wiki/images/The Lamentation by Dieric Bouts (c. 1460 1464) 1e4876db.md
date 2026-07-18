@@ -6,7 +6,7 @@ source_relpath: "1400s/The Lamentation by Dieric Bouts (c. 1460-1464).jpg"
 collection: "1400s"
 inferred_year: "1464"
 artist: ""
-dimensions: "1500x1001"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

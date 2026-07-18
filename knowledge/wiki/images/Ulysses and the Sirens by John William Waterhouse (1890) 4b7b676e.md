@@ -6,7 +6,7 @@ source_relpath: "1800s/Ulysses and the Sirens by John William Waterhouse (1890).
 collection: "1800s"
 inferred_year: "1890"
 artist: ""
-dimensions: "2451x1967"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

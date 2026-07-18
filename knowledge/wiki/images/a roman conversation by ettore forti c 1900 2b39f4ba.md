@@ -6,7 +6,7 @@ source_relpath: "1900s/a_roman_conversation_by_ettore_forti_c_1900.jpg"
 collection: "1900s"
 inferred_year: "1900"
 artist: "ettore forti"
-dimensions: "4133x2476"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -19,6 +19,6 @@ Related: [[strauh.al Index]], [[strauh.al Image Archive]]
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: website
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: converted
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: strauh.al4
+- [[knowledge/wiki/images/Photograph Vaulted Brick Room Converted Into Modern Office Space fbcfa894|Photograph Vaulted Brick Room Converted Into Modern Office Space]] — shared language: converted
 - [[_archive/auto-generated/images-stale/burberry website png 429f934c|burberry website png]] — shared language: website
-- [[_archive/auto-generated/images-stale/flowerkite website png 5b33fcc0|flowerkite website png]] — shared language: website
 <!-- vault-crosslinks:end -->

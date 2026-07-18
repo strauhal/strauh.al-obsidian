@@ -6,7 +6,7 @@ source_relpath: "1900s/Joseph-Beuys-Plastische-Theorie-1972-Photo-by-J-Blanc.png
 collection: "1900s"
 inferred_year: "1972"
 artist: "J Blanc"
-dimensions: "798x438"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

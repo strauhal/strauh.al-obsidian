@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Black And White Photo Of Young Thomas Pyn
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "632x289"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

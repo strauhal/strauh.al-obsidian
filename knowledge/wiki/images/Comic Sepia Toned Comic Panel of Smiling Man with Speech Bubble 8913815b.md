@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Sepia-Toned Comic Panel of Smiling Man with Speec
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "599x802"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

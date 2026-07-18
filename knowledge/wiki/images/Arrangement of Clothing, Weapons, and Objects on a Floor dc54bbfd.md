@@ -6,7 +6,7 @@ source_relpath: "photography/Arrangement of Clothing, Weapons, and Objects on a 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "750x750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
 - [[knowledge/wiki/images/Illustration Digital Painting of Spiky Haired Person with Wet Cat Reference fedaae49|Illustration Digital Painting of Spiky Haired Person with Wet Cat Reference]] — shared language: wet, person
-- [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 2 7e276340|PHOTO 2024 03 02 20 46 54 2]] — shared language: photo
-- [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 3 db18f68c|PHOTO 2024 03 02 20 46 54 3]] — shared language: photo
 - [[knowledge/wiki/images/Blurred Figures on a Wet Street in Black and White 99065f6c|Blurred Figures on a Wet Street in Black and White]] — shared language: wet
+- [[_archive/auto-generated/images-stale/Photograph Blurred Figures on a Wet Street in Black and White 4af3442a|Photograph Blurred Figures on a Wet Street in Black and White]] — shared language: wet
+- [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 2 7e276340|PHOTO 2024 03 02 20 46 54 2]] — shared language: photo
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "diary/youngrembrandt.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1202x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Aerial View of Densely Packed Cairo Cityscap
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "554x554"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Aer
 
 - [[knowledge/wiki/images/Photograph Aerial View of Densely Packed Buildings in Cairo's Garbage City 36086b23|Photograph Aerial View of Densely Packed Buildings in Cairo's Garbage City]] — shared language: packed, densely, aerial
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, cityscape, view
-- [[knowledge/wiki/images/Tall, Densely Packed Residential Building in an Urban Setting 7269ae48|Tall, Densely Packed Residential Building in an Urban Setting]] — shared language: packed, densely
 - [[knowledge/wiki/images/Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings 6377cbc7|Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings]] — shared language: packed, densely
+- [[knowledge/wiki/images/Tall, Densely Packed Residential Building in an Urban Setting 7269ae48|Tall, Densely Packed Residential Building in an Urban Setting]] — shared language: packed, densely
 - [[knowledge/wiki/images/Illustration Aerial View of Densely Populated City with Apartment Buildings ad5caea8|Illustration Aerial View of Densely Populated City with Apartment Buildings]] — shared language: densely, aerial, view
 <!-- vault-crosslinks:end -->

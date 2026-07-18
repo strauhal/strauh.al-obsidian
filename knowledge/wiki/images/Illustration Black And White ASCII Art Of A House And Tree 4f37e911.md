@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White ASCII Art Of A House An
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1884x2072"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

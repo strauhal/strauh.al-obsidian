@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Colored Pencil Drawing of Six Stylized Fem
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3059x2420"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

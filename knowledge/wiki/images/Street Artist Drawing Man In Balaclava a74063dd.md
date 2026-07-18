@@ -6,7 +6,7 @@ source_relpath: "photography/Street Artist Drawing Man In Balaclava.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x715"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

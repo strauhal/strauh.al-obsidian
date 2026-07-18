@@ -6,7 +6,7 @@ source_relpath: "1900s/place_vendome_by_jean_dufy_1928.jpeg"
 collection: "1900s"
 inferred_year: "1928"
 artist: "jean dufy"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/nine_studies_by_brice_marden_1979.jpg"
 collection: "1900s"
 inferred_year: "1979"
 artist: "brice marden"
-dimensions: "1200x776"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

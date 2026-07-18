@@ -6,7 +6,7 @@ source_relpath: "1900s/fritz_kreisler_by_john_singer_sargent_c_1903.jpg"
 collection: "1900s"
 inferred_year: "1903"
 artist: "john singer sargent"
-dimensions: "1081x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

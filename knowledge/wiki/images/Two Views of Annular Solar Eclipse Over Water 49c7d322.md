@@ -6,7 +6,7 @@ source_relpath: "photography/Two Views of Annular Solar Eclipse Over Water.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1440x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

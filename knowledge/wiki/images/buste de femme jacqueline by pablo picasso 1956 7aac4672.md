@@ -6,7 +6,7 @@ source_relpath: "1900s/buste_de_femme_jacqueline_by_pablo_picasso_1956.jpeg"
 collection: "1900s"
 inferred_year: "1956"
 artist: "pablo picasso"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

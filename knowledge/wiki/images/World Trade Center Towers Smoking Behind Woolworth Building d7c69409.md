@@ -6,7 +6,7 @@ source_relpath: "photography/World Trade Center Towers Smoking Behind Woolworth 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "960x1266"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

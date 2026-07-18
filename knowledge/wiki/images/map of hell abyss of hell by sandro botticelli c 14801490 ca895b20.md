@@ -6,7 +6,7 @@ source_relpath: "1400s/map_of_hell_abyss_of_hell_by_sandro_botticelli_c_14801490
 collection: "1400s"
 inferred_year: "1400s"
 artist: "sandro botticelli"
-dimensions: "1500x1048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

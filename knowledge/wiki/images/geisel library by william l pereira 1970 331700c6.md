@@ -6,7 +6,7 @@ source_relpath: "1900s/geisel_library_by_william_l_pereira_1970.jpg"
 collection: "1900s"
 inferred_year: "1970"
 artist: "william l pereira"
-dimensions: "2048x1367"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

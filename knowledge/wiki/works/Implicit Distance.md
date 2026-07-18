@@ -47,7 +47,7 @@ thinking (see [[Latent Space]]).
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: implicit, distance, latent
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: implicit, distance, diary
 - [[knowledge/wiki/pages/implicit distance|implicit distance]] — shared language: implicit, distance, warping
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: latent, space, fills
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: latent, distance, space
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: latent, space, temporal
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: latent, space
 <!-- vault-crosslinks:end -->

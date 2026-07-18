@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Portraits of Young and Older Steve 
 collection: "photography"
 inferred_year: ""
 artist: "Albert Watson"
-dimensions: "1200x900"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

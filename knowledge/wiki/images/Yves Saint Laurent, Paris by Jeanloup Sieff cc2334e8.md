@@ -6,7 +6,7 @@ source_relpath: "photography/Yves Saint Laurent, Paris by Jeanloup Sieff.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: "Jeanloup Sieff"
-dimensions: "518x534"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

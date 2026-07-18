@@ -6,7 +6,7 @@ source_relpath: "diagrams/Mathematical_Signs,_Abbreviations,_and_Geometric_Formu
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1280x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

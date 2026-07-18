@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Woman at Piano with Cat in Sunlit Room.
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "928x1232"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

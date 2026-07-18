@@ -6,7 +6,7 @@ source_relpath: "1900s/self_portrait_by_stanton_macdonald_wright_1926_1927.jpeg"
 collection: "1900s"
 inferred_year: "1927"
 artist: "stanton macdonald wright"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

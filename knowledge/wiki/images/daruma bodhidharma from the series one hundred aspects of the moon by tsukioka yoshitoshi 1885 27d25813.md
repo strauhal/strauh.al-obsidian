@@ -6,7 +6,7 @@ source_relpath: "1800s/daruma_bodhidharma_from_the_series_one_hundred_aspects_of
 collection: "1800s"
 inferred_year: "1885"
 artist: "tsukioka yoshitoshi"
-dimensions: "796x1148"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

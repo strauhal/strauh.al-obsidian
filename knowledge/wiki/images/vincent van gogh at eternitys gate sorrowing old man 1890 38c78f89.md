@@ -6,7 +6,7 @@ source_relpath: "1800s/vincent_van_gogh_at_eternitys_gate_sorrowing_old_man_1890
 collection: "1800s"
 inferred_year: "1890"
 artist: ""
-dimensions: "1200x1580"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

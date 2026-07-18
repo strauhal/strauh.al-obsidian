@@ -6,7 +6,7 @@ source_relpath: "1800s/la_enferma_the_sick_woman_by_joaquin_sorolla_y_bastida_18
 collection: "1800s"
 inferred_year: "1897"
 artist: "joaquin sorolla y bastida"
-dimensions: "900x704"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

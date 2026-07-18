@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_a_Man_Performing_Squats,_Highlighting_Leg_M
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "602x392"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

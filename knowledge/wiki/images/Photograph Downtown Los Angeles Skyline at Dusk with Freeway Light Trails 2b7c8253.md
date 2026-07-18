@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Downtown Los Angeles Skyline at Dusk with Fr
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "577x394"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

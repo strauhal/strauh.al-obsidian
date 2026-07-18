@@ -6,7 +6,7 @@ source_relpath: "1900s/teenagers_sharing_a_milkshake_by_nina_leen_1944.jpg"
 collection: "1900s"
 inferred_year: "1944"
 artist: "nina leen"
-dimensions: "601x601"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

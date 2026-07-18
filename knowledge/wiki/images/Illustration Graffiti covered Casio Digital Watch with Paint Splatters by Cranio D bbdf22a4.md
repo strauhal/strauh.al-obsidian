@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Graffiti-covered Casio Digital Watch wi
 collection: "unsorted"
 inferred_year: ""
 artist: "Cranio D"
-dimensions: "1389x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Wall Covered in Graffiti Tags, Paint, and Stickers 978351fb|Photograph Wall Covered in Graffiti Tags, Paint, and Stickers]] — shared language: paint, covered, graffiti
-- [[knowledge/wiki/images/Photograph Metal Panel Covered in Layers of Stickers, Graffiti, and Paint 3fd6fc13|Photograph Metal Panel Covered in Layers of Stickers, Graffiti, and Paint]] — shared language: covered, paint, graffiti
+- [[knowledge/wiki/images/Photograph Metal Panel Covered in Layers of Stickers, Graffiti, and Paint 3fd6fc13|Photograph Metal Panel Covered in Layers of Stickers, Graffiti, and Paint]] — shared language: covered, graffiti, paint
 - [[knowledge/wiki/images/Messy Artist's Studio with Paint Splatters and Art Supplies 9d81cfa0|Messy Artist's Studio with Paint Splatters and Art Supplies]] — shared language: splatters, paint
 - [[knowledge/wiki/images/Illustration Woman and Grotesque Creature with Ink Splatters d44ed11e|Illustration Woman and Grotesque Creature with Ink Splatters]] — shared language: splatters
 - [[knowledge/wiki/images/Graffiti Covered Rooftops And City Skyline At Dusk a3e094fd|Graffiti Covered Rooftops And City Skyline At Dusk]] — shared language: covered, graffiti, graffiti-covered

@@ -6,7 +6,7 @@ source_relpath: "1900s/Reclining Nude by Andres Soria Aedo.jpeg"
 collection: "1900s"
 inferred_year: "1900s"
 artist: "Andres Soria Aedo"
-dimensions: "1872x1512"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

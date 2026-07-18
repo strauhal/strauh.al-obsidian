@@ -7,8 +7,8 @@ status: queued
 queue_order: 12
 tags: [culture, reading, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # No Longer Human
@@ -33,9 +33,9 @@ This is an active book in Ernest's current cultural diet. Add dates, reactions, 
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
 - [[knowledge/wiki/culture/reading-the-dark-enlightenment|Reading - The Dark Enlightenment]] — shared language: current, stronger, develops
 - [[knowledge/wiki/culture/reading-my-first-book|Reading - My First Book]] — shared language: current, book, stronger
-- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: human, ernest's
 - [[knowledge/wiki/culture/reading-design-as-art|Reading - Design as Art]] — shared language: current, stronger, develops
-- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human, ernest's
+- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: human, ernest's
 - [[knowledge/wiki/culture/reading-the-art-spirit|Reading - The Art Spirit]] — shared language: current, stronger, develops
+- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human, ernest's
 - [[knowledge/wiki/culture/reading-tomie|Reading - Tomie]] — shared language: current, stronger, develops
 <!-- vault-crosslinks:end -->

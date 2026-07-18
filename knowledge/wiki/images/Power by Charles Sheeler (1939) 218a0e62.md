@@ -6,7 +6,7 @@ source_relpath: "1900s/Power by Charles Sheeler (1939).jpeg"
 collection: "1900s"
 inferred_year: "1939"
 artist: ""
-dimensions: "650x538"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

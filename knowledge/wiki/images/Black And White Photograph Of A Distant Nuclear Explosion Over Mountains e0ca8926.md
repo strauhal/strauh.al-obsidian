@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photograph Of A Distant Nuclear Exp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1093x820"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

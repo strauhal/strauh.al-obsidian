@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Comparison of Young and Experienced Cartoonist
 collection: "unsorted"
 inferred_year: ""
 artist: "Mike Kelly"
-dimensions: "991x767"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

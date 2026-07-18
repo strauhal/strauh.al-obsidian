@@ -6,7 +6,7 @@ source_relpath: "1900s/interior_of_the_artist_s_library_by_walter_gay_1909_13.jp
 collection: "1900s"
 inferred_year: "1909"
 artist: "walter gay"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/interior_of_the_
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: walter
-- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: walter
 - [[knowledge/wiki/artists/Artist - walter sickert|Artist - walter sickert]] — shared language: walter
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: walter
 - [[knowledge/wiki/books/cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] — shared language: gay
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: walter
 <!-- vault-crosslinks:end -->

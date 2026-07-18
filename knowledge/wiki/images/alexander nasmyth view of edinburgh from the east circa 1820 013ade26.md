@@ -6,7 +6,7 @@ source_relpath: "1800s/alexander_nasmyth_view_of_edinburgh_from_the_east_circa_1
 collection: "1800s"
 inferred_year: "1820"
 artist: ""
-dimensions: "7147x4764"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

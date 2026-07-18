@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Tiled Map of Light Blue Water 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1793x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Nocturne Painting of a Glowing Porch an
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "901x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

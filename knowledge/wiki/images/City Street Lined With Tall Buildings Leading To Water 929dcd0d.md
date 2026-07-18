@@ -6,7 +6,7 @@ source_relpath: "photography/City Street Lined With Tall Buildings Leading To Wa
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1996x3011"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

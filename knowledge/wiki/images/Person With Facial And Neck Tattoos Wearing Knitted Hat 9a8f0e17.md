@@ -6,7 +6,7 @@ source_relpath: "photography/Person With Facial And Neck Tattoos Wearing Knitted
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "750x750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

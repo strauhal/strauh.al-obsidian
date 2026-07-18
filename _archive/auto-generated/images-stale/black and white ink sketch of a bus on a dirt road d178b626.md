@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black and White Ink Sketch of a Bus on a Dirt Path 8be5ad46|Illustration Black and White Ink Sketch of a Bus on a Dirt Path]] — named in this note
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch, ink
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Ink Sketch of a Car with Pop Up Headlights on a Road be1bab18|Illustration Ink Sketch of a Car with Pop Up Headlights on a Road]] — shared language: road, sketch, ink
 - [[_archive/auto-generated/images-stale/ink sketch of a car with pop up headlights on a road eb18ca73|ink sketch of a car with pop up headlights on a road]] — shared language: road, sketch, ink
 <!-- vault-crosslinks:end -->

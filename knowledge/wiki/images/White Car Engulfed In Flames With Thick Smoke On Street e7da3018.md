@@ -6,7 +6,7 @@ source_relpath: "photography/White Car Engulfed In Flames With Thick Smoke On St
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1172x1172"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

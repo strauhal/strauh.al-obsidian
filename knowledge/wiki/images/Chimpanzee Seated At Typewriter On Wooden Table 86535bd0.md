@@ -6,7 +6,7 @@ source_relpath: "photography/Chimpanzee Seated At Typewriter On Wooden Table.jpg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1028x818"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

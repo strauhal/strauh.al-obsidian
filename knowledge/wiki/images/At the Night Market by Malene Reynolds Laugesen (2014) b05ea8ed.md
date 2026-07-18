@@ -6,7 +6,7 @@ source_relpath: "2000s/At the Night Market by Malene Reynolds Laugesen (2014).jp
 collection: "2000s"
 inferred_year: "2014"
 artist: ""
-dimensions: "1100x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

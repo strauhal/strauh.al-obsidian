@@ -6,7 +6,7 @@ source_relpath: "artists/kawase_husui/Kawase-Hasui-Benten-Pond-at-Shiba-mia_3967
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "1163x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Mid-Century Modern Living Room with Wood Paneling a
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1265x899"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

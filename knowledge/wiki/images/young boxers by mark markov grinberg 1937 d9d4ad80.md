@@ -6,7 +6,7 @@ source_relpath: "1900s/young_boxers_by_mark_markov_grinberg_1937.jpg"
 collection: "1900s"
 inferred_year: "1937"
 artist: "mark markov grinberg"
-dimensions: "791x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

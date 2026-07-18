@@ -6,7 +6,7 @@ source_relpath: "1700s/belisarius_by_robert_strange_1757.jpeg"
 collection: "1700s"
 inferred_year: "1757"
 artist: "robert strange"
-dimensions: "1050x1523"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

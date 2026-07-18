@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Graphic Portrait of Woman with Blue Hai
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "849x1001"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

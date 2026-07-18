@@ -6,7 +6,7 @@ source_relpath: "1800s/on_the_terrace_by_rudolf_ernst_1880.jpg"
 collection: "1800s"
 inferred_year: "1880"
 artist: "rudolf ernst"
-dimensions: "1488x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

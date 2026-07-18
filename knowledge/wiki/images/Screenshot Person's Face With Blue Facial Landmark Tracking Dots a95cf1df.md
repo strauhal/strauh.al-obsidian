@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Person's Face With Blue Facial Landmark T
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2880x1800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

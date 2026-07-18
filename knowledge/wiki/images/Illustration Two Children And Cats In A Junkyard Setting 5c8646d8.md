@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Children And Cats In A Junkyard Set
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "750x451"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: children
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: children
 - [[knowledge/wiki/images/Illustration Two Stylized Black Cats on a Pink Background b3fafadc|Illustration Two Stylized Black Cats on a Pink Background]] — shared language: cats
-- [[knowledge/wiki/images/Illustration Cartoon Children Thanking Each Other For Music bffdab86|Illustration Cartoon Children Thanking Each Other For Music]] — shared language: children
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: children
+- [[knowledge/wiki/images/Illustration Black and White Print of Two Figures in an Interior Setting 18f160e2|Illustration Black and White Print of Two Figures in an Interior Setting]] — shared language: setting
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Musical_Notation_of_a_Six-Note_Chord_in_Treble_Clef.pn
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1294x518"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

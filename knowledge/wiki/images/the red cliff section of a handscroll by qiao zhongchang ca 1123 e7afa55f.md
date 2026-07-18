@@ -6,7 +6,7 @@ source_relpath: "1100s/the_red_cliff_section_of_a_handscroll_by_qiao_zhongchang_
 collection: "1100s"
 inferred_year: "1100s"
 artist: "qiao zhongchang"
-dimensions: "4032x2268"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1100s"]
 ---

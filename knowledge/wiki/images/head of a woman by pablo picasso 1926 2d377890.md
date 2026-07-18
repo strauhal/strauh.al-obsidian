@@ -6,7 +6,7 @@ source_relpath: "1900s/head_of_a_woman_by_pablo_picasso_1926.jpeg"
 collection: "1900s"
 inferred_year: "1926"
 artist: "pablo picasso"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Futuristic Landscape with Sleek Vehicles and Figures baf6d38f|Illustration Futuristic Landscape with Sleek Vehicles and Figures]] — shared language: vehicles, futuristic
 - [[knowledge/wiki/artists/Artist - Mac Baconai|Artist - Mac Baconai]] — shared language: mac
+- [[knowledge/wiki/images/Illustration Futuristic Landscape with Sleek Vehicles and Figures baf6d38f|Illustration Futuristic Landscape with Sleek Vehicles and Figures]] — shared language: vehicles, futuristic
 - [[knowledge/wiki/images/Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways c83538a1|Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways]] — shared language: futuristic, cityscape
-- [[knowledge/wiki/images/Photograph Interior Study with Arched Windows Overlooking City and Water by Mac Baconai 24977561|Photograph Interior Study with Arched Windows Overlooking City and Water by Mac Baconai]] — shared language: mac
 - [[knowledge/wiki/images/Screenshot Mac OS X 10.0 Cheetah Interface by Apple Inc edc7ccde|Screenshot Mac OS X 10.0 Cheetah Interface by Apple Inc]] — shared language: mac
+- [[knowledge/wiki/images/Photograph Interior Study with Arched Windows Overlooking City and Water by Mac Baconai 24977561|Photograph Interior Study with Arched Windows Overlooking City and Water by Mac Baconai]] — shared language: mac
 - [[knowledge/wiki/images/Screenshot Screenshot of a MacPaint like Program With Coiled Shapes and 'HI MAC' Text 968449f3|Screenshot Screenshot of a MacPaint like Program With Coiled Shapes and 'HI MAC' Text]] — shared language: mac
 <!-- vault-crosslinks:end -->

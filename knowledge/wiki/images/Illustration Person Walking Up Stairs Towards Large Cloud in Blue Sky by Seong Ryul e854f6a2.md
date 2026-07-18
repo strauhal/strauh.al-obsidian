@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Person Walking Up Stairs Towards Large 
 collection: "unsorted"
 inferred_year: ""
 artist: "Seong Ryul"
-dimensions: "1080x1382"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

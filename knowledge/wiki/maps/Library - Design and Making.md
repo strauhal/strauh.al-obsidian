@@ -2,8 +2,8 @@
 title: Library - Design and Making
 type: map
 tags: [map, library, books]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Library - Design and Making

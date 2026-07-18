@@ -6,7 +6,7 @@ source_relpath: "photography/Nintendo 3DS Console Displaying Digital Painting Ap
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "717x732"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

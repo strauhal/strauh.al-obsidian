@@ -6,7 +6,7 @@ source_relpath: "1900s/Portrait of Arnold Schönberg by Egon Schiele (1917).jpg"
 collection: "1900s"
 inferred_year: "1917"
 artist: ""
-dimensions: "1306x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

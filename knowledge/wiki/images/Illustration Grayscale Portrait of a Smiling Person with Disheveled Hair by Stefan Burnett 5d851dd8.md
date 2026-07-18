@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Grayscale Portrait of a Smiling Person wit
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Stefan Burnett"
-dimensions: "1200x1025"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Purple Sunset Over Rooftops and Distant Mountains.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x719"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

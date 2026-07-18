@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Welded Metal Frame Structure on Workshop Flo
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "720x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "wallpapers/sinbad2.png"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "1349x1056"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

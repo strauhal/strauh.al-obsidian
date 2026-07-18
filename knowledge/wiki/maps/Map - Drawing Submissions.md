@@ -2,8 +2,8 @@
 title: Map - Drawing Submissions
 type: map
 tags: [map, audience, correspondence]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Map - Drawing Submissions
@@ -95,3 +95,16 @@ Threads: 34
 - [天使 (Angel)](../../private/fanmail/threads/43-angel.md) - 1 incoming messages; 2 attachments
   ![[knowledge/private/fanmail/attachments/df510617feca.png|240]]
   ![[knowledge/private/fanmail/attachments/df510617feca.png|240]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
+- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: attachments, messages, incoming
+- [[knowledge/private/fanmail/Private Fanmail Index|Private Fanmail Index]] — shared language: attachments, messages, submission
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: messages, attachments, submissions
+- [[knowledge/private/fanmail/threads/14-hhiii-my-name-is-khalil-im-17-and-found-your-website-on-4-chan-lol-but-i-had-to-take-a-picture-of-it|Private Correspondence - 14 - HHIII my name is khalil im 17 and found your website on 4 chan lol but i had to take a picture of it cuz i was drawing on a my xbox believe it or not.]] — shared language: picture, name, website
+- [[knowledge/private/fanmail/threads/30-picture-submission-m-r-12-6nvar4getjstreetsacto-png|Private Correspondence - 30 - Picture Submission - M R. '12-6nvar4getJstreetSacto.png']] — shared language: submission, picture, nvar4getjstreetsacto.png
+- [[knowledge/private/fanmail/threads/37-submission-to-computer-drawing-club|Private Correspondence - 37 - Submission to computer drawing club]] — shared language: submission, club, incoming
+- [[knowledge/private/fanmail/threads/34-sierra-computer-drawing-submission|Private Correspondence - 34 - Sierra Computer Drawing Submission]] — shared language: submission, sierra, incoming
+<!-- vault-crosslinks:end -->

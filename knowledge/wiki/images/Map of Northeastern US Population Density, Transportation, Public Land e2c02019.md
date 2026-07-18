@@ -6,7 +6,7 @@ source_relpath: "diagrams/Map_of_Northeastern_US_Population_Density,_Transportat
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "800x1067"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

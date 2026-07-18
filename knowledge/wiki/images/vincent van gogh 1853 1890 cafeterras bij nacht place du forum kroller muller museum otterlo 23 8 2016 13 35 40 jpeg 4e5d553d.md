@@ -6,7 +6,7 @@ source_relpath: "1800s/vincent_van_gogh_1853_1890_cafeterras_bij_nacht_place_du_
 collection: "1800s"
 inferred_year: "2016"
 artist: ""
-dimensions: "2864x3568"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

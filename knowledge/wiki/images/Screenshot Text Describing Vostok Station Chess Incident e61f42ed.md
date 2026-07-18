@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Text Describing Vostok Station Chess Inci
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "639x811"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1300s/dwelling_in_the_qingbian_mountains_by_wang_meng_1366.png"
 collection: "1300s"
 inferred_year: "1300s"
 artist: "wang meng"
-dimensions: "532x1021"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1300s"]
 ---

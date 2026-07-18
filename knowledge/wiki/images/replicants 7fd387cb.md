@@ -6,7 +6,7 @@ source_relpath: "wallpapers/replicants.png"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "2560x1065"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

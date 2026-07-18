@@ -6,7 +6,7 @@ source_relpath: "1900s/Broadway Boogie Woogie by Piet Mondrian (1942-1943).jpg"
 collection: "1900s"
 inferred_year: "1943"
 artist: ""
-dimensions: "2000x1994"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

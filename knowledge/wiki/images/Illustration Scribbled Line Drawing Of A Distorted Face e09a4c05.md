@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Scribbled Line Drawing Of A Distorted F
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "474x588"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

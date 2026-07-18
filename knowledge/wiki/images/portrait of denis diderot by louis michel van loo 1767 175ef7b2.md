@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_denis_diderot_by_louis_michel_van_loo_1767.jp
 collection: "1700s"
 inferred_year: "1767"
 artist: "louis michel van loo"
-dimensions: "1000x1248"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

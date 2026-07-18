@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Detailed Engraving of Le Bon Marché Depar
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1232x838"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

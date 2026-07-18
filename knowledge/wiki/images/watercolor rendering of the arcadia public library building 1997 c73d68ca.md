@@ -6,7 +6,7 @@ source_relpath: "1900s/watercolor_rendering_of_the_arcadia_public_library_buildi
 collection: "1900s"
 inferred_year: "1997"
 artist: ""
-dimensions: "1200x947"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

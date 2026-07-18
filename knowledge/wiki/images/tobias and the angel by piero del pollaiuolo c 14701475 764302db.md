@@ -6,7 +6,7 @@ source_relpath: "1400s/tobias_and_the_angel_by_piero_del_pollaiuolo_c_14701475.j
 collection: "1400s"
 inferred_year: "1400s"
 artist: "piero del pollaiuolo"
-dimensions: "3303x4226"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

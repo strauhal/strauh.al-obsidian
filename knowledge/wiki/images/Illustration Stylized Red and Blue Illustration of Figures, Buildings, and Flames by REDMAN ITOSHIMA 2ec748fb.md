@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Red and Blue Illustration of F
 collection: "unsorted"
 inferred_year: ""
 artist: "REDMAN ITOSHIMA"
-dimensions: "1350x1682"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

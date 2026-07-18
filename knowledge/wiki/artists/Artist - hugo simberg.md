@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Keanu Reeves, Carrie Anne Moss, and Hugo Weaving at The Matrix Event 9cb3c729|Keanu Reeves, Carrie Anne Moss, and Hugo Weaving at The Matrix Event]] — shared language: hugo
 - [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — shared language: death
 - [[knowledge/wiki/images/the angel of death by evelyn de morgan 1881 1dbbcb78|the angel of death by evelyn de morgan 1881]] — shared language: angel, death
-- [[knowledge/wiki/images/alexandre cabanel the fallen angel 1847 e4b7fbe6|alexandre cabanel the fallen angel 1847]] — shared language: angel
+- [[knowledge/private/fanmail/threads/43-angel|Private Correspondence - 43 - 天使 (Angel)]] — shared language: angel
 <!-- vault-crosslinks:end -->

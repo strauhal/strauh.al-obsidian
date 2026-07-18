@@ -6,7 +6,7 @@ source_relpath: "1600s/queen_henrietta_maria_with_prince_charles_by_anthony_van_
 collection: "1600s"
 inferred_year: "1632"
 artist: "anthony van dyck"
-dimensions: "2268x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -40,8 +40,8 @@ Images attributed by filename: 7
 
 - [[knowledge/wiki/images/Rainy Day, Boston by Childe Hassam (1885) 3aba74f6|Rainy Day, Boston by Childe Hassam (1885)]] — named in this note
 - [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, rainy, night
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: rainy, street, night
 - [[knowledge/wiki/images/Rainy Day by Pascal Campion (2015) 309b08a0|Rainy Day by Pascal Campion (2015)]] — shared language: rainy, day
 - [[knowledge/wiki/images/Photograph Rainy Tokyo Street at Night with Neon Signs by Greg Girard 07e08a06|Photograph Rainy Tokyo Street at Night with Neon Signs by Greg Girard]] — shared language: rainy, street, night
-- [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street
 <!-- vault-crosslinks:end -->

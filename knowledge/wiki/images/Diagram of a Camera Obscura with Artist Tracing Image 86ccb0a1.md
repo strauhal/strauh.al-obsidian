@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_a_Camera_Obscura_with_Artist_Tracing_Image.
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "600x355"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

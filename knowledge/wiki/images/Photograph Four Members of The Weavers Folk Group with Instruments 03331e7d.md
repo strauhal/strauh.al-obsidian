@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Four Members of The Weavers Folk Group with 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1896x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

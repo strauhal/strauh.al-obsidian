@@ -6,7 +6,7 @@ source_relpath: "computers/god.png"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: "808x452"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---

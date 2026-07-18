@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_Hegel's_Philosophy_of_Spirit_and_Logic_conc
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "877x620"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

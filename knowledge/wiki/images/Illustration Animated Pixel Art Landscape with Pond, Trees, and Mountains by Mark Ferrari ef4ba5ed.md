@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Animated Pixel Art Landscape with Pond, Tr
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Mark Ferrari"
-dimensions: "500x475"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

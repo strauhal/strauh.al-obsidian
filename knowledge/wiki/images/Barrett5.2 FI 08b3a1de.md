@@ -6,7 +6,7 @@ source_relpath: "artists/hieronymous_cock/Barrett5.2-FI.jpg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1640"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

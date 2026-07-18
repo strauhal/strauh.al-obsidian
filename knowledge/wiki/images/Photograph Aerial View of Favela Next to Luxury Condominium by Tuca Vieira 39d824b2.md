@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Aerial View of Favela Next to Luxury Condomi
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Tuca Vieira"
-dimensions: "927x927"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

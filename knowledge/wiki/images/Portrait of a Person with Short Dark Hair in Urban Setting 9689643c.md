@@ -6,7 +6,7 @@ source_relpath: "photography/Portrait of a Person with Short Dark Hair in Urban 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "598x525"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

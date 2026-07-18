@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagrams_Illustrating_Complexity,_Order,_Disorder,_and
 collection: "diagrams"
 inferred_year: ""
 artist: "Philip Galanter"
-dimensions: "1590x1908"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

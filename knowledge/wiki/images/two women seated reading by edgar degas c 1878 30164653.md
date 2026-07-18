@@ -6,7 +6,7 @@ source_relpath: "1800s/two_women_seated_reading_by_edgar_degas_c_1878.jpg"
 collection: "1800s"
 inferred_year: "1878"
 artist: "edgar degas"
-dimensions: "768x457"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

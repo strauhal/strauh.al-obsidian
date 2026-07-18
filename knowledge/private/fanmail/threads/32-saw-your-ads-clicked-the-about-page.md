@@ -6,8 +6,8 @@ category: audience-response
 message_count: 5
 incoming_count: 4
 tags: [private, correspondence, fanmail]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # saw your ads, clicked the about page
@@ -101,3 +101,16 @@ Good to know about wysiwyg editors and thanks for the ok re; theft. Be on the lo
 Best,
 
 Sent with [Proton Mail](https://proton.me/mail/home) secure email.
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/perloff-marjorie-frank-o-hara-poet-among-painters|Frank O'Hara poet among painters]] — named in this note
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/books/essays|essays]] — named in this note
+- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
+- [[knowledge/private/fanmail/threads/17-saw-your-ads-clicked-the-about-page|Private Correspondence - 17 - saw your ads, clicked the about page]] — same category: audience-response
+- [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
+- [[knowledge/wiki/images/ghost cd521222|ghost]] — named in this note
+- [[knowledge/wiki/images/grips 1e01a5b3|grips]] — named in this note
+<!-- vault-crosslinks:end -->

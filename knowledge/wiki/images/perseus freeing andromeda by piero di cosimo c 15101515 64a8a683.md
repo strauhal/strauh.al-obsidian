@@ -6,7 +6,7 @@ source_relpath: "1500s/perseus_freeing_andromeda_by_piero_di_cosimo_c_15101515.j
 collection: "1500s"
 inferred_year: "1500s"
 artist: "piero di cosimo"
-dimensions: "1200x683"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

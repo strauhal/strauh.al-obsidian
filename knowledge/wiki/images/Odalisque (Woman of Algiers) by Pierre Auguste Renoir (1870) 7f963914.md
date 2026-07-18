@@ -6,7 +6,7 @@ source_relpath: "1800s/Odalisque (Woman of Algiers) by Pierre-Auguste Renoir (18
 collection: "1800s"
 inferred_year: "1870"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

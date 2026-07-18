@@ -6,7 +6,7 @@ source_relpath: "wallpapers/wife_and_cat.png"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "5000x4000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

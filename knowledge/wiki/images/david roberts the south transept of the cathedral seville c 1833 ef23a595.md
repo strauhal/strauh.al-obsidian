@@ -6,7 +6,7 @@ source_relpath: "1800s/david_roberts_the_south_transept_of_the_cathedral_seville
 collection: "1800s"
 inferred_year: "1833"
 artist: ""
-dimensions: "1280x1771"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

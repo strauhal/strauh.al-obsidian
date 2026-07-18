@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photo Of Musician With Light Streak
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "353x353"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

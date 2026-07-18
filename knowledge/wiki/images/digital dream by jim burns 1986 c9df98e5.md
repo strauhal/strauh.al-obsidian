@@ -6,7 +6,7 @@ source_relpath: "1900s/digital_dream_by_jim_burns_1986.jpg"
 collection: "1900s"
 inferred_year: "1986"
 artist: "jim burns"
-dimensions: "808x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

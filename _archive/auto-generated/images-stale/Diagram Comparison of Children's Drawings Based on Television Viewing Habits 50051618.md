@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Com
 - [[_archive/auto-generated/images-stale/Diagram Comparison of Children's Drawings Based on Television Viewing Time a927f726|Diagram Comparison of Children's Drawings Based on Television Viewing Time]] — shared language: children's, television, viewing
 - [[knowledge/wiki/images/Comparison of Children's Drawings Based on Television Viewing Time 5c2db6fa|Comparison of Children's Drawings Based on Television Viewing Time]] — shared language: children's, television, viewing
 - [[_archive/auto-generated/images-stale/Diagram Comparison of Generated Images with Deconvolution Artifacts f654f9c7|Diagram Comparison of Generated Images with Deconvolution Artifacts]] — shared language: comparison, diagram
-- [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: habits
+- [[_archive/auto-generated/books-stale/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: habits
 <!-- vault-crosslinks:end -->

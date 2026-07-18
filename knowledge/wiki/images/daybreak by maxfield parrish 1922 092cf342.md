@@ -6,7 +6,7 @@ source_relpath: "1900s/daybreak_by_maxfield_parrish_1922.jpg"
 collection: "1900s"
 inferred_year: "1922"
 artist: "maxfield parrish"
-dimensions: "5102x2940"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

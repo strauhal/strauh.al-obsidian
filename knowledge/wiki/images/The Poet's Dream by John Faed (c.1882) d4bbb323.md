@@ -6,7 +6,7 @@ source_relpath: "2000s/The Poet's Dream by John Faed (c.1882).jpg"
 collection: "2000s"
 inferred_year: "1882"
 artist: ""
-dimensions: "1194x868"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

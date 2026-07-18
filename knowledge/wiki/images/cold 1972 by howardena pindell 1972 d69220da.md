@@ -6,7 +6,7 @@ source_relpath: "1900s/cold_1972_by_howardena_pindell_1972.jpeg"
 collection: "1900s"
 inferred_year: "1972"
 artist: "howardena pindell"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

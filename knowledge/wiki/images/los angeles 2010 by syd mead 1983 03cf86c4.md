@@ -6,7 +6,7 @@ source_relpath: "1900s/los_angeles_2010_by_syd_mead_1983.jpeg"
 collection: "1900s"
 inferred_year: "1983"
 artist: "syd mead"
-dimensions: "2048x1488"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

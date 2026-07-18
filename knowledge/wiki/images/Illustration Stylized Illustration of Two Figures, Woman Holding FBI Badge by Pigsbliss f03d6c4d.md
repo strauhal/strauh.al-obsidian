@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Illustration of Two Figures, W
 collection: "unsorted"
 inferred_year: ""
 artist: "Pigsbliss"
-dimensions: "1608x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
-- [[knowledge/wiki/images/Illustration FBI Tactical Vehicle in Suburban Street with Boy on Bicycle a18253c9|Illustration FBI Tactical Vehicle in Suburban Street with Boy on Bicycle]] — shared language: fbi
 - [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
+- [[knowledge/wiki/images/Illustration FBI Tactical Vehicle in Suburban Street with Boy on Bicycle a18253c9|Illustration FBI Tactical Vehicle in Suburban Street with Boy on Bicycle]] — shared language: fbi
 - [[knowledge/wiki/images/Illustration Stylized Figure Holding Phone Surrounded By Stars e61ee9d9|Illustration Stylized Figure Holding Phone Surrounded By Stars]] — shared language: stylized, holding
 - [[knowledge/wiki/images/Illustration Black and White Drawing of Three Stylized Figures 79ec4642|Illustration Black and White Drawing of Three Stylized Figures]] — shared language: stylized
 <!-- vault-crosslinks:end -->

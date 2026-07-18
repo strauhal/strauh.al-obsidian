@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Line Drawing of Person and Bird at Tabl
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "959x723"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

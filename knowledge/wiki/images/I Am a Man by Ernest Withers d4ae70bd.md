@@ -6,7 +6,7 @@ source_relpath: "photography/I Am a Man by Ernest Withers.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: "Ernest Withers"
-dimensions: "544x374"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

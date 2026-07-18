@@ -6,7 +6,7 @@ source_relpath: "1900s/batman_year_one_chapter_one_opening_spread_original_art_b
 collection: "1900s"
 inferred_year: "1987"
 artist: "david mazzucchelli"
-dimensions: "1420x1089"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

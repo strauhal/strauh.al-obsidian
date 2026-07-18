@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Portrait Of A Woman With Dark Hair And 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1152x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

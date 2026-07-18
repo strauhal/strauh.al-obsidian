@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Yves Saint Laurent at Christian Dior's Funeral b280d98c|Yves Saint Laurent at Christian Dior's Funeral]] — named in this note
 - [[_archive/auto-generated/images-stale/Photograph Yves Saint Laurent, Paris by Jeanloup Sieff 21b474b4|Photograph Yves Saint Laurent, Paris by Jeanloup Sieff]] — shared language: yves, laurent, saint
 - [[knowledge/wiki/images/Yves Saint Laurent, Paris by Jeanloup Sieff cc2334e8|Yves Saint Laurent, Paris by Jeanloup Sieff]] — shared language: yves, laurent, saint
-- [[knowledge/wiki/images/erik werenskiold a funeral 1885 3fc398f6|erik werenskiold a funeral 1885]] — shared language: funeral
 - [[knowledge/wiki/artists/Artist - yves tanguy|Artist - yves tanguy]] — shared language: yves
+- [[knowledge/archive/auto-generated/artists-stale/Artist - yves tanguy 1952|Artist - yves tanguy 1952]] — shared language: yves
 <!-- vault-crosslinks:end -->

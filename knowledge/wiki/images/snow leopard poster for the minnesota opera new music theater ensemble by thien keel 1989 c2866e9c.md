@@ -6,7 +6,7 @@ source_relpath: "1900s/snow_leopard_poster_for_the_minnesota_opera_new_music_the
 collection: "1900s"
 inferred_year: "1989"
 artist: "thien keel"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

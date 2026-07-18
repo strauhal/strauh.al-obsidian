@@ -6,7 +6,7 @@ source_relpath: "1800s/okazaki_yahagi_bridge_okazaki_yahagi_no_hashi_by_utagawa_
 collection: "1800s"
 inferred_year: "1800s"
 artist: "utagawa hiroshige"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

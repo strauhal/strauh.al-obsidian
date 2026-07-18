@@ -6,7 +6,7 @@ source_relpath: "photography/Kitten on Desk with Computer Monitor and Personal I
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1774x1330"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

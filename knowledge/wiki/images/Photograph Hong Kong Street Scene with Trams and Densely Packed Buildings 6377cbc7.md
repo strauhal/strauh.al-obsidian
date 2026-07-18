@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Hong Kong Street Scene with Trams and Densel
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "700x875"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

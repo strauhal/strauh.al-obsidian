@@ -6,7 +6,7 @@ source_relpath: "2000s/This Old Bones Needs Rest by Samuel G. Gonzalez (2021).jp
 collection: "2000s"
 inferred_year: "2021"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

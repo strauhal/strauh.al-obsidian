@@ -6,7 +6,7 @@ source_relpath: "photography/Close-up of a Sony Walkman with 'Guys & Dolls' head
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1075x967"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

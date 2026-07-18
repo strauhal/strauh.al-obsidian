@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Detailed Line Drawing Of A Large Spotte
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1000x1050"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

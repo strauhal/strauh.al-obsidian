@@ -6,7 +6,7 @@ source_relpath: "1700s/Genius Calling Forth the Fine Arts to Adorn Manufactures 
 collection: "1700s"
 inferred_year: "1789"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

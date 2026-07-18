@@ -6,7 +6,7 @@ source_relpath: "photography/Close-Up Of A Japanese Keyboard With Hiragana And K
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1294x1009"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

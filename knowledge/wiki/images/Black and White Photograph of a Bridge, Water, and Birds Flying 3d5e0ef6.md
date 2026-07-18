@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photograph of a Bridge, Water, and 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "4492x4492"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

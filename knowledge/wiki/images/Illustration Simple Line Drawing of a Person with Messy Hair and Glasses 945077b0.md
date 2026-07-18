@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Simple Line Drawing of a Person with Me
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "800x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

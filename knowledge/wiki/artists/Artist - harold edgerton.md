@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
 - [[knowledge/wiki/images/Tennis Serve by Harold Edgerton 9c7ad146|Tennis Serve by Harold Edgerton]] — shared language: edgerton, harold, tennis
 - [[knowledge/wiki/images/Diver by Harold Edgerton (1955) 81f5f771|Diver by Harold Edgerton (1955)]] — shared language: edgerton, harold
 - [[knowledge/wiki/books/harold-cohen-harold-cohen-robotic-artist|Harold Cohen, Robotic Artist]] — shared language: harold
 - [[knowledge/wiki/books/harold-cohen-robotic-artist-1995|Harold Cohen, Robotic Artist, 1995]] — shared language: harold
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: harold
+- [[knowledge/wiki/images/player 6b321c3d|player]] — shared language: player
 <!-- vault-crosslinks:end -->

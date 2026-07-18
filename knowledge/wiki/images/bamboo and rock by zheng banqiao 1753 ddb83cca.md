@@ -6,7 +6,7 @@ source_relpath: "1700s/bamboo_and_rock_by_zheng_banqiao_1753.jpeg"
 collection: "1700s"
 inferred_year: "1753"
 artist: "zheng banqiao"
-dimensions: "2268x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

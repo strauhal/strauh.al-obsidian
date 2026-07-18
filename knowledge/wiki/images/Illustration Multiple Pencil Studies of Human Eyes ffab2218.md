@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Multiple Pencil Studies of Human Eyes.p
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1635x724"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

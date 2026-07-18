@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Screenshot Screenshot of Social Media Post with Abstract Line Drawing 7b8adc36|Screenshot Screenshot of Social Media Post with Abstract Line Drawing]] — shared language: social, post, media
 - [[knowledge/wiki/images/Screenshot Social Media Post Featuring ASCII Art Character 2c92e591|Screenshot Social Media Post Featuring ASCII Art Character]] — shared language: social, post, featuring
 - [[_archive/auto-generated/concept-stubs/Image Archive|Image Archive]] — shared language: media
-- [[knowledge/wiki/images/Screenshot Social Media Post Featuring Vanilla Ice in American Flag Jacket f50f650f|Screenshot Social Media Post Featuring Vanilla Ice in American Flag Jacket]] — shared language: social, post, featuring
+- [[knowledge/wiki/images/Screenshot Social Media Post About OpenAI Whistleblower News a264621e|Screenshot Social Media Post About OpenAI Whistleblower News]] — shared language: social, post, media
 <!-- vault-crosslinks:end -->

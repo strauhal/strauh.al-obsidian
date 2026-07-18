@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of Adobe Dimensions 3.0 Interf
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "640x480"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

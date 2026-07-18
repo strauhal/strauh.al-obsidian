@@ -6,7 +6,7 @@ source_relpath: "1800s/ludwig_knaus_a_monastic_siesta_late_19th_century.jpg"
 collection: "1800s"
 inferred_year: "1800s"
 artist: ""
-dimensions: "1200x730"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/ludwig_knaus_a_m
 - [[knowledge/wiki/images/lon comerre the wink late 19th century 14163808|lon comerre the wink late 19th century]] — shared language: late, century, century.jpg
 - [[knowledge/wiki/images/the holy day by ludwig knaus 1871 22887e5b|the holy day by ludwig knaus 1871]] — shared language: knaus, ludwig
 - [[knowledge/wiki/images/The Anastasis (late 15th early 16th century) 5ce02497|The Anastasis (late 15th early 16th century)]] — shared language: late, century
-- [[knowledge/wiki/images/serhiy vasylkivsky on the pond late 19th century b63cf075|serhiy vasylkivsky on the pond late 19th century]] — shared language: late, century, century.jpg
+- [[knowledge/wiki/artists/Artist - Ludwig Wittgenstein|Artist - Ludwig Wittgenstein]] — shared language: ludwig
 <!-- vault-crosslinks:end -->

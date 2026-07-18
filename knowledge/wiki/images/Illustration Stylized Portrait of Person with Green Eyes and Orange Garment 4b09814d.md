@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Portrait of Person with Green 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "487x725"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

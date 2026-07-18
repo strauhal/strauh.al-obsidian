@@ -6,7 +6,7 @@ source_relpath: "1900s/the_red_visor_by_robert_huddle_1980.jpeg"
 collection: "1900s"
 inferred_year: "1980"
 artist: "robert huddle"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

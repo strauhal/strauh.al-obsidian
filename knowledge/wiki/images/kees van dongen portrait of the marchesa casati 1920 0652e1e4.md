@@ -6,7 +6,7 @@ source_relpath: "1900s/kees_van_dongen_portrait_of_the_marchesa_casati_1920.jpg"
 collection: "1900s"
 inferred_year: "1920"
 artist: ""
-dimensions: "1000x1500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

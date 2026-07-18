@@ -6,7 +6,7 @@ source_relpath: "1900s/the_second_coming_by_peter_saul_1969.jpeg"
 collection: "1900s"
 inferred_year: "1969"
 artist: "peter saul"
-dimensions: "750x1392"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

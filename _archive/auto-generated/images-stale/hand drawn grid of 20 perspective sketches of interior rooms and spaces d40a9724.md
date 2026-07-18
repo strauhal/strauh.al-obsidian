@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Grid of Hand Drawn Perspective Sketches of Interior Rooms 466a0aab|Illustration Grid of Hand Drawn Perspective Sketches of Interior Rooms]] — shared language: rooms, perspective, drawn
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand, drawn
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
 - [[knowledge/wiki/images/Illustration Grid of Hand Drawn Geometric Shapes and Patterns 8e8fcb7f|Illustration Grid of Hand Drawn Geometric Shapes and Patterns]] — shared language: drawn, hand, grid
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
 <!-- vault-crosslinks:end -->

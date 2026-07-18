@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Psychedelic Concert Poster with Stylized F
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1300x1993"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

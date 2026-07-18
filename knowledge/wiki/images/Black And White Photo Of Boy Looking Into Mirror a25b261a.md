@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photo Of Boy Looking Into Mirror.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "500x711"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

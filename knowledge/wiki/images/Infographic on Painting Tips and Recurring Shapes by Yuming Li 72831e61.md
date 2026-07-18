@@ -6,7 +6,7 @@ source_relpath: "diagrams/Infographic_on_Painting_Tips_and_Recurring_Shapes_by_Y
 collection: "diagrams"
 inferred_year: ""
 artist: "Yuming Li"
-dimensions: "863x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

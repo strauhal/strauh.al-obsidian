@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Equilibrium b8438ef3|Equilibrium]] — named in this note
 - [[knowledge/wiki/images/Diagram Five Line Drawings of Skeletal Posture and Equilibrium Changes 25734c42|Diagram Five Line Drawings of Skeletal Posture and Equilibrium Changes]] — shared language: equilibrium, posture, skeletal
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: line, drawings
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: drawings, change
+- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: change, drawings
 - [[knowledge/wiki/images/The Ruins of Sikandar Bagh Palace Showing the Skeletal Remains 755a7767|The Ruins of Sikandar Bagh Palace Showing the Skeletal Remains]] — shared language: skeletal, showing
 <!-- vault-crosslinks:end -->

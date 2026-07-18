@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Illustration of Dancing Figures i
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Muhammad Fatchurofi"
-dimensions: "1600x900"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

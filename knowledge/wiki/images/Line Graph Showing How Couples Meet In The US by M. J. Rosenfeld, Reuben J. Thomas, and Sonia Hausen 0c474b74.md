@@ -6,7 +6,7 @@ source_relpath: "diagrams/Line_Graph_Showing_How_Couples_Meet_In_The_US_by_M._J.
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "960x817"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

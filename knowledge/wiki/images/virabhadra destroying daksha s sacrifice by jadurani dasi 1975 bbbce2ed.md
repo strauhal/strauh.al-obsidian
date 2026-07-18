@@ -6,7 +6,7 @@ source_relpath: "1900s/virabhadra_destroying_daksha_s_sacrifice_by_jadurani_dasi
 collection: "1900s"
 inferred_year: "1975"
 artist: "jadurani dasi"
-dimensions: "1840x2480"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

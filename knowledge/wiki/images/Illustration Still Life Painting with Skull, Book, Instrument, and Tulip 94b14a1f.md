@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Still Life Painting with Skull, Book, Inst
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "699x432"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

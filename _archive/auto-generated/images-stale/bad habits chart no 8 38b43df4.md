@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Bad Habits Chart No. 8 6de58937|Illustration Bad Habits Chart No. 8]] — named in this note
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: chart
 - [[knowledge/wiki/images/Mortis by Bad Radio (2020) 3c4b673e|Mortis by Bad Radio (2020)]] — shared language: bad
-- [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: habits
+- [[_archive/auto-generated/books-stale/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: habits
 - [[_archive/auto-generated/images-stale/socialism chart 35db4f6f|socialism chart]] — shared language: chart
 <!-- vault-crosslinks:end -->

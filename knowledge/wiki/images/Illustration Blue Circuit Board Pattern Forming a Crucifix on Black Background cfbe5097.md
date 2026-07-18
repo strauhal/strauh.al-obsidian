@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Blue Circuit Board Pattern Forming a Cruci
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "550x550"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

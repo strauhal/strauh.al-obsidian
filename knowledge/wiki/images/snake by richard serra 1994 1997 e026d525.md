@@ -6,7 +6,7 @@ source_relpath: "1900s/snake_by_richard_serra_1994_1997.jpg"
 collection: "1900s"
 inferred_year: "1997"
 artist: "richard serra"
-dimensions: "640x531"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

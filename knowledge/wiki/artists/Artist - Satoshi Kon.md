@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Screenshot Screenshot of a Webpage About Bunkers in Albania 4bc53bb8|Screenshot Screenshot of a Webpage About Bunkers in Albania]] — shared language: screenshot
 - [[knowledge/wiki/images/Screenshot Screenshot of Abstract White Lines on Purple Background e006d48d|Screenshot Screenshot of Abstract White Lines on Purple Background]] — shared language: screenshot
 - [[knowledge/wiki/images/Screenshot Screenshot of Text Describing Euthanasia Coaster with Diagram e02b6883|Screenshot Screenshot of Text Describing Euthanasia Coaster with Diagram]] — shared language: screenshot
-- [[knowledge/wiki/images/Diagram Comparing Hand Drawn And Perfect Circles Labeled Soul And Soulless 4db0c1a9|Diagram Comparing Hand Drawn And Perfect Circles Labeled Soul And Soulless]] — shared language: perfect
+- [[knowledge/wiki/images/Screenshot Screenshot of a Thermal Image of a Pomeranian Dog fb35fec0|Screenshot Screenshot of a Thermal Image of a Pomeranian Dog]] — shared language: screenshot
 <!-- vault-crosslinks:end -->

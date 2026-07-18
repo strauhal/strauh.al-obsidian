@@ -6,7 +6,7 @@ source_relpath: "1800s/the_youth_of_bacchus_by_william_adolphe_bouguereau_1884.j
 collection: "1800s"
 inferred_year: "1884"
 artist: "william adolphe bouguereau"
-dimensions: "3940x2129"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

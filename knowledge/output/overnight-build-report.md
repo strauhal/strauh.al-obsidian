@@ -1,6 +1,6 @@
 # Overnight Build Report
 
-Generated: 2026-07-15T01:27:32
+Generated: 2026-07-18T00:07:21
 
 ## Completed
 
@@ -16,8 +16,8 @@ Generated: 2026-07-15T01:27:32
 - People notes: 22
 - Concept notes: 28
 - Work notes: 11
-- Image notes: 8405
-- HTML page notes: 79
+- Image notes: 8407
+- HTML page notes: 81
 
 ## Morning Entry Point
 
@@ -27,10 +27,10 @@ Open [[Home]] or [[Map - Maintenance]].
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: added, page, influence
-- [[knowledge/wiki/people/Megan|Megan]] — shared language: influence, page, home
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: archives, influence, media
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people, influence
 - [[knowledge/wiki/books/t-stevens-michael-the-art-of-psychological-warfare-how-to-skillfully-influence-people-undetected-and-how-to-mentally-subdue-your-enemies-in-|The Art Of Psychological Warfare How To Skillfully Influence People Undetected And How To Mentally Subdue Your Enemies In Steal]] — shared language: people, influence
+- [[knowledge/output/library-build-report|library-build-report]] — shared language: t00, build, report
 - [[knowledge/wiki/images/The Morning Visitor by Dino Buzzati (1963) 1c418e93|The Morning Visitor by Dino Buzzati (1963)]] — shared language: morning
 - [[knowledge/output/lint-report|lint-report]] — shared language: curated, missing, report
 - [[knowledge/wiki/images/Photograph Black and White Photograph of People Sitting on Floor 5d26b5dd|Photograph Black and White Photograph of People Sitting on Floor]] — shared language: people

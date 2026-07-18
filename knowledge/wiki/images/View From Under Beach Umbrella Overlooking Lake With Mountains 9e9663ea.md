@@ -6,7 +6,7 @@ source_relpath: "photography/View From Under Beach Umbrella Overlooking Lake Wit
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1228x1818"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

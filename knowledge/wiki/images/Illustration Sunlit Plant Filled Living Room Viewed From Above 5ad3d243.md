@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Sunlit Plant-Filled Living Room Viewed Fro
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "960x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 - [[knowledge/wiki/images/Illustration Woman at Piano with Cat in Sunlit Room a0e6e525|Illustration Woman at Piano with Cat in Sunlit Room]] — shared language: sunlit, room
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: living
 - [[knowledge/wiki/images/Illustration Person Stretching At Desk In Sunlit Room 9677e863|Illustration Person Stretching At Desk In Sunlit Room]] — shared language: sunlit, room
-- [[knowledge/wiki/images/Illustration Line Drawing of a Living Room with Sunlight and Shadows e1a682d5|Illustration Line Drawing of a Living Room with Sunlight and Shadows]] — shared language: living, room
+- [[knowledge/wiki/images/Photograph Person Wearing a Printed Banner in an Art Filled Room 99bafd33|Photograph Person Wearing a Printed Banner in an Art Filled Room]] — shared language: filled, room
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Geometric Sphere Tapering To A Point Wi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1100x1300"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

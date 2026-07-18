@@ -6,7 +6,7 @@ source_relpath: "photography/Close-Up Of Eye And Nose With Avant-Garde Spiked Gl
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "828x1034"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

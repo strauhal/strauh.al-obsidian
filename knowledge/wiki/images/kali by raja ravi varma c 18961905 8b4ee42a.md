@@ -6,7 +6,7 @@ source_relpath: "1900s/kali_by_raja_ravi_varma_c_18961905.jpg"
 collection: "1900s"
 inferred_year: "1900s"
 artist: "raja ravi varma"
-dimensions: "3500x4801"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Intro-Tibetan-Buddhism-John-Powers 2]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Intro-Tibetan-Buddhism-John-Powers 2.pdf"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Introduction to Tibetan Buddhism
@@ -46,6 +46,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/epictetus-the-enchiridion|The Enchiridion,]] — same category: esoterica
 - [[knowledge/wiki/books/augustine-of-hippo-confessions|Confessions]] — same category: esoterica
 - [[knowledge/wiki/books/marcus-aurelius-meditations|Meditations]] — same category: esoterica
-- [[knowledge/wiki/books/1992-salvador-dali-50-secrets-of-magic-craftsmanship|Salvador Dali - 50 Secrets Of Magic Craftsmanship]] — same category: esoterica
 - [[knowledge/wiki/books/confucius-trans-robert-eno-the-analects-of-confucius|The Analects of Confucius]] — same category: esoterica
+- [[knowledge/wiki/books/1992-salvador-dali-50-secrets-of-magic-craftsmanship|Salvador Dali - 50 Secrets Of Magic Craftsmanship]] — same category: esoterica
 <!-- vault-crosslinks:end -->

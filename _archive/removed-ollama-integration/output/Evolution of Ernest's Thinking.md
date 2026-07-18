@@ -74,8 +74,8 @@ The management of attention—both receiving it and giving it—is a primary dri
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — named in this note
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — named in this note
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — named in this note
 - [[knowledge/wiki/pages/ideas sketchbook 2020 25|ideas sketchbook 2020 25]] — named in this note
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — named in this note
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note

@@ -6,7 +6,7 @@ source_relpath: "photography/Lone Man Stands Before Column Of Tanks In Tiananmen
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1461"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

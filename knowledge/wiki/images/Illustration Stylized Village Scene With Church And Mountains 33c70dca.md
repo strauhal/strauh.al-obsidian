@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Village Scene With Church And 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1744x2248"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

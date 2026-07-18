@@ -6,7 +6,7 @@ source_relpath: "1800s/the_battle_of_the_monitor_and_merrimac_by_julian_oliver_d
 collection: "1800s"
 inferred_year: "1890"
 artist: "julian oliver davidson"
-dimensions: "4460x2508"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_battle_of_th
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: monitor
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: monitor
 - [[knowledge/wiki/artists/Artist - robert davidson|Artist - robert davidson]] — shared language: davidson
 - [[knowledge/wiki/artists/Artist - julian story|Artist - julian story]] — shared language: julian
 - [[knowledge/wiki/images/Blue Cat by Oliver Henry (1999) 6fd1dc18|Blue Cat by Oliver Henry (1999)]] — shared language: oliver
+- [[knowledge/wiki/artists/Artist - bruce davidson|Artist - bruce davidson]] — shared language: davidson
 <!-- vault-crosslinks:end -->

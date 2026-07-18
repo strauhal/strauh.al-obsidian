@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photograph of Alligator with Human 
 collection: "photography"
 inferred_year: ""
 artist: "Helmut Newton"
-dimensions: "1060x700"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Black and 
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
 - [[knowledge/wiki/images/portrait of sir isaac newton 1689 brightened jpg 366c34a3|portrait of sir isaac newton 1689 brightened jpg]] — shared language: newton
 - [[knowledge/wiki/images/Illustration Surreal Digital Illustration of Head Profile, Castle, Legs, and Text b19300de|Illustration Surreal Digital Illustration of Head Profile, Castle, Legs, and Text]] — shared language: legs
-- [[knowledge/wiki/books/max-tegmark-life-3-0-being-human-in-the-age-of-artificial-intelligence-alfred-a-knopf|Life 3.0 Being Human in the Age of Artificial Intelligence-Alfred A. Knopf]] — shared language: human
+- [[knowledge/wiki/images/Illustration Blue Dolphin And Pink Legs With Text 'We Swam Together' b4a47b10|Illustration Blue Dolphin And Pink Legs With Text 'We Swam Together']] — shared language: legs
 <!-- vault-crosslinks:end -->

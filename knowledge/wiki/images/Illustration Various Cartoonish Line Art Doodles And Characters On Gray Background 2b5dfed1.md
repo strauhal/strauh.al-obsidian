@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Various Cartoonish Line Art Doodles And
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2800x2703"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

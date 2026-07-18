@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black and White Sketch of Two Stylized Fem
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "895x691"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

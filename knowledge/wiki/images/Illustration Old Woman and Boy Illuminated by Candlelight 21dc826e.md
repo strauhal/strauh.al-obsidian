@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Old Woman and Boy Illuminated by Candlelig
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Candlelight"
-dimensions: "1200x1489"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

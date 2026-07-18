@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Character Transformation Over Five Years with Various Images Above 390f9357|Illustration Character Transformation Over Five Years with Various Images Above]] — shared language: years, five, character
-- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: years
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[_archive/auto-generated/images-stale/digital collage of various character and landscape studies 63cf3992|digital collage of various character and landscape studies]] — shared language: character, digital
 - [[knowledge/wiki/images/Illustration Digital Collage of Various Character and Landscape Studies 459e9f34|Illustration Digital Collage of Various Character and Landscape Studies]] — shared language: character, digital
+- [[_archive/auto-generated/artists-noise/Artist - five white swans at night|Artist - five white swans at night]] — shared language: five
 <!-- vault-crosslinks:end -->

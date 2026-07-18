@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Office Chairs Scattered Before a Burnin
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1456x816"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

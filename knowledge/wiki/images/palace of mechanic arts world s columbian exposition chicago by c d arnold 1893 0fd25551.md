@@ -6,7 +6,7 @@ source_relpath: "1800s/palace_of_mechanic_arts_world_s_columbian_exposition_chic
 collection: "1800s"
 inferred_year: "1893"
 artist: "c d arnold"
-dimensions: "5825x4381"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

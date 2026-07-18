@@ -6,7 +6,7 @@ source_relpath: "photography/Military Tank in Sunflower Field Under Blue Sky.jpg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1280x684"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

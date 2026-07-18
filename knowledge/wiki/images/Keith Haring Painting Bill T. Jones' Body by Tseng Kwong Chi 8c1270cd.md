@@ -6,7 +6,7 @@ source_relpath: "photography/Keith Haring Painting Bill T. Jones' Body by Tseng 
 collection: "photography"
 inferred_year: ""
 artist: "Tseng Kwong Chi"
-dimensions: "641x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

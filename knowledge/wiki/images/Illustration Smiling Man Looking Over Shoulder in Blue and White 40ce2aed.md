@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Smiling Man Looking Over Shoulder in Blue 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2042x1550"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

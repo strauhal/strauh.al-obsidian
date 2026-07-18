@@ -6,7 +6,7 @@ source_relpath: "1900s/Promenade au bord de l'eau by Theodoor Verhas (c. 1900-19
 collection: "1900s"
 inferred_year: "1910"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

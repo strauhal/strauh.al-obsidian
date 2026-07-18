@@ -6,7 +6,7 @@ source_relpath: "1600s/rembrandt_harmenszoon_van_rijn_lucretia_1666.jpg"
 collection: "1600s"
 inferred_year: "1666"
 artist: ""
-dimensions: "1799x1247"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

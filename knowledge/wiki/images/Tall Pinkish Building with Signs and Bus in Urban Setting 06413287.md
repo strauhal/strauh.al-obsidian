@@ -6,7 +6,7 @@ source_relpath: "photography/Tall Pinkish Building with Signs and Bus in Urban S
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "500x375"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pen and Ink Illustration of Man Fleeing Gr
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1572x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

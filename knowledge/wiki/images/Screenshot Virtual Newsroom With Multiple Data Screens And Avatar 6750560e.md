@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Virtual Newsroom With Multiple Data Scree
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1259x606"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

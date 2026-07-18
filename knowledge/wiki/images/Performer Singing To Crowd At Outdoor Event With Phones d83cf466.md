@@ -6,7 +6,7 @@ source_relpath: "photography/Performer Singing To Crowd At Outdoor Event With Ph
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1008x672"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

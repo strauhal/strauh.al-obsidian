@@ -6,7 +6,7 @@ source_relpath: "1700s/the_ghost_of_oiwa_played_by_onoe_matsusuke_i_by_utagawa_t
 collection: "1700s"
 inferred_year: "1796"
 artist: "onoe matsusuke i by utagawa toyokuni i"
-dimensions: "450x655"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

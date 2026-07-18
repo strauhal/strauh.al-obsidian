@@ -6,7 +6,7 @@ source_relpath: "photography/Yellow Labrador Puppy Drinking From A Pepsi Cup Wit
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "800x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

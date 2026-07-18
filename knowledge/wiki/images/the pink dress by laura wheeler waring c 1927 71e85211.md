@@ -6,7 +6,7 @@ source_relpath: "1900s/the_pink_dress_by_laura_wheeler_waring_c_1927.jpg"
 collection: "1900s"
 inferred_year: "1927"
 artist: "laura wheeler waring"
-dimensions: "563x865"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1700s/The Execution of Louis XVI by Pierre-Antoine Demachy (179
 collection: "1700s"
 inferred_year: "1793"
 artist: ""
-dimensions: "3661x2566"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

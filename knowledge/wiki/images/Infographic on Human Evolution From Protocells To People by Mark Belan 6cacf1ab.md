@@ -6,7 +6,7 @@ source_relpath: "diagrams/Infographic_on_Human_Evolution_From_Protocells_To_Peop
 collection: "diagrams"
 inferred_year: ""
 artist: "Mark Belan"
-dimensions: "1800x3814"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

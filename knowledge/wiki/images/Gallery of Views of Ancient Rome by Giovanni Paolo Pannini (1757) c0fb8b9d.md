@@ -6,7 +6,7 @@ source_relpath: "2000s/Gallery of Views of Ancient Rome by Giovanni Paolo Pannin
 collection: "2000s"
 inferred_year: "1757"
 artist: ""
-dimensions: "1372x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

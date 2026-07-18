@@ -6,7 +6,7 @@ source_relpath: "photography/Portrait of Moondog.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1113x2669"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

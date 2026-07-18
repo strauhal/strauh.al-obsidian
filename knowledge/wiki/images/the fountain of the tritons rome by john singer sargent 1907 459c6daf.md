@@ -6,7 +6,7 @@ source_relpath: "1900s/the_fountain_of_the_tritons_rome_by_john_singer_sargent_1
 collection: "1900s"
 inferred_year: "1907"
 artist: "john singer sargent"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

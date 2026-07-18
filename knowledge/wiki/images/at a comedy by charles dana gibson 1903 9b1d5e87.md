@@ -6,7 +6,7 @@ source_relpath: "1900s/at_a_comedy_by_charles_dana_gibson_1903.jpg"
 collection: "1900s"
 inferred_year: "1903"
 artist: "charles dana gibson"
-dimensions: "1800x1176"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/jules_bastienlepage_october_the_potato_gatherers_1878.jpg
 collection: "1800s"
 inferred_year: "1878"
 artist: ""
-dimensions: "7936x7329"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/The Conversion on the Way to Damascus by Caravaggio (1600
 collection: "2000s"
 inferred_year: "1601"
 artist: ""
-dimensions: "2904x3814"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

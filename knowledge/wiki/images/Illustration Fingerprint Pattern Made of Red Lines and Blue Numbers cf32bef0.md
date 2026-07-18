@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Fingerprint Pattern Made of Red Lines and 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1080x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

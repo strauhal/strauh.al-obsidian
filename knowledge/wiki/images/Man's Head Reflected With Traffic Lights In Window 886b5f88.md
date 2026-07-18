@@ -6,7 +6,7 @@ source_relpath: "photography/Man's Head Reflected With Traffic Lights In Window.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1079"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

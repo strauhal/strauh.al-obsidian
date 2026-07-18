@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_Post-Singularity_Human_and_Machine_Civiliza
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "5100x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

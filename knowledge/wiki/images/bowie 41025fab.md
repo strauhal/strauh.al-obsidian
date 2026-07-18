@@ -6,7 +6,7 @@ source_relpath: "computers/bowie.jpg"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: "790x395"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---

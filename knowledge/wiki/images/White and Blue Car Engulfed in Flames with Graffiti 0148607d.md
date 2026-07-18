@@ -6,7 +6,7 @@ source_relpath: "photography/White and Blue Car Engulfed in Flames with Graffiti
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1196"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

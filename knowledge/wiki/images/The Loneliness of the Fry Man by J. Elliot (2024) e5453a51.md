@@ -6,7 +6,7 @@ source_relpath: "2000s/The Loneliness of the Fry Man by J. Elliot (2024).jpeg"
 collection: "2000s"
 inferred_year: "2024"
 artist: ""
-dimensions: "1128x900"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

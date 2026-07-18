@@ -6,7 +6,7 @@ source_relpath: "photography/Michael Jackson Performing On Stage In A Sequin Jac
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "911x715"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

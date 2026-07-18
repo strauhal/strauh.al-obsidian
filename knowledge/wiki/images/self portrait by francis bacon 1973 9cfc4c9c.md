@@ -6,7 +6,7 @@ source_relpath: "1900s/self_portrait_by_francis_bacon_1973.jpg"
 collection: "1900s"
 inferred_year: "1973"
 artist: "francis bacon"
-dimensions: "700x810"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

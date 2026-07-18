@@ -6,7 +6,7 @@ source_relpath: "1900s/the_architect_s_dream_by_rodney_smith_1991.jpg"
 collection: "1900s"
 inferred_year: "1991"
 artist: "rodney smith"
-dimensions: "928x1232"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

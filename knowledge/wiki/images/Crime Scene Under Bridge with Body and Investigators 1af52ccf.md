@@ -6,7 +6,7 @@ source_relpath: "photography/Crime Scene Under Bridge with Body and Investigator
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "990x1231"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/jimmy_cliff_by_annie_leibovitz_1992.jpg"
 collection: "1900s"
 inferred_year: "1992"
 artist: "annie leibovitz"
-dimensions: "2000x1995"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

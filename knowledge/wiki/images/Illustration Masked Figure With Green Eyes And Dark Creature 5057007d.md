@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Masked Figure With Green Eyes And Dark Cre
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "400x500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - M
 - [[knowledge/wiki/images/Illustration Expressive Painting of Woman with Large Eyes and Dark Dress 98eb098f|Illustration Expressive Painting of Woman with Large Eyes and Dark Dress]] — shared language: eyes, dark
 - [[knowledge/wiki/images/Illustration Painting of a Person with Green Eyes, Orange Sun, Abstract Background b82e7926|Illustration Painting of a Person with Green Eyes, Orange Sun, Abstract Background]] — shared language: eyes, green
 - [[knowledge/wiki/images/Illustration Stylized Portrait of Person with Green Eyes and Orange Garment 4b09814d|Illustration Stylized Portrait of Person with Green Eyes and Orange Garment]] — shared language: eyes, green
-- [[knowledge/wiki/images/Illustration Embroidery Style Drawing of Two Women and a Masked Man e79aca2a|Illustration Embroidery Style Drawing of Two Women and a Masked Man]] — shared language: masked
+- [[knowledge/wiki/images/Illustration Pixelated Green Dragon like Creature on Magenta Background 81b8cccc|Illustration Pixelated Green Dragon like Creature on Magenta Background]] — shared language: creature, green
 <!-- vault-crosslinks:end -->

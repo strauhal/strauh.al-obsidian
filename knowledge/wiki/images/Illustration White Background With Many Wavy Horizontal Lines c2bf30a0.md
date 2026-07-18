@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - White Background With Many Wavy Horizontal
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "843x1081"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

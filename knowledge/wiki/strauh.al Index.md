@@ -2,7 +2,7 @@
 title: "strauh.al Index"
 source_kind: "index"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:53"
+compiled_at: "2026-07-18T00:07:17"
 tags: ["strauhal", "index"]
 ---
 # strauh.al Index
@@ -17,8 +17,8 @@ This is the compiled Obsidian layer for the strauh.al database: raw sources in, 
 
 ## Counts
 
-- HTML pages compiled: 77
-- Image files indexed: 8404
+- HTML pages compiled: 80
+- Image files indexed: 8406
 - Image collections: 33
 
 ## HTML Pages
@@ -44,9 +44,11 @@ This is the compiled Obsidian layer for the strauh.al database: raw sources in, 
 - [[artists moebius]]
 - [[baby videos]]
 - [[brain]]
+- [[brain(wip)]]
 - [[comics]]
 - [[computers]]
 - [[copypastas]]
+- [[cors test]]
 - [[culture society]]
 - [[diagrams]]
 - [[diary]]
@@ -63,14 +65,15 @@ This is the compiled Obsidian layer for the strauh.al database: raw sources in, 
 - [[implicit distance]]
 - [[influences]]
 - [[knowledge base]]
-- [[knowledge base 2024 misc bookmarks]]
 - [[knowledge base art]]
 - [[knowledge base cool words]]
+- [[knowledge base culture society]]
 - [[knowledge base music]]
 - [[knowledge base philosophy critical thinking]]
 - [[knowledge base psychology]]
 - [[knowledge base quotes]]
 - [[knowledge base speed racer]]
+- [[knowledge base technology ai]]
 - [[knowledge base web art]]
 - [[knowledge base wikipedia articles]]
 - [[mid century american]]
@@ -123,7 +126,7 @@ This is the compiled Obsidian layer for the strauh.al database: raw sources in, 
 - [[Collection - diagrams]] (212 files)
 - [[Collection - diary]] (77 files)
 - [[Collection - dreams]] (43 files)
-- [[Collection - ernest]] (15 files)
+- [[Collection - ernest]] (17 files)
 - [[Collection - gif collection]] (355 files)
 - [[Collection - implicitdistance]] (2 files)
 - [[Collection - influences]] (43 files)
@@ -150,8 +153,8 @@ This is the compiled Obsidian layer for the strauh.al database: raw sources in, 
 - [[knowledge/wiki/anchors/philosophy-critical-thinking|philosophy critical thinking]] — named in this note
 - [[knowledge/wiki/books/walter-benjamin-the-arcades-project|The Arcades Project]] — named in this note
 - [[knowledge/wiki/images/kawase husui 34720f29|kawase husui]] — named in this note
-- [[knowledge/wiki/anchors/2024-misc-bookmarks|2024 misc bookmarks]] — named in this note
 - [[knowledge/wiki/anchors/cool-words|cool words]] — named in this note
 - [[knowledge/wiki/anchors/gio-swaby|gio swaby]] — named in this note
 - [[knowledge/wiki/anchors/hieronymous-cock|hieronymous cock]] — named in this note
+- [[knowledge/wiki/anchors/new-mexico|new mexico]] — named in this note
 <!-- vault-crosslinks:end -->

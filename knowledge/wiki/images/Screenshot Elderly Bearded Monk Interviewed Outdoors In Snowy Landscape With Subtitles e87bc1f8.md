@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Elderly Bearded Monk Interviewed Outdoors
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1070x804"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/metal_gear_solid_character_roster_by_yoji_shinkawa_1998.j
 collection: "1900s"
 inferred_year: "1998"
 artist: "yoji shinkawa"
-dimensions: "882x1067"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

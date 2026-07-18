@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Background with Standing and Fall
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Monika Baer"
-dimensions: "576x656"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

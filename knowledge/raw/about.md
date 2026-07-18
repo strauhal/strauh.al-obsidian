@@ -28,8 +28,8 @@ if you have questions or comments about the site, email me at  mailto:ernest@str
 - [[knowledge/wiki/pages/donate|donate]] — named in this note
 - [[knowledge/wiki/pages/scripts|scripts]] — named in this note
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: site, closest, capture
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: you're, however, going
 - [[knowledge/wiki/pages/about|about]] — shared language: site, donations, enjoy
-- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: site, website, link
-- [[knowledge/wiki/books/machine-learning-mastery-jason-brownlee-deep-learning-with-python-theano-tensorflow-keras-develop-deep-learning-models-on-theano-and-tensorf|Deep Learning with Python (Theano, TensorFlow, Keras) Develop Deep Learning Models on Theano and TensorFlow Using Keras]] — shared language: using, python
-- [[knowledge/wiki/images/your name 40009423|your name]] — shared language: name
+- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: site, link
+- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: https, name
 <!-- vault-crosslinks:end -->

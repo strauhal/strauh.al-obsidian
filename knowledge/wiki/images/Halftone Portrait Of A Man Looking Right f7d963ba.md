@@ -6,7 +6,7 @@ source_relpath: "photography/Halftone Portrait Of A Man Looking Right.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "500x500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Halftone P
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: right
-- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: right
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: looking
-- [[knowledge/wiki/images/Cat Looking Right With Bokeh City Lights At Night c564d9e2|Cat Looking Right With Bokeh City Lights At Night]] — shared language: right, looking
 - [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: right
+- [[knowledge/wiki/images/Photograph Black And White Halftone Print Of A Chimpanzee 5dafe70f|Photograph Black And White Halftone Print Of A Chimpanzee]] — shared language: halftone
+- [[knowledge/wiki/images/Cat Looking Right With Bokeh City Lights At Night c564d9e2|Cat Looking Right With Bokeh City Lights At Night]] — shared language: right, looking
 <!-- vault-crosslinks:end -->

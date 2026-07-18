@@ -6,7 +6,7 @@ source_relpath: "1900s/a_conversation_by_vittorio_reggianini_c_1900.jpg"
 collection: "1900s"
 inferred_year: "1900"
 artist: "vittorio reggianini"
-dimensions: "789x789"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

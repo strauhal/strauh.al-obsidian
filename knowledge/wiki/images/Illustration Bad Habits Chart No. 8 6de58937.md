@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Bad Habits Chart No. 8.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: chart
 - [[knowledge/wiki/images/Mortis by Bad Radio (2020) 3c4b673e|Mortis by Bad Radio (2020)]] — shared language: bad
-- [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: habits
 - [[knowledge/wiki/images/Comparison of Children's Drawings Based on Television Viewing Habits f5fbc646|Comparison of Children's Drawings Based on Television Viewing Habits]] — shared language: habits
 - [[knowledge/wiki/images/Comparison Chart of Dithered Cloud Images 6c63a4a3|Comparison Chart of Dithered Cloud Images]] — shared language: chart
+- [[knowledge/wiki/images/Bad Cameo by James Blake and Lil Yachty (2023) f252eb00|Bad Cameo by James Blake and Lil Yachty (2023)]] — shared language: bad
 <!-- vault-crosslinks:end -->

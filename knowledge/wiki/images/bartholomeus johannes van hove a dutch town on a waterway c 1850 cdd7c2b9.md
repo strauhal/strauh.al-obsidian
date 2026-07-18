@@ -6,7 +6,7 @@ source_relpath: "1800s/bartholomeus_johannes_van_hove_a_dutch_town_on_a_waterway
 collection: "1800s"
 inferred_year: "1850"
 artist: ""
-dimensions: "1920x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

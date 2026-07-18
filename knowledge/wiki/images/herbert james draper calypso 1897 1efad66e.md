@@ -6,7 +6,7 @@ source_relpath: "1800s/herbert_james_draper_calypso_1897.jpg"
 collection: "1800s"
 inferred_year: "1897"
 artist: ""
-dimensions: "2400x1382"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

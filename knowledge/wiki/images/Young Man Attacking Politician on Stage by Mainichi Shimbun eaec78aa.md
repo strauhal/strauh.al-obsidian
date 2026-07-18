@@ -6,7 +6,7 @@ source_relpath: "photography/Young Man Attacking Politician on Stage by Mainichi
 collection: "photography"
 inferred_year: ""
 artist: "Mainichi Shimbun"
-dimensions: "700x420"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

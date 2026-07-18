@@ -6,7 +6,7 @@ source_relpath: "1900s/the_tennis_sweater_by_fairfield_porter_1972.jpeg"
 collection: "1900s"
 inferred_year: "1972"
 artist: "fairfield porter"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

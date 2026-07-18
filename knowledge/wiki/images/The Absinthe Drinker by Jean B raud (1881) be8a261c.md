@@ -6,7 +6,7 @@ source_relpath: "1800s/The Absinthe Drinker by Jean Béraud (1881).jpg"
 collection: "1800s"
 inferred_year: "1881"
 artist: ""
-dimensions: "2048x1428"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

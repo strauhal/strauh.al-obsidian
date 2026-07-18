@@ -6,7 +6,7 @@ source_relpath: "photography/Paul McCartney and Earl Sweatshirt Posing Together.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "500x667"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

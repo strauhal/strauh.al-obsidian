@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pixel Art Tropical Beach with Palm Tree
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "500x444"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

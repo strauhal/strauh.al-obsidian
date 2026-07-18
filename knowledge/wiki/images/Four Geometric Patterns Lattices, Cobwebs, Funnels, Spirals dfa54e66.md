@@ -6,7 +6,7 @@ source_relpath: "diagrams/Four_Geometric_Patterns:_Lattices,_Cobwebs,_Funnels,_S
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1120x971"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

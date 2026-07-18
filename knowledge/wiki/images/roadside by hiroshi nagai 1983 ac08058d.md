@@ -6,7 +6,7 @@ source_relpath: "1900s/roadside_by_hiroshi_nagai_1983.jpg"
 collection: "1900s"
 inferred_year: "1983"
 artist: "hiroshi nagai"
-dimensions: "1376x744"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

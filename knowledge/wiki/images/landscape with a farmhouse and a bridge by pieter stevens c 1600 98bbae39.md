@@ -6,7 +6,7 @@ source_relpath: "1600s/landscape_with_a_farmhouse_and_a_bridge_by_pieter_stevens
 collection: "1600s"
 inferred_year: "1600"
 artist: "pieter stevens"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

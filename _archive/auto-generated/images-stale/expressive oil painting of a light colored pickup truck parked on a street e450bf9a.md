@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Expressive Oil Painting of a Light Colored Pickup Truck on Street 11daa035|Illustration Expressive Oil Painting of a Light Colored Pickup Truck on Street]] — shared language: pickup, truck, expressive
+- [[_archive/auto-generated/images-stale/oil painting of a steep residential street with parked cars 4b990c2b|oil painting of a steep residential street with parked cars]] — shared language: parked, oil, street
 - [[_archive/auto-generated/images-stale/Photograph Pickup Truck With Anti Israel And Pro Palestine Slogans 90810815|Photograph Pickup Truck With Anti Israel And Pro Palestine Slogans]] — shared language: pickup, truck
 - [[knowledge/wiki/images/Pickup Truck With Anti Israel And Pro Palestine Slogans 886974b2|Pickup Truck With Anti Israel And Pro Palestine Slogans]] — shared language: pickup, truck
-- [[_archive/auto-generated/images-stale/oil painting of a steep residential street with parked cars 4b990c2b|oil painting of a steep residential street with parked cars]] — shared language: parked, oil, street
 - [[knowledge/wiki/images/Illustration Expressive Sketch of Woman's Face with Colored Hatching 1bbe855a|Illustration Expressive Sketch of Woman's Face with Colored Hatching]] — shared language: expressive, colored
 <!-- vault-crosslinks:end -->

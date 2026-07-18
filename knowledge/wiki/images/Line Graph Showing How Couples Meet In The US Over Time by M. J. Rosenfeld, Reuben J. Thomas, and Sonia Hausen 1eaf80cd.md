@@ -6,7 +6,7 @@ source_relpath: "diagrams/Line_Graph_Showing_How_Couples_Meet_In_The_US_Over_Tim
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "680x579"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

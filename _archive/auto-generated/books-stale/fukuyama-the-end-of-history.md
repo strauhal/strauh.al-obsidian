@@ -37,8 +37,8 @@ Status: available in the local iCloud Readings folder.
 
 - [[knowledge/wiki/books/cia-rdp96-00792r000700130001-6|CIA-RDP96-00792R000700130001-6]] — same category: politics society
 - [[knowledge/wiki/books/enunciations-of-desire|enunciations-of-desire]] — same category: politics society
-- [[_archive/auto-generated/books-stale/industrial-society-and-its-future|Industrial Society and Its Future]] — same category: politics society
 - [[_archive/auto-generated/books-stale/manifesto|manifesto]] — same category: politics society
+- [[_archive/auto-generated/books-stale/industrial-society-and-its-future|Industrial Society and Its Future]] — same category: politics society
 - [[knowledge/wiki/books/cia-rdp96-00788r001700210016-5|CIA-RDP96-00788R001700210016-5]] — same category: politics society
 - [[knowledge/wiki/books/francis-fukuyama-the-end-of-history-and-the-last-man|The End of History and the Last Man]] — same category: politics society
 - [[knowledge/wiki/books/formalist-manifesto|formalist manifesto]] — same category: politics society

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Anime Character with Purple Hair, Heter
 collection: "unsorted"
 inferred_year: ""
 artist: "Kinji Yoshimoto"
-dimensions: "1406x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

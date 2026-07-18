@@ -6,7 +6,7 @@ source_relpath: "1900s/summer_rain_by_mark_j_ferrari_1989.png"
 collection: "1900s"
 inferred_year: "1989"
 artist: "mark j ferrari"
-dimensions: "2304x2880"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

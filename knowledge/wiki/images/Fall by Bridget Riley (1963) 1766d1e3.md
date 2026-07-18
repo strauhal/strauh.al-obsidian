@@ -6,7 +6,7 @@ source_relpath: "1900s/Fall by Bridget Riley (1963).jpg"
 collection: "1900s"
 inferred_year: "1963"
 artist: ""
-dimensions: "1195x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

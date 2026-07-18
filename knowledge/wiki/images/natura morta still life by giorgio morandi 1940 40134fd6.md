@@ -6,7 +6,7 @@ source_relpath: "1900s/natura_morta_still_life_by_giorgio_morandi_1940.jpeg"
 collection: "1900s"
 inferred_year: "1940"
 artist: "giorgio morandi"
-dimensions: "3024x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

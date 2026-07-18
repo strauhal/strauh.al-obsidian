@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Person Reveals Glowing Heart To Skeleto
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2048x2047"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

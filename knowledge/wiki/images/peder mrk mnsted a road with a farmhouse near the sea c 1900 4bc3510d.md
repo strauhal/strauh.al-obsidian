@@ -6,7 +6,7 @@ source_relpath: "1900s/peder_mrk_mnsted_a_road_with_a_farmhouse_near_the_sea_c_1
 collection: "1900s"
 inferred_year: "1900"
 artist: ""
-dimensions: "3840x2160"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

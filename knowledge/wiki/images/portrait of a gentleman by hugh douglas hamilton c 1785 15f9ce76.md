@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_a_gentleman_by_hugh_douglas_hamilton_c_1785.j
 collection: "1700s"
 inferred_year: "1785"
 artist: "hugh douglas hamilton"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_eye_of_the_observer_by_saul_steinberg_1966.jpg"
 collection: "1900s"
 inferred_year: "1966"
 artist: "saul steinberg"
-dimensions: "640x657"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

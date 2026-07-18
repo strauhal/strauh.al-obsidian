@@ -6,7 +6,7 @@ source_relpath: "1900s/La Jeune Fille au Bouquet by Emile Frandsen (1970).jpeg"
 collection: "1900s"
 inferred_year: "1970"
 artist: ""
-dimensions: "562x750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/nu_a_contre_jour_nude_against_the_light_by_henri_manguin_
 collection: "1900s"
 inferred_year: "1903"
 artist: "henri manguin"
-dimensions: "1264x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Mosaic of Colorful Images Form
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "640x640"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

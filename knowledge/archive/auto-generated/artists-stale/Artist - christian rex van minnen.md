@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/archive/auto-generated/artists-stale/Artist - christian rex van minnen 2013|Artist - christian rex van minnen 2013]] — named in this note
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
 - [[knowledge/wiki/images/Mg Rex Sketch 1 by Yoji Shinkawa 878843d7|Mg Rex Sketch 1 by Yoji Shinkawa]] — shared language: rex
-- [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: christian
 - [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: christian
+- [[knowledge/archive/auto-generated/artists-stale/Artist - christian clement 1985|Artist - christian clement 1985]] — shared language: christian
 <!-- vault-crosslinks:end -->

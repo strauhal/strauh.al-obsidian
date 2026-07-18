@@ -6,7 +6,7 @@ source_relpath: "1900s/planetary_engineering_1976.jpeg"
 collection: "1900s"
 inferred_year: "1976"
 artist: ""
-dimensions: "4000x3212"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

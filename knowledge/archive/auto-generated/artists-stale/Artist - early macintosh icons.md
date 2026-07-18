@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Black And White Pixel Art Of A Half Human, Half Circuit Face 1bf392d3|Illustration Black And White Pixel Art Of A Half Human, Half Circuit Face]] — shared language: half, circuit, pixel
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: macintosh, pixel
+- [[knowledge/wiki/images/Illustration Black And White Pixel Art Of A Half Human, Half Circuit Face 1bf392d3|Illustration Black And White Pixel Art Of A Half Human, Half Circuit Face]] — shared language: half, circuit, pixel
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: early
 - [[knowledge/wiki/images/Illustration Black and White Pixel Art of a Macintosh Desktop 9be84841|Illustration Black and White Pixel Art of a Macintosh Desktop]] — shared language: macintosh, pixel
 - [[knowledge/wiki/images/Illustration Collection of Pink Isometric Pixel Art Folder Icons 3d13cf32|Illustration Collection of Pink Isometric Pixel Art Folder Icons]] — shared language: icons, pixel

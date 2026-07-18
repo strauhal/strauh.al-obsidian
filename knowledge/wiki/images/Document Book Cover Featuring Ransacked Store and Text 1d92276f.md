@@ -6,7 +6,7 @@ source_relpath: "2000s/Document - Book Cover Featuring Ransacked Store and Text.
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "460x713"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

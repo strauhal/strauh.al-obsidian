@@ -6,7 +6,7 @@ source_relpath: "wallpapers/moretokyo.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1357"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

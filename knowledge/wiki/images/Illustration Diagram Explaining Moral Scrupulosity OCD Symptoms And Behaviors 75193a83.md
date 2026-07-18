@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Diagram Explaining Moral Scrupulosity O
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1206x1184"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

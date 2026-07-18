@@ -6,7 +6,7 @@ source_relpath: "1900s/the_crystal_citadel_by_jean_giraud_1980.jpg"
 collection: "1900s"
 inferred_year: "1980"
 artist: "jean giraud"
-dimensions: "2560x1710"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

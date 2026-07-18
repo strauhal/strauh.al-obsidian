@@ -6,7 +6,7 @@ source_relpath: "photography/Yoko Ono by Annie Leibovitz.jpg"
 collection: "photography"
 inferred_year: ""
 artist: "Annie Leibovitz"
-dimensions: "1004x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

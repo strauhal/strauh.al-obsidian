@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Black And White Storyboard Panels Depicting Va
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2000x1493"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

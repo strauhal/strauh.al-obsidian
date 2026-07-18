@@ -6,7 +6,7 @@ source_relpath: "1900s/the_liver_is_the_cock_s_comb_by_arshile_gorky_1944.jpeg"
 collection: "1900s"
 inferred_year: "1944"
 artist: "arshile gorky"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

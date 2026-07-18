@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Screenshot of a 3D Model of a Large Stone Bu
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1172x807"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

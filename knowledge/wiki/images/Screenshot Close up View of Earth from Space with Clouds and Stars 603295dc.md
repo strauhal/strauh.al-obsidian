@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Close-up View of Earth from Space with Cl
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1511x1511"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

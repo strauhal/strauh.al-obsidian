@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Woman in Kimono with Cat-like Figure Behi
 collection: "unsorted"
 inferred_year: ""
 artist: "Nobuhiko Obayashi"
-dimensions: "736x463"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

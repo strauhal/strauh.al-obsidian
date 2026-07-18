@@ -6,7 +6,7 @@ source_relpath: "1900s/Reclining Nude Reading by William Orpen.jpg"
 collection: "1900s"
 inferred_year: "1900s"
 artist: "William Orpen"
-dimensions: "1280x1546"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

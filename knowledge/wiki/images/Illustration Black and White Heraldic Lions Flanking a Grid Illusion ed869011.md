@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black and White Heraldic Lions Flanking a 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2048x1098"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

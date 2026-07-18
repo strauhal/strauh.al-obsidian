@@ -6,7 +6,7 @@ source_relpath: "1900s/Evangelion Unit-01 by Yoshiyuki Sadamoto (c. 1995).jpg"
 collection: "1900s"
 inferred_year: "1995"
 artist: ""
-dimensions: "1322x2096"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

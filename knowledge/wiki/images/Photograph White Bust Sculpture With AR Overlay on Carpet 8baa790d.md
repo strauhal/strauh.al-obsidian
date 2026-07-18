@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - White Bust Sculpture With AR Overlay on Carp
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1124x1113"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Dancer in the Wings by Edgar Degas (c. 1878-1880).jpg"
 collection: "2000s"
 inferred_year: "1880"
 artist: ""
-dimensions: "430x545"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/poster_for_the_neuberger_museum_suny_college_at_purchase_
 collection: "1900s"
 inferred_year: "1979"
 artist: "daniel friedman"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Self-Portrait with Striped Shirt by Egon Schiele (1910).j
 collection: "2000s"
 inferred_year: "1910"
 artist: ""
-dimensions: "1024x1477"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

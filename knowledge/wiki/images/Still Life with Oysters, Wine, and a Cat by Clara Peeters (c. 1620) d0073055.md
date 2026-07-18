@@ -6,7 +6,7 @@ source_relpath: "1600s/Still Life with Oysters, Wine, and a Cat by Clara Peeters
 collection: "1600s"
 inferred_year: "1620"
 artist: ""
-dimensions: "1080x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/page_165_new_york_city_transit_authority_graphics_standar
 collection: "1900s"
 inferred_year: "1970"
 artist: "unimark international"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

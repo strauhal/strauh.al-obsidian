@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Mach 5's Seven Secrets by Tatsunoko Pro
 collection: "unsorted"
 inferred_year: ""
 artist: "Tatsunoko Production"
-dimensions: "1600x1116"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

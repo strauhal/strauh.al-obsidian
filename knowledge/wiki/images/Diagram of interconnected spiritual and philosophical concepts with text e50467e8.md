@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_interconnected_spiritual_and_philosophical_
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "2054x1885"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Apotheosis of St Ignatius by Andrea Pozzo 1427c5a9|Apotheosis of St Ignatius by Andrea Pozzo]] — same artist: andrea pozzo
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andrea mantegna|Artist - andrea mantegna]] — shared language: andrea
+- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: andrea
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andrea carlson|Artist - andrea carlson]] — shared language: andrea
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andrea carlson 2019|Artist - andrea carlson 2019]] — shared language: andrea
-- [[_archive/auto-generated/images-stale/andrea mantegna 036 jpg c3a325ac|andrea mantegna 036 jpg]] — shared language: andrea
 <!-- vault-crosslinks:end -->

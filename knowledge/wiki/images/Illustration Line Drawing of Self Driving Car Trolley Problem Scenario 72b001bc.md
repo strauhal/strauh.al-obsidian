@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Line Drawing of Self-Driving Car Trolle
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "583x420"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

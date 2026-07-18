@@ -6,7 +6,7 @@ source_relpath: "1900s/Turandot by David Hockney (1992).jpeg"
 collection: "1900s"
 inferred_year: "1992"
 artist: ""
-dimensions: "1035x607"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Impressionistic Painting of Rainy City Str
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2500x1682"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 ## Discovered Connections
 
 - [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, night
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, rainy
 - [[knowledge/wiki/images/Photograph Rainy Tokyo Street at Night with Neon Signs by Greg Girard 07e08a06|Photograph Rainy Tokyo Street at Night with Neon Signs by Greg Girard]] — shared language: rainy, night, street
 - [[knowledge/wiki/images/Illustration Busy City Street at Night with Arch and Many Lights 4c0e108b|Illustration Busy City Street at Night with Arch and Many Lights]] — shared language: night, street, city
 - [[knowledge/wiki/images/rainy night new york by childe hassam 1890 f303feef|rainy night new york by childe hassam 1890]] — shared language: rainy, night

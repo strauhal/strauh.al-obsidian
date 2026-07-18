@@ -6,7 +6,7 @@ source_relpath: "photography/Rectangular Metal Frame Lying on Tactile Paving and
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "767x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

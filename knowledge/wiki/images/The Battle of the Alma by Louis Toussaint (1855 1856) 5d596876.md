@@ -6,7 +6,7 @@ source_relpath: "2000s/The Battle of the Alma by Louis Toussaint (1855-1856).jpg
 collection: "2000s"
 inferred_year: "1856"
 artist: ""
-dimensions: "1939x1101"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

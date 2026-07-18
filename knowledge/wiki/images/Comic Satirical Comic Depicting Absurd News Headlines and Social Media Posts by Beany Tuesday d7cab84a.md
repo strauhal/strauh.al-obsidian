@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Satirical Comic Depicting Absurd News Headline
 collection: "unsorted"
 inferred_year: ""
 artist: "Beany Tuesday"
-dimensions: "1639x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Satir
 - [[knowledge/wiki/images/Screenshot Social Media Post About OpenAI Whistleblower News a264621e|Screenshot Social Media Post About OpenAI Whistleblower News]] — shared language: news, social, media
 - [[knowledge/wiki/books/jean-jacques-rousseau-the-social-contract|The Social Contract]] — shared language: social
 - [[knowledge/wiki/books/ai-dating|ai dating]] — shared language: media
-- [[knowledge/wiki/images/Screenshot Screenshot of Social Media Post with Abstract Line Drawing 7b8adc36|Screenshot Screenshot of Social Media Post with Abstract Line Drawing]] — shared language: social, media
+- [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — shared language: media
 <!-- vault-crosslinks:end -->

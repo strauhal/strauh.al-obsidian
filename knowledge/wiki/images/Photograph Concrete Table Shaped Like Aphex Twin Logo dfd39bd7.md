@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Concrete Table Shaped Like Aphex Twin Logo.j
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "941x1060"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

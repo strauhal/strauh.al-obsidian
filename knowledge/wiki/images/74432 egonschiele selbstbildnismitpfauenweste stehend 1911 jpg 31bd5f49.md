@@ -6,7 +6,7 @@ source_relpath: "1900s/74432_egonschiele_selbstbildnismitpfauenweste_stehend_191
 collection: "1900s"
 inferred_year: "1911"
 artist: ""
-dimensions: "2490x3539"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

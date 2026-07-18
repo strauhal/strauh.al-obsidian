@@ -6,7 +6,7 @@ source_relpath: "1900s/study_for_a_portrait_by_francis_bacon_1979.jpg"
 collection: "1900s"
 inferred_year: "1979"
 artist: "francis bacon"
-dimensions: "1200x1406"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

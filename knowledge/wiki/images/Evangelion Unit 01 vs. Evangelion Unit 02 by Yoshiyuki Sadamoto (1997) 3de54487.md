@@ -6,7 +6,7 @@ source_relpath: "1900s/Evangelion Unit-01 vs. Evangelion Unit-02 by Yoshiyuki Sa
 collection: "1900s"
 inferred_year: "1997"
 artist: ""
-dimensions: "1731x2500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

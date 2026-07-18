@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - George Bush Getting His Dick Sucked By An Al
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "640x862"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

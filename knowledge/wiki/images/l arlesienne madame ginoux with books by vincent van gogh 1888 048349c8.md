@@ -6,7 +6,7 @@ source_relpath: "1800s/l_arlesienne_madame_ginoux_with_books_by_vincent_van_gogh
 collection: "1800s"
 inferred_year: "1888"
 artist: "vincent van gogh"
-dimensions: "803x1001"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_houses_of_parliament_sunset_by_claude_monet_1904.webp
 collection: "1900s"
 inferred_year: "1904"
 artist: "claude monet"
-dimensions: "1080x956"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Red Human Figure with Atomic Orbits Hel
 collection: "unsorted"
 inferred_year: ""
 artist: "Giant Hand"
-dimensions: "514x696"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: hand
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
-- [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: atomic
 - [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: hand, hand.jpeg
+- [[knowledge/wiki/images/Cat Biting Scratched Human Hand 95c15047|Cat Biting Scratched Human Hand]] — shared language: hand, human, hand.jpeg
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "photography/Gray Tabby Cat With Head Stuck In Starbucks Cup.jpg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "720x736"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

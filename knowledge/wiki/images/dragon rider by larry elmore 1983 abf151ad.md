@@ -6,7 +6,7 @@ source_relpath: "1900s/dragon_rider_by_larry_elmore_1983.jpg"
 collection: "1900s"
 inferred_year: "1983"
 artist: "larry elmore"
-dimensions: "4472x6104"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

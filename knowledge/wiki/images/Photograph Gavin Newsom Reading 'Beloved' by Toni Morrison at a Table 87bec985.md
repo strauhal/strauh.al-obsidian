@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Gavin Newsom Reading 'Beloved' by Toni Morri
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Toni Morrison at a Table"
-dimensions: "1179x1562"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

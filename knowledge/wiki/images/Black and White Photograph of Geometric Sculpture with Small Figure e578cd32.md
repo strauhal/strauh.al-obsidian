@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photograph of Geometric Sculpture w
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "630x446"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - Daniel Isles|Artist - Daniel Isles]] — shared language: daniel
 - [[knowledge/wiki/books/daniel-kolitz-the-goon-squad|The Goon Squad,]] — shared language: daniel
 - [[knowledge/wiki/books/this-is-your-brain-on-music-daniel-levitin-userupload-net|Daniel Levitin UserUpload Net]] — shared language: daniel
-- [[knowledge/wiki/images/Amber by Daniel Landin 5bc44082|Amber by Daniel Landin]] — shared language: daniel
 - [[knowledge/wiki/books/daniel-kahneman-thinking-fast-and-slow|Thinking, Fast and Slow]] — shared language: daniel
+- [[knowledge/wiki/images/Amber by Daniel Landin 5bc44082|Amber by Daniel Landin]] — shared language: daniel
 <!-- vault-crosslinks:end -->

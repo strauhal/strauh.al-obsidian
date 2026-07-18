@@ -2,8 +2,8 @@
 title: Map - Current Listening
 type: map
 tags: [map, culture, music, queue]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Map - Current Listening

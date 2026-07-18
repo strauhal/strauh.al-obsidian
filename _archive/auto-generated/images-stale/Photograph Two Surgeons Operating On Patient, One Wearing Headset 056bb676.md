@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Two Surgeons Operating On Patient, One Wearing Headset ab061b1b|Two Surgeons Operating On Patient, One Wearing Headset]] — shared language: surgeons, patient, operating
-- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: one
 - [[knowledge/wiki/images/Man Wearing VR Headset Playing Video Game 6819790d|Man Wearing VR Headset Playing Video Game]] — shared language: headset, wearing
 - [[_archive/auto-generated/images-stale/Photograph Man Wearing VR Headset Playing Video Game 0eed6dae|Photograph Man Wearing VR Headset Playing Video Game]] — shared language: headset, wearing
+- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: one
 - [[_archive/auto-generated/images-stale/Photograph Side Profile of Person Wearing a Modern VR Headset 46d4e0e6|Photograph Side Profile of Person Wearing a Modern VR Headset]] — shared language: headset, wearing
 <!-- vault-crosslinks:end -->

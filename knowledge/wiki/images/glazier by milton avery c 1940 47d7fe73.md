@@ -6,7 +6,7 @@ source_relpath: "1900s/glazier_by_milton_avery_c_1940.jpeg"
 collection: "1900s"
 inferred_year: "1940"
 artist: "milton avery"
-dimensions: "2799x3623"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

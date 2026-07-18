@@ -6,7 +6,7 @@ source_relpath: "1900s/untitled_by_zdzisaw_beksinski_1980.jpg"
 collection: "1900s"
 inferred_year: "1980"
 artist: "zdzisaw beksinski"
-dimensions: "1327x1333"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

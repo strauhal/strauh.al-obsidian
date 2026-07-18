@@ -6,7 +6,7 @@ source_relpath: "2000s/Siren by Leopold Schmutzler.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Leopold Schmutzler"
-dimensions: "1199x830"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

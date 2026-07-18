@@ -9,8 +9,8 @@ metadata: curated
 aliases: [gilles-deleuze-fold -leibniz-and-the-baroque-athlone-contemporary-european-thinkers-athlone-press-1993]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/gilles-deleuze-fold_-leibniz-and-the-baroque-athlone-contemporary-european-thinkers-athlone-press-1993.pdf"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # The Fold: Leibniz and the Baroque

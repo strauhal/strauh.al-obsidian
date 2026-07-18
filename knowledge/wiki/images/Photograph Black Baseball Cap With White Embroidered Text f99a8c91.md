@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Black Baseball Cap With White Embroidered Te
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "515x640"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

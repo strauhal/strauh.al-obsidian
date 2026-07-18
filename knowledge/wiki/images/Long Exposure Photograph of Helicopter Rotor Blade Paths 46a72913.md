@@ -6,7 +6,7 @@ source_relpath: "photography/Long Exposure Photograph of Helicopter Rotor Blade 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1280x1077"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

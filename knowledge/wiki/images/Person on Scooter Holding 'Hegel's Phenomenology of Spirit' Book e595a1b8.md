@@ -6,7 +6,7 @@ source_relpath: "photography/Person on Scooter Holding 'Hegel's Phenomenology of
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/frdric_montenard_the_victory_of_the_cross_la_victoire_de_
 collection: "1800s"
 inferred_year: "1892"
 artist: ""
-dimensions: "1280x1707"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/untitled_man_on_a_wheel_fort_scott_kansas_by_gordon_parks
 collection: "1900s"
 inferred_year: "1949"
 artist: "gordon parks"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

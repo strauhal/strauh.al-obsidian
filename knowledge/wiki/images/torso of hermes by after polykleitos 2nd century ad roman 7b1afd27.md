@@ -6,7 +6,7 @@ source_relpath: "100s/torso_of_hermes_by_after_polykleitos_2nd_century_ad_roman.
 collection: "100s"
 inferred_year: "100s"
 artist: "after polykleitos 2nd century ad roman"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/100s"]
 ---

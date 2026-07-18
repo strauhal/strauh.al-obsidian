@@ -33,8 +33,8 @@ gut-reaction before you can name it.
 - [[knowledge/wiki/artists/Artist - balthus|Artist - balthus]] — shared language: balthus
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: painter, without, things
 - [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: diary, work, elegance
-- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: got, diary, summary
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: diary, painter, elegance
+- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: diary, got, summary
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: figurative, elegance, spontaneity
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: diary, painter, things
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Figures Lighting Cigarette At Sunse
 collection: "unsorted"
 inferred_year: ""
 artist: "Lake"
-dimensions: "1290x1243"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

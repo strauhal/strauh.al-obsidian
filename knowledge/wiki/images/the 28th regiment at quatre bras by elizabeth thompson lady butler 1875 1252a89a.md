@@ -6,7 +6,7 @@ source_relpath: "1800s/the_28th_regiment_at_quatre_bras_by_elizabeth_thompson_la
 collection: "1800s"
 inferred_year: "1875"
 artist: "elizabeth thompson lady butler"
-dimensions: "5685x2546"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Train Traveling Through Mountains And C
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1340"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

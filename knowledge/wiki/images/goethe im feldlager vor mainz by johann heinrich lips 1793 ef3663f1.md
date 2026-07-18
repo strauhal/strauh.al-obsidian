@@ -6,7 +6,7 @@ source_relpath: "1700s/goethe_im_feldlager_vor_mainz_by_johann_heinrich_lips_179
 collection: "1700s"
 inferred_year: "1793"
 artist: "johann heinrich lips"
-dimensions: "400x556"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

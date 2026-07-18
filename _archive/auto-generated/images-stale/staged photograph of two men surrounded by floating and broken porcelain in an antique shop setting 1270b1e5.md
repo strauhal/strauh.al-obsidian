@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: broken
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: broken
 - [[_archive/auto-generated/books-stale/shop-class-as-soulcraft-copy|shop class as soulcraft copy]] — shared language: shop
-- [[knowledge/wiki/books/matthew-b-crawford-shop-class-as-soulcraft|Shop Class as Soulcraft]] — shared language: shop
+- [[knowledge/wiki/images/Image Close Up Of Teeth With Blue And White Porcelain Designs 8f71c777|Image Close Up Of Teeth With Blue And White Porcelain Designs]] — shared language: porcelain
 <!-- vault-crosslinks:end -->

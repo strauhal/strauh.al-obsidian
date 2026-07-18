@@ -6,7 +6,7 @@ source_relpath: "influences/john_singer_sargent.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "850x958"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

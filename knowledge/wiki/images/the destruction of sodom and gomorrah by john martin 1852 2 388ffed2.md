@@ -6,7 +6,7 @@ source_relpath: "1800s/the_destruction_of_sodom_and_gomorrah_by_john_martin_1852
 collection: "1800s"
 inferred_year: "1852"
 artist: "john martin"
-dimensions: "1280x832"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Google Images Search Results Showing Crab
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "890x612"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

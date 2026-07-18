@@ -6,7 +6,7 @@ source_relpath: "photography/Two Cluster Flowers Among Long Leaves.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "8053x4893"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

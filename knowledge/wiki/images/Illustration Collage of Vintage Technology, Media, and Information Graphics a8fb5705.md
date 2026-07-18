@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Collage of Vintage Technology, Media, a
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1178x1320"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

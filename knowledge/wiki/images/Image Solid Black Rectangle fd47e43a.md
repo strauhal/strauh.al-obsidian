@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Solid Black Rectangle.gif"
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "200x171"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

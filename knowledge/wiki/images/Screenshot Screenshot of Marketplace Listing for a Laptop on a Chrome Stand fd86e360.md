@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Screenshot of Marketplace Listing for a Lapt
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "946x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Scr
 
 - [[knowledge/wiki/images/Screenshot Screenshot of a Chrome Chair Frame Holding an Open Laptop c0329433|Screenshot Screenshot of a Chrome Chair Frame Holding an Open Laptop]] — shared language: chrome, laptop, screenshot
 - [[knowledge/wiki/images/Screenshot Screenshot of a See Also section listing art genres 39460bbb|Screenshot Screenshot of a See Also section listing art genres]] — shared language: listing, screenshot
-- [[knowledge/wiki/images/Screenshot Man In Suit Looking At Laptop Above Demanding Text 98086b6c|Screenshot Man In Suit Looking At Laptop Above Demanding Text]] — shared language: laptop, screenshot
 - [[knowledge/wiki/images/Photograph Photograph of a Screen Displaying a Text Post and eBay Listing 17940cef|Photograph Photograph of a Screen Displaying a Text Post and eBay Listing]] — shared language: listing
-- [[knowledge/wiki/images/Document Exhibition Label Listing Artworks and Mediums on a White Wall 58046525|Document Exhibition Label Listing Artworks and Mediums on a White Wall]] — shared language: listing
+- [[knowledge/wiki/images/Screenshot Man In Suit Looking At Laptop Above Demanding Text 98086b6c|Screenshot Man In Suit Looking At Laptop Above Demanding Text]] — shared language: laptop, screenshot
+- [[knowledge/wiki/images/Screenshot Screenshot of a Webpage About Bunkers in Albania 4bc53bb8|Screenshot Screenshot of a Webpage About Bunkers in Albania]] — shared language: screenshot
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Forest Scene with Deer and Colorful Lig
 collection: "unsorted"
 inferred_year: ""
 artist: "Hiro Isono"
-dimensions: "727x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

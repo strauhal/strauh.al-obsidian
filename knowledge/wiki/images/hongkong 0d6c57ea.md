@@ -6,7 +6,7 @@ source_relpath: "wallpapers/hongkong.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "4000x5000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

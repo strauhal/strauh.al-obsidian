@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of a Person on Omegle Wearing 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "324x242"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

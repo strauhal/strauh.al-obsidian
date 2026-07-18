@@ -22,7 +22,7 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - sol lewitt|Artist - sol lewitt]] — named in this note
 - [[knowledge/wiki/images/Sol (The Sun) by Hendrick Goltzius (1590) 55c5296f|Sol (The Sun) by Hendrick Goltzius (1590)]] — shared language: sol
-- [[knowledge/wiki/pages/knowledge base 2024 misc bookmarks|knowledge base 2024 misc bookmarks]] — shared language: lewitt, sol
+- [[_archive/auto-generated/pages-stale/knowledge base 2024 misc bookmarks|knowledge base 2024 misc bookmarks]] — shared language: lewitt, sol
 - [[knowledge/wiki/pages/knowledge base art|knowledge base art]] — shared language: lewitt, sol
 - [[knowledge/wiki/images/Photograph Layered Abstract Photograph with Distorted Figures in Blue and White fe530814|Photograph Layered Abstract Photograph with Distorted Figures in Blue and White]] — shared language: distorted
 - [[_archive/auto-generated/images-stale/textured abstract painting of a distorted black grid 0632fdd8|textured abstract painting of a distorted black grid]] — shared language: distorted

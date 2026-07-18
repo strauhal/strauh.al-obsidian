@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Two Vaporwave Digital Artworks Featuring W
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "633x845"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

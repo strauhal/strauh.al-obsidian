@@ -6,7 +6,7 @@ source_relpath: "1700s/the_apotheosis_of_prince_alfred_and_prince_octavius_by_be
 collection: "1700s"
 inferred_year: "1786"
 artist: "benjamin west"
-dimensions: "1050x1473"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

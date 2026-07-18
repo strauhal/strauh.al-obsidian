@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_vincent_van_gogh_by_henri_de_toulouse_lautrec
 collection: "1800s"
 inferred_year: "1887"
 artist: "henri de toulouse lautrec"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

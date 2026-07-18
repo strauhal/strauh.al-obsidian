@@ -6,7 +6,7 @@ source_relpath: "1900s/the_fountain_of_youth_by_john_william_waterhouse_1909.jpg
 collection: "1900s"
 inferred_year: "1909"
 artist: "john william waterhouse"
-dimensions: "3200x1750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

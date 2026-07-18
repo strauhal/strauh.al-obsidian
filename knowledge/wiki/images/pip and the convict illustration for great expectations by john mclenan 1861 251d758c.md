@@ -6,7 +6,7 @@ source_relpath: "1800s/pip_and_the_convict_illustration_for_great_expectations_b
 collection: "1800s"
 inferred_year: "1861"
 artist: "john mclenan"
-dimensions: "981x711"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/pip_and_the_conv
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
 - [[knowledge/wiki/images/john martin the great day of his wrath 1853 22ffb5d0|john martin the great day of his wrath 1853]] — shared language: great, john
 - [[knowledge/wiki/images/john martin the great day of his wrath 1853 2 d640377e|john martin the great day of his wrath 1853 2]] — shared language: great, john
-- [[knowledge/wiki/books/charles-dickens-great-expectations-public-domain-books|Great Expectations-Public Domain Books]] — shared language: great
+- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
 <!-- vault-crosslinks:end -->

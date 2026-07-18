@@ -6,7 +6,7 @@ source_relpath: "diary/ryman.jpeg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1125x1185"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

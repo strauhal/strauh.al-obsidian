@@ -6,7 +6,7 @@ source_relpath: "photography/Artist Cecily Brown Posing In Her Studio With Large
 collection: "photography"
 inferred_year: ""
 artist: "Cecily Brown"
-dimensions: "1661x1107"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

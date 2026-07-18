@@ -6,7 +6,7 @@ source_relpath: "comics/charisma.webp"
 collection: "comics"
 inferred_year: ""
 artist: ""
-dimensions: "1315x692"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/comics"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Self-Portrait with Arm Twisted by Egon Schiele (1910).web
 collection: "1900s"
 inferred_year: "1910"
 artist: ""
-dimensions: "1600x1656"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

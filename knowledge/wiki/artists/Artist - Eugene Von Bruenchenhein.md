@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: eugene, von
 - [[knowledge/wiki/images/general von wolkern 1912 591100f1|general von wolkern 1912]] — shared language: von
 - [[knowledge/wiki/artists/Artist - eugene delacroix|Artist - eugene delacroix]] — shared language: eugene
-- [[knowledge/wiki/artists/Artist - eugene burnand|Artist - eugene burnand]] — shared language: eugene
+- [[knowledge/wiki/images/the death of sardanapalus by eugene delacroix 1827 58f42f58|the death of sardanapalus by eugene delacroix 1827]] — shared language: eugene
 <!-- vault-crosslinks:end -->

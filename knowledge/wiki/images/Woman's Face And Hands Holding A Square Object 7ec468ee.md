@@ -6,7 +6,7 @@ source_relpath: "photography/Woman's Face And Hands Holding A Square Object.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x1072"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

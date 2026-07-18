@@ -6,7 +6,7 @@ source_relpath: "photography/Man Posing With Pink Balloon Letters On Blue Wall.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1005x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/White Self-Driving Car Engulfed in Flames and Smoke
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1440x950"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

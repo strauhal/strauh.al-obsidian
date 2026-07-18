@@ -6,7 +6,7 @@ source_relpath: "2000s/Mother and Child by Egon Schiele (1912).jpeg"
 collection: "2000s"
 inferred_year: "1912"
 artist: ""
-dimensions: "749x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

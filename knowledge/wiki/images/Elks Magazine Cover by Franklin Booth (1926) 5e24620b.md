@@ -6,7 +6,7 @@ source_relpath: "1900s/Elks Magazine Cover by Franklin Booth (1926).jpg"
 collection: "1900s"
 inferred_year: "1926"
 artist: ""
-dimensions: "900x1308"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

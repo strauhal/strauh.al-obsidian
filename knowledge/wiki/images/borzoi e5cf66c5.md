@@ -6,7 +6,7 @@ source_relpath: "gif_collection/borzoi.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: "498x498"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

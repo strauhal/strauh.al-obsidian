@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Text Art Forming Wavy Patterns with 'Ha
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2560x3214"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

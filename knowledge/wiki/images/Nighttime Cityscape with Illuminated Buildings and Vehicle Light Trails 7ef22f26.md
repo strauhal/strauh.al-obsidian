@@ -6,7 +6,7 @@ source_relpath: "photography/Nighttime Cityscape with Illuminated Buildings and 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1021x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

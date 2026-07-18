@@ -6,7 +6,7 @@ source_relpath: "1800s/the_death_of_sardanapalus_by_eugene_delacroix_1827.jpeg"
 collection: "1800s"
 inferred_year: "1827"
 artist: "eugene delacroix"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

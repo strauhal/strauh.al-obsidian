@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Gestural Pencil Drawing of Int
 collection: "unsorted"
 inferred_year: ""
 artist: "Joseph Beuys"
-dimensions: "2865x4070"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

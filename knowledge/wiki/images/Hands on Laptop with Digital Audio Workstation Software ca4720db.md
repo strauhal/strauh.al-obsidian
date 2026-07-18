@@ -6,7 +6,7 @@ source_relpath: "photography/Hands on Laptop with Digital Audio Workstation Soft
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2880x1800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

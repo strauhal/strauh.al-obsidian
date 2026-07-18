@@ -17,8 +17,8 @@ This note exists because generated pages linked this spelling or alias. The rich
 - [[knowledge/wiki/images/Illustration Pixel Drawing Of A Gray Elephant In A Yellow And Blue Landscape by Terry A. Davis dbe666d8|Illustration Pixel Drawing Of A Gray Elephant In A Yellow And Blue Landscape by Terry A. Davis]] — shared language: davis, terry
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Aesthetic of Process and Control|Constellation - The Aesthetic of Process and Control]] — shared language: davis, terry
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: linked, pages
-- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, alias, richer
-- [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, alias, richer
-- [[_archive/auto-generated/concept-stubs/escher|escher]] — shared language: canonical, alias, richer
-- [[_archive/auto-generated/concept-stubs/AI Slop|AI Slop]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, richer, spelling
+- [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, richer, spelling
+- [[_archive/auto-generated/concept-stubs/AI Slop|AI Slop]] — shared language: canonical, richer, spelling
+- [[_archive/auto-generated/concept-stubs/escher|escher]] — shared language: canonical, richer, spelling
 <!-- vault-crosslinks:end -->

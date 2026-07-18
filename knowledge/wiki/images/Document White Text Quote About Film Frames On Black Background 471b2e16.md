@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - White Text Quote About Film Frames On Black
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1125x370"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

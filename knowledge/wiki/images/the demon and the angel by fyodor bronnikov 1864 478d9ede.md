@@ -6,7 +6,7 @@ source_relpath: "1800s/the_demon_and_the_angel_by_fyodor_bronnikov_1864.jpg"
 collection: "1800s"
 inferred_year: "1864"
 artist: "fyodor bronnikov"
-dimensions: "1204x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

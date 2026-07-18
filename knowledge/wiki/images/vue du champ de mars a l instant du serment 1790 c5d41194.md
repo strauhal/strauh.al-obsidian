@@ -6,7 +6,7 @@ source_relpath: "1700s/vue_du_champ_de_mars_a_l_instant_du_serment_1790.jpeg"
 collection: "1700s"
 inferred_year: "1790"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

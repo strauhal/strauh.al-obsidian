@@ -6,7 +6,7 @@ source_relpath: "2000s/PXL CON by Jimmy Hinson (2012).jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "3600x2544"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

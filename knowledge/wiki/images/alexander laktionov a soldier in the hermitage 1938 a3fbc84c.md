@@ -6,7 +6,7 @@ source_relpath: "1900s/alexander_laktionov_a_soldier_in_the_hermitage_1938.jpeg"
 collection: "1900s"
 inferred_year: "1938"
 artist: ""
-dimensions: "936x1144"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

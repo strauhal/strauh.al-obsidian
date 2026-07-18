@@ -6,7 +6,7 @@ source_relpath: "1700s/l_etude_du_dessin_the_study_of_drawing_by_jean_simeon_cha
 collection: "1700s"
 inferred_year: "1749"
 artist: "jean simeon chardin"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

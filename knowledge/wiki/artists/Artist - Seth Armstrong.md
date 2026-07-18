@@ -24,4 +24,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Electric Scooters Submerged In Murky Water 71faf698|Electric Scooters Submerged In Murky Water]] — shared language: electric
 - [[knowledge/wiki/images/Aerial View of Dense Cityscape with Central Avenue and Mountains 0d56a368|Aerial View of Dense Cityscape with Central Avenue and Mountains]] — shared language: avenue
 - [[knowledge/wiki/images/kawase hasui cryptomeria avenue at nikko 1930 d748d718|kawase hasui cryptomeria avenue at nikko 1930]] — shared language: avenue
+- [[knowledge/wiki/images/the avenue looking north from the new york state capitol albany n y by detroit publishing co 1900 1910 8ee6890a|the avenue looking north from the new york state capitol albany n y by detroit publishing co 1900 1910]] — shared language: avenue
 <!-- vault-crosslinks:end -->

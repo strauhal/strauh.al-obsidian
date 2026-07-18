@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black and White Bone-like Forms Radiating 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "675x900"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: like
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: like
-- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: like
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: forms
+- [[knowledge/wiki/images/Illustration Abstract Geometric Drawing Of Crystal Like Forms b1859085|Illustration Abstract Geometric Drawing Of Crystal Like Forms]] — shared language: forms, like
 <!-- vault-crosslinks:end -->

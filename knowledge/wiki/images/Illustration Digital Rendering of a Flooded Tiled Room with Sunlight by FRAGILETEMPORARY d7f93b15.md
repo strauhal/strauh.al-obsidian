@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Digital Rendering of a Flooded Tiled Ro
 collection: "unsorted"
 inferred_year: ""
 artist: "FRAGILETEMPORARY"
-dimensions: "3000x3000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

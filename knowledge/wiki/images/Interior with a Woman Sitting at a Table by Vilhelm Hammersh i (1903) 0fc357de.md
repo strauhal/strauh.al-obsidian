@@ -6,7 +6,7 @@ source_relpath: "1900s/Interior with a Woman Sitting at a Table by Vilhelm Hamme
 collection: "1900s"
 inferred_year: "1903"
 artist: ""
-dimensions: "2048x1803"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

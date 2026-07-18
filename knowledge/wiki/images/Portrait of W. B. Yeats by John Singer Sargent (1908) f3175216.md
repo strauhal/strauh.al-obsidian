@@ -6,7 +6,7 @@ source_relpath: "2000s/Portrait of W. B. Yeats by John Singer Sargent (1908).jpg
 collection: "2000s"
 inferred_year: "1908"
 artist: ""
-dimensions: "1955x2560"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

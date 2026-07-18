@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Bright Green Hills Under Blue Sky.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1024x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

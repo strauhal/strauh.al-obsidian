@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Five Men in Blue Uniforms on Red Backgroun
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Leon Golub"
-dimensions: "1508x1001"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

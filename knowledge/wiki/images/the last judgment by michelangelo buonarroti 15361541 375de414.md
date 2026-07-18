@@ -6,7 +6,7 @@ source_relpath: "1500s/the_last_judgment_by_michelangelo_buonarroti_15361541.jpe
 collection: "1500s"
 inferred_year: "1500s"
 artist: "michelangelo buonarroti 15361541"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

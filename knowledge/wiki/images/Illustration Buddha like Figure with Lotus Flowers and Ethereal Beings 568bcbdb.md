@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Buddha-like Figure with Lotus Flowers a
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "721x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

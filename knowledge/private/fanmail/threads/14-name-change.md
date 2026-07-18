@@ -35,12 +35,12 @@ Thank you very much
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/26-name-change|Private Correspondence - 26 - Name change]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/13-my-pic|Private Correspondence - 13 - My Pic]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/08-drawing|Private Correspondence - 08 - drawing]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/15-new-draw-for-youu|Private Correspondence - 15 - New Draw_for_YOUU]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/18-site-drawings|Private Correspondence - 18 - site drawings]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/12-my-drawing-i-made|Private Correspondence - 12 - My drawing i made]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/20-submit-me-daddy|Private Correspondence - 20 - submit me daddy]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/19-submission|Private Correspondence - 19 - Submission]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/25-my-pic|Private Correspondence - 25 - My Pic]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/40-untitled|Private Correspondence - 40 - Untitled]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/03-art|Private Correspondence - 03 - art]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/43-angel|Private Correspondence - 43 - 天使 (Angel)]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/27-name-change-request-re-an-outdated-reference-comic|Private Correspondence - 27 - Name change request Re: An outdated reference (comic?)]] — same category: drawing-submission
 <!-- vault-crosslinks:end -->

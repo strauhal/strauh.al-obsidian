@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Typographic Portrait of a Person with a
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1000x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

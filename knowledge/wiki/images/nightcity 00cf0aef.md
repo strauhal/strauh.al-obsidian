@@ -6,7 +6,7 @@ source_relpath: "wallpapers/nightcity.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "2467x1277"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

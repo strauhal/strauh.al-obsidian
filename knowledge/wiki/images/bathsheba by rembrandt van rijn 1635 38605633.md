@@ -6,7 +6,7 @@ source_relpath: "1600s/bathsheba_by_rembrandt_van_rijn_1635.jpeg"
 collection: "1600s"
 inferred_year: "1635"
 artist: "rembrandt van rijn"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

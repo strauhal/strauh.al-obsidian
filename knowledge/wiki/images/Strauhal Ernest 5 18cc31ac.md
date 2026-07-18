@@ -6,7 +6,7 @@ source_relpath: "diary/Strauhal_Ernest_5.png"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "2830x3728"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

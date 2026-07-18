@@ -6,7 +6,7 @@ source_relpath: "1800s/l_aurore_the_dawn_by_pierre_paul_prud_hon_c_1804.jpg"
 collection: "1800s"
 inferred_year: "1804"
 artist: "pierre paul prud hon"
-dimensions: "1390x1182"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1500s/hendrick_goltzius_venus_bacchus_and_cupid_c_1590.jpg"
 collection: "1500s"
 inferred_year: "1590"
 artist: ""
-dimensions: "4037x5185"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

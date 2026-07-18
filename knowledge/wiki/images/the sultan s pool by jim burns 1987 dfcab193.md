@@ -6,7 +6,7 @@ source_relpath: "1900s/the_sultan_s_pool_by_jim_burns_1987.jpg"
 collection: "1900s"
 inferred_year: "1987"
 artist: "jim burns"
-dimensions: "768x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

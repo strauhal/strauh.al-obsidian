@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Scribbled Line Drawings: Intertwine
 collection: "unsorted"
 inferred_year: ""
 artist: "Adam Riches"
-dimensions: "1200x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

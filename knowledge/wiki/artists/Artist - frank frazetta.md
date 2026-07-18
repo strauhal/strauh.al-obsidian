@@ -33,6 +33,6 @@ Images attributed by filename: 4
 - [[knowledge/wiki/artists/Artist - Frank Gilbreth|Artist - Frank Gilbreth]] — shared language: frank
 - [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: frank
 - [[knowledge/wiki/images/frank miller 1f32b801|frank miller]] — shared language: frank
-- [[knowledge/wiki/artists/Artist - frank zvanich|Artist - frank zvanich]] — shared language: frank
 - [[knowledge/wiki/books/michel-houellebecq-frank-wynne-atomised-vintage|Atomised-Vintage]] — shared language: frank
+- [[knowledge/wiki/artists/Artist - frank zvanich|Artist - frank zvanich]] — shared language: frank
 <!-- vault-crosslinks:end -->

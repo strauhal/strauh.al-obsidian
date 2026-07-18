@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Aerial View of Densely Packed Cairo Cityscape d55e687b|Photograph Aerial View of Densely Packed Cairo Cityscape]] — shared language: packed, densely, aerial
 - [[knowledge/wiki/images/Photograph Aerial View of Densely Packed Buildings in Cairo's Garbage City 36086b23|Photograph Aerial View of Densely Packed Buildings in Cairo's Garbage City]] — shared language: packed, densely, aerial
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, cityscape
+- [[knowledge/wiki/images/Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings 6377cbc7|Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings]] — shared language: packed, densely
 - [[_archive/auto-generated/images-stale/Photograph Tall, Densely Packed Residential Building in an Urban Setting 50c77b66|Photograph Tall, Densely Packed Residential Building in an Urban Setting]] — shared language: packed, densely
-- [[knowledge/wiki/images/Tall, Densely Packed Residential Building in an Urban Setting 7269ae48|Tall, Densely Packed Residential Building in an Urban Setting]] — shared language: packed, densely
 <!-- vault-crosslinks:end -->

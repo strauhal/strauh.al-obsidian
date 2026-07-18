@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Chatbot Interface Displaying Simple Sunse
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1125x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: chatbot
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: chatbot
 - [[knowledge/wiki/images/Screenshot AI Chatbot Displaying Classic And Jailbreak Responses 9314991c|Screenshot AI Chatbot Displaying Classic And Jailbreak Responses]] — shared language: chatbot, displaying, screenshot
 - [[knowledge/wiki/images/Screenshot Blender 4.2.1 LTS Interface Displaying Two Face Sketches 33962a62|Screenshot Blender 4.2.1 LTS Interface Displaying Two Face Sketches]] — shared language: interface, displaying, screenshot
 - [[knowledge/wiki/books/friedrich-nietzsche-basic-writings-of-nietzsche|Basic Writings of Nietzsche]] — shared language: basic
+- [[knowledge/wiki/images/screenshot of a 1990s era computer interface displaying movie data visualization filmfinder 1993 a25792c4|screenshot of a 1990s era computer interface displaying movie data visualization filmfinder 1993]] — shared language: interface, displaying, screenshot
+- [[knowledge/wiki/images/Screenshot Screenshot of Simple Line Drawing of City with Buildings and Cars daffa747|Screenshot Screenshot of Simple Line Drawing of City with Buildings and Cars]] — shared language: simple, screenshot
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1900s/black_and_white_photograph_of_military_personnel_fleeing_
 collection: "1900s"
 inferred_year: "1918"
 artist: ""
-dimensions: "1889x1266"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

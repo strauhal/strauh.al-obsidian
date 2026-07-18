@@ -6,7 +6,7 @@ source_relpath: "2000s/Some Worlds Have Two Suns by Andrew McConnell (2015-2024)
 collection: "2000s"
 inferred_year: "2024"
 artist: ""
-dimensions: "960x946"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

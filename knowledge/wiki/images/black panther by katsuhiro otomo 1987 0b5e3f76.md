@@ -6,7 +6,7 @@ source_relpath: "1900s/black_panther_by_katsuhiro_otomo_1987.jpeg"
 collection: "1900s"
 inferred_year: "1987"
 artist: "katsuhiro otomo"
-dimensions: "768x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

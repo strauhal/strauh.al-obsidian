@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Headless Meditating Figure With Floatin
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "801x1098"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

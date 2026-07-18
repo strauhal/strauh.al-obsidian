@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Crab Greets Beetle, Beetle Reacts Annoyed in T
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "855x1264"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

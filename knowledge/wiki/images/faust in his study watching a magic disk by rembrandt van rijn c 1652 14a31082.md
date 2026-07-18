@@ -6,7 +6,7 @@ source_relpath: "1600s/faust_in_his_study_watching_a_magic_disk_by_rembrandt_van
 collection: "1600s"
 inferred_year: "1652"
 artist: "rembrandt van rijn"
-dimensions: "947x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

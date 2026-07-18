@@ -6,7 +6,7 @@ source_relpath: "1900s/strawberry_pickers_near_pescadero_by_emmy_lou_packard_194
 collection: "1900s"
 inferred_year: "1945"
 artist: "emmy lou packard"
-dimensions: "720x924"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Busted (BG-59) by Stanley Mouse and Alton Kelley (1967).p
 collection: "1900s"
 inferred_year: "1967"
 artist: ""
-dimensions: "1800x1286"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

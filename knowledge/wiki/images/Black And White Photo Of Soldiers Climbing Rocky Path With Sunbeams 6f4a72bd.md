@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photo Of Soldiers Climbing Rocky Pa
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1524"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

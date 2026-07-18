@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Figure Holding Lamb with Another 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "968x1264"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_source_by_michael_parkes_1990.jpg"
 collection: "1900s"
 inferred_year: "1990"
 artist: "michael parkes"
-dimensions: "2364x1531"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

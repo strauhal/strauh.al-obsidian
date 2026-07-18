@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Collage of Manga Panels Featuring Screaming Ma
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2048x2780"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Chart_Comparing_Total_Job_Openings_and_S&P_500_Over_Ti
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "1403x791"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

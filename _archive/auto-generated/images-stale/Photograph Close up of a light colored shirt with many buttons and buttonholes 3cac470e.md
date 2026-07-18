@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Illustration Watercolor Painting of Many Small Birds on Light Background 1c6d543b|Illustration Watercolor Painting of Many Small Birds on Light Background]] — shared language: many, light
 - [[_archive/auto-generated/images-stale/pencil drawing portrait of a man in a white t shirt 90427e9b|pencil drawing portrait of a man in a white t shirt]] — shared language: shirt
 - [[knowledge/archive/auto-generated/artists-stale/Artist - diagonal light|Artist - diagonal light]] — shared language: light, shirt
-- [[_archive/auto-generated/images-stale/Photograph Two Electronic Grid Controllers With Illuminated Buttons 26cdee16|Photograph Two Electronic Grid Controllers With Illuminated Buttons]] — shared language: buttons
+- [[knowledge/wiki/images/Illustration Abstract Rainbow Colored Layered Shapes on Light Background with Text c3e4165b|Illustration Abstract Rainbow Colored Layered Shapes on Light Background with Text]] — shared language: colored, light
 <!-- vault-crosslinks:end -->

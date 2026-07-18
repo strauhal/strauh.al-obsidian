@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Black Ink Figures on White Pap
 collection: "unsorted"
 inferred_year: ""
 artist: "Henri Michaux"
-dimensions: "1024x757"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

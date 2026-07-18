@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Black Ink Sketch of a Bearded Man with Glasses 608e2426|Illustration Black Ink Sketch of a Bearded Man with Glasses]] — named in this note
 - [[knowledge/wiki/images/Illustration Pen and Ink Sketch of a Bearded Man Wearing a Cap 22c6b506|Illustration Pen and Ink Sketch of a Bearded Man Wearing a Cap]] — shared language: bearded, sketch, ink
 - [[_archive/auto-generated/images-stale/pen and ink sketch of a bearded man wearing a cap b3b3c6d5|pen and ink sketch of a bearded man wearing a cap]] — shared language: bearded, sketch, ink
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch, ink
 - [[_archive/auto-generated/images-stale/black and white ink drawing collage of an older man in glasses d2e0faec|black and white ink drawing collage of an older man in glasses]] — shared language: glasses, ink, glasses.jpg
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 <!-- vault-crosslinks:end -->

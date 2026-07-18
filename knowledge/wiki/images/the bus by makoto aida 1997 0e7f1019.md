@@ -6,7 +6,7 @@ source_relpath: "1900s/the_bus_by_makoto_aida_1997.jpg"
 collection: "1900s"
 inferred_year: "1997"
 artist: "makoto aida"
-dimensions: "1170x929"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

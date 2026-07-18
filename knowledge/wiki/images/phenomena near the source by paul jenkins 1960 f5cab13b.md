@@ -6,7 +6,7 @@ source_relpath: "1900s/phenomena_near_the_source_by_paul_jenkins_1960.jpeg"
 collection: "1900s"
 inferred_year: "1960"
 artist: "paul jenkins"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

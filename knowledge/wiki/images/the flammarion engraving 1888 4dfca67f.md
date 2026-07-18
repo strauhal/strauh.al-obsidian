@@ -6,7 +6,7 @@ source_relpath: "1800s/the_flammarion_engraving_1888.jpg"
 collection: "1800s"
 inferred_year: "1888"
 artist: ""
-dimensions: "1400x1173"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

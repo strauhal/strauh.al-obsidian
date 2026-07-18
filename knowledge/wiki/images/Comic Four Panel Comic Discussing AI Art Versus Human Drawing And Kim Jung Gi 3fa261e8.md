@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Four-Panel Comic Discussing AI Art Versus Huma
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1853"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Pt. Defiance Steps by Cecilia Blomberg.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Cecilia Blomberg"
-dimensions: "1168x833"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

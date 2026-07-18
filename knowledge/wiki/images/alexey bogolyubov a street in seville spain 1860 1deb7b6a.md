@@ -6,7 +6,7 @@ source_relpath: "1800s/alexey_bogolyubov_a_street_in_seville_spain_1860.jpg"
 collection: "1800s"
 inferred_year: "1860"
 artist: ""
-dimensions: "1815x2250"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

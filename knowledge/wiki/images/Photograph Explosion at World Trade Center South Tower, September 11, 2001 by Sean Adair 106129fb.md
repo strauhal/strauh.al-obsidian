@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Explosion at World Trade Center South Tower,
 collection: "2000s"
 inferred_year: "2001"
 artist: "Sean Adair"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

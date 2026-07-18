@@ -6,7 +6,7 @@ source_relpath: "photography/Bright Explosion With Debris Against Blue Sky.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1240x828"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

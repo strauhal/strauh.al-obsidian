@@ -6,7 +6,7 @@ source_relpath: "1800s/Un Matin devant la Porte du Louvre by Édouard Debat-Pons
 collection: "1800s"
 inferred_year: "1880"
 artist: ""
-dimensions: "1337x1050"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

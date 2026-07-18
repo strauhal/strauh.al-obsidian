@@ -6,7 +6,7 @@ source_relpath: "1800s/apollo_and_hyacinth_by_gustave_moreau_1855.jpeg"
 collection: "1800s"
 inferred_year: "1855"
 artist: "gustave moreau"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

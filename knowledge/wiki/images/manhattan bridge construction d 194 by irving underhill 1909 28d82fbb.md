@@ -6,7 +6,7 @@ source_relpath: "1900s/manhattan_bridge_construction_d_194_by_irving_underhill_1
 collection: "1900s"
 inferred_year: "1909"
 artist: "irving underhill"
-dimensions: "3744x2256"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

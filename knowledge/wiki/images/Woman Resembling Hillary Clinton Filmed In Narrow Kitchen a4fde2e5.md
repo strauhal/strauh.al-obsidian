@@ -6,7 +6,7 @@ source_relpath: "photography/Woman Resembling Hillary Clinton Filmed In Narrow K
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "768x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

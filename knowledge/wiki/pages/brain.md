@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/brain.html"
 source_relpath: "brain.html"
 compiled: "True"
-compiled_at: "2026-07-15T01:26:40"
+compiled_at: "2026-07-18T00:07:15"
 tags: ["strauhal", "source/html"]
 ---
 # brain
@@ -67,8 +67,8 @@ scroll = zoom · drag = rotate 3D · right-drag = pan · drag node = move · hov
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/pages/brain(wip)|brain(wip)]] — shared language: brain, force, chat
 - [[knowledge/wiki/pages/brain debug test|brain debug test]] — shared language: brain, force, chat
+- [[knowledge/wiki/pages/brain(wip)|brain(wip)]] — shared language: brain, force, chat
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: stored, link, it's
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: brain, ever
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: drag, click, settings

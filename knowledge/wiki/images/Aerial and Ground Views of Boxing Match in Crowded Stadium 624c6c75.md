@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial and Ground Views of Boxing Match in Crowded 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "714x892"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

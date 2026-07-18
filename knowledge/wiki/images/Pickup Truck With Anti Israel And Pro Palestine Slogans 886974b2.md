@@ -6,7 +6,7 @@ source_relpath: "photography/Pickup Truck With Anti-Israel And Pro-Palestine Slo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1536x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/pen_and_ink_still_life_of_bottles_vases_and_candlestick_b
 collection: "1900s"
 inferred_year: "1930"
 artist: "giorgio morandi"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1500s/the_annunciation_to_the_shepherds_by_jan_saenredam_1599.j
 collection: "1500s"
 inferred_year: "1599"
 artist: "jan saenredam"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

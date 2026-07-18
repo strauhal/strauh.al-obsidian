@@ -6,7 +6,7 @@ source_relpath: "2000s/Picasso vs Sargent by Norman Rockwell (1966).jpeg"
 collection: "2000s"
 inferred_year: "1966"
 artist: ""
-dimensions: "1514x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

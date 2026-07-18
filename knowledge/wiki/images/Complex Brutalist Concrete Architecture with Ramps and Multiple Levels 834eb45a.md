@@ -6,7 +6,7 @@ source_relpath: "photography/Complex Brutalist Concrete Architecture with Ramps 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1536x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Complex Br
 
 - [[knowledge/wiki/images/Brutalist Concrete Building with Curved Ramps and Arches 589dbe9d|Brutalist Concrete Building with Curved Ramps and Arches]] — shared language: ramps, brutalist, concrete
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: levels
 - [[knowledge/wiki/images/00081 brutalist architecture 1960 png 205768a0|00081 brutalist architecture 1960 png]] — shared language: brutalist
 - [[knowledge/wiki/images/Black And White Photograph Of Brutalist Concrete Staircase Monument 3b1f75cc|Black And White Photograph Of Brutalist Concrete Staircase Monument]] — shared language: brutalist, concrete
-- [[knowledge/wiki/images/Brutalist Concrete Building with Tall Conifer Trees cb97be41|Brutalist Concrete Building with Tall Conifer Trees]] — shared language: brutalist, concrete
 <!-- vault-crosslinks:end -->

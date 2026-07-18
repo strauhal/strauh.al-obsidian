@@ -6,7 +6,7 @@ source_relpath: "1900s/stylized_painting_of_green_rolling_hills_and_grazing_catt
 collection: "1900s"
 inferred_year: "1968"
 artist: "eyvind earle"
-dimensions: "2048x2596"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

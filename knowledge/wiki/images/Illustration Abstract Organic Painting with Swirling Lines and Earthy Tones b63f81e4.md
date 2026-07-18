@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Organic Painting with Swirling
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1000x1500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

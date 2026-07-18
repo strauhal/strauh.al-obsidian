@@ -6,7 +6,7 @@ source_relpath: "1900s/the_window_next_door_tonari_no_mado_by_junji_ito_1998.jpe
 collection: "1900s"
 inferred_year: "1998"
 artist: "junji ito"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

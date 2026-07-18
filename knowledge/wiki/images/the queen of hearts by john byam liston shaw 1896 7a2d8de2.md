@@ -6,7 +6,7 @@ source_relpath: "1800s/the_queen_of_hearts_by_john_byam_liston_shaw_1896.jpeg"
 collection: "1800s"
 inferred_year: "1896"
 artist: "john byam liston shaw"
-dimensions: "1556x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

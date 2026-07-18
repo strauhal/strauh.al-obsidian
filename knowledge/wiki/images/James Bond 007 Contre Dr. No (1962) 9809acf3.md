@@ -6,7 +6,7 @@ source_relpath: "1900s/James Bond 007 Contre Dr. No (1962).jpeg"
 collection: "1900s"
 inferred_year: "1962"
 artist: ""
-dimensions: "5712x4284"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

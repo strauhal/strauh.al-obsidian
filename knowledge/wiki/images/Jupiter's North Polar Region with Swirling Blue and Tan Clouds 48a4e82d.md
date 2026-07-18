@@ -6,7 +6,7 @@ source_relpath: "photography/Jupiter's North Polar Region with Swirling Blue and
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2646x3395"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/le_baiser_the_kiss_by_jean_delville_1898.jpeg"
 collection: "1800s"
 inferred_year: "1898"
 artist: "jean delville"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

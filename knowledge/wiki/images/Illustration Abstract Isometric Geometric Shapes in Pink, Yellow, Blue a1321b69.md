@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Isometric Geometric Shapes in 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "2048x2560"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

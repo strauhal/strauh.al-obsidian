@@ -6,7 +6,7 @@ source_relpath: "unsorted/Paradise of Amida Buddha (Amitabha) (794-1185).jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1153x2173"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

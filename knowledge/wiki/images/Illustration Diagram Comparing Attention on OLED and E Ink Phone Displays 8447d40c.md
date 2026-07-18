@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Diagram Comparing Attention on OLED and
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1536x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

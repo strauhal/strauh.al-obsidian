@@ -6,7 +6,7 @@ source_relpath: "photography/Man in Sunglasses Aiming Two Handguns Against Hazy 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "3104x2080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

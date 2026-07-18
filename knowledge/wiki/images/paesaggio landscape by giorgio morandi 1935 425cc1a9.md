@@ -6,7 +6,7 @@ source_relpath: "1900s/paesaggio_landscape_by_giorgio_morandi_1935.jpeg"
 collection: "1900s"
 inferred_year: "1935"
 artist: "giorgio morandi"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

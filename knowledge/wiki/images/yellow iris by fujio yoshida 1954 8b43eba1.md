@@ -6,7 +6,7 @@ source_relpath: "1900s/yellow_iris_by_fujio_yoshida_1954.jpeg"
 collection: "1900s"
 inferred_year: "1954"
 artist: "fujio yoshida"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/photograph_of_printed_text_on_a_beige_page_signed_mervyn_
 collection: "1900s"
 inferred_year: "1965"
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

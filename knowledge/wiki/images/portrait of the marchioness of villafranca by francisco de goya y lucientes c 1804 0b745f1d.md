@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_the_marchioness_of_villafranca_by_francisco_d
 collection: "1800s"
 inferred_year: "1804"
 artist: "francisco de goya y lucientes"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

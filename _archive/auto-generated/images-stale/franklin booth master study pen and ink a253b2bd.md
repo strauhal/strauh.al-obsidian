@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/franklin booth master study pen brush ink original v0 5fbviexp7w2c1 jpg bee36ed6|franklin booth master study pen brush ink original v0 5fbviexp7w2c1 jpg]] — shared language: master, franklin, booth
+- [[_archive/auto-generated/images-stale/franklin booth master study pen brush ink original v0 5fbviexp7w2c1 jpg bee36ed6|franklin booth master study pen brush ink original v0 5fbviexp7w2c1 jpg]] — shared language: franklin, master, booth
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franklin booth 1918|Artist - franklin booth 1918]] — shared language: franklin, booth
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franklin booth 1914|Artist - franklin booth 1914]] — shared language: franklin, booth
 - [[knowledge/wiki/artists/Artist - franklin booth|Artist - franklin booth]] — shared language: franklin, booth

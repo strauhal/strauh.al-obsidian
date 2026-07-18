@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Detailed Sepia Drawing of Venice with Piazza San Marco and Ships bdb9ac84|Illustration Detailed Sepia Drawing of Venice with Piazza San Marco and Ships]] — shared language: marco, piazza, venice
-- [[knowledge/wiki/images/Piazza San Marco by Giovanni Antonio Canal (Canaletto) (c. 1730 1735) 21854da7|Piazza San Marco by Giovanni Antonio Canal (Canaletto) (c. 1730 1735)]] — shared language: marco, piazza, san
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: sepia
+- [[knowledge/wiki/images/Piazza San Marco by Giovanni Antonio Canal (Canaletto) (c. 1730 1735) 21854da7|Piazza San Marco by Giovanni Antonio Canal (Canaletto) (c. 1730 1735)]] — shared language: marco, piazza, san
 - [[_archive/auto-generated/images-stale/giovanni antonio canal canaletto piazza san marco with the basilica and the campanile c 17301735 94e2c3a8|giovanni antonio canal canaletto piazza san marco with the basilica and the campanile c 17301735]] — shared language: marco, piazza, san
 - [[knowledge/archive/auto-generated/artists-stale/Artist - numbers ships and symbols|Artist - numbers ships and symbols]] — shared language: ships, detailed
 <!-- vault-crosslinks:end -->

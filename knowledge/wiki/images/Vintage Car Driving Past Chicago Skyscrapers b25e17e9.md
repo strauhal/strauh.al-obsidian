@@ -6,7 +6,7 @@ source_relpath: "photography/Vintage Car Driving Past Chicago Skyscrapers.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "700x1064"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

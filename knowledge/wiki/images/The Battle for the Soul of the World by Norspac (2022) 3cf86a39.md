@@ -6,7 +6,7 @@ source_relpath: "2000s/The Battle for the Soul of the World by Norspac (2022).jp
 collection: "2000s"
 inferred_year: "2022"
 artist: ""
-dimensions: "3000x2287"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/egg_by_yoshitaka_amano_1990.jpeg"
 collection: "1900s"
 inferred_year: "1990"
 artist: "yoshitaka amano"
-dimensions: "1125x1407"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

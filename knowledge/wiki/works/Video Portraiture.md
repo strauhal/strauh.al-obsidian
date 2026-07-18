@@ -48,7 +48,7 @@ series of algorithms well outside of my control" (see [[AI Slop]]).
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: vellum, portraiture, color
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video, portraiture, implicit
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: neural, hand, it's
-- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: it's, control, slop
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: portraiture, video, color
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: implicit, color, frames
+- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: it's, control, slop
 <!-- vault-crosslinks:end -->

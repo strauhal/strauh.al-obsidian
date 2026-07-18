@@ -6,7 +6,7 @@ source_relpath: "1900s/1956armon_a_autorretrato_sugerente_painted_in_1956_jpg_la
 collection: "1900s"
 inferred_year: "1956"
 artist: ""
-dimensions: "749x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

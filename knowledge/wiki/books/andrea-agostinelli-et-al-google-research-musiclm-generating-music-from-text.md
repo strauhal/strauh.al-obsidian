@@ -9,8 +9,8 @@ metadata: curated
 aliases: [2301.11325]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/2301.11325.pdf"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # MusicLM: Generating Music From Text
@@ -51,8 +51,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/piano|piano]] — same category: music sound
 - [[knowledge/wiki/books/jacques-attali-noise-the-political-economy-of-music|Noise: The Political Economy of Music]] — same category: music sound
 - [[knowledge/wiki/books/basic-notation|basic-notation]] — same category: music sound
-- [[knowledge/wiki/books/john-cage-notations|Notations]] — same category: music sound
 - [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — same category: music sound
+- [[knowledge/wiki/books/john-cage-notations|Notations]] — same category: music sound
 - [[knowledge/wiki/books/timbre-as-a-structural-device-in-compositions|Timbre as a Structural Device in Compositions]] — same category: music sound
 - [[knowledge/wiki/books/tim-hecker-tim-hecker-thesis|Tim Hecker — Thesis]] — same category: music sound
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Green And Orange Digital Inter
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3333x1667"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

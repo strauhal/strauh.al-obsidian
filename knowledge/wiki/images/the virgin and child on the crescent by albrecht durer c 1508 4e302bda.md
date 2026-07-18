@@ -6,7 +6,7 @@ source_relpath: "1500s/the_virgin_and_child_on_the_crescent_by_albrecht_durer_c_
 collection: "1500s"
 inferred_year: "1508"
 artist: "albrecht durer"
-dimensions: "750x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

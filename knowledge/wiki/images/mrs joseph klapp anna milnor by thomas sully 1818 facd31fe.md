@@ -6,7 +6,7 @@ source_relpath: "1800s/mrs_joseph_klapp_anna_milnor_by_thomas_sully_1818.jpeg"
 collection: "1800s"
 inferred_year: "1818"
 artist: "thomas sully"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

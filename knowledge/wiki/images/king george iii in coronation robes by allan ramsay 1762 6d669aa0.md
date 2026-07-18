@@ -6,7 +6,7 @@ source_relpath: "1700s/king_george_iii_in_coronation_robes_by_allan_ramsay_1762.
 collection: "1700s"
 inferred_year: "1762"
 artist: "allan ramsay"
-dimensions: "1200x1874"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---
@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/king_george_iii_
 
 - [[knowledge/wiki/images/david hume by allan ramsay 1754 2afa5ab9|david hume by allan ramsay 1754]] — same artist: allan ramsay
 - [[knowledge/wiki/artists/Artist - allan d arcangelo|Artist - allan d arcangelo]] — shared language: allan
-- [[knowledge/wiki/images/Screenshot Masked King Baldwin IV in White Robes on Throne 2099d9e6|Screenshot Masked King Baldwin IV in White Robes on Throne]] — shared language: king, robes
+- [[knowledge/wiki/images/Screenshot Masked King Baldwin IV in White Robes on Throne 2099d9e6|Screenshot Masked King Baldwin IV in White Robes on Throne]] — shared language: robes, king
 - [[knowledge/wiki/images/portrait of louis xv in coronation robes by jean baptiste van loo 1723 db26ff1d|portrait of louis xv in coronation robes by jean baptiste van loo 1723]] — shared language: coronation, robes
 - [[knowledge/wiki/books/karl-marx-capital-volume-iii|Capital, Volume III]] — shared language: iii
 <!-- vault-crosslinks:end -->

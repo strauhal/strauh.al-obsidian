@@ -6,7 +6,7 @@ source_relpath: "photography/Profile of Soldier in Green Cap Amidst Foliage and 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1594x1625"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

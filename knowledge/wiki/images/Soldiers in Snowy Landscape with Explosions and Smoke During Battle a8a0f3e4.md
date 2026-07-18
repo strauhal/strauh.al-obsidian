@@ -6,7 +6,7 @@ source_relpath: "photography/Soldiers in Snowy Landscape with Explosions and Smo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "733x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

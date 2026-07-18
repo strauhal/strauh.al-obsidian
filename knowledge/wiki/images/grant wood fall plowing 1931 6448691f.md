@@ -6,7 +6,7 @@ source_relpath: "1900s/grant_wood_fall_plowing_1931.jpg"
 collection: "1900s"
 inferred_year: "1931"
 artist: ""
-dimensions: "1280x1015"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

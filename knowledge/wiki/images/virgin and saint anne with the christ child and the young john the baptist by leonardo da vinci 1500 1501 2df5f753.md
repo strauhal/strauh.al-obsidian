@@ -6,7 +6,7 @@ source_relpath: "1500s/virgin_and_saint_anne_with_the_christ_child_and_the_young
 collection: "1500s"
 inferred_year: "1501"
 artist: "leonardo da vinci"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

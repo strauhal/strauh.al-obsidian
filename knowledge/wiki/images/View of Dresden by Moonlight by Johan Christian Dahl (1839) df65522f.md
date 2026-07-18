@@ -6,7 +6,7 @@ source_relpath: "1800s/View of Dresden by Moonlight by Johan Christian Dahl (183
 collection: "1800s"
 inferred_year: "1839"
 artist: ""
-dimensions: "7680x4320"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

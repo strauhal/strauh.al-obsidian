@@ -6,7 +6,7 @@ source_relpath: "1400s/saint_john_on_patmos_by_master_e_s_c_1465.jpeg"
 collection: "1400s"
 inferred_year: "1465"
 artist: "master e s"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

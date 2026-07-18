@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Green Character Jumping Over Broken Skateb
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Dan Hipp"
-dimensions: "736x1081"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - G
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken, hipp
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: broken
 - [[knowledge/wiki/images/Illustration Stylized Marker Drawing of Character Beat Jumping with Spray Can c2c5edc7|Illustration Stylized Marker Drawing of Character Beat Jumping with Spray Can]] — shared language: jumping, character
 - [[knowledge/wiki/images/Black And White Photo Of Person On Skateboard In Front Of Building 03c8818b|Black And White Photo Of Person On Skateboard In Front Of Building]] — shared language: skateboard

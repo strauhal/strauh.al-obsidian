@@ -6,7 +6,7 @@ source_relpath: "1900s/the_well_by_michael_parkes_1990.jpg"
 collection: "1900s"
 inferred_year: "1990"
 artist: "michael parkes"
-dimensions: "600x466"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

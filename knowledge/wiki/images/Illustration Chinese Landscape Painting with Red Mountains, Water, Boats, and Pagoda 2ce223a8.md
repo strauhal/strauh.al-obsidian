@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Chinese Landscape Painting with Red Mou
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1459x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/broad_street_and_wall_street_by_childe_hassam_1892.jpeg"
 collection: "1800s"
 inferred_year: "1892"
 artist: "childe hassam"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

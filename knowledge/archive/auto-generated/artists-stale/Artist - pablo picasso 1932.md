@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1923|Artist - pablo picasso 1923]] — shared language: picasso, pablo, assise
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1969|Artist - pablo picasso 1969]] — shared language: picasso, pablo, reclining
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1924|Artist - pablo picasso 1924]] — shared language: picasso, pablo, femme
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1952|Artist - pablo picasso 1952]] — shared language: picasso, pablo, femme
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1930|Artist - pablo picasso 1930]] — shared language: picasso, pablo, nude
+- [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1935|Artist - pablo picasso 1935]] — shared language: picasso, pablo
 <!-- vault-crosslinks:end -->

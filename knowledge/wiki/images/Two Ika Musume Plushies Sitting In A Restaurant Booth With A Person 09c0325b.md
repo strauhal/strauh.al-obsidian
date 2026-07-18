@@ -6,7 +6,7 @@ source_relpath: "photography/Two Ika Musume Plushies Sitting In A Restaurant Boo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "600x450"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

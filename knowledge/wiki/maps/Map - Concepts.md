@@ -3,8 +3,8 @@ title: Map - Concepts
 type: map
 aliases: [Idea Atlas, The Idea Atlas, Concept Atlas]
 tags: [map, concepts, atlas]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # The Idea Atlas

@@ -6,7 +6,7 @@ source_relpath: "diagrams/3D_Hand_Models,_Pose_Sequences,_and_Guitar_Playing_App
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "4506x1775"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

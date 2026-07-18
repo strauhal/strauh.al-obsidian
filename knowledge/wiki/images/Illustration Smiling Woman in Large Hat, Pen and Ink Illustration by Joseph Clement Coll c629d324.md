@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Smiling Woman in Large Hat, Pen and Ink Il
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Joseph Clement Coll"
-dimensions: "900x1223"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

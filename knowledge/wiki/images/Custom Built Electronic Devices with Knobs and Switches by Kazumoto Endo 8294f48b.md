@@ -6,7 +6,7 @@ source_relpath: "photography/Custom-Built Electronic Devices with Knobs and Swit
 collection: "photography"
 inferred_year: ""
 artist: "Kazumoto Endo"
-dimensions: "600x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

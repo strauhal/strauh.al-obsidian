@@ -6,7 +6,7 @@ source_relpath: "unsorted/Photograph - Graffiti Under Bridge with Figures and Te
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1280x964"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

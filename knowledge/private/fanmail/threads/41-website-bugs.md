@@ -6,8 +6,8 @@ category: site-feedback
 message_count: 3
 incoming_count: 1
 tags: [private, correspondence, fanmail]
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Website Bugs
@@ -53,3 +53,16 @@ if you cloned strauh.al3.1, just fetch the update from github.  if you downloade
 
 all the best,
 ernest
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/religious texts|religious texts]] — named in this note
+- [[knowledge/private/fanmail/threads/21-website-bugs|Private Correspondence - 21 - Website Bugs]] — same category: site-feedback
+- [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — named in this note
+- [[knowledge/private/fanmail/threads/03-broken-link|Private Correspondence - 03 - Broken Link :)]] — same category: site-feedback
+- [[knowledge/private/fanmail/threads/05-changes-in-website|Private Correspondence - 05 - Changes in website]] — same category: site-feedback
+- [[knowledge/private/fanmail/threads/07-changes-in-website|Private Correspondence - 07 - Changes in website]] — same category: site-feedback
+- [[knowledge/private/fanmail/threads/05-broken-link|Private Correspondence - 05 - Broken Link :)]] — same category: site-feedback
+- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: website, site, bugs
+<!-- vault-crosslinks:end -->

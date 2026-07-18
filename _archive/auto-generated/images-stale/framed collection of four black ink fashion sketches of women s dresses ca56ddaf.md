@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Four Framed Black Ink Fashion Sketches of Women's Dresses bcffcde1|Illustration Four Framed Black Ink Fashion Sketches of Women's Dresses]] — shared language: dresses, fashion, sketches
 - [[_archive/auto-generated/images-stale/four framed black line fashion sketches of coats and jackets 4b125aef|four framed black line fashion sketches of coats and jackets]] — shared language: fashion, sketches, four
 - [[knowledge/wiki/images/Illustration Four Framed Black Line Fashion Sketches of Coats and Jackets 7d956fd8|Illustration Four Framed Black Line Fashion Sketches of Coats and Jackets]] — shared language: fashion, sketches, four
-- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: fashion
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
+- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: fashion
 <!-- vault-crosslinks:end -->

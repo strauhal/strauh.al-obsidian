@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Painting of a Standing Nude Fi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "720x725"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

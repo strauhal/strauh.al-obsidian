@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Red Flowers on Dark Background with Japanes
 collection: "unsorted"
 inferred_year: ""
 artist: "Sachiko Kuru"
-dimensions: "1833x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

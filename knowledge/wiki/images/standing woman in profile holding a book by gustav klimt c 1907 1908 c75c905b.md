@@ -6,7 +6,7 @@ source_relpath: "1900s/standing_woman_in_profile_holding_a_book_by_gustav_klimt_
 collection: "1900s"
 inferred_year: "1908"
 artist: "gustav klimt"
-dimensions: "2268x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

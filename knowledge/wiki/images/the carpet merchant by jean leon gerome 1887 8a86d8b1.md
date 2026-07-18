@@ -6,7 +6,7 @@ source_relpath: "1800s/the_carpet_merchant_by_jean_leon_gerome_1887.jpeg"
 collection: "1800s"
 inferred_year: "1887"
 artist: "jean leon gerome"
-dimensions: "800x1023"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

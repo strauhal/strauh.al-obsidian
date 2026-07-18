@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Classical Scene with Man and Dancing Women
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "640x459"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

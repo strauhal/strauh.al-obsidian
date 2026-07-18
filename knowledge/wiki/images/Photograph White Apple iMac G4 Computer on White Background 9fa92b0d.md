@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - White Apple iMac G4 Computer on White Backgr
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1920x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

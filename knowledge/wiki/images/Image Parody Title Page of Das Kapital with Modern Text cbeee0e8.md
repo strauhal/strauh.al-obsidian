@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Parody Title Page of Das Kapital with Modern T
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "500x491"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/soldier_ordering_important_abstraction_to_attack_the_left
 collection: "1900s"
 inferred_year: "1914"
 artist: "marcel duchamp"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

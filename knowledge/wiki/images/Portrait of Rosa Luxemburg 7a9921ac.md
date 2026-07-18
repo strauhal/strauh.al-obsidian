@@ -6,7 +6,7 @@ source_relpath: "photography/Portrait of Rosa Luxemburg.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "497x746"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

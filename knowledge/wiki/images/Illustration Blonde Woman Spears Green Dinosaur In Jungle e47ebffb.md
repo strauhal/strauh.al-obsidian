@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Blonde Woman Spears Green Dinosaur In J
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1274x828"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

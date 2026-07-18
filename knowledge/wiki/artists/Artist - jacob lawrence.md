@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - jacob jordaens|Artist - jacob jordaens]] — shared language: jacob
 - [[knowledge/wiki/images/The Fall of Icarus by Jacob Peter Gowy (c. 1637) b16fca45|The Fall of Icarus by Jacob Peter Gowy (c. 1637)]] — shared language: jacob
 - [[knowledge/wiki/images/sir lawrence almatadema the roses of heliogabalus 1888 7671b476|sir lawrence almatadema the roses of heliogabalus 1888]] — shared language: lawrence
-- [[knowledge/wiki/images/the merry family by jacob jordaens c 1638 cf003064|the merry family by jacob jordaens c 1638]] — shared language: jacob
 - [[knowledge/wiki/artists/Artist - sir thomas lawrence|Artist - sir thomas lawrence]] — shared language: lawrence
+- [[knowledge/wiki/images/the merry family by jacob jordaens c 1638 cf003064|the merry family by jacob jordaens c 1638]] — shared language: jacob
 <!-- vault-crosslinks:end -->

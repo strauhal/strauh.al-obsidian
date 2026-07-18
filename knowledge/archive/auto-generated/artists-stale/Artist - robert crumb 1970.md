@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert crumb 1967|Artist - robert crumb 1967]] — shared language: crumb, robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert crumb 1986|Artist - robert crumb 1986]] — shared language: crumb, robert
 - [[knowledge/wiki/artists/Artist - robert crumb|Artist - robert crumb]] — shared language: crumb, robert, getting
-- [[knowledge/wiki/images/Comic Man Arguing With An Eye About Drawing by Robert Crumb 48e2b1fe|Comic Man Arguing With An Eye About Drawing by Robert Crumb]] — shared language: crumb, robert
+- [[knowledge/wiki/images/drawing cartoons is fun by robert crumb 1969 4eb5dd20|drawing cartoons is fun by robert crumb 1969]] — shared language: crumb, robert
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "photography/High-Angle View of Building Facade, Sidewalk, and L
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2004x2614"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

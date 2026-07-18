@@ -6,7 +6,7 @@ source_relpath: "photography/Historic Cityscape With Numerous Medieval Towers An
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x564"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

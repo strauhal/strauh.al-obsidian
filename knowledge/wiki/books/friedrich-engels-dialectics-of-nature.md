@@ -9,8 +9,8 @@ metadata: curated
 aliases: [dialectics-nature]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/dialectics-nature.epub"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Dialectics of Nature

@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Buff Character in Sunglasses and Armor Typing on 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1080x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Buff Cha
 - [[knowledge/wiki/images/Screenshot Video Game Scene With Character In Sunglasses And Speech Bubble 22531545|Screenshot Video Game Scene With Character In Sunglasses And Speech Bubble]] — shared language: sunglasses, character
 - [[knowledge/wiki/images/Illustration Anime Character with Purple Hair, Heterochromia, and Golden Armor by Kinji Yoshimoto d0fc45bb|Illustration Anime Character with Purple Hair, Heterochromia, and Golden Armor by Kinji Yoshimoto]] — shared language: armor, character
 - [[knowledge/wiki/images/Person Typing at Large Curved Screen Displaying Data 7b186e28|Person Typing at Large Curved Screen Displaying Data]] — shared language: typing
-- [[knowledge/wiki/images/Black and Orange Cats Near a Laptop 548f19ea|Black and Orange Cats Near a Laptop]] — shared language: laptop, laptop.jpg
+- [[knowledge/wiki/images/Illustration Cartoon Person Angrily Typing At Computer, 'DIE ' On Screen 34b976e1|Illustration Cartoon Person Angrily Typing At Computer, 'DIE ' On Screen]] — shared language: typing
 <!-- vault-crosslinks:end -->

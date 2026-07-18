@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of Mirny Town and Mir Diamond Mine by S
 collection: "photography"
 inferred_year: ""
 artist: "Slava Stepanov"
-dimensions: "660x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

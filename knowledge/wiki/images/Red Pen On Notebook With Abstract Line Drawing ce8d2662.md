@@ -6,7 +6,7 @@ source_relpath: "photography/Red Pen On Notebook With Abstract Line Drawing.jpeg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1536x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Red Pen On
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pen
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: pen
-- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: notebook
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: notebook
+- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: line
 <!-- vault-crosslinks:end -->

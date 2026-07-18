@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of Bing Chat Analyzing a CAPTC
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "680x530"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

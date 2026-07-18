@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Mural of Goku as Chef for Taqueria Goku
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "640x407"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

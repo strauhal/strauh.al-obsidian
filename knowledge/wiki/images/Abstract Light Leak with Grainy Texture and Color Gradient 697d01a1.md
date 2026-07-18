@@ -6,7 +6,7 @@ source_relpath: "photography/Abstract Light Leak with Grainy Texture and Color G
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "896x1344"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

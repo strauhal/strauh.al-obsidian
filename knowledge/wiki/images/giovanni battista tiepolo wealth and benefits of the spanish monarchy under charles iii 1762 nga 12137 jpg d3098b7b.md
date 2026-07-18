@@ -6,7 +6,7 @@ source_relpath: "1700s/giovanni_battista_tiepolo_wealth_and_benefits_of_the_span
 collection: "1700s"
 inferred_year: "1762"
 artist: ""
-dimensions: "2283x4000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

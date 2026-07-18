@@ -6,7 +6,7 @@ source_relpath: "1900s/photograph_of_a_person_revealing_a_tattoo_reading_r_mutt_
 collection: "1900s"
 inferred_year: "1917"
 artist: ""
-dimensions: "960x1792"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

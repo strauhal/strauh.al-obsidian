@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/brain(wip).html"
 source_relpath: "brain(wip).html"
 compiled: "True"
-compiled_at: "2026-07-10T12:26:39"
+compiled_at: "2026-07-18T00:07:15"
 tags: ["strauhal", "source/html"]
 ---
 # brain(wip)
@@ -26,6 +26,8 @@ reset
 search
 
 chat
+
+face
 
 chat with strauh.al/brain×
 
@@ -69,10 +71,10 @@ scroll = zoom · drag = rotate 3D · right-drag = pan · drag node = move · hov
 
 - [[knowledge/wiki/pages/brain|brain]] — shared language: brain, force, chat
 - [[knowledge/wiki/pages/brain debug test|brain debug test]] — shared language: brain, force, chat
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: stored, link, it's
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: stored, link, site
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: brain, ever
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: drag, click, settings
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: force
-- [[knowledge/wiki/people/Megan|Megan]] — shared language: node, link, talk
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: site, link
+- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: drag, click
 <!-- vault-crosslinks:end -->

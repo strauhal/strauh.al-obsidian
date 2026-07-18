@@ -6,7 +6,7 @@ source_relpath: "1700s/the_triumph_of_galatea_by_corrado_giaquinto_c_1750.jpeg"
 collection: "1700s"
 inferred_year: "1750"
 artist: "corrado giaquinto"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

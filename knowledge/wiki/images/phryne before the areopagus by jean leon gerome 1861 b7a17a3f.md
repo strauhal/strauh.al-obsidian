@@ -6,7 +6,7 @@ source_relpath: "1800s/phryne_before_the_areopagus_by_jean_leon_gerome_1861.jpg"
 collection: "1800s"
 inferred_year: "1861"
 artist: "jean leon gerome"
-dimensions: "2240x1400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

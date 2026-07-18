@@ -6,7 +6,7 @@ source_relpath: "1900s/dotonbori_osaka_by_kawase_hasui_1927.jpg"
 collection: "1900s"
 inferred_year: "1927"
 artist: "kawase hasui"
-dimensions: "1000x1458"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

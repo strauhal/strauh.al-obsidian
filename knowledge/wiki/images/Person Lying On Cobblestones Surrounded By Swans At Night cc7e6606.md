@@ -6,7 +6,7 @@ source_relpath: "photography/Person Lying On Cobblestones Surrounded By Swans At
 collection: "photography"
 inferred_year: ""
 artist: "Swans At Night"
-dimensions: "480x360"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

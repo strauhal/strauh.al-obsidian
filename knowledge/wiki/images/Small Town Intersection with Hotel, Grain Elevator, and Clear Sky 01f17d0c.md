@@ -6,7 +6,7 @@ source_relpath: "photography/Small Town Intersection with Hotel, Grain Elevator,
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1536"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Small Town
 
 - [[knowledge/wiki/images/Red Brick Hotel And Green Grain Elevator Under Blue Sky c44397bf|Red Brick Hotel And Green Grain Elevator Under Blue Sky]] — shared language: elevator, grain, hotel
 - [[knowledge/wiki/images/Illustration Watercolor Painting of a Small Town with Church Steeple d45837cd|Illustration Watercolor Painting of a Small Town with Church Steeple]] — shared language: town, small
-- [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: clear
 - [[knowledge/wiki/images/Photograph Grid of Small Birds Flying Against Cloudy Blue Sky 759358f4|Photograph Grid of Small Birds Flying Against Cloudy Blue Sky]] — shared language: small, sky
 - [[knowledge/wiki/images/Photograph Close Up Of Golden Grain Stalk Against Dual Toned Background afd7196a|Photograph Close Up Of Golden Grain Stalk Against Dual Toned Background]] — shared language: grain
+- [[knowledge/wiki/images/Black and White Photograph of Geometric Sculpture with Small Figure e578cd32|Black and White Photograph of Geometric Sculpture with Small Figure]] — shared language: small
 <!-- vault-crosslinks:end -->

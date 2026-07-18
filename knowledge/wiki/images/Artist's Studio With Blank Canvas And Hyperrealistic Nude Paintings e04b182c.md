@@ -6,7 +6,7 @@ source_relpath: "photography/Artist's Studio With Blank Canvas And Hyperrealisti
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "3610x3072"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

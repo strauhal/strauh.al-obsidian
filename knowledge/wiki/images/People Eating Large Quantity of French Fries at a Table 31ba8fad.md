@@ -6,7 +6,7 @@ source_relpath: "photography/People Eating Large Quantity of French Fries at a T
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "800x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

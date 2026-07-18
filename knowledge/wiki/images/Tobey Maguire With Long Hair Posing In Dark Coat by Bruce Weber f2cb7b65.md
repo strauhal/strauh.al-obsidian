@@ -6,7 +6,7 @@ source_relpath: "photography/Tobey Maguire With Long Hair Posing In Dark Coat by
 collection: "photography"
 inferred_year: ""
 artist: "Bruce Weber"
-dimensions: "720x900"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

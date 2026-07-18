@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Painting of a Crumpled Note with Handwr
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "3024x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Document Lined Paper with Handwritten Text, Doodles, and Sticky Notes ad5323cb|Document Lined Paper with Handwritten Text, Doodles, and Sticky Notes]] — shared language: handwritten, text
 - [[knowledge/wiki/images/Photograph Crumpled Metallic Balenciaga Drawstring Bag with Silver Chain 0302a99a|Photograph Crumpled Metallic Balenciaga Drawstring Bag with Silver Chain]] — shared language: crumpled
 - [[knowledge/wiki/images/Illustration Framed Sheet Of Paper With Blue Ink Sketches And Handwritten Notes c2fc1be4|Illustration Framed Sheet Of Paper With Blue Ink Sketches And Handwritten Notes]] — shared language: handwritten
-- [[knowledge/wiki/books/french-modernist-library-andr-breton-mary-ann-caws-mad-love|Mad Love]] — shared language: love
+- [[knowledge/wiki/images/Illustration Collage of Handwritten Notes, Sketches, Diagrams, and Drawings on Lined Paper 92cf19d0|Illustration Collage of Handwritten Notes, Sketches, Diagrams, and Drawings on Lined Paper]] — shared language: handwritten
 <!-- vault-crosslinks:end -->

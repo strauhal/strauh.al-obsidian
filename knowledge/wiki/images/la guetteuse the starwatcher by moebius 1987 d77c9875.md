@@ -6,7 +6,7 @@ source_relpath: "1900s/la_guetteuse_the_starwatcher_by_moebius_1987.jpg"
 collection: "1900s"
 inferred_year: "1987"
 artist: "moebius"
-dimensions: "1080x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

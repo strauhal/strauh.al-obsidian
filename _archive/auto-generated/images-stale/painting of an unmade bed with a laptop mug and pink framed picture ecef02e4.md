@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Painting of an Unmade Bed with Laptop, Mug, and Pink Picture 9192d376|Illustration Painting of an Unmade Bed with Laptop, Mug, and Pink Picture]] — shared language: unmade, mug, bed
+- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: picture
+- [[knowledge/private/fanmail/threads/29-picture|Private Correspondence - 29 - picture]] — shared language: picture
 - [[_archive/auto-generated/images-stale/framed landscape painting with pink sky and mountain 961a2908|framed landscape painting with pink sky and mountain]] — shared language: framed, pink
 - [[_archive/auto-generated/images-stale/framed blue and black abstract painting cb5fd197|framed blue and black abstract painting]] — shared language: framed
-- [[_archive/auto-generated/images-stale/chrome framed stand holding an open laptop 45ce723a|chrome framed stand holding an open laptop]] — shared language: laptop, framed
-- [[knowledge/wiki/images/Illustration Abstract Still Life with Teal Mug and Glowing Lamp 34b7cf27|Illustration Abstract Still Life with Teal Mug and Glowing Lamp]] — shared language: mug
 <!-- vault-crosslinks:end -->

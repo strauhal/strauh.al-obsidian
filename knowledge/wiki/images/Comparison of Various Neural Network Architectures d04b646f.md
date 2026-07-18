@@ -6,7 +6,7 @@ source_relpath: "diagrams/Comparison_of_Various_Neural_Network_Architectures.jpg
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "686x478"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

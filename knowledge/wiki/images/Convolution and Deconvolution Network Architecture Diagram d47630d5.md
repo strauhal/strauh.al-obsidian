@@ -6,7 +6,7 @@ source_relpath: "diagrams/Convolution_and_Deconvolution_Network_Architecture_Dia
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "955x269"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

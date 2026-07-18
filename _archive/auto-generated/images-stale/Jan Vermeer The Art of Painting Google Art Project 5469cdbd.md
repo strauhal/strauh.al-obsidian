@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: project
 - [[knowledge/wiki/artists/Artist - johannes vermeer|Artist - johannes vermeer]] — shared language: vermeer
 - [[knowledge/wiki/images/The Art of Painting by Johannes Vermeer (c. 1666 1668) 75172f11|The Art of Painting by Johannes Vermeer (c. 1666 1668)]] — shared language: vermeer
-- [[_archive/auto-generated/books-stale/the-arcades-project|THE ARCADES PROJECT]] — shared language: project
+- [[_archive/auto-generated/images-stale/Carracci, Lodovico St Francis in Meditation Google Art Project 981f31e8|Carracci, Lodovico St Francis in Meditation Google Art Project]] — shared language: google, project, project.jpg
 <!-- vault-crosslinks:end -->

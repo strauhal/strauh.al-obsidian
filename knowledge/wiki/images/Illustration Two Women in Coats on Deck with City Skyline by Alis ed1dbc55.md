@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Women in Coats on Deck with City Sk
 collection: "unsorted"
 inferred_year: ""
 artist: "Alis"
-dimensions: "1080x821"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

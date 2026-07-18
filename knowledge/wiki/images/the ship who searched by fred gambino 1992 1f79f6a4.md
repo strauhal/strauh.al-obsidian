@@ -6,7 +6,7 @@ source_relpath: "1900s/the_ship_who_searched_by_fred_gambino_1992.jpg"
 collection: "1900s"
 inferred_year: "1992"
 artist: "fred gambino"
-dimensions: "2048x1589"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Dia
 - [[knowledge/wiki/images/Diagram Comparing Hand Drawn And Perfect Circles Labeled Soul And Soulless 4db0c1a9|Diagram Comparing Hand Drawn And Perfect Circles Labeled Soul And Soulless]] — shared language: soulless, perfect, circles
 - [[_archive/auto-generated/images-stale/diagram comparing hand drawn circle and perfect circle labeled soul and soulless 32624072|diagram comparing hand drawn circle and perfect circle labeled soul and soulless]] — shared language: soulless, perfect, soul
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, circles
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand, drawn
 - [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: perfect
+- [[_archive/auto-generated/images-stale/Diagram Complex Geometric Diagram with Intersecting Circles and Lines 74da075e|Diagram Complex Geometric Diagram with Intersecting Circles and Lines]] — shared language: circles, diagram
 <!-- vault-crosslinks:end -->

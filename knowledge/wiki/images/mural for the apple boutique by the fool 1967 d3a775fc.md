@@ -6,7 +6,7 @@ source_relpath: "1900s/mural_for_the_apple_boutique_by_the_fool_1967.jpg"
 collection: "1900s"
 inferred_year: "1967"
 artist: ""
-dimensions: "1125x1053"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/genova_piazza_della_vittoria_by_gabriele_basilico_1980.jp
 collection: "1900s"
 inferred_year: "1980"
 artist: "gabriele basilico"
-dimensions: "928x1232"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

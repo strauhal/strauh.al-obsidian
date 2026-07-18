@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Stylized Figures With Pink Pig Toy 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1125x1266"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

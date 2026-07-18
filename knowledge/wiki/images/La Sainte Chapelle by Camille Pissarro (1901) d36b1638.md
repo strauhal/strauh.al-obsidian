@@ -6,7 +6,7 @@ source_relpath: "2000s/La Sainte-Chapelle by Camille Pissarro (1901).jpg"
 collection: "2000s"
 inferred_year: "1901"
 artist: ""
-dimensions: "843x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

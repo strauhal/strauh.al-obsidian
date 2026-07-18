@@ -6,7 +6,7 @@ source_relpath: "1900s/at_the_window_by_konstantin_korovin_1913.jpg"
 collection: "1900s"
 inferred_year: "1913"
 artist: "konstantin korovin"
-dimensions: "501x640"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/at_the_window_by
 
 - [[knowledge/wiki/artists/Artist - konstantin yuon|Artist - konstantin yuon]] — shared language: konstantin
 - [[knowledge/wiki/artists/Artist - konstantin makovsky|Artist - konstantin makovsky]] — shared language: konstantin
+- [[knowledge/wiki/artists/Artist - konstantin manizer|Artist - konstantin manizer]] — shared language: konstantin
 - [[knowledge/wiki/images/portrait of a woman by konstantin makovsky 1880 189a2d30|portrait of a woman by konstantin makovsky 1880]] — shared language: konstantin
 - [[knowledge/wiki/images/portrait of a woman by konstantin makovsky 1880 6b3987c3|portrait of a woman by konstantin makovsky 1880]] — shared language: konstantin
-- [[knowledge/wiki/artists/Artist - konstantin manizer|Artist - konstantin manizer]] — shared language: konstantin
 <!-- vault-crosslinks:end -->

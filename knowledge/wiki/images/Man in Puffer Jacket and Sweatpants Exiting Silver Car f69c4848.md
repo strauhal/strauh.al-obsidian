@@ -6,7 +6,7 @@ source_relpath: "photography/Man in Puffer Jacket and Sweatpants Exiting Silver 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "808x1161"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Man in Puf
 - [[knowledge/wiki/images/Young Man in Black Hoodie and Sweatpants Standing Against Wall d67f5b71|Young Man in Black Hoodie and Sweatpants Standing Against Wall]] — shared language: sweatpants
 - [[knowledge/wiki/images/Illustration Portrait of a Man in Dark Jacket and Blue Shirt 3cec8479|Illustration Portrait of a Man in Dark Jacket and Blue Shirt]] — shared language: jacket
 - [[knowledge/wiki/images/Illustration Stylized Portrait of a Man with Glasses and Orange Jacket fff37f41|Illustration Stylized Portrait of a Man with Glasses and Orange Jacket]] — shared language: jacket
-- [[knowledge/wiki/images/Illustration Graphic Portrait of Woman with Blue Hair and Green Jacket 4923a93f|Illustration Graphic Portrait of Woman with Blue Hair and Green Jacket]] — shared language: jacket
+- [[knowledge/wiki/images/Illustration Abstract Woven Painting with Red, Orange, Blue, and Silver Squares decd2476|Illustration Abstract Woven Painting with Red, Orange, Blue, and Silver Squares]] — shared language: silver
 <!-- vault-crosslinks:end -->

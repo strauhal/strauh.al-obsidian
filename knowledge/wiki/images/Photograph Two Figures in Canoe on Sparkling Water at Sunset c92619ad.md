@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Two Figures in Canoe on Sparkling Water at S
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1472x981"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

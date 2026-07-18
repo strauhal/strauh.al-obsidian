@@ -6,7 +6,7 @@ source_relpath: "photography/Ergonomic Mousepad With Man's Head On Woman's Bikin
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "612x816"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

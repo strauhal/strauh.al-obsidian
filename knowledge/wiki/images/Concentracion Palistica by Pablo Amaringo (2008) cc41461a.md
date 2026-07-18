@@ -6,7 +6,7 @@ source_relpath: "2000s/Concentracion Palistica by Pablo Amaringo (2008).jpg"
 collection: "2000s"
 inferred_year: "2008"
 artist: ""
-dimensions: "960x1310"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

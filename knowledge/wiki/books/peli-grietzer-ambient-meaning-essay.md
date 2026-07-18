@@ -9,8 +9,8 @@ metadata: curated
 aliases: [GB Site-1 Peli-Grietzer Eng]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/GB_Site-1_Peli-Grietzer_Eng.pdf"
 sources: ["[[books]]"]
-created: 2026-07-10
-updated: 2026-07-10
+created: 2026-07-18
+updated: 2026-07-18
 ---
 
 # Ambient Meaning (essay)

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Symmetrical White Line Drawing Resembli
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1280x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

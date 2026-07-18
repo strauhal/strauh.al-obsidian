@@ -6,7 +6,7 @@ source_relpath: "unsorted/Warm-Up by Mel Blue.jpeg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Mel Blue"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

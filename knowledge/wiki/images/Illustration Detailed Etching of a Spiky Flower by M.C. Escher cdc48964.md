@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Detailed Etching of a Spiky Flower by M
 collection: "unsorted"
 inferred_year: ""
 artist: "M.C. Escher"
-dimensions: "500x636"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

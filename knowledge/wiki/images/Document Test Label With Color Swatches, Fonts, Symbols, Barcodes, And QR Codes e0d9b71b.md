@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Test Label With Color Swatches, Fonts, Symb
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "1540x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

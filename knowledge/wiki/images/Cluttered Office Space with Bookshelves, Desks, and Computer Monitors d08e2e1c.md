@@ -6,7 +6,7 @@ source_relpath: "photography/Cluttered Office Space with Bookshelves, Desks, and
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1258x1500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Alex Karp Doing Handstand At New York Times DealBoo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1024x523"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

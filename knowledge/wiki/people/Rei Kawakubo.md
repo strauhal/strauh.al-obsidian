@@ -33,7 +33,7 @@ Japanese-avant-garde fashion lineage.
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: influences, listed, among
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: influences, whose, diary
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: influences, listed, ernest's
-- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: influences, listed, among
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: influences, whose, diary
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: influences, diary, listed
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: influences, listed, among
 <!-- vault-crosslinks:end -->

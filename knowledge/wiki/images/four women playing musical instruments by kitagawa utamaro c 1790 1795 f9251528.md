@@ -6,7 +6,7 @@ source_relpath: "1700s/four_women_playing_musical_instruments_by_kitagawa_utamar
 collection: "1700s"
 inferred_year: "1795"
 artist: "kitagawa utamaro"
-dimensions: "596x875"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

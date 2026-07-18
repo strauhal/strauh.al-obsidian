@@ -6,7 +6,7 @@ source_relpath: "1400s/christ_and_the_apostles_the_apostles_creed_by_michael_wol
 collection: "1400s"
 inferred_year: "1493"
 artist: "michael wolgemut and wilhelm pleydenwurff"
-dimensions: "2268x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

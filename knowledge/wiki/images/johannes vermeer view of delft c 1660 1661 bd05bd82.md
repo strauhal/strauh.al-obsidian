@@ -6,7 +6,7 @@ source_relpath: "1600s/johannes_vermeer_view_of_delft_c_1660_1661.jpg"
 collection: "1600s"
 inferred_year: "1661"
 artist: ""
-dimensions: "3000x2491"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

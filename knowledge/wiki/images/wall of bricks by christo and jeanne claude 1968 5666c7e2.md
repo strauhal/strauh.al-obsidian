@@ -6,7 +6,7 @@ source_relpath: "1900s/wall_of_bricks_by_christo_and_jeanne_claude_1968.jpg"
 collection: "1900s"
 inferred_year: "1968"
 artist: "christo and jeanne claude"
-dimensions: "455x674"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/wall_of_bricks_b
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Art Installation Of Red Bricks In A White Gallery 3972391f|Art Installation Of Red Bricks In A White Gallery]] — shared language: bricks
-- [[knowledge/wiki/artists/Artist - claude joseph vernet|Artist - claude joseph vernet]] — shared language: claude
 - [[knowledge/wiki/images/portrait of jeanne samary by pierre auguste renoir 1877 2a1af3c9|portrait of jeanne samary by pierre auguste renoir 1877]] — shared language: jeanne
 - [[knowledge/wiki/images/portrait of jeanne samary by pierre auguste renoir 1877 373189cf|portrait of jeanne samary by pierre auguste renoir 1877]] — shared language: jeanne
+- [[knowledge/wiki/artists/Artist - claude joseph vernet|Artist - claude joseph vernet]] — shared language: claude
 - [[knowledge/wiki/artists/Artist - jean claude janninieres|Artist - jean claude janninieres]] — shared language: claude
 <!-- vault-crosslinks:end -->

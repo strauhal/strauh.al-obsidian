@@ -6,7 +6,7 @@ source_relpath: "2000s/Woman Combing Hair by Susan Kare (1984).gif"
 collection: "2000s"
 inferred_year: "1984"
 artist: ""
-dimensions: "576x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

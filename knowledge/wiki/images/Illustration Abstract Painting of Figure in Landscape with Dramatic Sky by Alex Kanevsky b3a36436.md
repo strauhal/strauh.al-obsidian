@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Painting of Figure in Landscap
 collection: "unsorted"
 inferred_year: ""
 artist: "Alex Kanevsky"
-dimensions: "720x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

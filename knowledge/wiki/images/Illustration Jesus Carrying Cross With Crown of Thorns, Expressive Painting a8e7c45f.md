@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Jesus Carrying Cross With Crown of Thorns,
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "2800x2770"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

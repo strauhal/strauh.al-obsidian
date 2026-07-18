@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Person Standing on Tall Pole Above New York City Skyline b74071ae|Person Standing on Tall Pole Above New York City Skyline]] — shared language: pole, tall, skyline
 - [[_archive/auto-generated/images-stale/photograph of a person standing on a tall pole above the new york city skyline near the empire state building 0786ea0d|photograph of a person standing on a tall pole above the new york city skyline near the empire state building]] — shared language: pole, tall, skyline
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, tall
 - [[knowledge/wiki/images/Person at desk overlooking Central Park and New York City skyline af2d49c1|Person at desk overlooking Central Park and New York City skyline]] — shared language: skyline, york, new
 - [[_archive/auto-generated/images-stale/Photograph Person at desk overlooking Central Park and New York City skyline 74f91637|Photograph Person at desk overlooking Central Park and New York City skyline]] — shared language: skyline, york, new
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, tall
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Visual_Comparison_of_Text_on_LCD,_E-Ink,_and_Paper_Sur
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: "590x2443"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

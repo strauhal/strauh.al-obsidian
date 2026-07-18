@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - In-Game Chat Log with Korean and English 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "960x786"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: log
 - [[knowledge/wiki/images/Screenshot Screenshot of Bing Chat Analyzing a CAPTCHA with Words 0391875d|Screenshot Screenshot of Bing Chat Analyzing a CAPTCHA with Words]] — shared language: chat, screenshot
 - [[knowledge/wiki/images/Screenshot Screenshot of Chat Interface with Informational and Abusive Messages 2ae37dca|Screenshot Screenshot of Chat Interface with Informational and Abusive Messages]] — shared language: chat, screenshot
-- [[knowledge/wiki/books/plato-john-burnet-euthyphro-apology-of-socrates-and-crito-clarendon-greek-text-with-english-notes-clarendon-press|Euthyphro, Apology of Socrates, and Crito (Clarendon Greek Text with English Notes)-Clarendon Press]] — shared language: english, text
+- [[knowledge/wiki/images/Screenshot Screenshot of a Messaging App with Redacted Chat Bubbles 3bffa8ff|Screenshot Screenshot of a Messaging App with Redacted Chat Bubbles]] — shared language: chat, screenshot
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "artists/kawase_husui/kawase-hasui-heirin-temple-nobidome.jpg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "1371x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

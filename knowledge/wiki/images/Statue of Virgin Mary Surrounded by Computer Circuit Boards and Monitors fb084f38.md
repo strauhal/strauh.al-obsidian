@@ -6,7 +6,7 @@ source_relpath: "photography/Statue of Virgin Mary Surrounded by Computer Circui
 collection: "photography"
 inferred_year: ""
 artist: "Computer Circuit Boards and Monitors"
-dimensions: "1179x1152"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

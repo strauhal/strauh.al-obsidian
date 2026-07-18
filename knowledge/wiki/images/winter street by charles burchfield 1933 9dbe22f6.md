@@ -6,7 +6,7 @@ source_relpath: "1900s/winter_street_by_charles_burchfield_1933.jpeg"
 collection: "1900s"
 inferred_year: "1933"
 artist: "charles burchfield"
-dimensions: "4284x5712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

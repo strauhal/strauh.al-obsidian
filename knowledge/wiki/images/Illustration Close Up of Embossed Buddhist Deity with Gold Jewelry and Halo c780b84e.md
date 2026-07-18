@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Close-Up of Embossed Buddhist Deity wit
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: "800x800"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

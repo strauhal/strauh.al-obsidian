@@ -6,7 +6,7 @@ source_relpath: "1900s/Gas by Edward Hopper (1940).jpg"
 collection: "1900s"
 inferred_year: "1940"
 artist: ""
-dimensions: "2000x1298"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

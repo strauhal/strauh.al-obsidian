@@ -6,7 +6,7 @@ source_relpath: "photography/Greta Thunberg Wearing Keffiyeh And 'Autism' T-Shir
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "460x558"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

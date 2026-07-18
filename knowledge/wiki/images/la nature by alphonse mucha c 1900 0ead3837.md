@@ -6,7 +6,7 @@ source_relpath: "1900s/la_nature_by_alphonse_mucha_c_1900.jpeg"
 collection: "1900s"
 inferred_year: "1900"
 artist: "alphonse mucha"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

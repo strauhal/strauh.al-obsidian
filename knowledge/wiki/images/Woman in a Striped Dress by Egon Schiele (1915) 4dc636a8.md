@@ -6,7 +6,7 @@ source_relpath: "1900s/Woman in a Striped Dress by Egon Schiele (1915).webp"
 collection: "1900s"
 inferred_year: "1915"
 artist: ""
-dimensions: "1280x2102"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

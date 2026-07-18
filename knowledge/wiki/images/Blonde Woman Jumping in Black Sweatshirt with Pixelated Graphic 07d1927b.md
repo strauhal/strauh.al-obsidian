@@ -6,7 +6,7 @@ source_relpath: "photography/Blonde Woman Jumping in Black Sweatshirt with Pixel
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2048x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -36,6 +36,6 @@ and anonymous at once.
 - [[knowledge/wiki/artists/Artist - Barry McGee|Artist - Barry McGee]] — shared language: mcgee, barry, train
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: influences, internet, listed
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, whose, diary
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: internet, confidant, whose
+- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences, listed, among
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: diary, internet, confidant
 <!-- vault-crosslinks:end -->

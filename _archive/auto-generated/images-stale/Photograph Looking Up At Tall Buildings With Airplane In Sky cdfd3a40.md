@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings, tall
 - [[_archive/auto-generated/images-stale/Photograph Tall Buildings Against Blue Sky With Single Cloud aa573a52|Photograph Tall Buildings Against Blue Sky With Single Cloud]] — shared language: tall, buildings, sky
 - [[knowledge/wiki/images/Tall Buildings Against Blue Sky With Single Cloud df032ea4|Tall Buildings Against Blue Sky With Single Cloud]] — shared language: tall, buildings, sky
-- [[knowledge/wiki/images/Illustration Lighthouse And Buildings Under A Blue Sky be6ea595|Illustration Lighthouse And Buildings Under A Blue Sky]] — shared language: buildings, sky
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tall
 <!-- vault-crosslinks:end -->

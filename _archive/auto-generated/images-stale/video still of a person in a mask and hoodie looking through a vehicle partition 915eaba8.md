@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Person in Mask and Hoodie Looks Through Police Vehicle Partition ad9d49b9|Screenshot Person in Mask and Hoodie Looks Through Police Vehicle Partition]] — shared language: partition, hoodie, vehicle
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video
 - [[knowledge/wiki/images/Illustration Portrait of Young Person Looking Down in Hoodie 99c7f9af|Illustration Portrait of Young Person Looking Down in Hoodie]] — shared language: hoodie, looking, person
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
+- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: video, person
 <!-- vault-crosslinks:end -->

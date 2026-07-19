@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Amusing Ourselves to Death Public Discourse in the Age of Show Business by Neil Postman (z-lib.org).pdf"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Amusing Ourselves to Death Public Discourse in the Age of Show Business
@@ -43,6 +43,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — same category: media technology
 - [[knowledge/wiki/books/kurzweil-ray-the-age-of-spiritual-machines-when-computers-exceed-human|The age of spiritual machines - when computers exceed human]] — same category: media technology
 - [[knowledge/wiki/books/charles-dickens-great-expectations-public-domain-books|Great Expectations-Public Domain Books]] — same category: media technology
-- [[knowledge/wiki/books/william-gibson-neuromancer-remembering-tomorrow|Neuromancer (Remembering Tomorrow)]] — same category: media technology
 - [[knowledge/wiki/books/william-gibson-pattern-recognition-a-novel|Pattern Recognition - A Novel]] — same category: media technology
+- [[knowledge/wiki/books/william-gibson-neuromancer-remembering-tomorrow|Neuromancer (Remembering Tomorrow)]] — same category: media technology
 <!-- vault-crosslinks:end -->

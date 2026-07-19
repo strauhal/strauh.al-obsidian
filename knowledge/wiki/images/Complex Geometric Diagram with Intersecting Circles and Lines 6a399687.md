@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Complex_Geome
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex, diagram, circles
 - [[knowledge/wiki/images/Document Document Page With A Complex Geometric Line Diagram 2c888ac0|Document Document Page With A Complex Geometric Line Diagram]] — shared language: complex, geometric, diagram
 - [[knowledge/wiki/images/Illustration Black and White Geometric Pattern of Overlapping Circles 286ec6ef|Illustration Black and White Geometric Pattern of Overlapping Circles]] — shared language: circles, geometric
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: complex
 - [[knowledge/wiki/images/Diagram Complex Geometric Diagram of a Six Dimensional Polytope a46a5020|Diagram Complex Geometric Diagram of a Six Dimensional Polytope]] — shared language: complex, diagram, geometric
-- [[knowledge/wiki/images/Diagram Symmetrical Geometric Diagram of a Complex Polytope Projection 962101aa|Diagram Symmetrical Geometric Diagram of a Complex Polytope Projection]] — shared language: complex, diagram, geometric
 <!-- vault-crosslinks:end -->

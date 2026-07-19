@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Brown Leat
 - [[knowledge/wiki/images/Comic Bald Figure Shouting 'Don't Shoot ' From Inside A Vehicle a5d39251|Comic Bald Figure Shouting 'Don't Shoot ' From Inside A Vehicle]] — shared language: vehicle, inside
 - [[knowledge/wiki/images/Train with Headlights Inside Another Train Car 2d35357c|Train with Headlights Inside Another Train Car]] — shared language: inside, car
 - [[knowledge/wiki/images/Window Seat With Pillows, Books, And Green Landscape View 95124102|Window Seat With Pillows, Books, And Green Landscape View]] — shared language: seat
-- [[knowledge/wiki/images/Photograph Modern Transparent Chair with Wooden Seat and Back Slats e25dccf2|Photograph Modern Transparent Chair with Wooden Seat and Back Slats]] — shared language: seat
+- [[knowledge/wiki/images/Man in Leather Jacket Smoking Cigarette at Table 794be880|Man in Leather Jacket Smoking Cigarette at Table]] — shared language: leather
 <!-- vault-crosslinks:end -->

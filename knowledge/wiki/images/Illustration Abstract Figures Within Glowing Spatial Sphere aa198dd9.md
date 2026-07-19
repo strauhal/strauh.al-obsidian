@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: spatial
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: spatial
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: spatial
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: within
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: spatial
-- [[knowledge/wiki/images/Illustration Blue Glowing Abstract Figure on Dark Background bab4a6d9|Illustration Blue Glowing Abstract Figure on Dark Background]] — shared language: glowing
 <!-- vault-crosslinks:end -->

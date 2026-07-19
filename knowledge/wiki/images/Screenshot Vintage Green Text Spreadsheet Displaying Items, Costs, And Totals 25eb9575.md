@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/images/Screenshot Screenshot of a Drawing Program Displaying Abstract Pixel Art 55fb41e7|Screenshot Screenshot of a Drawing Program Displaying Abstract Pixel Art]] — shared language: displaying, screenshot
 - [[knowledge/wiki/images/Photograph Vintage Apple PenLite Prototype Computer Displaying Classic OS f997ba85|Photograph Vintage Apple PenLite Prototype Computer Displaying Classic OS]] — shared language: vintage, displaying
 - [[knowledge/wiki/images/Screenshot Computer Screenshot Displaying Paris Landmarks, Maps, and Japanese Text 0af85f33|Screenshot Computer Screenshot Displaying Paris Landmarks, Maps, and Japanese Text]] — shared language: displaying, screenshot, text
-- [[knowledge/wiki/images/Screenshot Underlined Text '(You)' on Light Background 02efe092|Screenshot Underlined Text '(You)' on Light Background]] — shared language: screenshot, text
+- [[knowledge/wiki/images/Screenshot Screenshot of a Computer Desktop Displaying an Abstract Pattern 19f0aa8e|Screenshot Screenshot of a Computer Desktop Displaying an Abstract Pattern]] — shared language: displaying, screenshot
 <!-- vault-crosslinks:end -->

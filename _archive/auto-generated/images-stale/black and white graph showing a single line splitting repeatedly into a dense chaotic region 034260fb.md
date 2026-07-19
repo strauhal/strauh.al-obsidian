@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: graph, single
 - [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line, single
-- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: line, single
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: graph
 - [[knowledge/wiki/images/Illustration Red Abstract Looping Line Drawing On Graph Paper ab7a839e|Illustration Red Abstract Looping Line Drawing On Graph Paper]] — shared language: graph, line
+- [[_archive/auto-generated/images-stale/red abstract looping line drawing on graph paper 83281a52|red abstract looping line drawing on graph paper]] — shared language: graph, line
 <!-- vault-crosslinks:end -->

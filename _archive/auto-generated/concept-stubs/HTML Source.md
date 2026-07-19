@@ -16,9 +16,9 @@ Related: [[strauh.al Index]], [[strauh.al Image Archive]]
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
 - [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: related, pages
 - [[_archive/auto-generated/concept-stubs/Compiled Wiki|Compiled Wiki]] — shared language: related
+- [[knowledge/wiki/concepts/Interest-Dependent Persistence|Interest-Dependent Persistence]] — shared language: converted
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: converted
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: website
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: converted
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: strauh.al4
-- [[knowledge/wiki/images/Photograph Vaulted Brick Room Converted Into Modern Office Space fbcfa894|Photograph Vaulted Brick Room Converted Into Modern Office Space]] — shared language: converted
-- [[_archive/auto-generated/images-stale/burberry website png 429f934c|burberry website png]] — shared language: website
 <!-- vault-crosslinks:end -->

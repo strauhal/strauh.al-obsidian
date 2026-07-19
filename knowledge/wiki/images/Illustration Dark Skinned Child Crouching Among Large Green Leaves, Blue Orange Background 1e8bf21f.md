@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: among
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: among
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: among
-- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: among
+- [[knowledge/wiki/images/Illustration Abstract Painting of Three Orange Persimmons on a Green Background 669fc1f9|Illustration Abstract Painting of Three Orange Persimmons on a Green Background]] — shared language: orange, green, background
 <!-- vault-crosslinks:end -->

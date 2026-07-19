@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 
 - [[knowledge/wiki/images/Illustration Digital Sketch of Woman with Blue Face and Braids 2751907e|Illustration Digital Sketch of Woman with Blue Face and Braids]] — shared language: braids, sketch, digital
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
-- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: angry
 - [[knowledge/wiki/images/Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips 19f9c949|Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips]] — shared language: sketch, digital
 - [[knowledge/wiki/images/Illustration Abstract Digital Shapes and Lines on Pink Background 40cd0107|Illustration Abstract Digital Shapes and Lines on Pink Background]] — shared language: digital, background, background.png
+- [[knowledge/wiki/books/the-best-of-amp-digital|the best of amp digital]] — shared language: digital
 <!-- vault-crosslinks:end -->

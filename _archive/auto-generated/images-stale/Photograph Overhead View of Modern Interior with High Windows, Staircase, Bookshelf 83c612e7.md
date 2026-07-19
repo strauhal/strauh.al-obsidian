@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Overhead View of Modern Interior with High Windows, Staircase, Bookshelf 66d33ff5|Overhead View of Modern Interior with High Windows, Staircase, Bookshelf]] — shared language: bookshelf, overhead, staircase
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: staircase, modern, view
 - [[knowledge/wiki/images/Illustration Overhead View Of A Spiral Staircase With Patterned Floor 51d715ee|Illustration Overhead View Of A Spiral Staircase With Patterned Floor]] — shared language: overhead, staircase, view
 - [[knowledge/wiki/images/Illustration Sketchbook Drawing of Interior with Large Windows and Street View 9b70cb15|Illustration Sketchbook Drawing of Interior with Large Windows and Street View]] — shared language: windows, interior, view
 - [[knowledge/wiki/images/Modern Kitchen And Spiral Staircase In Open Plan Interior f090fe5d|Modern Kitchen And Spiral Staircase In Open Plan Interior]] — shared language: staircase, modern, interior
-- [[_archive/auto-generated/images-stale/Photograph Modern Kitchen And Spiral Staircase In Open Plan Interior 026a54e5|Photograph Modern Kitchen And Spiral Staircase In Open Plan Interior]] — shared language: staircase, modern, interior
 <!-- vault-crosslinks:end -->

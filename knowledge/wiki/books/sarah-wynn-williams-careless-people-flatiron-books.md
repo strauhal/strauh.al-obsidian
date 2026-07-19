@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Sarah Wynn-Williams - Careless People-Flatiron Books (2025).epub"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Careless People-Flatiron Books

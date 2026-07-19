@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Partial View of Twitter Sign on Building with Person in Window 7731955b|Partial View of Twitter Sign on Building with Person in Window]] — shared language: partial, twitter, sign
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, view
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: twitter
 - [[knowledge/wiki/images/Screenshot Screenshot of a Twitter Post Showing Man Holding Sign by Alonzo Merriweather e4ebd726|Screenshot Screenshot of a Twitter Post Showing Man Holding Sign by Alonzo Merriweather]] — shared language: twitter, sign
 - [[_archive/auto-generated/images-stale/administration building d797c4c3|administration building]] — shared language: building
-- [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: window, person
 <!-- vault-crosslinks:end -->

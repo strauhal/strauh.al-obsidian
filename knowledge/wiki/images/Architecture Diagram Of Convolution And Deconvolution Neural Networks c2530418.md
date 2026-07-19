@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Architecture_
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: neural, convolution, diagram
 - [[knowledge/wiki/images/Convolution and Deconvolution Network Architecture Diagram d47630d5|Convolution and Deconvolution Network Architecture Diagram]] — shared language: convolution, diagram
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: convolution
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: neural
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: neural
-- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: neural
 <!-- vault-crosslinks:end -->

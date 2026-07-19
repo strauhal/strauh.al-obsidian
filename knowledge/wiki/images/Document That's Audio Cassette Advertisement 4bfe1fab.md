@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Th
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: that's
-- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: that's
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: that's
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: that's
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: audio
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Three Anatomical Illustrations of Male Musculature, Front, Back, Side Views by Julius Tandler 7a051cec|Illustration Three Anatomical Illustrations of Male Musculature, Front, Back, Side Views by Julius Tandler]] — shared language: anatomical, views, male
 - [[knowledge/wiki/images/Diagram Three Line Drawings of Female Skeleton Back, Side, Front Views d991f361|Diagram Three Line Drawings of Female Skeleton Back, Side, Front Views]] — shared language: skeleton, views, three
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: anatomical
-- [[knowledge/wiki/images/Diagram Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton 99c06aeb|Diagram Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton]] — shared language: anatomical, skeleton, human
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
 <!-- vault-crosslinks:end -->

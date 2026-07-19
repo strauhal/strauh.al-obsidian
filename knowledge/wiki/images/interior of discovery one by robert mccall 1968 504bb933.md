@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/interior_of_disc
 
 - [[knowledge/wiki/images/space station v by robert mccall 1968 1d4be7f1|space station v by robert mccall 1968]] — same artist: robert mccall
 - [[knowledge/wiki/images/The Future World by Robert McCall (1982) 90e90c47|The Future World by Robert McCall (1982)]] — shared language: mccall, robert
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: discovery
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one
 - [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: one
-- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: one
 <!-- vault-crosslinks:end -->

@@ -20,6 +20,6 @@ as Confidant|The Internet]] — shared language: internet, confidant, canonical
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: confidant, internet, see
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: confidant, internet
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: confidant, internet, see
-- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: internet, confidant
 - [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, richer, spelling
+- [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, richer, spelling
 <!-- vault-crosslinks:end -->

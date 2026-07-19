@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Photograph Photograph of a Display Case Showing a Clenched Hand Image 76568dcf|Photograph Photograph of a Display Case Showing a Clenched Hand Image]] — shared language: clenched, hand
 - [[_archive/auto-generated/images-stale/Photograph Skeleton with material on head, dark background b1cd0aa9|Photograph Skeleton with material on head, dark background]] — shared language: material, dark, background
 - [[knowledge/wiki/images/Skeleton with material on head, dark background ba1af680|Skeleton with material on head, dark background]] — shared language: material, dark, background
-- [[knowledge/wiki/images/Photograph Photograph of a Display Case Showing a Clenched Hand Image 76568dcf|Photograph Photograph of a Display Case Showing a Clenched Hand Image]] — shared language: clenched, hand
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
-- [[knowledge/archive/auto-generated/artists-stale/Artist - white material|Artist - White Material]] — shared language: material
+- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: hand
 <!-- vault-crosslinks:end -->

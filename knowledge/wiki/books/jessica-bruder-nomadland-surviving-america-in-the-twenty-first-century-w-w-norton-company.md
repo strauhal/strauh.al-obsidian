@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Jessica Bruder - Nomadland_ Surviving America in the Twenty-First Century-W. W. Norton & Company (2017).epub"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Nomadland Surviving America in the Twenty-First Century-W. W. Norton & Company

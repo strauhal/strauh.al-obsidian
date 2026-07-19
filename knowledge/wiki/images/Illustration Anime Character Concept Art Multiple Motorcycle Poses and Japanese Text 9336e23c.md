@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: multiple, character
 - [[knowledge/wiki/images/Illustration Anime Character Design Sheet with Multiple Figures a6ebdf5d|Illustration Anime Character Design Sheet with Multiple Figures]] — shared language: anime, multiple, character
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
 - [[knowledge/wiki/images/Illustration Anime Character Design Sheet with Multiple Views and Annotations d3ef695e|Illustration Anime Character Design Sheet with Multiple Views and Annotations]] — shared language: anime, multiple, character
 - [[knowledge/wiki/images/Illustration Line Drawing of Multiple Male Weightlifters in Dynamic Poses 21731524|Illustration Line Drawing of Multiple Male Weightlifters in Dynamic Poses]] — shared language: poses, multiple
-- [[knowledge/wiki/images/Black And White Tattoo Of Anime Girl With Text 871741f2|Black And White Tattoo Of Anime Girl With Text]] — shared language: anime, text
 <!-- vault-crosslinks:end -->

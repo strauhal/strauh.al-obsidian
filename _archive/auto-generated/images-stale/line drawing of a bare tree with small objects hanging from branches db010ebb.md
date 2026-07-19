@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tree branches|Artist - tree branches]] — shared language: branches, tree
 - [[knowledge/wiki/images/Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night 48c16123|Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night]] — shared language: bare, branches, tree
 - [[_archive/auto-generated/images-stale/Photograph Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night 065caf42|Photograph Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night]] — shared language: bare, branches, tree
-- [[knowledge/wiki/images/Illustration Pixel Art House with Bare Tree and Red Door ce9be94d|Illustration Pixel Art House with Bare Tree and Red Door]] — shared language: bare, tree
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: objects
 <!-- vault-crosslinks:end -->

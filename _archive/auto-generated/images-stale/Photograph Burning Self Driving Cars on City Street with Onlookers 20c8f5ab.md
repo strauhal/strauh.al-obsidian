@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Burning Self Driving Cars on City Street with Onlookers ceccd11b|Burning Self Driving Cars on City Street with Onlookers]] — shared language: onlookers, burning, cars
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, onlookers
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: burning, city, street
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
-- [[knowledge/wiki/images/Multiple Cars Burning on a Street with Thick Smoke ff3e1d14|Multiple Cars Burning on a Street with Thick Smoke]] — shared language: burning, cars, street
 <!-- vault-crosslinks:end -->

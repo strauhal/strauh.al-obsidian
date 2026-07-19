@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Timeline_of_M
 
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — named in this note
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences
-- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: influences
 <!-- vault-crosslinks:end -->

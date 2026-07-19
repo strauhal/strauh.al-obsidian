@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: vintage
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: music
-- [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: club
 <!-- vault-crosslinks:end -->

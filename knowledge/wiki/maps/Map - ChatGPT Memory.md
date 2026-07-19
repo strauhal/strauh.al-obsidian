@@ -2,8 +2,8 @@
 title: Map - ChatGPT Memory
 type: map
 tags: [map, chatgpt, memory, conversations]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Map - ChatGPT Memory
@@ -37,10 +37,10 @@ A provenance-aware bridge between ChatGPT and the strauh.al knowledge base.
 
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
 - [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: memory, synthesis, preserve
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: memory, remain, provenance-aware
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: memory, trust
+- [[knowledge/wiki/maps/Map - Claim Provenance|Map - Claim Provenance]] — shared language: memory, chatgpt, synthesis
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: memory
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: memory
-- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: review, refresh, lint
-- [[knowledge/wiki/books/chatgpt-suicide-rtfd|chatgpt suicide.rtfd]] — shared language: chatgpt
-- [[knowledge/README|README]] — shared language: chatgpt, memory, wiki
 <!-- vault-crosslinks:end -->

@@ -23,8 +23,8 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/plate 97 by carl jung c 19151930 23e3cedd|plate 97 by carl jung c 19151930]] — shared language: plate
 - [[knowledge/wiki/images/White Animal Artworks Displayed in a Gallery or Studio Space dbdf5e36|White Animal Artworks Displayed in a Gallery or Studio Space]] — shared language: animal
+- [[knowledge/wiki/images/plate 97 by carl jung c 19151930 23e3cedd|plate 97 by carl jung c 19151930]] — shared language: plate
 - [[knowledge/wiki/images/White Plate With Blue Willow Pattern Design ed444a6b|White Plate With Blue Willow Pattern Design]] — shared language: plate
 - [[knowledge/wiki/images/Photograph White Oval Plate With Blue And White Willow Pattern c6f86516|Photograph White Oval Plate With Blue And White Willow Pattern]] — shared language: plate
 - [[knowledge/wiki/images/Illustration Pencil Sketches of Animal Skulls and Female Faces on White Paper b5fe4627|Illustration Pencil Sketches of Animal Skulls and Female Faces on White Paper]] — shared language: animal

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/psychedelic digital collage based on windows 7 wallpaper d148a585|psychedelic digital collage based on windows 7 wallpaper]] — shared language: windows, collage, digital
 - [[_archive/auto-generated/images-stale/Img26 (Windows 7) 255d58cc|Img26 (Windows 7)]] — shared language: windows
 - [[knowledge/wiki/images/Photograph Two Men With Contrasting Skin Tones Facing Each Other 1029cbf6|Photograph Two Men With Contrasting Skin Tones Facing Each Other]] — shared language: contrasting
-- [[knowledge/wiki/images/Person in Bra with Laptop and Bottles in Concrete Pipe aebb8800|Person in Bra with Laptop and Bottles in Concrete Pipe]] — shared language: laptop, person
+- [[knowledge/wiki/images/Illustration Collage of Dark, Surreal Digital Art and Performance Stills 3fe2f6ec|Illustration Collage of Dark, Surreal Digital Art and Performance Stills]] — shared language: collage, digital
 <!-- vault-crosslinks:end -->

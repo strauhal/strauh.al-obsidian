@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - lygia pape|Artist - lygia pape]] — named in this note
 - [[knowledge/wiki/images/Illustration Abstract Print with Distorted Horizontal Lines Forming Rounded Shapes 7a1cd769|Illustration Abstract Print with Distorted Horizontal Lines Forming Rounded Shapes]] — shared language: forming, horizontal, print
 - [[knowledge/wiki/images/Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines 3896cd1d|Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines]] — shared language: horizontal, lines, geometric
+- [[knowledge/wiki/pages/knowledge base wikipedia articles|knowledge base wikipedia articles]] — shared language: lygia, pape
 - [[_archive/auto-generated/images-stale/abstract drawing of interlocking geometric shapes composed of horizontal black lines d0ba27db|abstract drawing of interlocking geometric shapes composed of horizontal black lines]] — shared language: horizontal, lines, geometric
 - [[knowledge/wiki/images/Illustration Dense Geometric Grid Pattern of Black Lines Forming Triangles 8f0d250a|Illustration Dense Geometric Grid Pattern of Black Lines Forming Triangles]] — shared language: forming, lines, geometric
-- [[_archive/auto-generated/images-stale/abstract composition with black horizontal stripes forming a wavy shape 68652ca6|abstract composition with black horizontal stripes forming a wavy shape]] — shared language: forming, horizontal
 <!-- vault-crosslinks:end -->

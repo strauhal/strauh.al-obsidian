@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Man Painti
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, water
 - [[knowledge/wiki/images/Illustration Woman in White Dress Floating in Dark Water 45a8d74e|Illustration Woman in White Dress Floating in Dark Water]] — shared language: floating, water
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: easel
 - [[knowledge/wiki/images/Photograph Wasp Floating on Blue Water with Shadow 1d8dd101|Photograph Wasp Floating on Blue Water with Shadow]] — shared language: floating, water
-- [[knowledge/wiki/images/Abstract Grid Painting on Easel with Art Supplies 75dd97ef|Abstract Grid Painting on Easel with Art Supplies]] — shared language: easel
 <!-- vault-crosslinks:end -->

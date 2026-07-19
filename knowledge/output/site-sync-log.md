@@ -92,11 +92,11 @@ None — all four repos were reachable; all three site repos were already up to 
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — named in this note
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
 - [[knowledge/wiki/anchors/blobby|blobby]] — named in this note
 - [[knowledge/wiki/images/finder 75a55db0|finder]] — named in this note
 - [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
 - [[knowledge/wiki/pages/scripts|scripts]] — named in this note
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: vault, already, site
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: site, computerdrawing.club, fanmail
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: site, fanmail, computerdrawing.club
+- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: site, attachments
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: site, added, left
 <!-- vault-crosslinks:end -->

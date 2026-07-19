@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - His
 - [[_archive/auto-generated/images-stale/3d topographical map visualization of south america highlighting the andes 0ccd2c4d|3d topographical map visualization of south america highlighting the andes]] — shared language: south, america
 - [[_archive/auto-generated/images-stale/Diagram 3D Topographical Map Visualization of South America by cstats1 3e931f8f|Diagram 3D Topographical Map Visualization of South America by cstats1]] — shared language: south, america, diagram
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: arabic
-- [[knowledge/wiki/images/3D Topographical Map Visualization of South America by cstats1 beb5f518|3D Topographical Map Visualization of South America by cstats1]] — shared language: south, america
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 <!-- vault-crosslinks:end -->

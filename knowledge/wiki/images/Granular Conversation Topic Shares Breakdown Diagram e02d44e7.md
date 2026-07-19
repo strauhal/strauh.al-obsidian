@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Granular_Conv
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Breakdown Of Granular Conversation Topic Shares e5fc7700|Breakdown Of Granular Conversation Topic Shares]] — shared language: breakdown, granular, shares
+- [[knowledge/wiki/images/Breakdown Of Granular Conversation Topic Shares e5fc7700|Breakdown Of Granular Conversation Topic Shares]] — shared language: breakdown, shares, granular
 - [[knowledge/wiki/images/Illustration Abstract Outlines of Figures Over Bright Granular Colors with Red Seal 9a64cada|Illustration Abstract Outlines of Figures Over Bright Granular Colors with Red Seal]] — shared language: granular
 - [[knowledge/wiki/images/Diagram Black And White Visualization Of Curved Lines In 3D cbca891d|Diagram Black And White Visualization Of Curved Lines In 3D]] — shared language: diagram
 - [[knowledge/wiki/images/Document Document Page With A Complex Geometric Line Diagram 2c888ac0|Document Document Page With A Complex Geometric Line Diagram]] — shared language: diagram, diagram.jpeg

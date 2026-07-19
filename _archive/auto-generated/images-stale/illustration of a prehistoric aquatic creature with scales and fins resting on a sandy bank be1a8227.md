@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Interest-Dependent Persistence|Interest-Dependent Persistence]] — shared language: scales
 - [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: scales
 - [[knowledge/wiki/books/nicolas-slonimsky-thesaurus-of-scales-and-melodic-patterns-text-schirmer-trade-books|Thesaurus of Scales and Melodic Patterns (Text)-Schirmer Trade Books]] — shared language: scales
 - [[knowledge/wiki/images/Illustration Four Palm Trees in Sandy Landscape Under Blue Sky 6634a976|Illustration Four Palm Trees in Sandy Landscape Under Blue Sky]] — shared language: sandy
 - [[knowledge/wiki/images/creature 64ad9ca4|creature]] — shared language: creature
-- [[_archive/auto-generated/images-stale/framed painting of mont saint michel on a sandy plain 5284da2d|framed painting of mont saint michel on a sandy plain]] — shared language: sandy
 <!-- vault-crosslinks:end -->

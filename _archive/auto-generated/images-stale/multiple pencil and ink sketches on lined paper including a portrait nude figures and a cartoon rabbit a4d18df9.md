@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Multiple Pencil and Ink Sketches on Lined Paper Portrait, Nudes, Rabbit 7cea7f94|Illustration Multiple Pencil and Ink Sketches on Lined Paper Portrait, Nudes, Rabbit]] — shared language: lined, rabbit, sketches
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, pencil
 - [[knowledge/wiki/images/Illustration Four Pencil Sketches of a Cartoon Skunk Character 5af40d26|Illustration Four Pencil Sketches of a Cartoon Skunk Character]] — shared language: cartoon, sketches, pencil
+- [[knowledge/wiki/images/Illustration Collage of Handwritten Notes, Sketches, Diagrams, and Drawings on Lined Paper 92cf19d0|Illustration Collage of Handwritten Notes, Sketches, Diagrams, and Drawings on Lined Paper]] — shared language: lined, sketches, paper
 - [[knowledge/wiki/images/Illustration Sheet of Multiple Ink and Pencil Sketches Featuring Figures and Head Studies 908351c4|Illustration Sheet of Multiple Ink and Pencil Sketches Featuring Figures and Head Studies]] — shared language: sketches, multiple, pencil
-- [[_archive/auto-generated/images-stale/sheet of multiple ink and pencil sketches featuring figures and head studies 61bbf422|sheet of multiple ink and pencil sketches featuring figures and head studies]] — shared language: sketches, multiple, pencil
 <!-- vault-crosslinks:end -->

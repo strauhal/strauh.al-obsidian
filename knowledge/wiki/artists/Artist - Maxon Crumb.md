@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Pen and Ink Self Portrait with Thought Bubble. by Robert Crumb a249b5d7|Illustration Pen and Ink Self Portrait with Thought Bubble. by Robert Crumb]] — shared language: crumb, bubble, thought
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: crumb, self, bubble
 - [[knowledge/wiki/artists/Artist - robert crumb|Artist - robert crumb]] — shared language: crumb
-- [[knowledge/wiki/images/getting out of the car by robert crumb 1970 5bdf165f|getting out of the car by robert crumb 1970]] — shared language: crumb
 - [[knowledge/wiki/images/Too Much Information by R. Crumb (2022) 87b5953f|Too Much Information by R. Crumb (2022)]] — shared language: crumb
+- [[knowledge/wiki/images/getting out of the car by robert crumb 1970 5bdf165f|getting out of the car by robert crumb 1970]] — shared language: crumb
 - [[knowledge/wiki/images/drawing cartoons is fun by robert crumb 1969 4eb5dd20|drawing cartoons is fun by robert crumb 1969]] — shared language: crumb
 <!-- vault-crosslinks:end -->

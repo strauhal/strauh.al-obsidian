@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/Photograph Aerial View of Detroit Skyline and River 5cbaf2c2|Photograph Aerial View of Detroit Skyline and River]] — shared language: detroit, aerial, river
 - [[_archive/auto-generated/images-stale/detroit aerial vjp 6710 jpg a150ad7d|detroit aerial vjp 6710 jpg]] — shared language: detroit, aerial
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, view
-- [[knowledge/wiki/images/Illustration Aerial View Of A Green River Winding Through Fields 8dcac42e|Illustration Aerial View Of A Green River Winding Through Fields]] — shared language: river, aerial, view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
 <!-- vault-crosslinks:end -->

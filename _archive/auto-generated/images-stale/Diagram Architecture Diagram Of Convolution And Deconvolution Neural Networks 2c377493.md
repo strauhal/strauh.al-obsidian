@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Arc
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, neural, convolution
 - [[_archive/auto-generated/images-stale/Diagram Convolution and Deconvolution Network Architecture Diagram feb1e327|Diagram Convolution and Deconvolution Network Architecture Diagram]] — shared language: convolution, diagram
 - [[knowledge/wiki/images/Convolution and Deconvolution Network Architecture Diagram d47630d5|Convolution and Deconvolution Network Architecture Diagram]] — shared language: convolution, diagram
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: neural
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: convolution
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: complex, water, large
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
 - [[_archive/auto-generated/images-stale/black and white photograph of a large ornate exhibition building complex with domes and arched colonnades reflected in a body of water 5725dc54|black and white photograph of a large ornate exhibition building complex with domes and arched colonnades reflected in a body of water]] — shared language: exhibition, body, complex
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: body
 - [[knowledge/wiki/images/black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893 58d3f569|black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893]] — shared language: exhibition, buildings, large
-- [[knowledge/wiki/images/Image SOYMARION ENGRAVING 5fa73197|Image SOYMARION ENGRAVING]] — shared language: engraving
 <!-- vault-crosslinks:end -->

@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Abstract Stylized Cityscape with Geometric Patterns and Vibrant Colors 3cbbb655|Illustration Abstract Stylized Cityscape with Geometric Patterns and Vibrant Colors]] — shared language: vibrant, patterns, geometric
 - [[knowledge/wiki/images/Illustration Abstract Composition with Vibrant Colors, Organic Shapes, and Wavy Lines d0e9d337|Illustration Abstract Composition with Vibrant Colors, Organic Shapes, and Wavy Lines]] — shared language: organic, vibrant, shapes
+- [[knowledge/wiki/images/Illustration Abstract Stylized Cityscape with Geometric Patterns and Vibrant Colors 3cbbb655|Illustration Abstract Stylized Cityscape with Geometric Patterns and Vibrant Colors]] — shared language: vibrant, patterns, geometric
 - [[knowledge/wiki/images/Illustration Vibrant Geometric Textile with Abstract Patterns and Fuchsia Border e9845833|Illustration Vibrant Geometric Textile with Abstract Patterns and Fuchsia Border]] — shared language: vibrant, patterns, geometric
 - [[knowledge/wiki/images/Illustration Grid of Hand Drawn Geometric Shapes and Patterns 8e8fcb7f|Illustration Grid of Hand Drawn Geometric Shapes and Patterns]] — shared language: patterns, shapes, geometric
 - [[knowledge/wiki/images/Illustration Abstract Geometric Pattern with Dark Organic Shapes on Sketchbook Spread 26388df1|Illustration Abstract Geometric Pattern with Dark Organic Shapes on Sketchbook Spread]] — shared language: organic, shapes, geometric

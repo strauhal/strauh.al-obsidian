@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - ben nicholson|Artist - ben nicholson]] — named in this note
 - [[knowledge/wiki/artists/Artist - Paul Nicholson|Artist - Paul Nicholson]] — shared language: nicholson
 - [[knowledge/wiki/images/ben hur 1960 finnish original film art 1600x jpg 36362ebe|ben hur 1960 finnish original film art 1600x jpg]] — shared language: ben
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ben
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: ben
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: ben
+- [[_archive/auto-generated/images-stale/ben frost 4 jpg 57558bc3|ben frost 4 jpg]] — shared language: ben
+- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: ben
 <!-- vault-crosslinks:end -->

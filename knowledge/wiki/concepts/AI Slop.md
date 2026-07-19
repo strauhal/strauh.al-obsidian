@@ -50,18 +50,6 @@ these dork ass losers making ai art have probably never felt."
 **Books (1).** [[the-internet-s-ai-slop-problem-is-only-going-to-get-worse|The Internet’s AI Slop Problem Is Only Going to Get Worse]]
 
 <!-- archive-links:end -->
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/books/gilles-deleuze-anti-oedipus-capitalism-and-schizophrenia|Anti-Oedipus Capitalism and Schizophrenia]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
-- [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/books/essays|essays]] — named in this note
-- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
-<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -100,3 +88,16 @@ these dork ass losers making ai art have probably never felt."
 >
 > "The death of a social machine has never been heralded by a disharmony or a dysfunction; on the contrary, social machines make a habit of feeding on the contradictions they give rise to, on the crises they provoke, on the anxieties they engender, and on the infernal operations they regenerate. Capitalism has learned this, and has ceased doubting itself, while even socialists have abandoned belief in the possibility of capitalism's natural death by attrition. No one has ever died from contradictions. And the more it breaks down, the more it schizophrenizes, the better it works, the American way." - Gilles Deleuze, Anti-Oedipus: Capitalism and Schizophrenia
 <!-- quotes:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/gilles-deleuze-anti-oedipus-capitalism-and-schizophrenia|Anti-Oedipus Capitalism and Schizophrenia]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
+- [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/books/essays|essays]] — named in this note
+- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
+<!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/CVS Pharma
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, ornate
 - [[knowledge/wiki/images/Photograph Parking Lot with Adobe Buildings, Cars, and Abstract Sculpture d586d8de|Photograph Parking Lot with Adobe Buildings, Cars, and Abstract Sculpture]] — shared language: parking, lot
 - [[knowledge/wiki/images/Illustration Burning Shopping Cart In Foggy Parking Lot At Night ad9cddf5|Illustration Burning Shopping Cart In Foggy Parking Lot At Night]] — shared language: parking, lot
 - [[knowledge/wiki/images/Heavily Decorated Car with Political Slogans and Flowers in Parking Lot b41566e4|Heavily Decorated Car with Political Slogans and Flowers in Parking Lot]] — shared language: parking, lot, lot.jpeg
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Modern Building Entrance with Parking Sign 86b5dd75|Illustration Pencil Sketch of Modern Building Entrance with Parking Sign]] — shared language: parking, building
-- [[knowledge/wiki/books/pynchon-thomas-the-crying-of-lot-49|The Crying of Lot 49]] — shared language: lot
 <!-- vault-crosslinks:end -->

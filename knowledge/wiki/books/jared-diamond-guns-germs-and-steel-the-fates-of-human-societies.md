@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Jared Diamond - Guns, Germs and Steel_ The Fates of Human Societies (1999, Norton, W. W. & Company, Inc.) - libgen.lc.epub"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Guns, Germs and Steel The Fates of Human Societies

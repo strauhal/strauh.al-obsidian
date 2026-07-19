@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Two G
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: hole
 - [[knowledge/wiki/images/Stargazer by Ryan Bliss (2000) a074d7ce|Stargazer by Ryan Bliss (2000)]] — shared language: ryan
 - [[knowledge/wiki/images/the goldfish bowl by john william waterhouse 1905 7512e631|the goldfish bowl by john william waterhouse 1905]] — shared language: goldfish
 - [[knowledge/wiki/images/War Games by Petrina Ryan Kleid (2008) 87f9d01b|War Games by Petrina Ryan Kleid (2008)]] — shared language: ryan
 - [[knowledge/wiki/images/War Games by Petrina Ryan Kleid (2012) 26e66a0b|War Games by Petrina Ryan Kleid (2012)]] — shared language: ryan
+- [[knowledge/wiki/images/Comic Black and White Comic Art with Figures in Multiple Panels a7b76d96|Comic Black and White Comic Art with Figures in Multiple Panels]] — shared language: comic
 <!-- vault-crosslinks:end -->

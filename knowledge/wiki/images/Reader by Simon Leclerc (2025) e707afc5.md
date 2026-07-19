@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Reader by Simon 
 - [[knowledge/wiki/artists/Artist - simon vouet|Artist - simon vouet]] — shared language: simon
 - [[knowledge/wiki/artists/Artist - simon bisley|Artist - simon bisley]] — shared language: simon
 - [[knowledge/wiki/books/karl-marx-friedrich-engels-ed-robert-c-tucker-the-marx-engels-reader|The Marx-Engels Reader]] — shared language: reader
-- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: reader
 - [[knowledge/wiki/artists/Artist - Simon St lenhag|Artist - Simon St lenhag]] — shared language: simon
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: reader
 <!-- vault-crosslinks:end -->

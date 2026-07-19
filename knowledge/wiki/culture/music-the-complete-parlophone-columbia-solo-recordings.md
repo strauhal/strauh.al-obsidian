@@ -7,8 +7,8 @@ status: queued
 queue_order: 1
 tags: [culture, music, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # The Complete Parlophone & Columbia Solo Recordings
@@ -30,8 +30,8 @@ This is an active recording in Ernest's current cultural diet. Add dates, reacti
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/culture/music-philip-glass-solo|Listening - Philip Glass Solo]] — shared language: solo, listening, current
 - [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: recordings, listening
+- [[knowledge/wiki/culture/music-philip-glass-solo|Listening - Philip Glass Solo]] — shared language: solo, listening, current
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: recordings, ernest's
 - [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: solo, complete, current
 - [[knowledge/wiki/culture/music-ravel-the-complete-piano-works|Listening - Ravel: The Complete Piano Works]] — shared language: complete, listening, current

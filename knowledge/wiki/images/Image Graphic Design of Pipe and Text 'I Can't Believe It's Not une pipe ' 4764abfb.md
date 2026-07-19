@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Graphic 
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: can't, it's
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: can't, it's
 - [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: can't
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: it's
+- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: it's
 <!-- vault-crosslinks:end -->

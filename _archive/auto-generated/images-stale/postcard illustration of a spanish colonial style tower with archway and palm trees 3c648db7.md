@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Spanish Colonial Style Tower with Archway and Palm Trees 50d71ca5|Illustration Spanish Colonial Style Tower with Archway and Palm Trees]] — shared language: colonial, spanish, archway
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower, trees
 - [[_archive/auto-generated/images-stale/framed painting of four palm trees by the sea 95eac7ae|framed painting of four palm trees by the sea]] — shared language: palm, trees
 - [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: style
 - [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: style
-- [[_archive/auto-generated/images-stale/Photograph Street Lamp And Archway Framed By Trees At Dusk 0cf7753c|Photograph Street Lamp And Archway Framed By Trees At Dusk]] — shared language: archway, trees
 <!-- vault-crosslinks:end -->

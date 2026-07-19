@@ -29,7 +29,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - daniel arsham 2019|Artist - daniel arsham 2019]] — named in this note
 - [[knowledge/wiki/images/Illustration MacBook Pro Embedded in Rough Concrete like Material 3f184987|Illustration MacBook Pro Embedded in Rough Concrete like Material]] — shared language: macbook, pro
-- [[knowledge/wiki/books/daniel-kolitz-the-goon-squad|The Goon Squad,]] — shared language: daniel
 - [[knowledge/wiki/artists/Artist - Daniel Landin|Artist - Daniel Landin]] — shared language: daniel
+- [[knowledge/wiki/books/daniel-kolitz-the-goon-squad|The Goon Squad,]] — shared language: daniel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - daniel isles|Artist - Daniel Isles]] — shared language: daniel
 <!-- vault-crosslinks:end -->

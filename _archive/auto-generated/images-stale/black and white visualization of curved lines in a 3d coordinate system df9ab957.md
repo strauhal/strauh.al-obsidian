@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Diagram Black And White Visualization Of Curved Lines In 3D cbca891d|Diagram Black And White Visualization Of Curved Lines In 3D]] — shared language: curved, lines
 - [[knowledge/archive/auto-generated/artists-stale/Artist - radiating and curved lines|Artist - radiating and curved lines]] — shared language: curved, lines
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: curved
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: system
 - [[knowledge/wiki/images/Illustration Abstract Print with Vertical and Curved Black Lines c428fda5|Illustration Abstract Print with Vertical and Curved Black Lines]] — shared language: curved, lines
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: coordinate
 <!-- vault-crosslinks:end -->

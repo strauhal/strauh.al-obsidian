@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/artists/Artist - Snowy Pine Trees And Mountains At Dusk|Artist - Snowy Pine Trees And Mountains At Dusk]] — named in this note
 - [[knowledge/wiki/images/Photograph Historic Hotel Surrounded By Snowy Pine Trees And Mountains At Dusk 595024bc|Photograph Historic Hotel Surrounded By Snowy Pine Trees And Mountains At Dusk]] — same artist: snowy pine trees mountains dusk
 - [[knowledge/wiki/artists/Artist - Trees At Dusk|Artist - Trees At Dusk]] — shared language: dusk, trees
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees, large
 - [[_archive/auto-generated/images-stale/landscape of misty mountains and pine trees cc6cfc1d|landscape of misty mountains and pine trees]] — shared language: pine, mountains, trees
-- [[knowledge/wiki/images/Photograph Misty Mountains and Pine Trees in a Hazy Landscape e71270a6|Photograph Misty Mountains and Pine Trees in a Hazy Landscape]] — shared language: pine, mountains, trees
 <!-- vault-crosslinks:end -->

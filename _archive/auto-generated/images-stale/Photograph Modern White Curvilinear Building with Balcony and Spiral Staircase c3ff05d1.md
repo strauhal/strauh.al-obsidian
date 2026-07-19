@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Modern White Curvilinear Building with Balcony and Spiral Staircase 817c8aeb|Modern White Curvilinear Building with Balcony and Spiral Staircase]] — shared language: curvilinear, balcony, spiral
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, staircase, modern
 - [[knowledge/wiki/images/People on a Staircase and Balcony in a Brutalist Building 363f6659|People on a Staircase and Balcony in a Brutalist Building]] — shared language: balcony, staircase, building
 - [[_archive/auto-generated/images-stale/Photograph People on a Staircase and Balcony in a Brutalist Building 078ecec8|Photograph People on a Staircase and Balcony in a Brutalist Building]] — shared language: balcony, staircase, building
 - [[_archive/auto-generated/images-stale/photograph of a modern spiral staircase made of glass and stainless steel 0ff59c4d|photograph of a modern spiral staircase made of glass and stainless steel]] — shared language: spiral, staircase, modern
-- [[knowledge/wiki/images/Modern Kitchen And Spiral Staircase In Open Plan Interior f090fe5d|Modern Kitchen And Spiral Staircase In Open Plan Interior]] — shared language: spiral, staircase, modern
 <!-- vault-crosslinks:end -->

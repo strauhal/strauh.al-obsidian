@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/tool_cows_by_gar
 - [[knowledge/wiki/images/abstract expressionist by gary larson 1986 34af8119|abstract expressionist by gary larson 1986]] — same artist: gary larson
 - [[knowledge/wiki/images/cow tools by gary larson 1982 13190ff5|cow tools by gary larson 1982]] — same artist: gary larson
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: tool
-- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: tool
 - [[knowledge/wiki/books/gary-webb-dark-alliance-1999|Dark Alliance - 1999]] — shared language: gary
+- [[knowledge/wiki/images/dellasposa gary hume untitled water painting 1998 jpg 46def95f|dellasposa gary hume untitled water painting 1998 jpg]] — shared language: gary
 <!-- vault-crosslinks:end -->

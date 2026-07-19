@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - F
 - [[knowledge/wiki/images/Illustration Black And White Illustration Of A Person In A Forest With Fingerprint Ground cca85fdb|Illustration Black And White Illustration Of A Person In A Forest With Fingerprint Ground]] — shared language: fingerprint
 - [[knowledge/wiki/images/Illustration Stylized Human Figure Made of Interconnected Lines on Textured Paper 4195e69f|Illustration Stylized Human Figure Made of Interconnected Lines on Textured Paper]] — shared language: made, lines
 - [[knowledge/wiki/images/Illustration Op Art Pattern of Wavy Lines in Dark Gray and White bb9a007c|Illustration Op Art Pattern of Wavy Lines in Dark Gray and White]] — shared language: pattern, lines
-- [[knowledge/wiki/images/Illustration Complex Symmetrical Abstract Pattern of Dark Lines d9fa61c2|Illustration Complex Symmetrical Abstract Pattern of Dark Lines]] — shared language: pattern, lines
 - [[knowledge/wiki/images/Illustration Stylized Numbers 1 7 Using Vertical Lines on Grey Background e918d167|Illustration Stylized Numbers 1 7 Using Vertical Lines on Grey Background]] — shared language: numbers, lines
+- [[knowledge/wiki/images/Illustration Split Image of Tree Rings and Fingerprint Patterns 429cada4|Illustration Split Image of Tree Rings and Fingerprint Patterns]] — shared language: fingerprint
 <!-- vault-crosslinks:end -->

@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: page
 - [[knowledge/wiki/images/Screenshot Google Images Search Results Showing Crab Nebula and The Fall of the Damned c857aca6|Screenshot Google Images Search Results Showing Crab Nebula and The Fall of the Damned]] — shared language: results, search, screenshot
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: page
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: search
 - [[knowledge/wiki/images/Screenshot Screenshot of News Article About Vacant Homes and Homelessness 422d2d7c|Screenshot Screenshot of News Article About Vacant Homes and Homelessness]] — shared language: article, screenshot
 - [[knowledge/wiki/images/Document Magazine Article Page with Photo and Abstract Artwork 6980ed67|Document Magazine Article Page with Photo and Abstract Artwork]] — shared language: article, page

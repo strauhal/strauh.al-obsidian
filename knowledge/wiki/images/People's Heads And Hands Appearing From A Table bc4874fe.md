@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/People's H
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: people's
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: people's
 - [[knowledge/wiki/images/the angel appearing to the shepherds by thomas cole 18331834 2cc1b187|the angel appearing to the shepherds by thomas cole 18331834]] — shared language: appearing
 - [[knowledge/wiki/images/Green Leaves Appearing to Grow From White Building Walls 716abf1f|Green Leaves Appearing to Grow From White Building Walls]] — shared language: appearing
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Figures at a Table 9687cd6e|Illustration Black and White Ink Drawing of Figures at a Table]] — shared language: table
-- [[knowledge/wiki/images/Aerial View Of People's Shadows Playing Beach Volleyball 0dea2355|Aerial View Of People's Shadows Playing Beach Volleyball]] — shared language: people's
 <!-- vault-crosslinks:end -->

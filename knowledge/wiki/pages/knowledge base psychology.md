@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/psychology.html"
 source_relpath: "knowledge_base/psychology.html"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:16"
+compiled_at: "2026-07-19T02:00:04"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base psychology
@@ -146,9 +146,9 @@ strauh.al/knowledge_base/psychology
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
 - [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
 - [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
 - [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
-- [[knowledge/wiki/books/the-end-of-reading-is-here-the-atlantic|The Atlantic]] — named in this note
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
 - [[knowledge/wiki/books/luke-caldwell-schizophrenizing-lacan|Schizophrenizing Lacan]] — named in this note
+- [[knowledge/wiki/books/essays|essays]] — named in this note
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: disorder, knowledge
 <!-- vault-crosslinks:end -->

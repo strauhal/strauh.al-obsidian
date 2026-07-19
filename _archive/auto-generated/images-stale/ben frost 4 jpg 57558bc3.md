@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/ben hur 1960 finnish original film art 1600x jpg 36362ebe|ben hur 1960 finnish original film art 1600x jpg]] — shared language: ben, jpg.jpg
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ben
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: ben
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: frost
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: ben
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: frost
+- [[knowledge/wiki/artists/Artist - ben nicholson|Artist - ben nicholson]] — shared language: ben
+- [[knowledge/archive/auto-generated/artists-stale/Artist - ben nicholson 1937|Artist - ben nicholson 1937]] — shared language: ben
 <!-- vault-crosslinks:end -->

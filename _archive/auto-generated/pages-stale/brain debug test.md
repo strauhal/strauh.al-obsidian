@@ -69,10 +69,10 @@ scroll = zoom · drag = rotate 3D · right-drag = pan · drag node = move · hov
 
 - [[knowledge/wiki/pages/brain|brain]] — shared language: brain, force, chat
 - [[knowledge/wiki/pages/brain(wip)|brain(wip)]] — shared language: brain, force, chat
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: stored, link, site
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: brain, ever
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: drag, click, settings
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: force
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: site, link
+- [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: test
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: drag, click
 <!-- vault-crosslinks:end -->

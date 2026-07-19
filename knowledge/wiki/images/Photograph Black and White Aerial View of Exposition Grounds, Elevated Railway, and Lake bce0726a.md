@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
 - [[knowledge/wiki/images/Photograph Neoclassical Exposition Grounds with Central Basin, Viewed from Statue b5c60d34|Photograph Neoclassical Exposition Grounds with Central Basin, Viewed from Statue]] — shared language: grounds, exposition
 - [[knowledge/wiki/artists/Artist - Lake|Artist - Lake]] — shared language: lake
 - [[knowledge/wiki/images/Photograph Statue of The Republic Overlooking World's Columbian Exposition Grounds 4cfdb83a|Photograph Statue of The Republic Overlooking World's Columbian Exposition Grounds]] — shared language: grounds, exposition
-- [[knowledge/wiki/images/Aerial View of Snowy Chicago Skyline and Frozen Lake Michigan ac8822ee|Aerial View of Snowy Chicago Skyline and Frozen Lake Michigan]] — shared language: lake, aerial, view
 <!-- vault-crosslinks:end -->

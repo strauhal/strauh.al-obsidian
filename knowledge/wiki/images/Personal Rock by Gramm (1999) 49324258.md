@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Personal Rock by
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: personal
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: personal
 - [[knowledge/wiki/images/Illustration Black And White Ink Drawing Of A Forest With A Large Rock 13fa0bed|Illustration Black And White Ink Drawing Of A Forest With A Large Rock]] — shared language: rock
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: personal
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: personal
-- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: personal
 <!-- vault-crosslinks:end -->

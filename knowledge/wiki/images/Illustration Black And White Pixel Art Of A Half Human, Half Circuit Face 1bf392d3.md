@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
-- [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: half
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: half
+- [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: half
 - [[knowledge/wiki/images/Illustration Man Reading Book, Half Abstract Face, Cosmic Chaotic Background 4687f6b4|Illustration Man Reading Book, Half Abstract Face, Cosmic Chaotic Background]] — shared language: half, face
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
 <!-- vault-crosslinks:end -->

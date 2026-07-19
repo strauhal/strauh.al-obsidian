@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Car Creating Light Trails on Dark Surface 1f2bf2ea|Car Creating Light Trails on Dark Surface]] — named in this note
 - [[_archive/auto-generated/images-stale/black and white photograph of a car creating light trails on a dark surface 12757413|black and white photograph of a car creating light trails on a dark surface]] — shared language: trails, creating, surface
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: creating
 - [[_archive/auto-generated/images-stale/silhouette of a figure standing on a dark surface reflecting swirling golden light 637a3e78|silhouette of a figure standing on a dark surface reflecting swirling golden light]] — shared language: surface, light, dark
 - [[knowledge/wiki/images/Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails 7ef22f26|Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails]] — shared language: trails, light
+- [[_archive/auto-generated/images-stale/Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails 3653fe48|Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails]] — shared language: trails, light
 <!-- vault-crosslinks:end -->

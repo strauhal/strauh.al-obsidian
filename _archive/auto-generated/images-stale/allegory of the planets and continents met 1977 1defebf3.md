@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/allegory of the planets and continents met 1977 1 3 jpg 88f05de9|allegory of the planets and continents met 1977 1 3 jpg]] — named in this note
 - [[knowledge/wiki/images/Allegory of the Planets and Continents by Giovanni Battista Tiepolo (c. 1752) 432f8d55|Allegory of the Planets and Continents by Giovanni Battista Tiepolo (c. 1752)]] — shared language: continents, planets, allegory
 - [[knowledge/wiki/images/allegory of the planets and continents by giovanni battista tiepolo 17521753 68e6d8de|allegory of the planets and continents by giovanni battista tiepolo 17521753]] — shared language: continents, planets, allegory
-- [[_archive/auto-generated/images-stale/the admiralty paris met dp813268 jpg 7f05c023|the admiralty paris met dp813268 jpg]] — shared language: met
 - [[knowledge/wiki/artists/Artist - giovanni battista tiepolo 17521753|Artist - giovanni battista tiepolo 17521753]] — shared language: continents, planets, allegory
+- [[_archive/auto-generated/images-stale/the admiralty paris met dp813268 jpg 7f05c023|the admiralty paris met dp813268 jpg]] — shared language: met
 <!-- vault-crosslinks:end -->

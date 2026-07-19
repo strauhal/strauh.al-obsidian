@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Hayao Miyazaki and Hideaki Anno on a Porch with Pig Sign 8af30509|Photograph Hayao Miyazaki and Hideaki Anno on a Porch with Pig Sign]] — shared language: porch, pig, sign
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/images/Illustration Nocturne Painting of a Glowing Porch and Window 6776c5aa|Illustration Nocturne Painting of a Glowing Porch and Window]] — shared language: porch
 - [[_archive/auto-generated/images-stale/administration building d797c4c3|administration building]] — shared language: building
 - [[knowledge/wiki/images/Illustration Blue Pencil Sketches of Various Pig Characters 07dfcc66|Illustration Blue Pencil Sketches of Various Pig Characters]] — shared language: pig
-- [[knowledge/wiki/images/Illustration Two Stylized Figures With Pink Pig Toy And Cake 7cb49e74|Illustration Two Stylized Figures With Pink Pig Toy And Cake]] — shared language: pig
 <!-- vault-crosslinks:end -->

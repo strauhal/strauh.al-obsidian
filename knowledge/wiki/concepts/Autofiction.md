@@ -27,6 +27,9 @@ might read it (see [[The Internet as Confidant]]).
   diary entries from this point" — narrativization moves back into the art.
 
 ## Connections
+- [[Recursive Myth-Making]] — narrativization becomes especially powerful when later
+  machine summaries treat it as transparent fact.
+- [[Map - Claim Provenance]] — records pruning, retrospective editing, and common descent.
 - [[Post-Irony]] — the unstable register the narrativizing voice slides between.
 - [[The Internet as Confidant]] — the audience that bends the narrative.
 - [[Memory and Preservation]] — narration as another way of keeping the past.
@@ -43,6 +46,15 @@ might read it (see [[The Internet as Confidant]]).
 **Books (1).** [[imbred-autobiography|imbred autobiography]]
 
 <!-- archive-links:end -->
+
+<!-- quotes:start -->
+## Quotes
+
+*Collected quotes that speak to this — see all on [[knowledge base quotes]].*
+
+> A few of the adult guests wandered in, including Warhol and Haring. Warhol took one look at the computer program and turned to Haring in wonderment. "What is this? Look at this, Keith. This is incredible!" A few minutes later, Warhol asked if he could take a turn in front of the monitor. Jobs explained how the mouse worked, but the artist instead lifted it off the floor and swished it through the air. Finally, Jobs put his hand over Warhol's and steered it along until he'd gotten the hang of it. After a few minutes in concentrated silence, Warhol glanced up. "Look! Keith! I drew a circle!" That night, Warhol recorded the episode in his diary. He'd told Jobs that a man had been calling him repeatedly, trying to give him a Macintosh, but Warhol had never followed up. Jobs replied, "Yeah, that was me. I'm Steve Jobs." (The artist, famous for his neon-hued prints, also noted of the program, "It only comes in black and white now, but they'll make it soon in color.")
+<!-- quotes:end -->
+
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
@@ -55,11 +67,3 @@ might read it (see [[The Internet as Confidant]]).
 - [[knowledge/wiki/images/untitled by willem de kooning c 1949 1950 2942c6bb|untitled by willem de kooning c 1949 1950]] — named in this note
 - [[knowledge/wiki/people/Rembrandt|Rembrandt]] — named in this note
 <!-- vault-crosslinks:end -->
-
-<!-- quotes:start -->
-## Quotes
-
-*Collected quotes that speak to this — see all on [[knowledge base quotes]].*
-
-> A few of the adult guests wandered in, including Warhol and Haring. Warhol took one look at the computer program and turned to Haring in wonderment. "What is this? Look at this, Keith. This is incredible!" A few minutes later, Warhol asked if he could take a turn in front of the monitor. Jobs explained how the mouse worked, but the artist instead lifted it off the floor and swished it through the air. Finally, Jobs put his hand over Warhol's and steered it along until he'd gotten the hang of it. After a few minutes in concentrated silence, Warhol glanced up. "Look! Keith! I drew a circle!" That night, Warhol recorded the episode in his diary. He'd told Jobs that a man had been calling him repeatedly, trying to give him a Macintosh, but Warhol had never followed up. Jobs replied, "Yeah, that was me. I'm Steve Jobs." (The artist, famous for his neon-hued prints, also noted of the program, "It only comes in black and white now, but they'll make it soon in color.")
-<!-- quotes:end -->

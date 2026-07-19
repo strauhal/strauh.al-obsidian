@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Oil Painting of Young Man with Dark Hair and Dramatic Lighting f858ebf5|Illustration Oil Painting of Young Man with Dark Hair and Dramatic Lighting]] — shared language: dramatic, lighting, oil
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: study
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: study
+- [[knowledge/wiki/images/Illustration Figures in a Room with Dramatic Blue, Pink, and Orange Lighting f392c91e|Illustration Figures in a Room with Dramatic Blue, Pink, and Orange Lighting]] — shared language: dramatic, lighting
 <!-- vault-crosslinks:end -->

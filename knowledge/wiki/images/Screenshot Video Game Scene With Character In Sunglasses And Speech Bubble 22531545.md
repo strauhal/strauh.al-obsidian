@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/images/Comic Person Looking Out Window at Cityscape with Speech Bubble 8d69e92f|Comic Person Looking Out Window at Cityscape with Speech Bubble]] — shared language: speech, bubble, bubble.jpg
 - [[knowledge/wiki/images/Illustration Video Game Character Appears Behind Player In Room 6dd87004|Illustration Video Game Character Appears Behind Player In Room]] — shared language: game, video, character
 - [[knowledge/wiki/images/Comic Man in Shadow, Another Man by Car, Speech Bubble 7010de3e|Comic Man in Shadow, Another Man by Car, Speech Bubble]] — shared language: speech, bubble, bubble.jpg
+- [[knowledge/wiki/images/Illustration Nail Art Depicting First Person DOOM Video Game Scene 4bcceb61|Illustration Nail Art Depicting First Person DOOM Video Game Scene]] — shared language: game, video, scene
 <!-- vault-crosslinks:end -->

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Your Brain on Art_ How the Arts Transform Us Hardcover -- Susan Magsamen, Ivy Ross -- Penguin Random House LLC, New York, 2023 -- National Geographic -- 9780593449233 -- aa1bda52121ac0ad064c90697a33ca22 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Your Brain on Art How the Arts Transform Us Hardcover

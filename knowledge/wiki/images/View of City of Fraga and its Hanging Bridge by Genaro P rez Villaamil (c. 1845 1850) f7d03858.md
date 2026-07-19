@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/View of City of 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge, city, view
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, view
 - [[knowledge/wiki/images/jenaro prez de villaamil la giralda sevilla c 1840 a394bee5|jenaro prez de villaamil la giralda sevilla c 1840]] — shared language: villaamil
 - [[knowledge/wiki/artists/Artist - thefacetpixel|Artist - thefacetpixel]] — shared language: city, view
-- [[knowledge/wiki/images/Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ' 76060bd3|Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ']] — shared language: bridge
 - [[knowledge/wiki/images/Photograph Aerial View of Chicago City Grid at Night by thefacetpixel 391f7c96|Photograph Aerial View of Chicago City Grid at Night by thefacetpixel]] — shared language: city, view
 <!-- vault-crosslinks:end -->

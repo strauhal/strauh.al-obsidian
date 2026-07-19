@@ -7,8 +7,8 @@ status: queued
 queue_order: 3
 tags: [culture, music, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # J. S. Bach: The Well-Tempered Clavier, Books I & II

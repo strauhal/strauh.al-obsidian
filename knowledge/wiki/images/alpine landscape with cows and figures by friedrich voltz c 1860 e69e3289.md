@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/alpine_landscape
 - [[knowledge/wiki/images/Im Maschinenbau by Friedrich G. Martin (c. 1910) dd2d2b7f|Im Maschinenbau by Friedrich G. Martin (c. 1910)]] — shared language: friedrich
 - [[knowledge/wiki/images/Alpine Landscape with a Hut by Edward Theodore Compton (c. 1890) 2a280bb2|Alpine Landscape with a Hut by Edward Theodore Compton (c. 1890)]] — shared language: alpine, landscape
 - [[knowledge/wiki/books/friedrich-engels-dialectics-of-nature|Dialectics of Nature]] — shared language: friedrich
-- [[knowledge/wiki/images/Illustration Black and White Drawing of Cows Drinking by a Large Tree e9f852bc|Illustration Black and White Drawing of Cows Drinking by a Large Tree]] — shared language: cows
+- [[knowledge/wiki/images/Photograph Alpine Ibex Leaping Across a Deep Chasm fcf11853|Photograph Alpine Ibex Leaping Across a Deep Chasm]] — shared language: alpine
 <!-- vault-crosslinks:end -->

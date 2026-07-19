@@ -29,7 +29,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - scott greenwalt 2022|Artist - scott greenwalt 2022]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - scott|Artist - scott]] — named in this note
-- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: end
 - [[knowledge/archive/auto-generated/artists-stale/Artist - scott green|Artist - scott green]] — shared language: scott
 - [[knowledge/archive/auto-generated/artists-stale/Artist - scott green 2022|Artist - scott green 2022]] — shared language: scott
+- [[_archive/auto-generated/images-stale/the future is now by scott c 2014 e04b827c|the future is now by scott c 2014]] — shared language: scott
 <!-- vault-crosslinks:end -->

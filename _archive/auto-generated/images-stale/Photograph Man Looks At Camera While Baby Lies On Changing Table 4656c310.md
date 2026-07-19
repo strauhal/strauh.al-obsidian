@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Man Looks At Camera While Baby Lies On Changing Table dece7250|Man Looks At Camera While Baby Lies On Changing Table]] — shared language: changing, lies, looks
+- [[knowledge/wiki/images/Man Looks At Camera While Baby Lies On Changing Table dece7250|Man Looks At Camera While Baby Lies On Changing Table]] — shared language: changing, looks, lies
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Figures at a Table 9687cd6e|Illustration Black and White Ink Drawing of Figures at a Table]] — shared language: table
 - [[knowledge/wiki/images/Illustration Expressionistic Oil Painting of Baby in Striped Outfit 68dcf6cf|Illustration Expressionistic Oil Painting of Baby in Striped Outfit]] — shared language: baby
 - [[knowledge/wiki/images/Illustration Painting of a Person with Long Hair at a Table 2b334d18|Illustration Painting of a Person with Long Hair at a Table]] — shared language: table, table.jpeg

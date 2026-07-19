@@ -39,12 +39,12 @@ sketches (Degas' dancers appears two lines later in the same list).
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: sketchbook, spontaneity, laboured
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: rembrandt, diary
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: work, exactly, composers
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: sketchbook, spontaneity, laboured
 - [[knowledge/wiki/people/Balthus|Balthus]] — shared language: diary, work, elegance
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: work, exactly, composers
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: work, sketchbook
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: sketchbook, finished
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: work, elegance, spontaneity
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: diary, elegance, spontaneity
+- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: diary, work, reason
 <!-- vault-crosslinks:end -->

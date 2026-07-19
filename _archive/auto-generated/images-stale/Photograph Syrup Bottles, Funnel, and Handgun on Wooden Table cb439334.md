@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[_archive/auto-generated/images-stale/photo of a woman at a table with beer bottles 15ce01f1|photo of a woman at a table with beer bottles]] — shared language: bottles, table
 - [[knowledge/wiki/images/bee syrup a29976fe|bee syrup]] — shared language: syrup
 - [[knowledge/wiki/images/Illustration Family Barbecuing in Backyard, Each Holding a Handgun d8f76652|Illustration Family Barbecuing in Backyard, Each Holding a Handgun]] — shared language: handgun
-- [[_archive/auto-generated/images-stale/Photograph Tall Library Room with Wooden Bookshelves and Oval Table b5c51154|Photograph Tall Library Room with Wooden Bookshelves and Oval Table]] — shared language: wooden, table, table.jpeg
+- [[knowledge/wiki/artists/Artist - Plastic Bottles|Artist - Plastic Bottles]] — shared language: bottles
 <!-- vault-crosslinks:end -->

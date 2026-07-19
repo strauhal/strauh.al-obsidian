@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/G. W. F. Hegel_ George Di Giovanni (ed.) - The Science of Logic-Cambridge University Press (2010).epub"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # The Science of Logic-Cambridge University Press

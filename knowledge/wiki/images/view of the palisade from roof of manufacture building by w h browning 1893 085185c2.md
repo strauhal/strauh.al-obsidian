@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/view_of_the_pali
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, view
 - [[knowledge/wiki/images/Two Statues On Building Roof Amidst Power Lines 8380a322|Two Statues On Building Roof Amidst Power Lines]] — shared language: roof, building
 - [[knowledge/wiki/images/Illustration Distant White House With Red Roof In Green Field, Circular View dfa43fb5|Illustration Distant White House With Red Roof In Green Field, Circular View]] — shared language: roof, view
 - [[knowledge/wiki/images/People Pushing a Piano Off a Building Roof by Charles Brooks 4fcfa163|People Pushing a Piano Off a Building Roof by Charles Brooks]] — shared language: roof, building
 - [[knowledge/wiki/images/Illustration Pixel Art White House, Red Roof, Black Car, Turquoise Sky 63c88f24|Illustration Pixel Art White House, Red Roof, Black Car, Turquoise Sky]] — shared language: roof
-- [[knowledge/wiki/images/Aerial View of Large Building Complex Amidst Green Landscape 6ae5aab7|Aerial View of Large Building Complex Amidst Green Landscape]] — shared language: building, view
 <!-- vault-crosslinks:end -->

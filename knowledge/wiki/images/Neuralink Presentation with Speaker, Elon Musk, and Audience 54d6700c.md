@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Neuralink 
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: audience
 - [[knowledge/wiki/images/Photograph Elon Musk Raising Right Arm Towards Cheering Audience 8c01a225|Photograph Elon Musk Raising Right Arm Towards Cheering Audience]] — shared language: musk, elon, audience
 - [[knowledge/wiki/images/Comic Blue Caricature of Elon Musk as a Rich Baby d5c04ed6|Comic Blue Caricature of Elon Musk as a Rich Baby]] — shared language: musk, elon
 - [[knowledge/wiki/images/Illustration Black and White Line Drawing of Elon Musk with 'Concerning ' Text by Rob Israel 8e265d31|Illustration Black and White Line Drawing of Elon Musk with 'Concerning ' Text by Rob Israel]] — shared language: musk, elon
-- [[knowledge/wiki/images/Protest Signs Against Government Hacking and Elon Musk 289043b2|Protest Signs Against Government Hacking and Elon Musk]] — shared language: elon, musk
 <!-- vault-crosslinks:end -->

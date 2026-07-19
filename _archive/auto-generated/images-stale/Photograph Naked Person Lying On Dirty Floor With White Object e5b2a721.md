@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Naked Person Lying On Dirty Floor With White Object 64506848|Naked Person Lying On Dirty Floor With White Object]] — shared language: naked, dirty, lying
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: object
 - [[knowledge/wiki/books/william-s-burroughs-naked-lunch|Naked lunch]] — shared language: naked
 - [[knowledge/wiki/images/Person Lying On Floor In Sparsely Furnished Room 7c92fa0f|Person Lying On Floor In Sparsely Furnished Room]] — shared language: lying, floor, person
 - [[_archive/auto-generated/images-stale/Photograph Person Lying On Floor In Sparsely Furnished Room 87ec1620|Photograph Person Lying On Floor In Sparsely Furnished Room]] — shared language: lying, floor, person
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor
 <!-- vault-crosslinks:end -->

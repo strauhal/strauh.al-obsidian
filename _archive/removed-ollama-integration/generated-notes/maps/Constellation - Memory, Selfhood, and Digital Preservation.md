@@ -31,9 +31,9 @@ The impulse to archive and define selfhood across multiple media—from physical
 - [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: memory, autofiction
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: selfhood, physical
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: memory, physical
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: memory
 - [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: selfhood, memory, digital
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: memory, chatgpt, archives
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: memory, record
-- [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: memory, life
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: digital, physical, questions
+- [[knowledge/wiki/maps/Map - Claim Provenance|Map - Claim Provenance]] — shared language: memory, chatgpt, record
 <!-- vault-crosslinks:end -->

@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/akira_volume_5_b
 - [[knowledge/wiki/images/akira by katsuhiro otomo 1989 28f648f8|akira by katsuhiro otomo 1989]] — same artist: katsuhiro otomo
 - [[knowledge/wiki/images/akira title page illustration by katsuhiro otomo 1982 49b17bfc|akira title page illustration by katsuhiro otomo 1982]] — same artist: katsuhiro otomo
 - [[knowledge/wiki/images/akira manga panel from episode 041 by katsuhiro otomo 1984 dee816a3|akira manga panel from episode 041 by katsuhiro otomo 1984]] — same artist: katsuhiro otomo
-- [[knowledge/wiki/images/black panther by katsuhiro otomo 1987 0b5e3f76|black panther by katsuhiro otomo 1987]] — same artist: katsuhiro otomo
+- [[knowledge/wiki/images/akira title page of episode 003 young magazine jan 17 83 by katsuhiro otomo 1983 0fbff660|akira title page of episode 003 young magazine jan 17 83 by katsuhiro otomo 1983]] — same artist: katsuhiro otomo
 <!-- vault-crosslinks:end -->

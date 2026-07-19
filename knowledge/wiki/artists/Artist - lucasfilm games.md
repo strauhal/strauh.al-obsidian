@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/War Games by Petrina Ryan Kleid (2012) 26e66a0b|War Games by Petrina Ryan Kleid (2012)]] — shared language: games
 - [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: dave
 - [[knowledge/wiki/images/Maniac by Conan Gray (2019) ed3ffa9f|Maniac by Conan Gray (2019)]] — shared language: maniac
-- [[knowledge/wiki/artists/Artist - dave gibbons|Artist - dave gibbons]] — shared language: dave
 - [[knowledge/wiki/pages/knowledge base web art|knowledge base web art]] — shared language: games
+- [[knowledge/wiki/artists/Artist - dave gibbons|Artist - dave gibbons]] — shared language: dave
 <!-- vault-crosslinks:end -->

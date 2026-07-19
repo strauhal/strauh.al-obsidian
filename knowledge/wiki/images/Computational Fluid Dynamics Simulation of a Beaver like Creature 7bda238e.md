@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Computational
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: fluid
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
 - [[knowledge/wiki/images/Illustration Abstract Composition of Blue, Red, Yellow, and Black Fluid Shapes 19b134c0|Illustration Abstract Composition of Blue, Red, Yellow, and Black Fluid Shapes]] — shared language: fluid
 - [[knowledge/wiki/books/the-body-in-theory-histories-of-cultural-materialism-jean-baudrillard-sheila-faria-glaser-simulacra-and-simulation|Simulacra and Simulation]] — shared language: simulation
 - [[knowledge/wiki/images/creature 64ad9ca4|creature]] — shared language: creature
+- [[knowledge/wiki/images/Illustration Pixelated Green Dragon like Creature on Magenta Background 81b8cccc|Illustration Pixelated Green Dragon like Creature on Magenta Background]] — shared language: creature, like
 <!-- vault-crosslinks:end -->

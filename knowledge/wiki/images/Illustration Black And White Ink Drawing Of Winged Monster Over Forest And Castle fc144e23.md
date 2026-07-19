@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: castle
 - [[knowledge/wiki/images/Illustration Red Robot Fighting White Monster in Forest 058004f3|Illustration Red Robot Fighting White Monster in Forest]] — shared language: monster, forest
 - [[knowledge/wiki/images/Illustration Black And White Ink Drawing Of A Forest With A Large Rock 13fa0bed|Illustration Black And White Ink Drawing Of A Forest With A Large Rock]] — shared language: forest, ink
 - [[knowledge/wiki/images/Illustration Pen and Ink Illustration of Man Fleeing Grotesque Monster 61ade3f0|Illustration Pen and Ink Illustration of Man Fleeing Grotesque Monster]] — shared language: monster, ink
-- [[knowledge/wiki/artists/Artist - FOREST|Artist - FOREST]] — shared language: forest
 <!-- vault-crosslinks:end -->

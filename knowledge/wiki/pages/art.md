@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/art.html"
 source_relpath: "art.html"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:15"
+compiled_at: "2026-07-19T02:00:03"
 tags: ["strauhal", "source/html"]
 ---
 # art
@@ -5367,7 +5367,7 @@ randomize order]()
 [CRC_Fall2025_ART327_PaintingI_Syllabus_13307.pdf](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/unsorted/CRC_Fall2025_ART327_PaintingI_Syllabus_13307.pdf)
 [Cat and Small Bird by Toshi Yoshida.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/unsorted/Cat%20and%20Small%20Bird%20by%20Toshi%20Yoshida.jpg)
 [Comic - AI-nxiety by Ian Foley.jpeg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/unsorted/Comic%20-%20AI-nxiety%20by%20Ian%20Foley.jpeg)
-[Comic - Amazing Spider-Man Vol 2 #36 by John Romita Jr. and Scott Hanna.jpeg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/unsorted/Comic%20-%20Amazing%20Spider-Man%20Vol%202%20%2336%20by%20John%20Romita%20Jr.%20and%20Scott%20Hanna.jpeg)
+[Comic - Amazing Spider-Man Vol 2 36 by John Romita Jr. and Scott Hanna.jpeg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/unsorted/Comic%20-%20Amazing%20Spider-Man%20Vol%202%2036%20by%20John%20Romita%20Jr.%20and%20Scott%20Hanna.jpeg)
 [Comic - Bald Figure Shouting 'Don't Shoot!' From Inside A Vehicle.jpeg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/unsorted/Comic%20-%20Bald%20Figure%20Shouting%20'Don't%20Shoot%21'%20From%20Inside%20A%20Vehicle.jpeg)
 [Comic - Blue Caricature of Elon Musk as a Rich Baby.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/unsorted/Comic%20-%20Blue%20Caricature%20of%20Elon%20Musk%20as%20a%20Rich%20Baby.jpg)
 [Comic - Boy Generates AI Images Of Therapist On Phone by Vost.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/unsorted/Comic%20-%20Boy%20Generates%20AI%20Images%20Of%20Therapist%20On%20Phone%20by%20Vost.png)

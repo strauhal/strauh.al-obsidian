@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Arrangemen
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: objects
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: arrangement
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor
 - [[knowledge/wiki/books/nyt-our-oppenheimer-moment-the-creation-of-a-i-weapons|Our Oppenheimer Moment- The Creation of A.I. Weapons]] — shared language: weapons
 - [[knowledge/wiki/images/Two Figures In Black Robes Carrying Weapons On Hillside 4672f204|Two Figures In Black Robes Carrying Weapons On Hillside]] — shared language: weapons
-- [[knowledge/wiki/images/Illustration Poetic Typed Text Arrangement on Pink Background dc4de994|Illustration Poetic Typed Text Arrangement on Pink Background]] — shared language: arrangement
 <!-- vault-crosslinks:end -->

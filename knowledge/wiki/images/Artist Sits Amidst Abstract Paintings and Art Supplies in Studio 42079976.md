@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Artist Sit
 
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: amidst
 - [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: paintings
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: sits
 - [[knowledge/wiki/images/Art Studio Setup with Easel, Pixelated Painting, and Supplies 6ab59421|Art Studio Setup with Easel, Pixelated Painting, and Supplies]] — shared language: supplies, studio
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: sits
 - [[knowledge/wiki/images/Photograph Bladee Sits Among His Abstract Paintings In Pink Hoodie f5a01d13|Photograph Bladee Sits Among His Abstract Paintings In Pink Hoodie]] — shared language: sits, paintings
 <!-- vault-crosslinks:end -->

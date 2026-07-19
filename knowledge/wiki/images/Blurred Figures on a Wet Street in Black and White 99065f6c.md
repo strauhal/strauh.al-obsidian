@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Blurred Fi
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: street
 - [[knowledge/wiki/images/Blurred Black And White Photo Of A Reclining Figure f61afd75|Blurred Black And White Photo Of A Reclining Figure]] — shared language: blurred
 - [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street
 - [[knowledge/wiki/images/Heavily Blurred Image of a Person and Textured Background 4f70b0a0|Heavily Blurred Image of a Person and Textured Background]] — shared language: blurred
-- [[knowledge/wiki/images/Illustration Digital Painting of Spiky Haired Person with Wet Cat Reference fedaae49|Illustration Digital Painting of Spiky Haired Person with Wet Cat Reference]] — shared language: wet
 <!-- vault-crosslinks:end -->

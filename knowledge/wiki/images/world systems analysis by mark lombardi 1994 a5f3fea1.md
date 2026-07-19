@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/world_systems_an
 - [[knowledge/wiki/images/systems 5559be10|systems]] — named in this note
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: systems
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: world
-- [[knowledge/wiki/books/benjamin-graham-david-dodd-warren-buffett-security-analysis-2008-mcgraw-hill-libgenlc|Security Analysis 2008 McGraw-Hill - libgenlc]] — shared language: analysis
 - [[knowledge/wiki/artists/Artist - mark rothko|Artist - mark rothko]] — shared language: mark
+- [[knowledge/wiki/books/benjamin-graham-david-dodd-warren-buffett-security-analysis-2008-mcgraw-hill-libgenlc|Security Analysis 2008 McGraw-Hill - libgenlc]] — shared language: analysis
 <!-- vault-crosslinks:end -->

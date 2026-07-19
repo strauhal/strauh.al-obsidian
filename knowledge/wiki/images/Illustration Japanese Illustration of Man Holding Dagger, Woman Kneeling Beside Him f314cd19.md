@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: beside
 - [[knowledge/wiki/images/Screenshot Pixel Art Scene of Skeleton with Dagger and Japanese Text c00ad325|Screenshot Pixel Art Scene of Skeleton with Dagger and Japanese Text]] — shared language: dagger, japanese
 - [[knowledge/wiki/images/Illustration Man in Red Robe Holding Wavy Dagger 9fd98f3f|Illustration Man in Red Robe Holding Wavy Dagger]] — shared language: dagger, holding
 - [[knowledge/wiki/images/Illustration Two Stylized Figures Kneeling Before Japanese Calligraphy Scroll c3856a4a|Illustration Two Stylized Figures Kneeling Before Japanese Calligraphy Scroll]] — shared language: kneeling, japanese
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: beside
 <!-- vault-crosslinks:end -->

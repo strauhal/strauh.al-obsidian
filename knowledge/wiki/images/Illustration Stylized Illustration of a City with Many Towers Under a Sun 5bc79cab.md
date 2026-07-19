@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, many
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: many
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city
 - [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
 - [[knowledge/wiki/images/Illustration Detailed, Colorful Illustration of a Bustling City with Many Characters ae73dff9|Illustration Detailed, Colorful Illustration of a Bustling City with Many Characters]] — shared language: many, city
-- [[knowledge/wiki/images/City Street View with World Trade Center Twin Towers in Distance 3d6f1c21|City Street View with World Trade Center Twin Towers in Distance]] — shared language: towers, city
 <!-- vault-crosslinks:end -->

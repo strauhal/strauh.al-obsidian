@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/First Person View Of Person Lying On Building Edge Looking Down At City 3965c7f7|First Person View Of Person Lying On Building Edge Looking Down At City]] — shared language: edge, lying, down
 - [[_archive/auto-generated/images-stale/Photograph First Person View Of Person Lying On Building Edge Looking Down At City c9044a7e|Photograph First Person View Of Person Lying On Building Edge Looking Down At City]] — shared language: edge, lying, down
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, tall, city
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, street, tall
 - [[knowledge/wiki/images/Orange And White Cat Lying Down Looking At Camera 8a710d85|Orange And White Cat Lying Down Looking At Camera]] — shared language: lying, down, looking
-- [[_archive/auto-generated/images-stale/Photograph Orange And White Cat Lying Down Looking At Camera ae6e7fa0|Photograph Orange And White Cat Lying Down Looking At Camera]] — shared language: lying, down, looking
 <!-- vault-crosslinks:end -->

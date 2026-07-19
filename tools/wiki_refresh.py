@@ -32,6 +32,7 @@ def main() -> None:
     run("tools/wiki_concept_links.py")
     run("tools/wiki_knowledge_base.py")
     run("tools/wiki_quotes.py")
+    run("tools/wiki_claim_provenance.py")
     run("tools/wiki_lint.py")
     run("tools/wiki_search.py")
     run("tools/wiki_graph3d.py")

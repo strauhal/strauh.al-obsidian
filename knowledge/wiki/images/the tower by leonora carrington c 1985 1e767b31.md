@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_tower_by_leo
 ## Discovered Connections
 
 - [[knowledge/wiki/images/crucifixion by leonora carrington 1951 60a57513|crucifixion by leonora carrington 1951]] — same artist: leonora carrington
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower
 - [[knowledge/wiki/images/tower a810b293|tower]] — shared language: tower
-- [[knowledge/wiki/images/Illustration Engraving of Domed Tower, Bridge, and Figures in Andernach 8b72e48e|Illustration Engraving of Domed Tower, Bridge, and Figures in Andernach]] — shared language: tower
 - [[knowledge/wiki/images/the red tower by giorgio de chirico 1925 ace7da61|the red tower by giorgio de chirico 1925]] — shared language: tower
 - [[knowledge/wiki/images/Illustration Textured Painting of a River Landscape with Bridge and Tower 4a5a27db|Illustration Textured Painting of a River Landscape with Bridge and Tower]] — shared language: tower
 <!-- vault-crosslinks:end -->

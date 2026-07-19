@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees, building
 - [[knowledge/wiki/artists/Artist - Trees At Dusk|Artist - Trees At Dusk]] — shared language: trees
 - [[knowledge/wiki/images/Illustration Colorful Landscape Painting of Water Reflecting Trees and Building 9aa7474e|Illustration Colorful Landscape Painting of Water Reflecting Trees and Building]] — shared language: trees, building
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Boats in Water with Trees fc55556f|Illustration Impressionistic Painting of Boats in Water with Trees]] — shared language: trees
 - [[knowledge/wiki/images/Illustration Impasto Painting of Red and Orange Trees in a Landscape 1a0b4643|Illustration Impasto Painting of Red and Orange Trees in a Landscape]] — shared language: trees
 - [[knowledge/wiki/images/Illustration Vibrant Abstract Trees with Colorful Foliage 1fae8830|Illustration Vibrant Abstract Trees with Colorful Foliage]] — shared language: trees
-- [[knowledge/wiki/images/Illustration Lush Landscape Painting with Trees and Distant Building on Hill e0b352c6|Illustration Lush Landscape Painting with Trees and Distant Building on Hill]] — shared language: trees, building
 <!-- vault-crosslinks:end -->

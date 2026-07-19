@@ -52,10 +52,10 @@ the instruction set; the model executes it.
 
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color, gan, studies
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: latent, archive-links, space
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: instruction, latent, space
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: latent, human-machine, tug
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: latent, color, gan
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: color, latent, gan
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: color, gan, human-machine
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, sketchbook, one
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color, like, one
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: instruction, latent, space
 <!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: law
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: law
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: law
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: warhol, andy
 - [[knowledge/wiki/images/Self Portrait by Andy Warhol (1964) 99ff1a2b|Self Portrait by Andy Warhol (1964)]] — shared language: warhol, andy
-- [[knowledge/wiki/images/gun by andy warhol 1981 72882b84|gun by andy warhol 1981]] — shared language: warhol, andy
 <!-- vault-crosslinks:end -->

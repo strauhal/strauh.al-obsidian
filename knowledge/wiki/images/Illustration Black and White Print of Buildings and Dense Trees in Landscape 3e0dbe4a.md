@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings, dense
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: print, landscape
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees
 - [[knowledge/wiki/images/Dense Urban Landscape with Many Apartment Buildings, Winter f6580ab4|Dense Urban Landscape with Many Apartment Buildings, Winter]] — shared language: dense, buildings, landscape
 - [[knowledge/wiki/images/Dense Cityscape with Traditional and Modern Buildings 22e16419|Dense Cityscape with Traditional and Modern Buildings]] — shared language: dense, buildings
-- [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
 <!-- vault-crosslinks:end -->

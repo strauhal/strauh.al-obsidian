@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 
 - [[knowledge/wiki/images/Illustration Stylized Figure With Textured Background And Colorful Embellishments bf0f9634|Illustration Stylized Figure With Textured Background And Colorful Embellishments]] — shared language: textured, background
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: head
-- [[knowledge/wiki/images/Image White Text on Orange Textured Background with Illegible Symbols 34d803bb|Image White Text on Orange Textured Background with Illegible Symbols]] — shared language: textured, background
 - [[knowledge/wiki/images/Heavily Blurred Image of a Person and Textured Background 4f70b0a0|Heavily Blurred Image of a Person and Textured Background]] — shared language: textured, background, background.jpeg
 - [[knowledge/wiki/images/Illustration Warped Dark Grid on Textured Light Blue Background 93645266|Illustration Warped Dark Grid on Textured Light Blue Background]] — shared language: textured, background, background.jpeg
+- [[knowledge/wiki/images/Illustration Impressionistic Painting of Figures Walking in a Park 8abc5fe7|Illustration Impressionistic Painting of Figures Walking in a Park]] — shared language: walking
 <!-- vault-crosslinks:end -->

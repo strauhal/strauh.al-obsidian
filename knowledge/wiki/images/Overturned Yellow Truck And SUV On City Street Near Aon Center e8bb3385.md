@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Overturned
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, center
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, street
 - [[knowledge/wiki/images/Photograph Road Covered In Red Liquid From Overturned Truck Under Overpass c6d45247|Photograph Road Covered In Red Liquid From Overturned Truck Under Overpass]] — shared language: overturned, truck
 - [[knowledge/wiki/images/Illustration Grid of White SUV and Crossover Vehicle Illustrations cb512ce5|Illustration Grid of White SUV and Crossover Vehicle Illustrations]] — shared language: suv
 - [[knowledge/wiki/images/City Street View with World Trade Center Twin Towers in Distance 3d6f1c21|City Street View with World Trade Center Twin Towers in Distance]] — shared language: center, street, city
-- [[knowledge/wiki/images/Illustration Smiling Woman in Polluted Water, Truck Dumping Waste 86aff28e|Illustration Smiling Woman in Polluted Water, Truck Dumping Waste]] — shared language: truck
 <!-- vault-crosslinks:end -->

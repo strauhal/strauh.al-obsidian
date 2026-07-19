@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 ## Discovered Connections
 
 - [[knowledge/wiki/images/rolling waves d61ff2f1|rolling waves]] — shared language: waves
-- [[knowledge/wiki/images/Light dispersion conceptual waves 0269b65b|Light dispersion conceptual waves]] — shared language: waves
 - [[knowledge/wiki/books/ray-kurzweil-the-singularity-is-near-when-humans-transcend-biology-viking-adult|The Singularity Is Near When Humans Transcend Biology-Viking Adult]] — shared language: near
+- [[knowledge/wiki/images/Light dispersion conceptual waves 0269b65b|Light dispersion conceptual waves]] — shared language: waves
 - [[knowledge/wiki/images/Large Ocean Wave Breaking in Blue Water fe043270|Large Ocean Wave Breaking in Blue Water]] — shared language: ocean
 - [[knowledge/wiki/images/Illustration Mythological Figure Riding Sea Horses Through Turbulent Waves 82fa34d6|Illustration Mythological Figure Riding Sea Horses Through Turbulent Waves]] — shared language: waves
 <!-- vault-crosslinks:end -->

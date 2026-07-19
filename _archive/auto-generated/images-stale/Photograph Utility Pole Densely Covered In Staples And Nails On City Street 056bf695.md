@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Utility Pole Densely Covered In Staples And Nails On City Street 7cfb1d6c|Utility Pole Densely Covered In Staples And Nails On City Street]] — shared language: staples, nails, utility
 - [[_archive/auto-generated/images-stale/wooden post densely covered in staples and nails d67f9c78|wooden post densely covered in staples and nails]] — shared language: staples, nails, densely
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, street
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, street
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: utility
-- [[knowledge/wiki/images/Black and White Photograph of Crucifix on Utility Pole with Wires ec021f7e|Black and White Photograph of Crucifix on Utility Pole with Wires]] — shared language: utility, pole
 <!-- vault-crosslinks:end -->

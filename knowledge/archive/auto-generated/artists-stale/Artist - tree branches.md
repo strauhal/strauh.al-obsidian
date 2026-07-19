@@ -20,9 +20,9 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Illustration Stacked Glass Jars With Tree Branches Inside, Against A White Wall 6d45aca8|Illustration Stacked Glass Jars With Tree Branches Inside, Against A White Wall]] — shared language: branches, tree
 - [[_archive/auto-generated/images-stale/black and white photograph of a classical exposition building across water framed by tree foliage 307e2a64|black and white photograph of a classical exposition building across water framed by tree foliage]] — shared language: tree, across, classical
 - [[knowledge/wiki/images/Photograph Classical Exposition Building Across Water, Framed by Tree Foliage 77e5f3d3|Photograph Classical Exposition Building Across Water, Framed by Tree Foliage]] — shared language: tree, across, classical
-- [[knowledge/wiki/images/Illustration Stacked Glass Jars With Tree Branches Inside, Against A White Wall 6d45aca8|Illustration Stacked Glass Jars With Tree Branches Inside, Against A White Wall]] — shared language: branches, tree
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tree foliage|Artist - Tree Foliage]] — shared language: tree, across, classical
 - [[knowledge/wiki/artists/Artist - Tree Foliage|Artist - Tree Foliage]] — shared language: tree, across, classical
 - [[_archive/auto-generated/images-stale/line drawing of a bare tree with small objects hanging from branches db010ebb|line drawing of a bare tree with small objects hanging from branches]] — shared language: branches, tree

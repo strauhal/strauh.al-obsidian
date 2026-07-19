@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/1922_434_the_pla
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: place
 - [[knowledge/wiki/images/franois schuiten paris the vortex 1989 075443f7|franois schuiten paris the vortex 1989]] — shared language: paris
 - [[knowledge/wiki/images/charles meryon the apse of notre dame paris 1854 ii jpg ecab51fd|charles meryon the apse of notre dame paris 1854 ii jpg]] — shared language: paris, jpg.jpg
-- [[knowledge/wiki/images/place vendome by jean dufy 1928 a28fa90f|place vendome by jean dufy 1928]] — shared language: place
+- [[knowledge/wiki/images/Crowded Street Scene in Paris with Flags Overhead e0aef96a|Crowded Street Scene in Paris with Flags Overhead]] — shared language: paris
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Golden Gat
 - [[knowledge/wiki/images/Man Posing In Front Of Golden Gate Bridge, Sunny Day f30619f4|Man Posing In Front Of Golden Gate Bridge, Sunny Day]] — shared language: gate, golden, bridge
 - [[knowledge/wiki/images/The Karaoke Torii Gate by Beno t Maubrey (2019) 17e10b1e|The Karaoke Torii Gate by Beno t Maubrey (2019)]] — shared language: gate
 - [[knowledge/wiki/images/Golden Gate Bridge, San Francisco Skyline, Boats on Bay 9d2fb8bd|Golden Gate Bridge, San Francisco Skyline, Boats on Bay]] — shared language: gate, golden, bridge
-- [[knowledge/wiki/images/Illustration Psychedelic Woman with Tambourine and Golden Gate Bridge at Sunset by Wes Wilson dcbd7802|Illustration Psychedelic Woman with Tambourine and Golden Gate Bridge at Sunset by Wes Wilson]] — shared language: gate, golden, bridge
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge
 <!-- vault-crosslinks:end -->

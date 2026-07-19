@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/donate.html"
 source_relpath: "donate.html"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:15"
+compiled_at: "2026-07-19T02:00:04"
 tags: ["strauhal", "source/html"]
 ---
 # donate

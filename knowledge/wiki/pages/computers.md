@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/computers.html"
 source_relpath: "computers.html"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:15"
+compiled_at: "2026-07-19T02:00:04"
 tags: ["strauhal", "source/html"]
 ---
 # computers

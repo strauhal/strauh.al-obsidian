@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franz stuck 1891|Artist - franz stuck 1891]] — named in this note
 - [[knowledge/wiki/images/oedipus and the sphinx by franz stuck 1891 02090465|oedipus and the sphinx by franz stuck 1891]] — shared language: stuck, franz
 - [[_archive/auto-generated/images-stale/franz marc 020 jpg 6709b237|franz marc 020 jpg]] — shared language: franz
-- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: stuck
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franz hanfstaengl 1865|Artist - franz hanfstaengl 1865]] — shared language: franz
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: stuck
 <!-- vault-crosslinks:end -->

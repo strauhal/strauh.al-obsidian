@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/nyce/banquet/california.html"
 source_relpath: "nyce/banquet/california.html"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:16"
+compiled_at: "2026-07-19T02:00:04"
 tags: ["strauhal", "source/html"]
 ---
 # nyce banquet california
@@ -39,8 +39,8 @@ strauh.al/nyce/banquet/california
 - [[knowledge/wiki/pages/nyce banquet|nyce banquet]] — named in this note
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: nyce, banquet, california
 - [[knowledge/wiki/pages/nyce banquet new mexico|nyce banquet new mexico]] — shared language: banquet, nyce, wedding1.png
-- [[knowledge/wiki/_index|strauh.al Index]] — shared language: nyce, banquet, compiled
-- [[knowledge/wiki/strauh.al Index|strauh.al Index]] — shared language: nyce, banquet, compiled
+- [[knowledge/wiki/_index|strauh.al Index]] — shared language: nyce, banquet, portraits
+- [[knowledge/wiki/strauh.al Index|strauh.al Index]] — shared language: nyce, banquet, portraits
 - [[knowledge/raw/dreams|Dreams Series]] — shared language: refs, raw.githubusercontent.com, https
 - [[knowledge/wiki/pages/epk|epk]] — shared language: california, refs, raw.githubusercontent.com
 - [[knowledge/wiki/pages/portraits|portraits]] — shared language: portraits, none, related

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: concept
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: concept
-- [[_archive/auto-generated/images-stale/Photograph Rear View of Black Honda Saloon Concept Car 5057eede|Photograph Rear View of Black Honda Saloon Concept Car]] — shared language: concept, car
-- [[knowledge/wiki/images/Rear View of Black Honda Saloon Concept Car 32565785|Rear View of Black Honda Saloon Concept Car]] — shared language: concept, car
+- [[_archive/auto-generated/images-stale/Photograph Rear View of Black Honda Saloon Concept Car 5057eede|Photograph Rear View of Black Honda Saloon Concept Car]] — shared language: car, concept
+- [[knowledge/wiki/images/Rear View of Black Honda Saloon Concept Car 32565785|Rear View of Black Honda Saloon Concept Car]] — shared language: car, concept
 - [[_archive/auto-generated/images-stale/framed theater or concert scene with a performer on stage 2deefa45|framed theater or concert scene with a performer on stage]] — shared language: stage, stage.jpeg
 <!-- vault-crosslinks:end -->

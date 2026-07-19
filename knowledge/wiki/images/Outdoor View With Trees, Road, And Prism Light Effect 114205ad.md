@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Outdoor Vi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees, view
 - [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
 - [[knowledge/wiki/images/Photograph Aerial View of a Road Intersection with Long Shadows 0271b623|Photograph Aerial View of a Road Intersection with Long Shadows]] — shared language: road, view
 - [[knowledge/wiki/images/Rural Road Through Golden Fields with Trees Under Blue Sky 80664d80|Rural Road Through Golden Fields with Trees Under Blue Sky]] — shared language: road, trees
 - [[knowledge/wiki/images/Illustration Vibrant Sunset Over Road, Houses, and Palm Trees 6d79bef5|Illustration Vibrant Sunset Over Road, Houses, and Palm Trees]] — shared language: road, trees
-- [[knowledge/wiki/books/jack-kerouac-on-the-road-penguin-modern-classics|On the Road (Penguin Modern Classics)]] — shared language: road
 <!-- vault-crosslinks:end -->

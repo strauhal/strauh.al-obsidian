@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: line
 - [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line
-- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: line
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: line
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: line
 <!-- vault-crosslinks:end -->

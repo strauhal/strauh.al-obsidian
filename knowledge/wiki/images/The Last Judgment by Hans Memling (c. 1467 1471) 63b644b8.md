@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1400s/The Last Judgmen
 
 - [[knowledge/wiki/images/Scenes from the Passion of Christ by Hans Memling (1471) a48a76dc|Scenes from the Passion of Christ by Hans Memling (1471)]] — shared language: memling, hans
 - [[knowledge/wiki/images/the last judgment by michelangelo buonarroti 15361541 375de414|the last judgment by michelangelo buonarroti 15361541]] — shared language: judgment, last
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: judgment
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: judgment
 - [[knowledge/wiki/images/The Last Judgment by Hieronymus Bosch (c. 1485 1490) dad838cb|The Last Judgment by Hieronymus Bosch (c. 1485 1490)]] — shared language: judgment, last
+- [[knowledge/wiki/books/immanuel-kant-critique-of-judgment|Critique of Judgment]] — shared language: judgment
 <!-- vault-crosslinks:end -->

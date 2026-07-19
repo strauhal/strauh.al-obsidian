@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Multi Headed, Multi Armed Hindu Deity with Many Faces and Cobra Hoods 3faf254d|Illustration Multi Headed, Multi Armed Hindu Deity with Many Faces and Cobra Hoods]] — shared language: hindu, multi, headed
+- [[knowledge/wiki/images/Illustration Multi Headed, Multi Armed Hindu Deity with Many Faces and Cobra Hoods 3faf254d|Illustration Multi Headed, Multi Armed Hindu Deity with Many Faces and Cobra Hoods]] — shared language: hindu, headed, multi
 - [[knowledge/wiki/images/Illustration Multi Armed Blue Wrathful Deity Standing on Figures, Red Background 4e4ff64d|Illustration Multi Armed Blue Wrathful Deity Standing on Figures, Red Background]] — shared language: multi, armed, deity
 - [[_archive/auto-generated/images-stale/thangka painting of a multi armed blue wrathful deity standing on figures against a red background e980217f|thangka painting of a multi armed blue wrathful deity standing on figures against a red background]] — shared language: multi, armed, deity
 - [[knowledge/wiki/images/Illustration Red Multi Armed Wrathful Deity Drawing Bow And Arrow 48de15db|Illustration Red Multi Armed Wrathful Deity Drawing Bow And Arrow]] — shared language: multi, armed, deity

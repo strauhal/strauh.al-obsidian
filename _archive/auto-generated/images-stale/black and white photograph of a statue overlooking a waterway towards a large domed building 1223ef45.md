@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, domed, large
 - [[_archive/auto-generated/artists-noise/Artist - a waterway 1893|Artist - a waterway 1893]] — shared language: waterway
 - [[knowledge/wiki/images/black and white photograph of the steel framework of a large domed building under construction 1892 b927698c|black and white photograph of the steel framework of a large domed building under construction 1892]] — shared language: domed, building, large
 - [[knowledge/wiki/images/black and white photograph of a crowded bridge leading to a large domed neoclassical building 1893 0e9d54e0|black and white photograph of a crowded bridge leading to a large domed neoclassical building 1893]] — shared language: domed, building, large
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-waterway-1893|Artist - a waterway 1893]] — shared language: waterway
-- [[_archive/auto-generated/images-stale/statue of a man on a building roof d3aca278|statue of a man on a building roof]] — shared language: statue, building
 <!-- vault-crosslinks:end -->

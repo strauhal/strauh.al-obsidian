@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Monochromatic Still Life Painting of a House and Objects 81f5d538|Illustration Monochromatic Still Life Painting of a House and Objects]] — shared language: objects, still, life
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: objects
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: still
 - [[knowledge/wiki/images/Illustration Still Life Painting of Various Vessels and Objects by Giorgio Morandi 84a3ef9e|Illustration Still Life Painting of Various Vessels and Objects by Giorgio Morandi]] — shared language: objects, still, life
-- [[knowledge/wiki/images/Photograph Photograph of a Framed Line Drawing of Still Life f8da881e|Photograph Photograph of a Framed Line Drawing of Still Life]] — shared language: still, life
 <!-- vault-crosslinks:end -->

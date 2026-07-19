@@ -3,8 +3,8 @@ title: Map - Concepts
 type: map
 aliases: [Idea Atlas, The Idea Atlas, Concept Atlas]
 tags: [map, concepts, atlas]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # The Idea Atlas
@@ -86,15 +86,21 @@ Orbiting: [[Barry McGee]] · [[Egon Schiele]] · [[Yohji Yamamoto]] · [[Rei Kaw
 - [[Art Fills the God-Shaped Hole]]
 - [[Atomization]]
 - [[Autofiction]]
+- [[Controlled Surrender]]
+- [[Curated Disorder]]
 - [[Dead Architecture]]
 - [[Decadence Is Beautiful]]
+- [[Distributed Persistence]]
 - [[Human-Machine Tug of War]]
+- [[Interest-Dependent Persistence]]
 - [[Interpolating the Instruction Set]]
 - [[Latent Space]]
 - [[Memory and Preservation]]
 - [[Post-Irony]]
 - [[Reading Like a Computer]]
 - [[Rebuilding from the Bottom]]
+- [[Recognition Through Shared Objects]]
+- [[Recursive Myth-Making]]
 - [[Spontaneity and Elegance]]
 - [[Synesthesia]]
 - [[The Archive as Consciousness]]
@@ -118,7 +124,7 @@ Orbiting: [[Barry McGee]] · [[Egon Schiele]] · [[Yohji Yamamoto]] · [[Rei Kaw
 - [[Welcome|strauh.al Knowledge Base]] — shared language: ideas, works, knowledge
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: ideas, works, knowledge
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: attention, economy, feed
-- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: tug, works, knowledge
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: works, authorship, human-machine
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: latent, attention, internet
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: works, authorship, human-machine
+- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: works, knowledge, human-machine
 <!-- vault-crosslinks:end -->

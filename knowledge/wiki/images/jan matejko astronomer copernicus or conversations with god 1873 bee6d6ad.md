@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/jan_matejko_astr
 - [[knowledge/wiki/images/jan matejko staczyk 1862 995481af|jan matejko staczyk 1862]] — shared language: matejko, jan
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: god
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: god
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: god
 - [[knowledge/wiki/images/god ec3a662d|god]] — shared language: god
+- [[knowledge/wiki/artists/Artist - jan sadeler i|Artist - jan sadeler i]] — shared language: jan
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - A 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Controlled Surrender|Controlled Surrender]] — shared language: loop
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: loop
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: slice
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
-- [[knowledge/wiki/images/Illustration Stylized Reclining Woman Drinking a Cocktail with Orange Slice 5006ff8a|Illustration Stylized Reclining Woman Drinking a Cocktail with Orange Slice]] — shared language: slice
 <!-- vault-crosslinks:end -->

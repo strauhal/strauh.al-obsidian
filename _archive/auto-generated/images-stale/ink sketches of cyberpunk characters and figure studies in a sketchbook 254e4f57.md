@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/cyberpunk 5cf1f5a5|cyberpunk]] — named in this note
-- [[knowledge/wiki/images/Illustration Ink Sketches of Cyberpunk Characters and Figure Studies in Sketchbook 48e651fd|Illustration Ink Sketches of Cyberpunk Characters and Figure Studies in Sketchbook]] — shared language: cyberpunk, sketchbook, characters
+- [[knowledge/wiki/images/Illustration Ink Sketches of Cyberpunk Characters and Figure Studies in Sketchbook 48e651fd|Illustration Ink Sketches of Cyberpunk Characters and Figure Studies in Sketchbook]] — shared language: cyberpunk, characters, studies
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, sketchbook
 - [[knowledge/wiki/images/Illustration Sketchbook Page with 24 Black Ink Landscape and Figure Studies 14c039f9|Illustration Sketchbook Page with 24 Black Ink Landscape and Figure Studies]] — shared language: sketchbook, studies, ink
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: sketchbook, studies

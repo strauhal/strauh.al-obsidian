@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Aer
 - [[knowledge/wiki/images/Aerial Comparison of Siena City Center and Houston Highway Interchange be855b27|Aerial Comparison of Siena City Center and Houston Highway Interchange]] — shared language: houston, siena, interchange
 - [[_archive/auto-generated/images-stale/graphic comparing aerial maps of siena city center and houston highway interchange 155938e4|graphic comparing aerial maps of siena city center and houston highway interchange]] — shared language: houston, siena, interchange
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, aerial, center
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, city
 - [[knowledge/wiki/images/Illustration Woman Floats Above Highway Interchange With Parody Brand Signs b0c9a5f9|Illustration Woman Floats Above Highway Interchange With Parody Brand Signs]] — shared language: interchange, highway
-- [[_archive/auto-generated/images-stale/Diagram Comparison of Generated Images with Deconvolution Artifacts f654f9c7|Diagram Comparison of Generated Images with Deconvolution Artifacts]] — shared language: comparison, diagram
 <!-- vault-crosslinks:end -->

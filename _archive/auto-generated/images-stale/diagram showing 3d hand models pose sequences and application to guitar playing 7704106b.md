@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/3D Hand Models, Pose Sequences, and Guitar Playing Application 7701e011|3D Hand Models, Pose Sequences, and Guitar Playing Application]] — shared language: sequences, pose, guitar
 - [[_archive/auto-generated/images-stale/framed painting of an older man playing guitar a8003995|framed painting of an older man playing guitar]] — shared language: guitar, playing
 - [[knowledge/wiki/images/Illustration Two Stylized Figures in Dynamic Pose from a Book bfe74b12|Illustration Two Stylized Figures in Dynamic Pose from a Book]] — shared language: pose
-- [[knowledge/wiki/images/Photograph Photograph of a Display Case Showing a Clenched Hand Image 76568dcf|Photograph Photograph of a Display Case Showing a Clenched Hand Image]] — shared language: hand, showing
+- [[_archive/auto-generated/images-stale/pencil sketch of two figures in a dynamic pose in a notebook 9b11f45f|pencil sketch of two figures in a dynamic pose in a notebook]] — shared language: pose
 <!-- vault-crosslinks:end -->

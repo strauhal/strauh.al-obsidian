@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Interior View of Highly Decorated Mosque Dome and Chandelier 214e336d|Photograph Interior View of Highly Decorated Mosque Dome and Chandelier]] — shared language: chandelier, decorated, dome
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: view, large
 - [[_archive/auto-generated/images-stale/black and white sketch of a vast ornate architectural interior featuring large columns multiple arches steps and decorative urns ebfea614|black and white sketch of a vast ornate architectural interior featuring large columns multiple arches steps and decorative urns]] — shared language: arches, featuring, interior
 - [[knowledge/wiki/images/Illustration Stylized Woman With Red Accents Cradling Black Cat c4d4f196|Illustration Stylized Woman With Red Accents Cradling Black Cat]] — shared language: accents
 - [[knowledge/wiki/images/Illustration Sketchbook Drawing of Interior with Large Windows and Street View 9b70cb15|Illustration Sketchbook Drawing of Interior with Large Windows and Street View]] — shared language: interior, large, view
-- [[_archive/auto-generated/images-stale/garden path painting with arches and people 1267cd3d|garden path painting with arches and people]] — shared language: arches
 <!-- vault-crosslinks:end -->

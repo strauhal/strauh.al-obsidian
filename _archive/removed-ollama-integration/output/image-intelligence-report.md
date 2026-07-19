@@ -11,6 +11,6 @@
 - [[knowledge/wiki/images/the ballet class by edgar degas c 187880 6eb50e26|the ballet class by edgar degas c 187880]] — shared language: edgar, ballet, degas
 - [[knowledge/wiki/artists/Artist - edgar degas 18711874|Artist - edgar degas 18711874]] — shared language: edgar, degas, ballet
 - [[knowledge/wiki/images/Edgar Degas Ballet (L' toile) 21617ea7|Edgar Degas Ballet (L' toile)]] — shared language: ballet, edgar, degas
-- [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: report, analysis
 - [[knowledge/wiki/pages/artists degas|artists degas]] — shared language: degas, edgar, ballet
+- [[knowledge/archive/auto-generated/artists-stale/Artist - edgar degas 1874|Artist - edgar degas 1874]] — shared language: edgar, degas
 <!-- vault-crosslinks:end -->

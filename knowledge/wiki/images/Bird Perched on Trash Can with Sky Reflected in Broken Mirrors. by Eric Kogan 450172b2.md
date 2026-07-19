@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Bird Perch
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken, trash
-- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: bird
+- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: bird, trash
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: broken
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: eric
 - [[knowledge/wiki/artists/Artist - eric fischl|Artist - eric fischl]] — shared language: eric

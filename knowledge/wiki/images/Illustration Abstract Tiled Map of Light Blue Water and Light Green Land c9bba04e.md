@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: land
 - [[knowledge/wiki/images/LOSS OF LAND 991713f3|LOSS OF LAND]] — shared language: land, land.jpg
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: land
 - [[knowledge/wiki/images/Abstract Composition Of Red And Green Light And Shadow 2da52a41|Abstract Composition Of Red And Green Light And Shadow]] — shared language: light, green
 - [[knowledge/wiki/images/Photograph Slavoj i ek and Woman in Black Leather Coat in Green Tiled Bathroom d82e7f3b|Photograph Slavoj i ek and Woman in Black Leather Coat in Green Tiled Bathroom]] — shared language: tiled, green
 - [[knowledge/wiki/anchors/nick-land|Nick Land]] — shared language: land

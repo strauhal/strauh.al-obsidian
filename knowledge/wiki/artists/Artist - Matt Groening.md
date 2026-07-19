@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Long Hallway With Orange And White Geometric Wall Panels 26467d69|Long Hallway With Orange And White Geometric Wall Panels]] — shared language: hallway
 - [[knowledge/wiki/images/Illustration Painting of a Long Arched Hallway with Strong Perspective 9df52e1f|Illustration Painting of a Long Arched Hallway with Strong Perspective]] — shared language: hallway
 - [[knowledge/wiki/images/Modern Minimalist Hallway with Mailboxes and Glass Door 83559587|Modern Minimalist Hallway with Mailboxes and Glass Door]] — shared language: hallway
+- [[knowledge/wiki/pages/knowledge base philosophy critical thinking|knowledge base philosophy critical thinking]] — shared language: matt
 - [[knowledge/wiki/images/Grainy Black and White Photo of Person Watching Blurry Airplane 701f0370|Grainy Black and White Photo of Person Watching Blurry Airplane]] — shared language: watching
-- [[knowledge/wiki/images/Woman Watching World Trade Center Towers Smoking 4ff2ea42|Woman Watching World Trade Center Towers Smoking]] — shared language: watching
 <!-- vault-crosslinks:end -->

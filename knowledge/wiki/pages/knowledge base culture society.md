@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/culture_society.html"
 source_relpath: "knowledge_base/culture_society.html"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:16"
+compiled_at: "2026-07-19T02:00:04"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base culture society
@@ -344,9 +344,9 @@ strauh.al/knowledge_base/culture_society
 - [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
 - [[knowledge/wiki/books/perloff-marjorie-frank-o-hara-poet-among-painters|Frank O'Hara poet among painters]] — named in this note
-- [[knowledge/wiki/books/daniel-kolitz-the-goon-squad|The Goon Squad,]] — named in this note
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
-- [[knowledge/wiki/books/the-end-of-reading-is-here-the-atlantic|The Atlantic]] — named in this note
 - [[knowledge/wiki/books/ai-dating|ai dating]] — named in this note
 - [[knowledge/wiki/books/augustine-of-hippo-confessions|Confessions]] — named in this note
+- [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
+- [[knowledge/wiki/anchors/california|california]] — named in this note
 <!-- vault-crosslinks:end -->

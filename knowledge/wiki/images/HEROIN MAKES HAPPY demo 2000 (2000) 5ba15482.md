@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/HEROIN MAKES HAP
 
 - [[knowledge/wiki/images/demo 74257d33|demo]] — shared language: demo
 - [[knowledge/wiki/images/SplattingAvatar demo 4ec79be5|SplattingAvatar demo]] — shared language: demo
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: makes
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: makes
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: makes
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: makes
+- [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: demo
 <!-- vault-crosslinks:end -->

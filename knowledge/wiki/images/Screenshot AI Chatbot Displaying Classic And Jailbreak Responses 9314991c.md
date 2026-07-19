@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: chatbot
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: responses
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: chatbot
 - [[knowledge/wiki/images/Screenshot Chatbot Interface Displaying Simple Sunset Illustration Using Basic Shapes 56de9060|Screenshot Chatbot Interface Displaying Simple Sunset Illustration Using Basic Shapes]] — shared language: chatbot, displaying, screenshot
 - [[knowledge/wiki/images/Photograph Vintage Apple PenLite Prototype Computer Displaying Classic OS f997ba85|Photograph Vintage Apple PenLite Prototype Computer Displaying Classic OS]] — shared language: classic, displaying
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: responses
-- [[knowledge/wiki/images/Screenshot Screenshot of a Drawing Program Displaying Abstract Pixel Art 55fb41e7|Screenshot Screenshot of a Drawing Program Displaying Abstract Pixel Art]] — shared language: displaying, screenshot
 <!-- vault-crosslinks:end -->

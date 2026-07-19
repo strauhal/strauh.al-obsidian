@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: dynamic
 - [[knowledge/wiki/images/Illustration Wireframe Human Figure In Dynamic Reaching Pose a1148e66|Illustration Wireframe Human Figure In Dynamic Reaching Pose]] — shared language: pose, dynamic
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: dynamic
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pencil
 <!-- vault-crosslinks:end -->

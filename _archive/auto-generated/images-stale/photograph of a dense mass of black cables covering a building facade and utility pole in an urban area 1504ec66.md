@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Dense Black Cables Covering Building Facade and Utility Pole in Dhaka 77adf1ae|Photograph Dense Black Cables Covering Building Facade and Utility Pole in Dhaka]] — shared language: cables, utility, pole
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, facade
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, dense
 - [[_archive/auto-generated/images-stale/photo of yellow cables hanging in a utility space ca7828bf|photo of yellow cables hanging in a utility space]] — shared language: cables, utility
 - [[knowledge/wiki/images/Black and White Photograph of Crucifix on Utility Pole with Wires ec021f7e|Black and White Photograph of Crucifix on Utility Pole with Wires]] — shared language: utility, pole
-- [[knowledge/wiki/maps/Library - Politics and Society|Library - Politics and Society]] — shared language: mass
 <!-- vault-crosslinks:end -->

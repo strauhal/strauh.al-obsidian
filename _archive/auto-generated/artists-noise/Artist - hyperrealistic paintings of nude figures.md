@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - hyperrealistic paintings of nude figures|Artist - hyperrealistic paintings of nude figures]] — shared language: paintings, nude, blank
+- [[knowledge/archive/auto-generated/artists-stale/Artist - hyperrealistic paintings of nude figures|Artist - hyperrealistic paintings of nude figures]] — shared language: paintings, nude, easel
 - [[knowledge/wiki/images/Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings e04b182c|Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings]] — shared language: paintings, nude, blank
 - [[_archive/auto-generated/images-stale/Photograph Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings 3d4bf608|Photograph Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings]] — shared language: paintings, nude, blank
 - [[knowledge/archive/auto-generated/anchors-stale/artist-hyperrealistic-paintings-of-nude-figures|Artist - hyperrealistic paintings of nude figures]] — shared language: paintings, nude

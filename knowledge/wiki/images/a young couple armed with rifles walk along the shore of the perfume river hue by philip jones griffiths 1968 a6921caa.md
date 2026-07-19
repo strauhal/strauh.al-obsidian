@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/a_young_couple_a
 ## Discovered Connections
 
 - [[knowledge/wiki/images/hermann gradl river landscape with a couple under a tree c 1900 d3301912|hermann gradl river landscape with a couple under a tree c 1900]] — shared language: couple, river
-- [[knowledge/wiki/artists/Artist - philip glass|Artist - philip glass]] — shared language: philip
 - [[knowledge/wiki/artists/Artist - stephen shore|Artist - stephen shore]] — shared language: shore
+- [[knowledge/wiki/artists/Artist - philip glass|Artist - philip glass]] — shared language: philip
 - [[knowledge/wiki/images/Young Woman Holding Rifle with Armed Figures Behind Her 9f11a848|Young Woman Holding Rifle with Armed Figures Behind Her]] — shared language: armed, young
 - [[knowledge/wiki/books/jones-eugene-michael-degenerate-moderns-modernity-as-rationalized-sexual-misbehavior-1-0-ignatius-press|Degenerate Moderns Modernity as Rationalized Sexual Misbehavior. 1.0-Ignatius Press]] — shared language: jones
 <!-- vault-crosslinks:end -->

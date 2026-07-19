@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: complex, large
 - [[_archive/auto-generated/books-stale/industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: industrial
 - [[knowledge/wiki/images/Photograph Man Standing Next to Abstract Blue and Black Sculpture 5f5d5193|Photograph Man Standing Next to Abstract Blue and Black Sculpture]] — shared language: next, standing
 - [[_archive/auto-generated/images-stale/painting of a large industrial refinery complex on a waterfront with ships 78349884|painting of a large industrial refinery complex on a waterfront with ships]] — shared language: industrial, complex, large
 - [[_archive/auto-generated/images-stale/photograph of two pilots in orange pressure suits standing next to the tail of a black aircraft 1465cfc0|photograph of two pilots in orange pressure suits standing next to the tail of a black aircraft]] — shared language: suits, next, standing
-- [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: industrial
 <!-- vault-crosslinks:end -->

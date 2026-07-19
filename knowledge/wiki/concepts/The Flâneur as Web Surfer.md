@@ -47,18 +47,6 @@ of drift through a built landscape.
 **Books (3).** [[paul-auster-city-of-glass-graphic-novel-faber-and-faber|City of Glass Graphic Novel-Faber and Faber]] · [[matthew-b-crawford-shop-class-as-soulcraft|Shop Class as Soulcraft]] · [[paul-auster-the-new-york-trilogy-city-of-glass-ghosts-the-locked-room-contemporary-american-fiction-series-penguin-non-classics|The New York Trilogy City of Glass Ghosts The Locked Room (Contemporary American Fiction Series) -Penguin (Non-Classics)]]
 
 <!-- archive-links:end -->
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/anchors/katsuhiro-otomo|Katsuhiro Otomo]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
-- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
-- [[knowledge/wiki/images/cemetery 5775776a|cemetery]] — named in this note
-- [[knowledge/wiki/images/cyberpunk 5cf1f5a5|cyberpunk]] — named in this note
-- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd, quotes, feed
-<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -69,3 +57,16 @@ of drift through a built landscape.
 >
 > The usual defenses against the ravages of age—identification with ethical or artistic values beyond one's immediate interests, intellectual curiosity, the consoling emotional warmth derived from happy relationships in the past—can do nothing for the narcissist. Unable to derive whatever comfort comes from identification with historical continuity, he finds it impossible, on the contrary, 'to accept the fact that a younger generation now possesses many of the previously cherished gratifications of beauty, wealth, power and, particularly, creativity. To be able to enjoy life in a process involving a growing identification with other people's happiness and achievements is tragically beyond the capacity of narcissistic personalities.
 <!-- quotes:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/katsuhiro-otomo|Katsuhiro Otomo]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
+- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
+- [[knowledge/wiki/images/cemetery 5775776a|cemetery]] — named in this note
+- [[knowledge/wiki/images/cyberpunk 5cf1f5a5|cyberpunk]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: quotes, city, street
+<!-- vault-crosslinks:end -->

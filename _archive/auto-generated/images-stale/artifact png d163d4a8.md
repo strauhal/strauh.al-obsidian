@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/artifact_png.
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/artifact gif gif c780c2f2|artifact gif gif]] — shared language: artifact
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: artifact
 - [[_archive/auto-generated/images-stale/1701797844500962 png 57ed231b|1701797844500962 png]] — shared language: png.png
 - [[_archive/auto-generated/images-stale/1706555441304487 png 9341419b|1706555441304487 png]] — shared language: png.png
 - [[_archive/auto-generated/images-stale/1708974447776658 png 62038144|1708974447776658 png]] — shared language: png.png
-- [[_archive/auto-generated/images-stale/1udt png dcbd8ed1|1udt png]] — shared language: png.png
 <!-- vault-crosslinks:end -->

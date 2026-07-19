@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/framed red table interior still life with flowers ed3f2c10|framed red table interior still life with flowers]] — shared language: table, framed, interior
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, view
 - [[_archive/auto-generated/images-stale/framed historical interior scene with figures around a table 6aa64bf7|framed historical interior scene with figures around a table]] — shared language: table, framed, interior
-- [[knowledge/wiki/images/Modern Office Interior with Chair, Desk, and City View 6d0b4ad5|Modern Office Interior with Chair, Desk, and City View]] — shared language: interior, city, view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, view
 <!-- vault-crosslinks:end -->

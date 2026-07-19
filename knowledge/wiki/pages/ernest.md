@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/ernest.html"
 source_relpath: "ernest.html"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:15"
+compiled_at: "2026-07-19T02:00:04"
 tags: ["strauhal", "source/html"]
 ---
 # ernest
@@ -42,7 +42,6 @@ strauh.al/ernest
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: i've, hear, work
 - [[knowledge/raw/ernest|Ernest (bio)]] — shared language: i'm, fluent, resevoir
 - [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: designing
 - [[knowledge/wiki/pages/donate|donate]] — shared language: stamp.png, referenced, preserved
@@ -50,4 +49,5 @@ strauh.al/ernest
 - [[knowledge/wiki/pages/nyce|nyce]] — shared language: referenced, preserved, none
 - [[knowledge/wiki/pages/draw for me|draw for me]] — shared language: email, none, love
 - [[knowledge/wiki/images/Screenshot Aerial View of Agricultural Fields and Urban Area 25b25d23|Screenshot Aerial View of Agricultural Fields and Urban Area]] — shared language: fields, area
+- [[knowledge/private/fanmail/threads/32-saw-your-ads-clicked-the-about-page|Private Correspondence - 32 - saw your ads, clicked the about page]] — shared language: i'm, enjoy, email
 <!-- vault-crosslinks:end -->

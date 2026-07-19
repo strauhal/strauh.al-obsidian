@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/record_of_lodoss
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: war
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: record
 - [[knowledge/wiki/images/1998 152 allegory of peace and war jpg e5c9d52f|1998 152 allegory of peace and war jpg]] — shared language: war
 - [[knowledge/wiki/images/Illustration Dopey on the emblem for the 341st Bombardment Squadron during World War II d444d2c0|Illustration Dopey on the emblem for the 341st Bombardment Squadron during World War II]] — shared language: war
 - [[knowledge/wiki/images/Clear Vinyl Record with White Abstract Patterns and Tracklist d4638151|Clear Vinyl Record with White Abstract Patterns and Tracklist]] — shared language: record
+- [[knowledge/wiki/images/peace and war by pompeo batoni 1776 13e1997a|peace and war by pompeo batoni 1776]] — shared language: war
 <!-- vault-crosslinks:end -->

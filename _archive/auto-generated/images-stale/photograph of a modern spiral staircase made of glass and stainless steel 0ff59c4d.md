@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Modern Glass and Steel Spiral Staircase with Blurred Figure e0feefc0|Photograph Modern Glass and Steel Spiral Staircase with Blurred Figure]] — shared language: steel, spiral, staircase
 - [[_archive/auto-generated/images-stale/black and white photograph of a glass spiral staircase from above e45ac679|black and white photograph of a glass spiral staircase from above]] — shared language: spiral, staircase, glass
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of A Glass Spiral Staircase From Above 1afe4347|Photograph Black And White Photograph Of A Glass Spiral Staircase From Above]] — shared language: spiral, staircase, glass
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: staircase, modern
 - [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: made
-- [[knowledge/wiki/images/Modern Kitchen And Spiral Staircase In Open Plan Interior f090fe5d|Modern Kitchen And Spiral Staircase In Open Plan Interior]] — shared language: spiral, staircase, modern
 <!-- vault-crosslinks:end -->

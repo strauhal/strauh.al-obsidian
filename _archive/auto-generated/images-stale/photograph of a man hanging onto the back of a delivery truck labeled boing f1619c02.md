@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Image Man Hanging Onto Back Of 'Boing ' Delivery Truck 85e57661|Image Man Hanging Onto Back Of 'Boing ' Delivery Truck]] — shared language: boing, delivery, onto
 - [[knowledge/wiki/images/Illustration Smiling Woman in Polluted Water, Truck Dumping Waste 86aff28e|Illustration Smiling Woman in Polluted Water, Truck Dumping Waste]] — shared language: truck
 - [[_archive/auto-generated/images-stale/illustration of an elephant semi truck and whale converging onto a pioneer optical disk with the text 654 mbytes on one disk c53e79fa|illustration of an elephant semi truck and whale converging onto a pioneer optical disk with the text 654 mbytes on one disk]] — shared language: onto, truck
-- [[_archive/auto-generated/images-stale/black and white photograph of a man painting abstract white lines on the back of a standing figure 938c8cf1|black and white photograph of a man painting abstract white lines on the back of a standing figure]] — shared language: back
 - [[knowledge/wiki/images/UPS Truck Under Apocalyptic Red Sky From Wildfires d023d3cd|UPS Truck Under Apocalyptic Red Sky From Wildfires]] — shared language: truck
+- [[_archive/auto-generated/images-stale/black and white photograph of a man painting abstract white lines on the back of a standing figure 938c8cf1|black and white photograph of a man painting abstract white lines on the back of a standing figure]] — shared language: back
 <!-- vault-crosslinks:end -->

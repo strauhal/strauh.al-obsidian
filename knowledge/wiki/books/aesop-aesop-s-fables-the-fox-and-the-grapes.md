@@ -9,8 +9,8 @@ metadata: curated
 aliases: [aesops-fables-030--the-fox-and-the-grapes]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/aesops-fables-030--the-fox-and-the-grapes.pdf"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Aesop's Fables: The Fox and the Grapes

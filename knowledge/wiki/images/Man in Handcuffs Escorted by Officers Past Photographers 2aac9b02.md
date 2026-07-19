@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Man in Han
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: past
 - [[knowledge/wiki/images/Photograph Young Man In Orange Jumpsuit Escorted By Police Officers Near Helicopter d54e918c|Photograph Young Man In Orange Jumpsuit Escorted By Police Officers Near Helicopter]] — shared language: officers, escorted
 - [[knowledge/wiki/artists/Artist - Police Officers Near Helicopter|Artist - Police Officers Near Helicopter]] — shared language: officers, escorted
-- [[knowledge/wiki/images/Illustration Two Green Crocodiles Walk Past Pyramids Under Red Sun f60e153d|Illustration Two Green Crocodiles Walk Past Pyramids Under Red Sun]] — shared language: past
 - [[knowledge/wiki/images/Police Officers Confronting Man Holding Objects In Residential Area 08702ffd|Police Officers Confronting Man Holding Objects In Residential Area]] — shared language: officers
+- [[knowledge/wiki/images/Illustration Two Green Crocodiles Walk Past Pyramids Under Red Sun f60e153d|Illustration Two Green Crocodiles Walk Past Pyramids Under Red Sun]] — shared language: past
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ornate
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Ornate Architectural Interior with Figures e4528559|Illustration Black and White Sketch of Ornate Architectural Interior with Figures]] — shared language: ornate
 - [[knowledge/wiki/artists/Artist - Bonfire and Sword|Artist - Bonfire and Sword]] — shared language: sword
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Armored Figure with Sword 2d2e4200|Illustration Black and White Sketch of Armored Figure with Sword]] — shared language: sword
 - [[knowledge/wiki/images/Man In Suit Reading Book At Ornate Table ea720e06|Man In Suit Reading Book At Ornate Table]] — shared language: ornate
-- [[knowledge/wiki/images/The Sword of Light by John Duncan (1910) e59ba9d5|The Sword of Light by John Duncan (1910)]] — shared language: sword
 <!-- vault-crosslinks:end -->

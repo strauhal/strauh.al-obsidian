@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Graffiti 'Sorry About Your Wall' on a building in winter 3c2999d9|Graffiti 'Sorry About Your Wall' on a building in winter]] — shared language: graffiti, wall
 - [[knowledge/wiki/images/Photograph Five Men, One in Wheelchair, Against Tiled Wall 6751ddbe|Photograph Five Men, One in Wheelchair, Against Tiled Wall]] — shared language: tiled, wall
-- [[knowledge/wiki/images/Photograph Yellow and Purple Graffiti Tags Over Posters on a Wall fce00647|Photograph Yellow and Purple Graffiti Tags Over Posters on a Wall]] — shared language: graffiti, wall
 - [[knowledge/wiki/images/Photograph Wall Covered in Graffiti Tags, Paint, and Stickers 978351fb|Photograph Wall Covered in Graffiti Tags, Paint, and Stickers]] — shared language: graffiti, wall
+- [[knowledge/wiki/images/Photograph Yellow and Purple Graffiti Tags Over Posters on a Wall fce00647|Photograph Yellow and Purple Graffiti Tags Over Posters on a Wall]] — shared language: graffiti, wall
 - [[knowledge/wiki/images/kanye party cd913a48|kanye party]] — shared language: kanye
 <!-- vault-crosslinks:end -->

@@ -8,8 +8,8 @@ temporal_context: after marriage and before an ayahuasca ceremony
 motifs: ["recognition", "technical failure", "childhood church", "community", "surveillance"]
 tags: [dream, journal, threshold]
 sources: ["[[recent-dreams-before-ayahuasca]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Dream 3 - The Broken strauh.al Award Demo
@@ -46,9 +46,9 @@ No fixed interpretation has been assigned. Add remembered details, waking associ
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — named in this note
 - [[knowledge/wiki/life/The Ceremony|The Ceremony]] — named in this note
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken, ceremony
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: recognition, bug, confidant
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: dreams, ceremony, recent
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: broken
 - [[knowledge/wiki/collections/Collection - dreams|Collection - dreams]] — shared language: dream, dreams
 - [[knowledge/wiki/images/demo 74257d33|demo]] — shared language: demo
-- [[knowledge/wiki/images/SplattingAvatar demo 4ec79be5|SplattingAvatar demo]] — shared language: demo
 <!-- vault-crosslinks:end -->

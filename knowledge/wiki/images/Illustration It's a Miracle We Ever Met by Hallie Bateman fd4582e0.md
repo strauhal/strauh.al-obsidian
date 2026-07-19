@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: it's
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: it's
 - [[knowledge/wiki/books/andrew-loomis-figure-drawing-for-all-it-s-worth|Figure Drawing for All It's Worth]] — shared language: it's
 - [[knowledge/wiki/images/Image Three Panel Collage of Patrick Bateman and Pok mon Plush Toys bd2589c4|Image Three Panel Collage of Patrick Bateman and Pok mon Plush Toys]] — shared language: bateman
 - [[knowledge/wiki/images/Image Close Up Of Man's Face With 'Same As It Ever Was' Text f470019c|Image Close Up Of Man's Face With 'Same As It Ever Was' Text]] — shared language: ever
+- [[knowledge/wiki/images/Whenever, If Ever by The World Is a Beautiful Place and I Am No Longer Afraid to Die (2013) a0b32726|Whenever, If Ever by The World Is a Beautiful Place and I Am No Longer Afraid to Die (2013)]] — shared language: ever
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Com
 
 - [[_archive/auto-generated/images-stale/deconvolution network architecture diagram 788230db|deconvolution network architecture diagram]] — named in this note
 - [[knowledge/wiki/images/Complex Network Diagram with Nodes and Directed Edges on Graph Paper aee24062|Complex Network Diagram with Nodes and Directed Edges on Graph Paper]] — shared language: directed, edges, nodes
-- [[_archive/auto-generated/images-stale/Diagram Complex Network Graph with Nodes and Edges b1b8fd18|Diagram Complex Network Graph with Nodes and Edges]] — shared language: nodes, edges, graph
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: network, nodes, diagram
-- [[knowledge/wiki/images/Complex Network Graph with Nodes and Edges 7a003cde|Complex Network Graph with Nodes and Edges]] — shared language: nodes, edges, graph
+- [[_archive/auto-generated/images-stale/Diagram Complex Network Graph with Nodes and Edges b1b8fd18|Diagram Complex Network Graph with Nodes and Edges]] — shared language: edges, nodes, graph
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: network, diagram, nodes
+- [[knowledge/wiki/images/Complex Network Graph with Nodes and Edges 7a003cde|Complex Network Graph with Nodes and Edges]] — shared language: edges, nodes, graph
 <!-- vault-crosslinks:end -->

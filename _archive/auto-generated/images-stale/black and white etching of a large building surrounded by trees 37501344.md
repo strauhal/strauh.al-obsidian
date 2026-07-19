@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — named in this note
 - [[knowledge/wiki/images/Illustration Black And White Etching Of A Building Surrounded By Trees 49bb7d57|Illustration Black And White Etching Of A Building Surrounded By Trees]] — same artist: trees
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, trees, large
 - [[knowledge/wiki/images/Illustration Etching of a Rustic House with a Large Log Shed 3dbed2a5|Illustration Etching of a Rustic House with a Large Log Shed]] — shared language: etching, large
 - [[_archive/auto-generated/images-stale/administration building d797c4c3|administration building]] — shared language: building
-- [[_archive/auto-generated/images-stale/photograph of a large historic hotel surrounded by snowy pine trees and mountains at dusk acd3f0a5|photograph of a large historic hotel surrounded by snowy pine trees and mountains at dusk]] — shared language: trees, surrounded, large
 <!-- vault-crosslinks:end -->

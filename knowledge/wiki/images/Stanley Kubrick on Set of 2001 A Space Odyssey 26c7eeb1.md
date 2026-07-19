@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Stanley Ku
 
 - [[knowledge/wiki/anchors/stanley-kubrick|Stanley Kubrick]] — named in this note
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: set, space
-- [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: space
 - [[knowledge/wiki/artists/Artist - robert stanley|Artist - robert stanley]] — shared language: stanley
+- [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: space
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: space
 <!-- vault-crosslinks:end -->

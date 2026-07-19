@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Comparison_of
 
 - [[knowledge/wiki/images/Generated Images Illustrating Deconvolution Layer Artifacts 6eb495a7|Generated Images Illustrating Deconvolution Layer Artifacts]] — shared language: artifacts, artifacts.png
 - [[knowledge/wiki/images/Diagram Grid of Pixelated Images Illustrating Deconvolution Artifacts fa6d1ab9|Diagram Grid of Pixelated Images Illustrating Deconvolution Artifacts]] — shared language: artifacts, artifacts.png
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: artifacts
+- [[knowledge/wiki/maps/Map - Claim Provenance|Map - Claim Provenance]] — shared language: artifacts
 - [[knowledge/wiki/images/mactruck 1984 and 1987 comparison by john m kohlenberger 1984 and 1987 32dc715a|mactruck 1984 and 1987 comparison by john m kohlenberger 1984 and 1987]] — shared language: comparison
-- [[knowledge/wiki/images/Comparison of Transportation Networks in US and Europe 9d0a8bbd|Comparison of Transportation Networks in US and Europe]] — shared language: comparison
-- [[knowledge/wiki/images/Comparison of Various Neural Network Architectures d04b646f|Comparison of Various Neural Network Architectures]] — shared language: comparison
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd, aerial
 - [[knowledge/wiki/images/Aerial View of Large Crowd and Circular Arrangement on Green Field 8afd9814|Aerial View of Large Crowd and Circular Arrangement on Green Field]] — shared language: crowd, aerial, field
 - [[_archive/auto-generated/images-stale/Photograph Aerial View of Large Crowd and Circular Arrangement on Green Field 02c8155f|Photograph Aerial View of Large Crowd and Circular Arrangement on Green Field]] — shared language: crowd, aerial, field
-- [[_archive/auto-generated/images-stale/large black and white aerial or crowd texture aa7c6e1a|large black and white aerial or crowd texture]] — shared language: crowd, aerial, large
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, large
 <!-- vault-crosslinks:end -->

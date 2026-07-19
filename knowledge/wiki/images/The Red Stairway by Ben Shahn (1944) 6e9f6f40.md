@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/The Red Stairway
 - [[knowledge/wiki/artists/Artist - ben shahn|Artist - ben shahn]] — shared language: shahn, ben
 - [[knowledge/wiki/images/the runners by ben shahn 1968 0d6ce589|the runners by ben shahn 1968]] — shared language: shahn, ben
 - [[knowledge/wiki/images/Shopping Carts by Ben Shahn (1957) 414ee588|Shopping Carts by Ben Shahn (1957)]] — shared language: shahn, ben
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ben
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: ben
 <!-- vault-crosslinks:end -->

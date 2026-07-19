@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Audience at AIPAC Conference with US and Israeli Flags 15ee1102|Audience at AIPAC Conference with US and Israeli Flags]] — named in this note
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: audience
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: audience
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Observer in the Age of Overload|Constellation - The Observer in the Age of Overload]] — shared language: audience
-- [[knowledge/wiki/images/Illustration Marker Drawing of People in a Conference Room f45e61eb|Illustration Marker Drawing of People in a Conference Room]] — shared language: conference
-- [[_archive/auto-generated/images-stale/impressionistic painting of figures walking in a park with flags b6905a65|impressionistic painting of figures walking in a park with flags]] — shared language: flags, flags.jpeg
 <!-- vault-crosslinks:end -->

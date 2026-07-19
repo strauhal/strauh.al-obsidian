@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Chart Ex
 - [[knowledge/wiki/books/regularity-of-colour-statistics-in-explaining-colo|Regularity of colour statistics in explaining colo]] — shared language: explaining
 - [[knowledge/wiki/images/Maniac by Conan Gray (2019) ed3ffa9f|Maniac by Conan Gray (2019)]] — shared language: conan
 - [[knowledge/wiki/images/Comic Robot Explaining Abstract Art To Two People 9d8cfbf0|Comic Robot Explaining Abstract Art To Two People]] — shared language: explaining
-- [[knowledge/wiki/images/Illustration Line Drawing of Muscular and Mechanical Figures in Conflict afb98d19|Illustration Line Drawing of Muscular and Mechanical Figures in Conflict]] — shared language: conflict
+- [[knowledge/wiki/images/conan on horseback by frank frazetta 1977 88aa0f48|conan on horseback by frank frazetta 1977]] — shared language: conan
 <!-- vault-crosslinks:end -->

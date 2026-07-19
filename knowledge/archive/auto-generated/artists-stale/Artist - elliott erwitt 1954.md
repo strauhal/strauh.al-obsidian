@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - elliott erwitt|Artist - elliott erwitt]] — named in this note
 - [[knowledge/wiki/books/paul-auster-the-new-york-trilogy-city-of-glass-ghosts-the-locked-room-contemporary-american-fiction-series-penguin-non-classics|The New York Trilogy City of Glass Ghosts The Locked Room (Contemporary American Fiction Series) -Penguin (Non-Classics)]] — shared language: york, new
 - [[knowledge/wiki/books/david-hockney-secret-knowledge-rediscovering-the-lost-techniques-of-the|Secret knowledge - rediscovering the lost techniques of the]] — shared language: york, new
-- [[_archive/auto-generated/books-stale/the-new-jim-crow|The New Jim Crow]] — shared language: new
 - [[knowledge/wiki/images/New York by Franklin Booth (1920) ddc53aaa|New York by Franklin Booth (1920)]] — shared language: york, new
+- [[knowledge/wiki/anchors/museum|museum]] — shared language: museum
 - [[knowledge/wiki/images/edward hopper room in new york 1932 c71312da|edward hopper room in new york 1932]] — shared language: york, new
 <!-- vault-crosslinks:end -->

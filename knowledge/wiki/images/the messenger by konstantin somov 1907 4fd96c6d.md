@@ -27,8 +27,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_messenger_by
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/landscape with chickens by konstantin somov 1918 92980ef8|landscape with chickens by konstantin somov 1918]] — same artist: konstantin somov
 - [[knowledge/wiki/images/intimate scene by konstantin somov 1935 ff242bb6|intimate scene by konstantin somov 1935]] — same artist: konstantin somov
+- [[knowledge/wiki/images/landscape with chickens by konstantin somov 1918 92980ef8|landscape with chickens by konstantin somov 1918]] — same artist: konstantin somov
 - [[knowledge/wiki/artists/Artist - konstantin korovin|Artist - konstantin korovin]] — shared language: konstantin
 - [[knowledge/wiki/artists/Artist - konstantin yuon|Artist - konstantin yuon]] — shared language: konstantin
 - [[knowledge/wiki/artists/Artist - konstantin makovsky|Artist - konstantin makovsky]] — shared language: konstantin

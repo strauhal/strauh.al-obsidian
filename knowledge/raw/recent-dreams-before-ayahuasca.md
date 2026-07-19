@@ -2,7 +2,7 @@
 title: Recent Dreams Before Ayahuasca
 slug: recent-dreams-before-ayahuasca
 type: dream-journal
-ingested: 2026-07-18
+ingested: 2026-07-19
 compiled: true
 temporal_context: after marriage and before an ayahuasca ceremony
 tags: [raw, dreams, marriage, threshold]

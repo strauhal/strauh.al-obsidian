@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
-- [[knowledge/wiki/images/Photograph Audience Watching Code on Large Screen in Dark Theater d40667bc|Photograph Audience Watching Code on Large Screen in Dark Theater]] — shared language: theater, code, watching
+- [[knowledge/wiki/images/Photograph Audience Watching Code on Large Screen in Dark Theater d40667bc|Photograph Audience Watching Code on Large Screen in Dark Theater]] — shared language: theater, watching, code
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: audience
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: screen
 - [[knowledge/wiki/images/Close up of a digital screen displaying abstract green and dark shapes 63df1a82|Close up of a digital screen displaying abstract green and dark shapes]] — shared language: displaying, screen, dark
-- [[_archive/auto-generated/images-stale/Photograph Close up of a digital screen displaying abstract green and dark shapes 115b6199|Photograph Close up of a digital screen displaying abstract green and dark shapes]] — shared language: displaying, screen, dark
 <!-- vault-crosslinks:end -->

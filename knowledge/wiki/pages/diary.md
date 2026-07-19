@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/diary.html"
 source_relpath: "diary.html"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:15"
+compiled_at: "2026-07-19T02:00:04"
 tags: ["strauhal", "source/html"]
 ---
 # diary
@@ -678,5 +678,5 @@ thank you for reading
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — named in this note
 - [[knowledge/wiki/pages/culture society|culture society]] — named in this note
 - [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — named in this note
 <!-- vault-crosslinks:end -->

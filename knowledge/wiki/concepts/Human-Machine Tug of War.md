@@ -4,8 +4,8 @@ type: concept
 aliases: [tug of war, machine collaboration, negotiated authorship]
 tags: [concept, ai-art, authorship, control]
 sources: ["[[No More Human Art]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Human-Machine Tug of War
@@ -32,18 +32,6 @@ The machine is neither an autonomous author nor a neutral brush. It is a tempora
 
 <!-- archive-links:end -->
 
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: human-machine, tug, war
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: human-machine, tug, war
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: movement, produces, vocal
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: process, studies, work
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: work, vocal, gan
-- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: control, slop, model
-- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: studies, gan, ben
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: human-machine, tug, latent
-<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -92,3 +80,16 @@ The machine is neither an autonomous author nor a neutral brush. It is a tempora
 >
 > Theory is an analytical tool and should never be deliberately thought of when writing music. Jacob's [Collier] music is written in a theoretically well thought out and deliberate manner. It lacks spontaneity, inspiration and any part of the natural creative process. I can guarantee most classical/jazz masterpieces began with the composer drunkenly fucking around on his instrument or randomly humming a melody. My proof for this is the fact that Jacob can give an in-depth theoretical analysis of any minute detail of his songs in a heartbeat. If you asked someone like Thelonious Monk to explain why he played a certain chord, he would probably answer something along the lines of 'it sounded good'. Actual masterful composers have the necessary theory internalized and never use it as a starting point when writing music.
 <!-- quotes:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — named in this note
+- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/images/amazing 9104b34b|amazing]] — named in this note
+- [[knowledge/wiki/images/deathbed b3013235|deathbed]] — named in this note
+- [[knowledge/wiki/images/essence dbff3c59|essence]] — named in this note
+<!-- vault-crosslinks:end -->

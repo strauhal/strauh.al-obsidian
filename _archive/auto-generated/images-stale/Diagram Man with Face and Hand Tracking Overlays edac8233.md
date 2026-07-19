@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Man
 
 - [[knowledge/wiki/images/Man with Face and Hand Tracking Overlays 8a608621|Man with Face and Hand Tracking Overlays]] — named in this note
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: tracking
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: hand
-- [[knowledge/wiki/images/Screenshot Person's Face With Blue Facial Landmark Tracking Dots a95cf1df|Screenshot Person's Face With Blue Facial Landmark Tracking Dots]] — shared language: tracking, face
 <!-- vault-crosslinks:end -->

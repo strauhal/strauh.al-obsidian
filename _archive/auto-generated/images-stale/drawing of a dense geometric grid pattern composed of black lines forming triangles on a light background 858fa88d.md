@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Abstract Line Drawing with Dense Central Pattern on Light Background a227a6b3|Illustration Abstract Line Drawing with Dense Central Pattern on Light Background]] — shared language: dense, pattern, light
 - [[_archive/auto-generated/artists-noise/Artist - white lines on a black background|Artist - white lines on a black background]] — shared language: lines, background, pattern
 - [[knowledge/archive/auto-generated/artists-stale/Artist - white lines on a black background|Artist - white lines on a black background]] — shared language: lines, background, pattern
-- [[_archive/auto-generated/images-stale/geometric composition of interlocking beige triangles on black background c74f6e37|geometric composition of interlocking beige triangles on black background]] — shared language: triangles, geometric, background
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
 <!-- vault-crosslinks:end -->

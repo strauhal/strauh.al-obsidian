@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Audience R
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: audience
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: audience
 - [[knowledge/wiki/images/Man Singing Into Microphone At Concert With Goat In Audience 1c252d8e|Man Singing Into Microphone At Concert With Goat In Audience]] — shared language: concert, audience
 - [[knowledge/wiki/images/Image Wojak Style Character And Green Handheld Device With Text 840244a3|Image Wojak Style Character And Green Handheld Device With Text]] — shared language: handheld
-- [[knowledge/wiki/images/Nintendo 3DS Console Displaying Digital Painting Application 4377208a|Nintendo 3DS Console Displaying Digital Painting Application]] — shared language: console
-- [[knowledge/wiki/images/Diagram Exploded Diagram of Original Sony PlayStation Console Components 6d654f16|Diagram Exploded Diagram of Original Sony PlayStation Console Components]] — shared language: console
 <!-- vault-crosslinks:end -->

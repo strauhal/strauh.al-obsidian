@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Document - Profi
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: artistic, process
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: artistic, process
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: process
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: describing
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: process
+- [[knowledge/wiki/images/Screenshot Screenshot of Text Describing Euthanasia Coaster with Diagram e02b6883|Screenshot Screenshot of Text Describing Euthanasia Coaster with Diagram]] — shared language: describing, text
+- [[knowledge/wiki/images/Document Text Describing Artworks by Michael James Roberts 2b50dc93|Document Text Describing Artworks by Michael James Roberts]] — shared language: describing, document, text
 <!-- vault-crosslinks:end -->

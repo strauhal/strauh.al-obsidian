@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city
 - [[knowledge/wiki/images/Dark Room With Bright Window And Door Overlooking Water c2eb47a1|Dark Room With Bright Window And Door Overlooking Water]] — shared language: overlooking, window
 - [[_archive/auto-generated/images-stale/Photograph Dark Room With Bright Window And Door Overlooking Water de2a2769|Photograph Dark Room With Bright Window And Door Overlooking Water]] — shared language: overlooking, window
 - [[_archive/auto-generated/images-stale/painting of a woman standing on a seaside balcony 126475e8|painting of a woman standing on a seaside balcony]] — shared language: balcony, balcony.jpg
-- [[_archive/auto-generated/images-stale/anand kulkarni vimana city contemporary eb6947dd|anand kulkarni vimana city contemporary]] — shared language: city
 <!-- vault-crosslinks:end -->

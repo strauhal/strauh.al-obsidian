@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/A Pudgy God by S
 
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: god
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: god
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: god
 - [[knowledge/wiki/artists/Artist - stephen shore|Artist - stephen shore]] — shared language: stephen
 - [[knowledge/wiki/anchors/stephen-hough|Stephen Hough]] — shared language: stephen
+- [[knowledge/wiki/images/god ec3a662d|god]] — shared language: god
 <!-- vault-crosslinks:end -->

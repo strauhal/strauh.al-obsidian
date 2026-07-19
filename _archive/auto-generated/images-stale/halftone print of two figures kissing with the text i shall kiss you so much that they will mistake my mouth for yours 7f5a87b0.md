@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Halftone Print of Two Figures Kissing with Text e0d30119|Illustration Halftone Print of Two Figures Kissing with Text]] — named in this note
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: mistake
 - [[knowledge/wiki/images/Photograph Black And White Halftone Print Of A Chimpanzee 5dafe70f|Photograph Black And White Halftone Print Of A Chimpanzee]] — shared language: halftone, print
 - [[knowledge/wiki/images/Illustration Abstract Figure in Bold Colors with Halftone Print Style a9460393|Illustration Abstract Figure in Bold Colors with Halftone Print Style]] — shared language: halftone, print
 - [[_archive/auto-generated/images-stale/print 1000px jpg 38f00329|print 1000px jpg]] — shared language: print
-- [[knowledge/wiki/images/Illustration Two Cartoon Ladybugs Kissing on a Green Swirl cfca5902|Illustration Two Cartoon Ladybugs Kissing on a Green Swirl]] — shared language: kissing
 <!-- vault-crosslinks:end -->

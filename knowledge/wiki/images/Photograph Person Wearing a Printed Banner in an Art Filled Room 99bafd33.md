@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Per
 - [[knowledge/wiki/images/Illustration Sunlit Plant Filled Living Room Viewed From Above 5ad3d243|Illustration Sunlit Plant Filled Living Room Viewed From Above]] — shared language: filled, room
 - [[knowledge/wiki/images/Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text 34b9a427|Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text]] — shared language: wearing, person
 - [[knowledge/wiki/images/Document Close Up Of A Book Page With Printed Text 26a2fcf1|Document Close Up Of A Book Page With Printed Text]] — shared language: printed
-- [[knowledge/wiki/images/Illustration Pixel Art Of A Person In A Messy Room At Night 6315c280|Illustration Pixel Art Of A Person In A Messy Room At Night]] — shared language: room, person
+- [[knowledge/wiki/images/Side Profile of Person Wearing a Modern VR Headset c94ea24b|Side Profile of Person Wearing a Modern VR Headset]] — shared language: wearing, person
 <!-- vault-crosslinks:end -->

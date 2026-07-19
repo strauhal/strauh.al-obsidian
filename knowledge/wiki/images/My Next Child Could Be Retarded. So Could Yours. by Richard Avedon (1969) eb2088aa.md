@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/My Next Child Co
 - [[knowledge/wiki/artists/Artist - richard avedon|Artist - richard avedon]] — shared language: avedon, richard
 - [[knowledge/wiki/images/marilyn monroe by richard avedon 1957 663916db|marilyn monroe by richard avedon 1957]] — shared language: avedon, richard
 - [[knowledge/wiki/images/marilyn monroe new york by richard avedon 1954 6d2da2e5|marilyn monroe new york by richard avedon 1954]] — shared language: avedon, richard
-- [[knowledge/wiki/images/marilyn monroe with apples by richard avedon 1954 c2f5d17b|marilyn monroe with apples by richard avedon 1954]] — shared language: avedon, richard
 - [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — shared language: richard
+- [[knowledge/wiki/images/marilyn monroe with apples by richard avedon 1954 c2f5d17b|marilyn monroe with apples by richard avedon 1954]] — shared language: avedon, richard
 <!-- vault-crosslinks:end -->

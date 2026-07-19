@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Discarded 
 - [[knowledge/wiki/images/the mattress by eric fischl 1991 c6f0df14|the mattress by eric fischl 1991]] — shared language: mattress
 - [[knowledge/wiki/images/Photograph Room with Mattress, Crucifix, Books, Rifle, DJ Controller on Floor a6dc566c|Photograph Room with Mattress, Crucifix, Books, Rifle, DJ Controller on Floor]] — shared language: mattress
 - [[knowledge/wiki/images/Sparsely Furnished Room With Air Mattress And Fan 1cb520b1|Sparsely Furnished Room With Air Mattress And Fan]] — shared language: mattress
-- [[knowledge/wiki/images/Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ' 76060bd3|Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ']] — shared language: graffiti
+- [[knowledge/wiki/images/Illustration Woman in Red Glasses and Blue Striped Top b2c3c981|Illustration Woman in Red Glasses and Blue Striped Top]] — shared language: striped
 <!-- vault-crosslinks:end -->

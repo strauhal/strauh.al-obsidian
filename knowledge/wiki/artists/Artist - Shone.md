@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/pages/knowledge base web art|knowledge base web art]] — shared language: auto, theft, grand
 - [[knowledge/wiki/images/Explosion by Martin Sharp (1968) 8b1505fc|Explosion by Martin Sharp (1968)]] — shared language: explosion
 - [[knowledge/wiki/images/Bright Explosion With Debris Against Blue Sky 11e9c51b|Bright Explosion With Debris Against Blue Sky]] — shared language: explosion
 - [[knowledge/wiki/images/Black And White Photograph Of A Distant Nuclear Explosion Over Mountains e0ca8926|Black And White Photograph Of A Distant Nuclear Explosion Over Mountains]] — shared language: explosion
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building 7fa929f6|Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building]] — shared language: grand
-- [[knowledge/wiki/pages/knowledge base web art|knowledge base web art]] — shared language: auto, theft, grand
 - [[knowledge/wiki/images/Explosion at World Trade Center During September 11 Attacks d28920f1|Explosion at World Trade Center During September 11 Attacks]] — shared language: explosion
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Charcoal And Wash Sketch Of A Narrow City Street 1dd67440|Illustration Charcoal And Wash Sketch Of A Narrow City Street]] — named in this note
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, buildings
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tall, city, street
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: charcoal
 - [[knowledge/wiki/images/City Street Lined With Tall Buildings Leading To Water 929dcd0d|City Street Lined With Tall Buildings Leading To Water]] — shared language: tall, buildings, street
-- [[_archive/auto-generated/images-stale/Photograph City Street Lined With Tall Buildings Leading To Water 6db98a8a|Photograph City Street Lined With Tall Buildings Leading To Water]] — shared language: tall, buildings, street
 <!-- vault-crosslinks:end -->

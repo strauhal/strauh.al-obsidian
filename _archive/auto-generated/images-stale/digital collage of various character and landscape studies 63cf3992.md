@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Digital Collage of Various Character and Landscape Studies 459e9f34|Illustration Digital Collage of Various Character and Landscape Studies]] — named in this note
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, character
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: studies
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: various
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: studies

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: one
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: one
-- [[knowledge/wiki/images/Turandot by David Hockney (1992) 34576ee5|Turandot by David Hockney (1992)]] — shared language: david
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: one
 <!-- vault-crosslinks:end -->

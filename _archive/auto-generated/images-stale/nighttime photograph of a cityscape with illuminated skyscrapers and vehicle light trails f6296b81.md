@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails 7ef22f26|Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails]] — shared language: nighttime, trails, vehicle
-- [[_archive/auto-generated/images-stale/Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails 3653fe48|Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails]] — shared language: nighttime, trails, vehicle
+- [[knowledge/wiki/images/Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails 7ef22f26|Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails]] — shared language: nighttime, trails, illuminated
+- [[_archive/auto-generated/images-stale/Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails 3653fe48|Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails]] — shared language: nighttime, trails, illuminated
 - [[knowledge/wiki/images/Illustration Nighttime Cityscape with Buildings, Streetlights, and Trees 0e2923aa|Illustration Nighttime Cityscape with Buildings, Streetlights, and Trees]] — shared language: nighttime, cityscape
 - [[_archive/auto-generated/images-stale/Photograph Skyscrapers and Contrails in Blue Sky, Cityscape View 21b21488|Photograph Skyscrapers and Contrails in Blue Sky, Cityscape View]] — shared language: skyscrapers, cityscape
 - [[knowledge/wiki/images/Skyscrapers and Contrails in Blue Sky, Cityscape View c9821d7c|Skyscrapers and Contrails in Blue Sky, Cityscape View]] — shared language: skyscrapers, cityscape

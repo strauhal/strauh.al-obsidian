@@ -31,11 +31,11 @@ hollowed out the audience for sustained creative work.
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: label, record, attention
-- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: attention, economy, feed
+- [[knowledge/wiki/concepts/Interest-Dependent Persistence|Interest-Dependent Persistence]] — shared language: record, abandoned, economy
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: label, record, economy
+- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: economy, attention, feed
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: creative, attention, summary
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: diary, summary, sources
 - [[knowledge/wiki/people/Balthus|Balthus]] — shared language: diary, got, summary
 - [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: diary, work, reason
-- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: attention, economy, diary
 <!-- vault-crosslinks:end -->

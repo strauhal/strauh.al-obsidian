@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Two Actors
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: set
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: screen
 - [[knowledge/wiki/images/Film Set With Large Green Screen And Crew b9365a88|Film Set With Large Green Screen And Crew]] — shared language: set, screen, green
-- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: actors
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: screen
+- [[knowledge/wiki/images/Actresses Mia Wasikowska And Helena Bonham Carter On Green Screen Set bd3789d2|Actresses Mia Wasikowska And Helena Bonham Carter On Green Screen Set]] — shared language: set, screen, green
 <!-- vault-crosslinks:end -->

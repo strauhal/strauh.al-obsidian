@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Convolution_a
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: network, convolution, diagram
 - [[knowledge/wiki/images/Architecture Diagram Of Convolution And Deconvolution Neural Networks c2530418|Architecture Diagram Of Convolution And Deconvolution Neural Networks]] — shared language: convolution, diagram
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: convolution
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: network
 - [[knowledge/wiki/images/Complex Network Diagram on Grid 6975378a|Complex Network Diagram on Grid]] — shared language: network, diagram
-- [[knowledge/wiki/images/Diagram Dense Network Diagram of Interconnected Text Labels cc9db1cc|Diagram Dense Network Diagram of Interconnected Text Labels]] — shared language: network, diagram
 <!-- vault-crosslinks:end -->

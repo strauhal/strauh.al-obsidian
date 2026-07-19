@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Mid Century Modern Office Interior with Multiple Levels and Glass Partitions 62dd5fd9|Mid Century Modern Office Interior with Multiple Levels and Glass Partitions]] — shared language: levels, partitions, mid
+- [[knowledge/wiki/images/Mid Century Modern Office Interior with Multiple Levels and Glass Partitions 62dd5fd9|Mid Century Modern Office Interior with Multiple Levels and Glass Partitions]] — shared language: partitions, levels, mid
 - [[knowledge/wiki/pages/mid century american|mid century american]] — shared language: mid, century
 - [[knowledge/wiki/images/Photograph Interior View of a Modern Art Gallery or Office Space 9aa654e7|Photograph Interior View of a Modern Art Gallery or Office Space]] — shared language: office, modern, interior
 - [[knowledge/wiki/images/Mid Century Modern Living Room with Wood Paneling and Red Carpet ffdcfe7f|Mid Century Modern Living Room with Wood Paneling and Red Carpet]] — shared language: mid, century, modern

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Comparison Chart of Philosophical Terms with Meanings and Examples e9b0a953|Comparison Chart of Philosophical Terms with Meanings and Examples]] — shared language: terms
 - [[knowledge/wiki/images/Illustration Abstract Black Drawing on Musical Staff Paper 7e475f65|Illustration Abstract Black Drawing on Musical Staff Paper]] — shared language: paper
 - [[knowledge/wiki/images/Illustration Chinese Calligraphy in Black Ink on White Paper 7f0bf24b|Illustration Chinese Calligraphy in Black Ink on White Paper]] — shared language: paper
-- [[knowledge/wiki/images/Illustration Dynamic Abstract Black Ink Calligraphy on White Paper dce31969|Illustration Dynamic Abstract Black Ink Calligraphy on White Paper]] — shared language: paper
+- [[knowledge/wiki/images/Illustration Line Drawing of Succulent Plants on Textured Paper 64a93c3d|Illustration Line Drawing of Succulent Plants on Textured Paper]] — shared language: paper
 <!-- vault-crosslinks:end -->

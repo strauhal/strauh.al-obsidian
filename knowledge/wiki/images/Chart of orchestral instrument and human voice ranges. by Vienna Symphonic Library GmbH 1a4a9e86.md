@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Chart_of_orch
 
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: voice, human
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: voice, human
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: voice
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: voice, human
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: voice
-- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human, voice
 <!-- vault-crosslinks:end -->

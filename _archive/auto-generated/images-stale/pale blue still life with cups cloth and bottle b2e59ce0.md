@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/still life with vases bowl and blue bottle 9f269b06|still life with vases bowl and blue bottle]] — shared language: bottle, still, life
 - [[knowledge/wiki/images/Illustration Still Life with Pears, Apples, and Walnuts on White Cloth 7baac1eb|Illustration Still Life with Pears, Apples, and Walnuts on White Cloth]] — shared language: cloth, still, life
 - [[knowledge/wiki/images/Illustration Still Life Painting of Bottle and Glass with Muted Colors 52841813|Illustration Still Life Painting of Bottle and Glass with Muted Colors]] — shared language: bottle, still, life
-- [[_archive/auto-generated/images-stale/muted still life with large bottle and blue rectangular form 9f658a52|muted still life with large bottle and blue rectangular form]] — shared language: bottle, still, life
+- [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
 <!-- vault-crosslinks:end -->

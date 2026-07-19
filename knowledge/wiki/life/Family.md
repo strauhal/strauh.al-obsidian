@@ -5,7 +5,7 @@ aliases: [lineage, ancestry, the family, family history]
 tags: [life, family, lineage, history]
 sources: ["[[grandmas house]]", "[[old photos]]", "[[diary]]"]
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-07-19
 ---
 
 # Family
@@ -21,6 +21,11 @@ updated: 2026-06-27
 - **Father:** born in Santa Cruz, California; a high-school math teacher; married Ernest's mother in San Francisco in 1993. The other root of the teaching lineage.
 - **Paternal grandfather:** fought in the **Battle of the Bulge** in World War II.
 - **Paternal great-grandfather:** an ambulance driver in France and Belgium in World War I.
+- **Paternal great-great-grandfather:** operated movie theaters in Long Beach, California.
+  This family fact is recorded from Ernest's direct account on 2026-07-19. The archive
+  also preserves a separate account of Charles “Charley” Strauhal operating theaters in
+  Ilwaco and Long Beach, Washington; those places and generations should not be silently
+  conflated without additional genealogical evidence.
 
 ## Why it's in the vault
 A vault that maps a consciousness has to hold the people who shaped it. These aren't
@@ -33,12 +38,18 @@ work, and now they have somewhere to connect to.
 - [[Trainpilled]] — the railroad great-grandfather.
 - [[Latent Space]] — heritage as coordinates of the self.
 - [[Memory and Preservation]] — keeping a history that was nearly lost.
+- [[The Panel as Canvas]] — a family history of exhibition and moving images now sits
+  upstream of Ernest's film, animation, and screen-based practice, without implying a
+  simple causal inheritance.
+- [[Psychological Architecture]] — family repetition as interpretation rather than fact.
 - [[san francisco]] · [[grandmas house]] · [[old photos]] — the archive's own family pages.
 
 ## Sources
 - [[grandmas house]]
 - [[old photos]]
 - [[diary]]
+- Direct account from Ernest, 2026-07-19 (paternal great-great-grandfather and Long Beach,
+  California movie theaters).
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -47,8 +58,8 @@ work, and now they have somewhere to connect to.
 - [[knowledge/wiki/anchors/california|california]] — named in this note
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: coordinates, vault, latent
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: latent, space, war
-- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: teaching, family, san
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: beach, long, history
+- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: direct, latent, war
+- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: family, teaching, san
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: trainpilled, san, francisco
-- [[Welcome|strauh.al Knowledge Base]] — shared language: vault, family, latent
-- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: vault, family, latent
 <!-- vault-crosslinks:end -->

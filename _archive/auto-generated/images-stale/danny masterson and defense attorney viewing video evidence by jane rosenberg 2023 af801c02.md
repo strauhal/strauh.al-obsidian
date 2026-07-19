@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jane rosenberg 2023|Artist - jane rosenberg 2023]] — named in this note
-- [[knowledge/wiki/images/Illustration Courtroom Sketch of Two Men Viewing Video Evidence 04ac98ce|Illustration Courtroom Sketch of Two Men Viewing Video Evidence]] — shared language: evidence, viewing, video
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: evidence
+- [[knowledge/wiki/images/Illustration Courtroom Sketch of Two Men Viewing Video Evidence 04ac98ce|Illustration Courtroom Sketch of Two Men Viewing Video Evidence]] — shared language: viewing, evidence, video
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jane trueblood|Artist - jane trueblood]] — shared language: jane
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jane trueblood 2019|Artist - jane trueblood 2019]] — shared language: jane
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: evidence
 <!-- vault-crosslinks:end -->

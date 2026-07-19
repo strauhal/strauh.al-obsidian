@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - m c escher 1950|Artist - m c escher 1950]] — shared language: escher
 - [[knowledge/archive/auto-generated/artists-stale/Artist - m c escher 1958|Artist - m c escher 1958]] — shared language: escher
 - [[knowledge/archive/auto-generated/artists-stale/Artist - m c escher 1938|Artist - m c escher 1938]] — shared language: escher
-- [[knowledge/wiki/artists/Artist - m c escher|Artist - m c escher]] — shared language: escher, waterfall
+- [[knowledge/wiki/images/mc escher other world 1947 9ee92a93|mc escher other world 1947]] — shared language: escher
 <!-- vault-crosslinks:end -->

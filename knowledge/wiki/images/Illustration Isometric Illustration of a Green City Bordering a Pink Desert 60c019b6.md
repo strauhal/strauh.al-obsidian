@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric, city
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/images/Illustration Collection of Pink Isometric Pixel Art Folder Icons 3d13cf32|Illustration Collection of Pink Isometric Pixel Art Folder Icons]] — shared language: isometric, pink
 - [[knowledge/wiki/images/Illustration Abstract Isometric Geometric Shapes in Pink, Yellow, Blue a1321b69|Illustration Abstract Isometric Geometric Shapes in Pink, Yellow, Blue]] — shared language: isometric, pink
 - [[knowledge/wiki/images/Illustration Detailed Isometric Cyberpunk City Street Scene c82cd53b|Illustration Detailed Isometric Cyberpunk City Street Scene]] — shared language: isometric, city
-- [[knowledge/wiki/images/Illustration Detailed Isometric Illustration of a Bustling Futuristic City eb32de33|Illustration Detailed Isometric Illustration of a Bustling Futuristic City]] — shared language: isometric, city
 <!-- vault-crosslinks:end -->

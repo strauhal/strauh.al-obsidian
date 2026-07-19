@@ -9,8 +9,8 @@ metadata: curated
 aliases: [ranciere the monument and its confidences]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/ranciere_the_monument_and_its_confidences.pdf"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # The Monument and Its Confidences

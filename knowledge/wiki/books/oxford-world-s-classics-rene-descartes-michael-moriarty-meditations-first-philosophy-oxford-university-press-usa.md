@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/(Oxford World's Classics) René Descartes, Michael Moriarty - Meditations First Philosophy-Oxford University Press, USA (2008).pdf"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Meditations First Philosophy-Oxford University Press, USA

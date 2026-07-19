@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Illustration Abstract Collage with Blue Halftone Flowers and Pink Painted Roses 26ff9bc9|Illustration Abstract Collage with Blue Halftone Flowers and Pink Painted Roses]] — shared language: painted, halftone, flowers
 - [[knowledge/wiki/images/Illustration Painting of a Potted Plant, Flower, and Halftone Collage Element a714b01a|Illustration Painting of a Potted Plant, Flower, and Halftone Collage Element]] — shared language: element, halftone, element.jpeg
-- [[knowledge/wiki/images/Illustration Abstract Red and Blue Geometric Shapes on Black Background 825d4435|Illustration Abstract Red and Blue Geometric Shapes on Black Background]] — shared language: geometric, background
 - [[knowledge/wiki/images/Illustration Painting of Pink Flowers and Green Leaves a9b14692|Illustration Painting of Pink Flowers and Green Leaves]] — shared language: flowers, pink
+- [[knowledge/wiki/images/Illustration Abstract Red and Blue Geometric Shapes on Black Background 825d4435|Illustration Abstract Red and Blue Geometric Shapes on Black Background]] — shared language: geometric, background
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Woman, Flowers, and Geometric Steps 38852ae7|Illustration Black and White Ink Drawing of Woman, Flowers, and Geometric Steps]] — shared language: flowers, geometric
 <!-- vault-crosslinks:end -->

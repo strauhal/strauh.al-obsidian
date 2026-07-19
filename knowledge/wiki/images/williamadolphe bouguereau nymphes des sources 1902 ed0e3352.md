@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/williamadolphe_b
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: sources
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: sources
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: sources
-- [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: sources
+- [[knowledge/wiki/images/williamadolphe bouguereau the sleep le sommeil 1873 31c1aa27|williamadolphe bouguereau the sleep le sommeil 1873]] — shared language: bouguereau
 <!-- vault-crosslinks:end -->

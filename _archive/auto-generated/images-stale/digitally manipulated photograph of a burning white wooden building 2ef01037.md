@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Digitally Manipulated Photograph Of A Burning White Wooden Building 88077396|Digitally Manipulated Photograph Of A Burning White Wooden Building]] — shared language: manipulated, digitally, burning
 - [[_archive/auto-generated/images-stale/Photograph Digitally Manipulated Photograph Of A Burning White Wooden Building 3c6b2d32|Photograph Digitally Manipulated Photograph Of A Burning White Wooden Building]] — shared language: manipulated, digitally, burning
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, burning
 - [[knowledge/wiki/images/Illustration Digitally Manipulated Ornate Wooden Structure With Wavy Distortions by Ferruccio Laviani b10e3166|Illustration Digitally Manipulated Ornate Wooden Structure With Wavy Distortions by Ferruccio Laviani]] — shared language: manipulated, digitally, wooden
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: digitally
-- [[knowledge/wiki/artists/Artist - Ferruccio Laviani|Artist - Ferruccio Laviani]] — shared language: manipulated, digitally, wooden
 <!-- vault-crosslinks:end -->

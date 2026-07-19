@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/le_baiser_by_lou
 - [[knowledge/wiki/artists/Artist - louis wain|Artist - louis wain]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis faurer|Artist - louis faurer]] — shared language: louis
-- [[knowledge/wiki/artists/Artist - louis haghe|Artist - louis haghe]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis markoya|Artist - louis markoya]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis haghe|Artist - louis haghe]] — shared language: louis
 <!-- vault-crosslinks:end -->

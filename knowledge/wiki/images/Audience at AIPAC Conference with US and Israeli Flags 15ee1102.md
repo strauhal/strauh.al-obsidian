@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Audience a
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: audience
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: audience
 - [[knowledge/wiki/images/Illustration Marker Drawing of People in a Conference Room f45e61eb|Illustration Marker Drawing of People in a Conference Room]] — shared language: conference
 - [[knowledge/wiki/images/Illustration Abstract Painting of Flags and a Child like Figure 03049e59|Illustration Abstract Painting of Flags and a Child like Figure]] — shared language: flags
-- [[knowledge/wiki/images/Illustration Dartmouth Conference The Founding Fathers of AI b79ef43c|Illustration Dartmouth Conference The Founding Fathers of AI]] — shared language: conference
-- [[knowledge/wiki/images/Interior of a Modernist Building with Curved Walls and Conference Room dc58e14c|Interior of a Modernist Building with Curved Walls and Conference Room]] — shared language: conference
 <!-- vault-crosslinks:end -->

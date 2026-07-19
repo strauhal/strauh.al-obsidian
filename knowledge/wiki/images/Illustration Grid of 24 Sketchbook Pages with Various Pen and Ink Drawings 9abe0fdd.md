@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - G
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Sketchbook Page with Pen and Ink Nature Drawings and Timer 916fbeae|Illustration Sketchbook Page with Pen and Ink Nature Drawings and Timer]] — shared language: sketchbook, pen, drawings
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pen, sketchbook, ink
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pen, ink, sketchbook
 - [[knowledge/wiki/images/Illustration Grid of Twenty Black and White Ink Drawings of Various Landscapes 413ecbaa|Illustration Grid of Twenty Black and White Ink Drawings of Various Landscapes]] — shared language: various, drawings, grid
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid, various
 - [[knowledge/wiki/images/Illustration Grid of Thirty Black Ink Line Drawings of Various Scenes 73615307|Illustration Grid of Thirty Black Ink Line Drawings of Various Scenes]] — shared language: various, drawings, grid

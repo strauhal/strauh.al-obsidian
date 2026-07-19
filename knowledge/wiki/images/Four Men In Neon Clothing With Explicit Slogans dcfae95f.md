@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Four Men I
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/maps/Map - Claim Provenance|Map - Claim Provenance]] — shared language: explicit
 - [[knowledge/wiki/images/Image Two Men In 1980s Neon Grid Background With Text Overlay f89c6f59|Image Two Men In 1980s Neon Grid Background With Text Overlay]] — shared language: neon, men
 - [[knowledge/wiki/images/neon and rain ba804198|neon and rain]] — shared language: neon
 - [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: men
 - [[knowledge/wiki/images/Four Men in Dark Suits Pointing Towards Viewer f314da73|Four Men in Dark Suits Pointing Towards Viewer]] — shared language: four, men
-- [[knowledge/wiki/images/Illustration Oil Painting of a Woman with Dark Hair and Purple Clothing e6a7614c|Illustration Oil Painting of a Woman with Dark Hair and Purple Clothing]] — shared language: clothing
 <!-- vault-crosslinks:end -->

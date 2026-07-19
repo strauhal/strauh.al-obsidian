@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/Diagram Comparison Diagram of Christian Trinity and JavaScript Type Coercion 197cb1d7|Diagram Comparison Diagram of Christian Trinity and JavaScript Type Coercion]] — shared language: javascript, trinity, coercion
 - [[knowledge/wiki/images/Comparison Diagram of Christian Trinity and JavaScript Type Coercion 6332bf93|Comparison Diagram of Christian Trinity and JavaScript Type Coercion]] — shared language: javascript, trinity, coercion
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: type
 - [[knowledge/wiki/books/christopher-simpson-science-of-coercion-communication-research-and-psychological-warfare-1945-1960|Science of Coercion Communication Research and Psychological Warfare, 1945-1960]] — shared language: coercion
 - [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: christian
-- [[knowledge/archive/auto-generated/artists-stale/Artist - christian clement 1985|Artist - christian clement 1985]] — shared language: christian
 <!-- vault-crosslinks:end -->

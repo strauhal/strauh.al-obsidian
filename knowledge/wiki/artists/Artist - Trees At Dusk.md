@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — named in this note
 - [[knowledge/wiki/artists/Artist - Snowy Pine Trees And Mountains At Dusk|Artist - Snowy Pine Trees And Mountains At Dusk]] — shared language: dusk, trees
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees, street
 - [[knowledge/wiki/images/Photograph Historic Hotel Surrounded By Snowy Pine Trees And Mountains At Dusk 595024bc|Photograph Historic Hotel Surrounded By Snowy Pine Trees And Mountains At Dusk]] — shared language: dusk, trees
 - [[knowledge/wiki/images/Photograph Liquor Store at Dusk, Tall Trees, Mountains, Red Car by Nick Carver 2793474c|Photograph Liquor Store at Dusk, Tall Trees, Mountains, Red Car by Nick Carver]] — shared language: dusk, trees
 - [[knowledge/wiki/images/Illustration City Street At Dusk With Festive Lights And Pedestrians b2acb347|Illustration City Street At Dusk With Festive Lights And Pedestrians]] — shared language: dusk, street
-- [[knowledge/wiki/images/Dramatic Red Sky Over Dark Garden at Dusk 620412ac|Dramatic Red Sky Over Dark Garden at Dusk]] — shared language: dusk
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/pages/knowledge base wikipedia articles|knowledge base wikipedia articles]] — shared language: alessandra, mussolini
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
 - [[knowledge/wiki/images/Document Article Cover with Abstract Art and Text f891f374|Document Article Cover with Abstract Art and Text]] — shared language: cover, document
 - [[knowledge/wiki/images/Illustration Portrait of a Woman in a White Dress c6374fdf|Illustration Portrait of a Woman in a White Dress]] — shared language: dress
 - [[knowledge/wiki/images/Four Diagrams Illustrating Thelemic Ritualistic Poses with Descriptions 0d632a15|Four Diagrams Illustrating Thelemic Ritualistic Poses with Descriptions]] — shared language: poses, four
-- [[knowledge/wiki/images/Screenshot Screenshot of Apple Music album cover with abstract geometric art 10c2d77e|Screenshot Screenshot of Apple Music album cover with abstract geometric art]] — shared language: album, cover
 <!-- vault-crosslinks:end -->

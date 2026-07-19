@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram_of_Po
 
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: machine, human
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: machine, human
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: machine, human
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/images/Photograph ASML EUV Lithography Machine by ASML Holding f4b7fce2|Photograph ASML EUV Lithography Machine by ASML Holding]] — shared language: machine
-- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
 <!-- vault-crosslinks:end -->

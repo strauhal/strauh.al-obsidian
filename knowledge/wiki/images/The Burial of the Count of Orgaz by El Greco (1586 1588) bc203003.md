@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/The Burial of th
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: count
 - [[knowledge/wiki/images/poster for the opera el greco by jorge fick 1993 6da0f3cd|poster for the opera el greco by jorge fick 1993]] — shared language: greco
 - [[knowledge/wiki/artists/Artist - jorge fick|Artist - jorge fick]] — shared language: greco
-- [[knowledge/wiki/images/The Buffalo Hunt by Albert Bierstadt (c. 1887 1888) 45790395|The Buffalo Hunt by Albert Bierstadt (c. 1887 1888)]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

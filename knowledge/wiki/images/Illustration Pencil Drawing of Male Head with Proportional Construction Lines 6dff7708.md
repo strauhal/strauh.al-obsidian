@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: head
 - [[knowledge/wiki/images/Document Pencil Drawing and Photograph of Fragmented Male Marble Torso 74a456dd|Document Pencil Drawing and Photograph of Fragmented Male Marble Torso]] — shared language: male, pencil
 - [[knowledge/wiki/images/Illustration Drawing of a Man's Head and Shoulders in Red and Black Pencil fa16c62c|Illustration Drawing of a Man's Head and Shoulders in Red and Black Pencil]] — shared language: pencil, head
-- [[knowledge/wiki/images/Illustration Pencil Sketch of Figure in Profile with Scribbled Head 6cf065d9|Illustration Pencil Sketch of Figure in Profile with Scribbled Head]] — shared language: pencil, head
+- [[knowledge/wiki/images/Illustration Four Panel Digital Drawing Tutorial Of A Stylized Male Head 5ace7c9a|Illustration Four Panel Digital Drawing Tutorial Of A Stylized Male Head]] — shared language: male, head
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: names
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: family
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: names
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
+- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: names
 <!-- vault-crosslinks:end -->

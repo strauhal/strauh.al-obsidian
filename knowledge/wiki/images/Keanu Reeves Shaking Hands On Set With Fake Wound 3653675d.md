@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Keanu Reev
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: set
 - [[knowledge/wiki/images/Keanu Reeves Posing With An Older Woman b8d0547b|Keanu Reeves Posing With An Older Woman]] — shared language: keanu, reeves
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: set
 - [[knowledge/wiki/images/Keanu Reeves as Neo Holding Rifle in Crouched Stance 9b14fcc0|Keanu Reeves as Neo Holding Rifle in Crouched Stance]] — shared language: keanu, reeves
 - [[knowledge/wiki/images/Keanu Reeves and Carrie Anne Moss as Neo and Trinity ba1fb366|Keanu Reeves and Carrie Anne Moss as Neo and Trinity]] — shared language: keanu, reeves
 - [[knowledge/wiki/images/Keanu Reeves and Carrie Anne Moss Promotional Photo for The Matrix 31942cdc|Keanu Reeves and Carrie Anne Moss Promotional Photo for The Matrix]] — shared language: keanu, reeves

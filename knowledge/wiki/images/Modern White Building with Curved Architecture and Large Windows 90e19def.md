@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Modern Whi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, modern, curved
 - [[knowledge/wiki/images/Document Modern Interior with Balcony and Large Windows in a Publication 868feb05|Document Modern Interior with Balcony and Large Windows in a Publication]] — shared language: windows, modern, large
 - [[knowledge/wiki/images/Interior of a Modern Industrial Loft Apartment with Large Windows 018c2df1|Interior of a Modern Industrial Loft Apartment with Large Windows]] — shared language: windows, modern, large
 - [[knowledge/wiki/images/Photograph Building on Fire with Flames and Smoke Pouring from Windows 32dbee25|Photograph Building on Fire with Flames and Smoke Pouring from Windows]] — shared language: windows, building, windows.jpeg
 - [[knowledge/wiki/images/Diagram Black And White Visualization Of Curved Lines In 3D cbca891d|Diagram Black And White Visualization Of Curved Lines In 3D]] — shared language: curved
-- [[knowledge/wiki/images/Modern Brutalist Building on a City Street ec1167f3|Modern Brutalist Building on a City Street]] — shared language: modern, building
 <!-- vault-crosslinks:end -->

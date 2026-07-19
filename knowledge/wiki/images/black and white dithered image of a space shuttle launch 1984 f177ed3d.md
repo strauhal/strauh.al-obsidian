@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/black_and_white_
 
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: space
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: space
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: space
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: space
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: space
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: space
 <!-- vault-crosslinks:end -->

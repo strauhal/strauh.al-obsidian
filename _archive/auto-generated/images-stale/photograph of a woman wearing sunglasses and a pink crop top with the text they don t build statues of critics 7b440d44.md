@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/statues ea676b1d|statues]] — named in this note
 - [[knowledge/wiki/images/Photograph Woman Wearing Sunglasses and Pink Crop Top with Text 7ddf61ae|Photograph Woman Wearing Sunglasses and Pink Crop Top with Text]] — shared language: crop, sunglasses, top
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: build
 - [[_archive/auto-generated/images-stale/45419 koyaanisqatsi 0 1000 0 1500 crop e9fa8d67|45419 koyaanisqatsi 0 1000 0 1500 crop]] — shared language: crop
 - [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: build
-- [[knowledge/wiki/images/Mick Jagger Wearing Sunglasses At A Computer 5a8ab2e6|Mick Jagger Wearing Sunglasses At A Computer]] — shared language: sunglasses, wearing
 <!-- vault-crosslinks:end -->

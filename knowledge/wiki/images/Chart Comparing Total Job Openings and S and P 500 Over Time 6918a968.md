@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Chart_Compari
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Controlled Surrender|Controlled Surrender]] — shared language: total
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: job
-- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: total
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: job
+- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: total
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: total
-- [[knowledge/wiki/images/Radar Chart Comparing Neurotypical and Neurodiverse Skill Profiles a83f3049|Radar Chart Comparing Neurotypical and Neurodiverse Skill Profiles]] — shared language: comparing, chart
 <!-- vault-crosslinks:end -->

@@ -54,9 +54,9 @@ updated: 2026-06-27
 - [[knowledge/wiki/books/walter-benjamin-the-arcades-project|The Arcades Project]] — named in this note
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
 - [[knowledge/wiki/anchors/california|california]] — named in this note
+- [[knowledge/wiki/concepts/Interest-Dependent Persistence|Interest-Dependent Persistence]] — shared language: abandoned, projects, failures
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: teaching, school, children
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: work, color, projects
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color, work, music
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: gan, work, slop
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: abandoned, failures
 <!-- vault-crosslinks:end -->

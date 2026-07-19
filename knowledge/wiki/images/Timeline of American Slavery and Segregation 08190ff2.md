@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Timeline_of_A
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: timeline
 - [[knowledge/wiki/images/Timeline of Modern Philosophers and Their Influences 26ec9142|Timeline of Modern Philosophers and Their Influences]] — shared language: timeline
 - [[knowledge/wiki/images/The American by Bo Bartlett (2016) 8e550ea6|The American by Bo Bartlett (2016)]] — shared language: american
-- [[knowledge/wiki/images/Timeline of Western Art Movements with Example Artworks a0f6041c|Timeline of Western Art Movements with Example Artworks]] — shared language: timeline
+- [[knowledge/wiki/images/Document Page From 1992 Timeline With Personal And World Events 88f655d8|Document Page From 1992 Timeline With Personal And World Events]] — shared language: timeline
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/View Throu
 
 - [[knowledge/wiki/images/Modern Interior Room with Dark Shelves, Window, and Garden View 21ea89fa|Modern Interior Room with Dark Shelves, Window, and Garden View]] — shared language: garden, window, dark
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: view
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Kitchen Sink with Bright Sunset Through Window c510f766|Illustration Impressionistic Painting of Kitchen Sink with Bright Sunset Through Window]] — shared language: sunset, window
 - [[knowledge/wiki/images/sunset b9f961ed|sunset]] — shared language: sunset
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: view
 <!-- vault-crosslinks:end -->

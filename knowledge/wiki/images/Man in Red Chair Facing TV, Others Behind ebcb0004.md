@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Man in Red
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: others
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: others
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: behind
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: others
 - [[Welcome|strauh.al Knowledge Base]] — shared language: behind
-- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: behind
 <!-- vault-crosslinks:end -->

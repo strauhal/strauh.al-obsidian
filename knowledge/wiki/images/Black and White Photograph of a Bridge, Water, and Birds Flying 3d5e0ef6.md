@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Black and 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge, water
 - [[knowledge/wiki/images/Photograph Grid of Small Birds Flying Against Cloudy Blue Sky 759358f4|Photograph Grid of Small Birds Flying Against Cloudy Blue Sky]] — shared language: birds, flying
 - [[knowledge/wiki/images/Illustration Birds Flying Towards a Yellow Moon in a Starry Night Sky 8fc6b033|Illustration Birds Flying Towards a Yellow Moon in a Starry Night Sky]] — shared language: birds, flying
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: bridge
 - [[knowledge/wiki/images/Illustration Men In A Boat On Rapids With Birds Flying by Joseph Clement Coll 1758eb62|Illustration Men In A Boat On Rapids With Birds Flying by Joseph Clement Coll]] — shared language: birds, flying
-- [[knowledge/wiki/images/Illustration Soundwave, Birds, and Constellations Against Dark Background with Text b6951907|Illustration Soundwave, Birds, and Constellations Against Dark Background with Text]] — shared language: birds
 <!-- vault-crosslinks:end -->

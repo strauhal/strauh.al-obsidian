@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram_of_Li
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: future, life
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: past
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: wait
 - [[knowledge/wiki/images/it+moves +just+wait+for+it+ + +) 06120971|it+moves +just+wait+for+it+ + +)]] — shared language: wait
 - [[knowledge/wiki/images/it+moves +just+wait+for+it+ + +) 3d4a4e05|it+moves +just+wait+for+it+ + +)]] — shared language: wait
-- [[knowledge/wiki/images/Illustration Windows Wait Cursor 39bafddc|Illustration Windows Wait Cursor]] — shared language: wait
 <!-- vault-crosslinks:end -->

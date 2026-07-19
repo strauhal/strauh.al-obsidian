@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/64_1726_ph_we
 - [[knowledge/wiki/anchors/web-art|web art]] — shared language: web
 - [[_archive/auto-generated/concept-stubs/web art|web art]] — shared language: web
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: web
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: web
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: web
 <!-- vault-crosslinks:end -->

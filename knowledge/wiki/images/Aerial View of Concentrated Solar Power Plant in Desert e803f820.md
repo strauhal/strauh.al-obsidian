@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Aerial Vie
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: power
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: power
 - [[knowledge/wiki/books/power-of-full-engagement|power of full engagement]] — shared language: power
-- [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: aerial, view
 <!-- vault-crosslinks:end -->

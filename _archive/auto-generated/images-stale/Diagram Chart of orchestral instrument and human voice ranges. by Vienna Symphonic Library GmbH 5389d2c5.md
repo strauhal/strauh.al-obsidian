@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Cha
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: voice, human
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, chart
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: voice, human
-- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: voice, human
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: voice
 <!-- vault-crosslinks:end -->

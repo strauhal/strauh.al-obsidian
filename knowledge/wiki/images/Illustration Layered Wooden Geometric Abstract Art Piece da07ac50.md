@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Painting of Layered Geometric Shapes in Yellow, Green, Blue 0e042ece|Illustration Abstract Painting of Layered Geometric Shapes in Yellow, Green, Blue]] — shared language: layered, geometric
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: piece
 - [[knowledge/wiki/images/Photograph Layered Abstract Photograph with Distorted Figures in Blue and White fe530814|Photograph Layered Abstract Photograph with Distorted Figures in Blue and White]] — shared language: layered
 - [[knowledge/wiki/images/Photograph Art Gallery with Abstract Paintings and Sculptural Wall Piece b784ff70|Photograph Art Gallery with Abstract Paintings and Sculptural Wall Piece]] — shared language: piece, piece.jpeg
 - [[knowledge/wiki/images/Illustration Abstract Layered Blue and Purple Translucent Forms 0c81b77e|Illustration Abstract Layered Blue and Purple Translucent Forms]] — shared language: layered
-- [[knowledge/wiki/images/Illustration Abstract Black Ink Drawing With Layered, Fluid, Intricate Shapes 857ee6a3|Illustration Abstract Black Ink Drawing With Layered, Fluid, Intricate Shapes]] — shared language: layered
 <!-- vault-crosslinks:end -->

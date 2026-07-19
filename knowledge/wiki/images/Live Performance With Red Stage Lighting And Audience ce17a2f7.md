@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Live Perfo
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: audience
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: live
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: audience
 - [[knowledge/wiki/images/Musician Performing Live On Dark Stage 4b85f470|Musician Performing Live On Dark Stage]] — shared language: live, stage
-- [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: performance
-- [[knowledge/wiki/images/Screenshot Mark Zuckerberg and Jesse Eisenberg on Saturday Night Live Stage a0863c9c|Screenshot Mark Zuckerberg and Jesse Eisenberg on Saturday Night Live Stage]] — shared language: live, stage
 <!-- vault-crosslinks:end -->

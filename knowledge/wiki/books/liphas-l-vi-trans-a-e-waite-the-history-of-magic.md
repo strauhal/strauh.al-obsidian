@@ -9,8 +9,8 @@ metadata: curated
 aliases: [The History of Magic (Eliphas Levi A. E. Waite (transl.))]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The History of Magic (Eliphas Levi A. E. Waite (transl.)) (z-lib.org).epub"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # The History of Magic

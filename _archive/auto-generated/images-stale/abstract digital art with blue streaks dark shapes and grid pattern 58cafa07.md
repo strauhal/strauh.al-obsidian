@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Abstract Digital Art with Blue Streaks, Dark Shapes, Grid 196f48f0|Illustration Abstract Digital Art with Blue Streaks, Dark Shapes, Grid]] — shared language: streaks, shapes, grid
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
-- [[knowledge/wiki/images/Illustration Abstract Geometric Pattern with Dark Organic Shapes on Sketchbook Spread 26388df1|Illustration Abstract Geometric Pattern with Dark Organic Shapes on Sketchbook Spread]] — shared language: pattern, shapes, dark
+- [[knowledge/wiki/images/Illustration Abstract Geometric Pattern with Dark Organic Shapes on Sketchbook Spread 26388df1|Illustration Abstract Geometric Pattern with Dark Organic Shapes on Sketchbook Spread]] — shared language: shapes, pattern, dark
 - [[knowledge/wiki/images/Illustration Abstract Blue Shapes on Dark Canvas 05b5effb|Illustration Abstract Blue Shapes on Dark Canvas]] — shared language: shapes, dark
 - [[knowledge/wiki/images/Close up of a digital screen displaying abstract green and dark shapes 63df1a82|Close up of a digital screen displaying abstract green and dark shapes]] — shared language: shapes, digital, dark
 <!-- vault-crosslinks:end -->

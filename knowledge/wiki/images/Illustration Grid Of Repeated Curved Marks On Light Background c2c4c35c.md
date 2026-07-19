@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Illustration Abstract Painting with Black Spray Marks on Light Background f3c47e9b|Illustration Abstract Painting with Black Spray Marks on Light Background]] — shared language: marks, light, background
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: repeated
 - [[knowledge/wiki/images/Illustration Abstract Painting Of Dense Orange Marks On Black Background 47531862|Illustration Abstract Painting Of Dense Orange Marks On Black Background]] — shared language: marks, background
 - [[knowledge/wiki/images/Illustration Warped Dark Grid on Textured Light Blue Background 93645266|Illustration Warped Dark Grid on Textured Light Blue Background]] — shared language: grid, light, background
-- [[knowledge/wiki/images/Screenshot Underlined Text '(You)' on Light Background 02efe092|Screenshot Underlined Text '(You)' on Light Background]] — shared language: light, background
 <!-- vault-crosslinks:end -->

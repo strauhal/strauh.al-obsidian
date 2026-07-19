@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Dia
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram And Text Explaining Recursive Self Improvement Process 4d3334b1|Diagram And Text Explaining Recursive Self Improvement Process]] — shared language: recursive, improvement, explaining
-- [[_archive/auto-generated/images-stale/diagram and text titled the process of recursive self improvement 5562f61e|diagram and text titled the process of recursive self improvement]] — shared language: recursive, improvement, process
+- [[knowledge/wiki/images/Diagram And Text Explaining Recursive Self Improvement Process 4d3334b1|Diagram And Text Explaining Recursive Self Improvement Process]] — shared language: improvement, explaining, recursive
+- [[_archive/auto-generated/images-stale/diagram and text titled the process of recursive self improvement 5562f61e|diagram and text titled the process of recursive self improvement]] — shared language: improvement, recursive, process
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: recursive
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: process
 <!-- vault-crosslinks:end -->

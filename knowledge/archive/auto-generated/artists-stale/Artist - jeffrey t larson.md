@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeffrey t larson 2018|Artist - jeffrey t larson 2018]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - gary larson 1986|Artist - gary larson 1986]] — shared language: larson
 - [[knowledge/wiki/images/abstract expressionist by gary larson 1986 34af8119|abstract expressionist by gary larson 1986]] — shared language: larson
+- [[knowledge/archive/auto-generated/artists-stale/Artist - gary larson 1986|Artist - gary larson 1986]] — shared language: larson
 - [[knowledge/wiki/artists/Artist - gary larson|Artist - gary larson]] — shared language: larson
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gary larson 1982|Artist - gary larson 1982]] — shared language: larson
 - [[knowledge/wiki/images/cow tools by gary larson 1982 13190ff5|cow tools by gary larson 1982]] — shared language: larson

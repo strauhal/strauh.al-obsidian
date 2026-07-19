@@ -9,8 +9,8 @@ metadata: curated
 aliases: [ItzhakBentov-StalkingTheWildPendulum OnTheMechanicsOfConsciousnessV1 text]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/ItzhakBentov-StalkingTheWildPendulum_OnTheMechanicsOfConsciousnessV1_text.pdf"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Stalking the Wild Pendulum: On the Mechanics of Consciousness

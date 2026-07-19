@@ -21,7 +21,7 @@ Files: 1127
 
 ![[media/strauh.al3.1/unsorted/Comic - AI-nxiety by Ian Foley.jpeg]]
 
-![[media/strauh.al3.1/unsorted/Comic - Amazing Spider-Man Vol 2 #36 by John Romita Jr. and Scott Hanna.jpeg]]
+![[media/strauh.al3.1/unsorted/Comic - Amazing Spider-Man Vol 2 36 by John Romita Jr. and Scott Hanna.jpeg]]
 
 ![[media/strauh.al3.1/unsorted/Comic - Bald Figure Shouting 'Don't Shoot!' From Inside A Vehicle.jpeg]]
 
@@ -67,7 +67,7 @@ Files: 1127
 - [[Baja Blast by Noah Verrier 252aca8a|Baja Blast by Noah Verrier]]
 - [[Cat and Small Bird by Toshi Yoshida b5cc1bd1|Cat and Small Bird by Toshi Yoshida]]
 - [[Comic AI nxiety by Ian Foley 7f77d89f|Comic AI nxiety by Ian Foley]]
-- [[Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna 2dd4c650|Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna]]
+- [[Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna a587d824|Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna]]
 - [[Comic Bald Figure Shouting 'Don't Shoot ' From Inside A Vehicle a5d39251|Comic Bald Figure Shouting 'Don't Shoot ' From Inside A Vehicle]]
 - [[Comic Bearded Man In Traditional Attire Holding A Sword d24d41f8|Comic Bearded Man In Traditional Attire Holding A Sword]]
 - [[Comic Black And White Comic Panels Of An Older Man In Glasses by Alberto Breccia 0875db82|Comic Black And White Comic Panels Of An Older Man In Glasses by Alberto Breccia]]

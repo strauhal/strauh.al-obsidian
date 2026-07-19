@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern, city, view
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, view
 - [[knowledge/wiki/images/Modern Office Interior with Chair, Desk, and City View 6d0b4ad5|Modern Office Interior with Chair, Desk, and City View]] — shared language: modern, city, view
 - [[knowledge/wiki/artists/Artist - River|Artist - River]] — shared language: river
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: view
-- [[knowledge/wiki/images/Modern Brutalist Building on a City Street ec1167f3|Modern Brutalist Building on a City Street]] — shared language: modern, city
 <!-- vault-crosslinks:end -->

@@ -9,8 +9,8 @@ metadata: curated
 aliases: [gilles-deleuze-postscript-on-the-societies-of-control]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/gilles-deleuze-postscript-on-the-societies-of-control.pdf"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Postscript on the Societies of Control

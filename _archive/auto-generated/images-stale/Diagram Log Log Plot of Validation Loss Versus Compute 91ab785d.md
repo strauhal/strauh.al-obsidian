@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Log
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Log Log Plot of Validation Loss Versus Compute 6b45100b|Log Log Plot of Validation Loss Versus Compute]] — shared language: log, versus, validation
-- [[_archive/auto-generated/images-stale/log log plot showing validation loss versus compute with parameter color scale aa6b794d|log log plot showing validation loss versus compute with parameter color scale]] — shared language: log, versus, validation
+- [[_archive/auto-generated/images-stale/log log plot showing validation loss versus compute with parameter color scale aa6b794d|log log plot showing validation loss versus compute with parameter color scale]] — shared language: log, versus, compute
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: plot, diagram
 - [[_archive/auto-generated/images-stale/Diagram LOSS OF LAND d07113e9|Diagram LOSS OF LAND]] — shared language: loss, diagram
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: log

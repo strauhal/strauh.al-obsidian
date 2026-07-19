@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Screenshot of Text Describing Euthanasia Coaster with Diagram e02b6883|Screenshot Screenshot of Text Describing Euthanasia Coaster with Diagram]] — shared language: describing, screenshot, text
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: social, order
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: social
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: ideal
 - [[knowledge/wiki/images/Screenshot Text Describing The Killing Of Tim McLean 8ebc610d|Screenshot Text Describing The Killing Of Tim McLean]] — shared language: describing, screenshot, text
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: social
 <!-- vault-crosslinks:end -->

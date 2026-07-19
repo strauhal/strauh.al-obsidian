@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: anatomical, arrows
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: study
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: study
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: study
-- [[knowledge/wiki/images/Illustration Collage of a Woman's Head with Anatomical Torso and Text Background 0eb6a4db|Illustration Collage of a Woman's Head with Anatomical Torso and Text Background]] — shared language: torso, anatomical
 <!-- vault-crosslinks:end -->

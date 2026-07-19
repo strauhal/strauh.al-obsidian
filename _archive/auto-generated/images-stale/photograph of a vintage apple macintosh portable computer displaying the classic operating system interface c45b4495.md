@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: macintosh, computer
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: vintage
 - [[knowledge/wiki/images/Illustration Grid of Vintage Computer Operating System Icons by Microsoft d26aafd3|Illustration Grid of Vintage Computer Operating System Icons by Microsoft]] — shared language: operating, system, vintage
-- [[_archive/auto-generated/images-stale/black and white screenshot of a classic macintosh operating system displaying a high contrast image of the moon with apollo landing sites marked overl 8090019a|black and white screenshot of a classic macintosh operating system displaying a high contrast image of the moon with apollo landing sites marked overl]] — shared language: classic, operating, macintosh
+- [[_archive/auto-generated/books-stale/portable-nietzsche|portable nietzsche]] — shared language: portable
 <!-- vault-crosslinks:end -->

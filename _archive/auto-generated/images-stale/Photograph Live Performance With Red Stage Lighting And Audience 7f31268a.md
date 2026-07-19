@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Live Performance With Red Stage Lighting And Audience ce17a2f7|Live Performance With Red Stage Lighting And Audience]] — named in this note
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: audience
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: live
-- [[knowledge/wiki/images/Musician Performing Live On Dark Stage 4b85f470|Musician Performing Live On Dark Stage]] — shared language: live, stage
-- [[_archive/auto-generated/images-stale/Photograph Musician Performing Live On Dark Stage cb0c66be|Photograph Musician Performing Live On Dark Stage]] — shared language: live, stage
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: audience
 <!-- vault-crosslinks:end -->

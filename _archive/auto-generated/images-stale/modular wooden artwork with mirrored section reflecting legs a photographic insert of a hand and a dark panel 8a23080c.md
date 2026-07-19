@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Stylized Nude Figures in Circular and Mirrored Arrangement 5829db9a|Illustration Stylized Nude Figures in Circular and Mirrored Arrangement]] — shared language: mirrored
 - [[knowledge/wiki/images/Illustration Textile Artwork of Figures and a Rabbit in a Dark Landscape cc9e9010|Illustration Textile Artwork of Figures and a Rabbit in a Dark Landscape]] — shared language: artwork, dark
 - [[_archive/auto-generated/images-stale/textile artwork of figures and a rabbit in a dark landscape 6d629324|textile artwork of figures and a rabbit in a dark landscape]] — shared language: artwork, dark
-- [[_archive/auto-generated/images-stale/silhouette of a figure standing on a dark surface reflecting swirling golden light 637a3e78|silhouette of a figure standing on a dark surface reflecting swirling golden light]] — shared language: reflecting, dark
+- [[_archive/auto-generated/artists-noise/Artist - the dark 1989|Artist - the dark 1989]] — shared language: dark
 <!-- vault-crosslinks:end -->

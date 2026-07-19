@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Abstract Dark Figure in Motion on White Background 1d147126|Illustration Abstract Dark Figure in Motion on White Background]] — shared language: motion, dark, background
 - [[_archive/auto-generated/images-stale/oil painting of a woman s profile against a dark red background 27ae3ce9|oil painting of a woman s profile against a dark red background]] — shared language: oil, dark, background
 - [[knowledge/wiki/images/Illustration Oil Painting of a Classical Bust on Dark Background ba85c2b8|Illustration Oil Painting of a Classical Bust on Dark Background]] — shared language: oil, dark, background
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: motion
 - [[_archive/auto-generated/images-stale/oil painting portrait of a man in a dark jacket and blue shirt against a blue background 88816935|oil painting portrait of a man in a dark jacket and blue shirt against a blue background]] — shared language: oil, dark, background
+- [[knowledge/wiki/images/Illustration Oil Painting Portrait of a Man in a Dark Suit 7fe75fd9|Illustration Oil Painting Portrait of a Man in a Dark Suit]] — shared language: oil, dark
 <!-- vault-crosslinks:end -->

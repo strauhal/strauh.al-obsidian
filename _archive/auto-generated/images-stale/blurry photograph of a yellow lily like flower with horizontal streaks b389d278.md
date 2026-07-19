@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Blurry Yellow Lily Like Flower With Horizontal Streaks 4575a6e4|Photograph Blurry Yellow Lily Like Flower With Horizontal Streaks]] — shared language: lily, blurry, streaks
+- [[knowledge/wiki/images/Photograph Blurry Yellow Lily Like Flower With Horizontal Streaks 4575a6e4|Photograph Blurry Yellow Lily Like Flower With Horizontal Streaks]] — shared language: lily, blurry, horizontal
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
 - [[_archive/auto-generated/images-stale/horizontal abstract painting with multicolored crisscrossing lines and black yellow gradient edges 3f56362a|horizontal abstract painting with multicolored crisscrossing lines and black yellow gradient edges]] — shared language: horizontal, yellow
-- [[_archive/auto-generated/images-stale/abstract painting featuring diagonal streaks of red green and yellow on a white field 70a9f840|abstract painting featuring diagonal streaks of red green and yellow on a white field]] — shared language: streaks, yellow
 - [[knowledge/wiki/images/Illustration Still Life with Yellow Heel, Martini, Purse, Glove, Lily f0f41b67|Illustration Still Life with Yellow Heel, Martini, Purse, Glove, Lily]] — shared language: lily, yellow
+- [[_archive/auto-generated/images-stale/abstract painting featuring diagonal streaks of red green and yellow on a white field 70a9f840|abstract painting featuring diagonal streaks of red green and yellow on a white field]] — shared language: streaks, yellow
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Police Officers Confronting Man Holding Objects In Residential Area 08702ffd|Police Officers Confronting Man Holding Objects In Residential Area]] — shared language: confronting, residential, officers
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: objects
 - [[knowledge/archive/auto-generated/artists-stale/Artist - police officers near a helicopter|Artist - police officers near a helicopter]] — shared language: officers, police
 - [[knowledge/wiki/artists/Artist - Police Officers Near Helicopter|Artist - Police Officers Near Helicopter]] — shared language: officers, police
 - [[knowledge/wiki/artists/Artist - Officers Past Photographers|Artist - Officers Past Photographers]] — shared language: officers
-- [[knowledge/archive/auto-generated/artists-stale/Artist - police|Artist - Police]] — shared language: police
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Balenciaga Reusable Shopping Bag with Green Vegetable Print a7cd3560|Photograph Balenciaga Reusable Shopping Bag with Green Vegetable Print]] — shared language: reusable, balenciaga, shopping
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: reusable
 - [[_archive/auto-generated/images-stale/crumpled metallic drawstring bag with balenciaga logo and silver chain ccf41427|crumpled metallic drawstring bag with balenciaga logo and silver chain]] — shared language: balenciaga, bag, logo
 - [[knowledge/wiki/images/Photograph Crumpled Metallic Balenciaga Drawstring Bag with Silver Chain 0302a99a|Photograph Crumpled Metallic Balenciaga Drawstring Bag with Silver Chain]] — shared language: balenciaga, bag
 - [[_archive/auto-generated/images-stale/print 1000px jpg 38f00329|print 1000px jpg]] — shared language: print
-- [[knowledge/wiki/images/Photograph Dark Metallic Crinkled Balenciaga Drawstring Bag With Chain Strap c25ee986|Photograph Dark Metallic Crinkled Balenciaga Drawstring Bag With Chain Strap]] — shared language: balenciaga, bag
 <!-- vault-crosslinks:end -->

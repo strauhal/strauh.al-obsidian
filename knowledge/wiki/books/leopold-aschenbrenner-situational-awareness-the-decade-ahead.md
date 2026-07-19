@@ -9,8 +9,8 @@ metadata: curated
 aliases: [situationalawareness]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/situationalawareness.pdf"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Situational Awareness: The Decade Ahead
@@ -52,6 +52,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/anne-friedberg-the-virtual-window-from-alberti-to-microsoft|The Virtual Window: From Alberti to Microsoft]] — same category: media technology
 - [[knowledge/wiki/books/alexander-c-karp-nicholas-w-zamiska-the-technological-republic-hard-power-soft-belief-and-the-future-of-the-west|The Technological Republic: Hard Power, Soft Belief, and the Future of the West]] — same category: media technology
 - [[knowledge/wiki/books/the-internet-s-ai-slop-problem-is-only-going-to-get-worse|The Internet’s AI Slop Problem Is Only Going to Get Worse]] — same category: media technology
-- [[knowledge/wiki/books/aaron-van-den-oord-oriol-vinyals-koray-kavukcuoglu-neural-discrete-representation-learning-vq-vae|Neural Discrete Representation Learning (VQ-VAE)]] — same category: media technology
 - [[knowledge/wiki/books/neil-postman-technopoly-the-surrender-of-culture-to-technology|Technopoly The Surrender of Culture to Technology]] — same category: media technology
+- [[knowledge/wiki/books/aaron-van-den-oord-oriol-vinyals-koray-kavukcuoglu-neural-discrete-representation-learning-vq-vae|Neural Discrete Representation Learning (VQ-VAE)]] — same category: media technology
 <!-- vault-crosslinks:end -->

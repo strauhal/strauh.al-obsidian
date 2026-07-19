@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/technology_ai.html"
 source_relpath: "knowledge_base/technology_ai.html"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:16"
+compiled_at: "2026-07-19T02:00:04"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base technology ai
@@ -197,12 +197,12 @@ strauh.al/knowledge_base/technology_ai
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
-- [[knowledge/wiki/books/leopold-aschenbrenner-situational-awareness-the-decade-ahead|Situational Awareness: The Decade Ahead]] — named in this note
 - [[knowledge/wiki/anchors/darren-aronofsky|Darren Aronofsky]] — named in this note
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
 - [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
 - [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — named in this note
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
 - [[knowledge/wiki/images/essence dbff3c59|essence]] — named in this note
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: generative, make, new
+- [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, built
+- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: chatgpt, software, internet
 <!-- vault-crosslinks:end -->

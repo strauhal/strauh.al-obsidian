@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Brutalist 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: brutalist, concrete, building
 - [[knowledge/wiki/images/Complex Brutalist Concrete Architecture with Ramps and Multiple Levels 834eb45a|Complex Brutalist Concrete Architecture with Ramps and Multiple Levels]] — shared language: ramps, brutalist, concrete
 - [[knowledge/wiki/images/Brutalist Concrete Building with Tall Conifer Trees cb97be41|Brutalist Concrete Building with Tall Conifer Trees]] — shared language: brutalist, concrete, building
 - [[knowledge/wiki/images/00081 brutalist architecture 1960 png 205768a0|00081 brutalist architecture 1960 png]] — shared language: brutalist
 - [[knowledge/wiki/images/Black And White Photograph Of Brutalist Concrete Staircase Monument 3b1f75cc|Black And White Photograph Of Brutalist Concrete Staircase Monument]] — shared language: brutalist, concrete
-- [[knowledge/wiki/images/Photograph Black and White Photograph of a Curved Gridded Concrete Wall 8751fd1d|Photograph Black and White Photograph of a Curved Gridded Concrete Wall]] — shared language: curved, concrete
 <!-- vault-crosslinks:end -->

@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: hand
 - [[knowledge/wiki/images/Photograph Photograph of Hand Holding Sketchbook with Drawing of Butchers a13c17b5|Photograph Photograph of Hand Holding Sketchbook with Drawing of Butchers]] — shared language: hand
 - [[knowledge/wiki/images/Comic Black and White Comic Art with Figures in Multiple Panels a7b76d96|Comic Black and White Comic Art with Figures in Multiple Panels]] — shared language: comic
-- [[knowledge/wiki/artists/Artist - Giant Hand|Artist - Giant Hand]] — shared language: hand
 - [[knowledge/wiki/images/Comic Black And White Comic Panel Of Crying Woman (2) 58837ea7|Comic Black And White Comic Panel Of Crying Woman (2)]] — shared language: comic
+- [[knowledge/wiki/artists/Artist - Giant Hand|Artist - Giant Hand]] — shared language: hand
 <!-- vault-crosslinks:end -->

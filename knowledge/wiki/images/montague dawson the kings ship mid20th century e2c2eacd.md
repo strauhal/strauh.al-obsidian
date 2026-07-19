@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/montague_dawson_
 - [[knowledge/wiki/images/lon comerre the wink late 19th century 14163808|lon comerre the wink late 19th century]] — shared language: century, century.jpg
 - [[knowledge/wiki/images/the glory of the kings by erol akyavas 1959 f0a3c1dd|the glory of the kings by erol akyavas 1959]] — shared language: kings
 - [[knowledge/wiki/images/Illustration Black And White Illustration Of A Ship In Arctic Ice At Sunset a9016971|Illustration Black And White Illustration Of A Ship In Arctic Ice At Sunset]] — shared language: ship
-- [[knowledge/wiki/images/serhiy vasylkivsky on the pond late 19th century b63cf075|serhiy vasylkivsky on the pond late 19th century]] — shared language: century, century.jpg
 - [[knowledge/wiki/images/thomas jacques somerscales fullrigged ship in heavy seas c 1900 3a79e440|thomas jacques somerscales fullrigged ship in heavy seas c 1900]] — shared language: ship
+- [[knowledge/wiki/images/serhiy vasylkivsky on the pond late 19th century b63cf075|serhiy vasylkivsky on the pond late 19th century]] — shared language: century, century.jpg
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Line Drawing of Large Quadrupedal Machine and Small Human Figure 39486019|Illustration Line Drawing of Large Quadrupedal Machine and Small Human Figure]] — shared language: quadrupedal, machine, small
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: machine, human
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: machine, human
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: machine, human
 - [[_archive/auto-generated/images-stale/illustration of a large dark mecha head and torso in a dimly lit industrial bay with two small human figures 0ec8489c|illustration of a large dark mecha head and torso in a dimly lit industrial bay with two small human figures]] — shared language: industrial, small, human
-- [[_archive/auto-generated/books-stale/industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: industrial
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: monitor
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: monitor
 - [[knowledge/wiki/images/Illustration Oil Painting of Computer Monitor Displaying Counter Strike Game by Lucian Prun 0bc79c07|Illustration Oil Painting of Computer Monitor Displaying Counter Strike Game by Lucian Prun]] — shared language: monitor, game, displaying
+- [[knowledge/wiki/images/promotional art for riot video game 1992 628547e2|promotional art for riot video game 1992]] — shared language: game, video
 <!-- vault-crosslinks:end -->

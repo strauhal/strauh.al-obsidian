@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Photograph Artworks Displayed in a Gallery or Storage Space 044fe024|Photograph Artworks Displayed in a Gallery or Storage Space]] — shared language: displayed, gallery, space
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: space
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: space
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: space
+- [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: space
 <!-- vault-crosslinks:end -->

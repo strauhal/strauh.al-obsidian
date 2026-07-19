@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Global_Map_of
 
 - [[knowledge/wiki/images/Two Views of Annular Solar Eclipse Over Water 49c7d322|Two Views of Annular Solar Eclipse Over Water]] — shared language: eclipse, solar
 - [[knowledge/wiki/images/Aerial View of Concentrated Solar Power Plant in Desert e803f820|Aerial View of Concentrated Solar Power Plant in Desert]] — shared language: solar
-- [[knowledge/wiki/images/Global Temperature Variations Over 500 Million Years 225f9999|Global Temperature Variations Over 500 Million Years]] — shared language: global
 - [[knowledge/wiki/images/M sica Solar by Remedios Varo (1955) 354bc047|M sica Solar by Remedios Varo (1955)]] — shared language: solar
+- [[knowledge/wiki/images/Global Temperature Variations Over 500 Million Years 225f9999|Global Temperature Variations Over 500 Million Years]] — shared language: global
 - [[knowledge/wiki/images/Vast Solar Panel Array Covering a Mountainous Hillside 56fe5284|Vast Solar Panel Array Covering a Mountainous Hillside]] — shared language: solar
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Running Cheetah with Motion Blur 59d3c158|Illustration Pencil Sketch of Running Cheetah with Motion Blur]] — named in this note
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: motion
 - [[_archive/auto-generated/images-stale/black and white photograph of figures with extreme motion blur 2fe70cce|black and white photograph of figures with extreme motion blur]] — shared language: blur, motion
 - [[knowledge/wiki/images/Black And White Photograph Of Figures With Extreme Motion Blur 6853a58e|Black And White Photograph Of Figures With Extreme Motion Blur]] — shared language: blur, motion
 - [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of Figures With Extreme Motion Blur 04594385|Photograph Black And White Photograph Of Figures With Extreme Motion Blur]] — shared language: blur, motion
+- [[_archive/auto-generated/images-stale/black and white motion blur photo of a dancer 033719db|black and white motion blur photo of a dancer]] — shared language: blur, motion
 <!-- vault-crosslinks:end -->

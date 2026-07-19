@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry 2023|Artist - sean henry 2023]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry 2023 3|Artist - sean henry 2023 3]] — named in this note
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: drift
-- [[knowledge/archive/auto-generated/artists-stale/Artist - sean adair|Artist - Sean Adair]] — shared language: sean
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: drift
 <!-- vault-crosslinks:end -->

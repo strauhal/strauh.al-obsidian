@@ -78,7 +78,7 @@ Question: when does texture become structure, and when does sound become a model
 - [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
 - [[knowledge/wiki/books/essays|essays]] — named in this note
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: latent, distance, implicit
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: question, latent, internet
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: implicit, latent, distance
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: repetition, difference, human
+- [[knowledge/wiki/concepts/Interest-Dependent Persistence|Interest-Dependent Persistence]] — shared language: become, economy, attention
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: latent, internet, space
+- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: music, sound, spectral
 <!-- vault-crosslinks:end -->

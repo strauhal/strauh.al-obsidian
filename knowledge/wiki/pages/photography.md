@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/photography.html"
 source_relpath: "photography.html"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:16"
+compiled_at: "2026-07-19T02:00:04"
 tags: ["strauhal", "source/html"]
 ---
 # photography
@@ -825,7 +825,7 @@ randomize order]()
 [Scanned Black and White Film Strip of Cityscape and Tower.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/Scanned%20Black%20and%20White%20Film%20Strip%20of%20Cityscape%20and%20Tower.jpg)
 [Scanning Electron Micrograph of Polyhedral Microstructure on Textured Background.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/Scanning%20Electron%20Micrograph%20of%20Polyhedral%20Microstructure%20on%20Textured%20Background.png)
 [Scenic View of Cliffside Town with White and Pastel Buildings.jpeg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/Scenic%20View%20of%20Cliffside%20Town%20with%20White%20and%20Pastel%20Buildings.jpeg)
-[Screen Displaying Philip Pearlstein's "Positano #4" Artwork.jpeg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/Screen%20Displaying%20Philip%20Pearlstein's%20%22Positano%20%234%22%20Artwork.jpeg)
+[Screen Displaying Philip Pearlstein's Positano 4 Artwork.jpeg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/Screen%20Displaying%20Philip%20Pearlstein's%20Positano%204%20Artwork.jpeg)
 [Self-Portrait by Ludwig Wittgenstein.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/Self-Portrait%20by%20Ludwig%20Wittgenstein.jpg)
 [Semen and Blood III by Andres Serrano (1990).jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/Semen%20and%20Blood%20III%20by%20Andres%20Serrano%20(1990).jpg)
 [Sheep Among Computer Servers And Wires.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/Sheep%20Among%20Computer%20Servers%20And%20Wires.jpg)

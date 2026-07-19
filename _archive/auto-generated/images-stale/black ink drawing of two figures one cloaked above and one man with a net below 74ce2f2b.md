@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Ink Drawing of Two Figures, One Cloaked, One With Net 9fd6dfdf|Illustration Ink Drawing of Two Figures, One Cloaked, One With Net]] — shared language: cloaked, net, one
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one, ink
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: one, ink
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: one
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: one
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: one
 <!-- vault-crosslinks:end -->

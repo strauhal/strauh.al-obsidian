@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Comparison_of
 
 - [[knowledge/wiki/images/Comparison of Sparse Hub and Spoke and Dense Networks ef504307|Comparison of Sparse Hub and Spoke and Dense Networks]] — shared language: networks, comparison
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: networks
-- [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: networks
 - [[knowledge/wiki/images/Comparison of Generated Images with Deconvolution Artifacts 5be9023f|Comparison of Generated Images with Deconvolution Artifacts]] — shared language: comparison
-- [[knowledge/wiki/images/Architecture Diagram Of Convolution And Deconvolution Neural Networks c2530418|Architecture Diagram Of Convolution And Deconvolution Neural Networks]] — shared language: networks
+- [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: networks
+- [[knowledge/wiki/images/Black And White Map Of Europe With Dendritic Network Overlay 68808896|Black And White Map Of Europe With Dendritic Network Overlay]] — shared language: europe
 <!-- vault-crosslinks:end -->

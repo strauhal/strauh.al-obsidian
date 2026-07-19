@@ -30,9 +30,9 @@ gut-reaction before you can name it.
 ## Discovered Connections
 
 - [[knowledge/wiki/images/balthus b2c34a2c|balthus]] — shared language: balthus, diary
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: diary, work, elegance
 - [[knowledge/wiki/artists/Artist - balthus|Artist - balthus]] — shared language: balthus
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: painter, without, things
-- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: diary, work, elegance
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: diary, painter, elegance
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: diary, got, summary
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: figurative, elegance, spontaneity

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/People Ascending And Descending Large Outdoor Staircase With Flower Beds 63b5ae57|People Ascending And Descending Large Outdoor Staircase With Flower Beds]] — shared language: ascending, beds, descending
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: staircase, large
 - [[_archive/auto-generated/images-stale/Photograph Two People Descending Stairs In An Ancient Stone Stepwell c0dacb97|Photograph Two People Descending Stairs In An Ancient Stone Stepwell]] — shared language: descending, people
 - [[knowledge/wiki/images/Two People Descending Stairs In An Ancient Stone Stepwell 65ea07be|Two People Descending Stairs In An Ancient Stone Stepwell]] — shared language: descending, people
 - [[knowledge/wiki/images/People on a Staircase and Balcony in a Brutalist Building 363f6659|People on a Staircase and Balcony in a Brutalist Building]] — shared language: staircase, people
-- [[_archive/auto-generated/images-stale/Photograph People on a Staircase and Balcony in a Brutalist Building 078ecec8|Photograph People on a Staircase and Balcony in a Brutalist Building]] — shared language: staircase, people
 <!-- vault-crosslinks:end -->

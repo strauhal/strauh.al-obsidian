@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph High Angle Black and White Photograph of a Grand Exposition Complex 17afa330|Photograph High Angle Black and White Photograph of a Grand Exposition Complex]] — shared language: angle, high, complex
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: complex, large
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
 - [[_archive/auto-generated/images-stale/engraving of a large complex of exhibition buildings surrounding a body of water viewed from above c7b50997|engraving of a large complex of exhibition buildings surrounding a body of water viewed from above]] — shared language: viewed, complex, large
 - [[_archive/auto-generated/images-stale/black and white photograph of a large beetle viewed from below 4a5c7cb5|black and white photograph of a large beetle viewed from below]] — shared language: viewed, large
-- [[knowledge/wiki/images/statue of a draped female figure and a bull on a lagoon at a classical exposition 1893 99d654f7|statue of a draped female figure and a bull on a lagoon at a classical exposition 1893]] — shared language: lagoon, classical
 <!-- vault-crosslinks:end -->

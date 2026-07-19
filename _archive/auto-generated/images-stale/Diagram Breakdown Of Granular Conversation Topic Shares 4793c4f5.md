@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Bre
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Breakdown Of Granular Conversation Topic Shares e5fc7700|Breakdown Of Granular Conversation Topic Shares]] — named in this note
-- [[knowledge/wiki/images/Granular Conversation Topic Shares Breakdown Diagram e02d44e7|Granular Conversation Topic Shares Breakdown Diagram]] — shared language: breakdown, granular, shares
-- [[_archive/auto-generated/images-stale/Diagram Granular Conversation Topic Shares Breakdown Diagram 9e31403f|Diagram Granular Conversation Topic Shares Breakdown Diagram]] — shared language: breakdown, granular, shares
+- [[knowledge/wiki/images/Granular Conversation Topic Shares Breakdown Diagram e02d44e7|Granular Conversation Topic Shares Breakdown Diagram]] — shared language: breakdown, shares, granular
+- [[_archive/auto-generated/images-stale/Diagram Granular Conversation Topic Shares Breakdown Diagram 9e31403f|Diagram Granular Conversation Topic Shares Breakdown Diagram]] — shared language: breakdown, shares, granular
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/images/Illustration Abstract Outlines of Figures Over Bright Granular Colors with Red Seal 9a64cada|Illustration Abstract Outlines of Figures Over Bright Granular Colors with Red Seal]] — shared language: granular
 <!-- vault-crosslinks:end -->

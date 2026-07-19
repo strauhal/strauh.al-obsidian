@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Person Wearing Pink Beanie With Text 'God Save Me Jpg Or Png ' 28b702a0|Person Wearing Pink Beanie With Text 'God Save Me Jpg Or Png ']] — shared language: beanie, save, god
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: god
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: god
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: god
+- [[knowledge/wiki/images/Illustration Person in Red Beanie Sits at Desk in Cluttered Room 8fb5b104|Illustration Person in Red Beanie Sits at Desk in Cluttered Room]] — shared language: beanie, person
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Concrete w
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: utility
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Grand Neoclassical Building with Columbus Inscription 7604f750|Photograph Black and White Photograph of Grand Neoclassical Building with Columbus Inscription]] — shared language: inscription
 - [[knowledge/wiki/images/Black and White Photograph of Crucifix on Utility Pole with Wires ec021f7e|Black and White Photograph of Crucifix on Utility Pole with Wires]] — shared language: utility
 - [[knowledge/wiki/images/plate 97 by carl jung c 19151930 23e3cedd|plate 97 by carl jung c 19151930]] — shared language: plate
-- [[knowledge/wiki/images/White Plate With Blue Willow Pattern Design ed444a6b|White Plate With Blue Willow Pattern Design]] — shared language: plate
 <!-- vault-crosslinks:end -->

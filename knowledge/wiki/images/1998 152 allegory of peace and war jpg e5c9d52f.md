@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/1998_152_allegor
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: war
 - [[knowledge/wiki/images/peace and war by pompeo batoni 1776 13e1997a|peace and war by pompeo batoni 1776]] — shared language: peace, war
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: war
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: war
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: war
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: war
 <!-- vault-crosslinks:end -->

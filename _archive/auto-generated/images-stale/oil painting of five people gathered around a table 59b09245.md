@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Oil Painting of Five People Gathered Around a Table 5f1ad987|Illustration Oil Painting of Five People Gathered Around a Table]] — shared language: gathered, around, five
+- [[knowledge/wiki/images/Illustration Oil Painting of Five People Gathered Around a Table 5f1ad987|Illustration Oil Painting of Five People Gathered Around a Table]] — shared language: gathered, five, around
 - [[_archive/auto-generated/images-stale/classical scene of women gathered around a well bcd4ab7b|classical scene of women gathered around a well]] — shared language: gathered, around
 - [[knowledge/wiki/images/Image Five Men Feasting at a Golden Table 03b86987|Image Five Men Feasting at a Golden Table]] — shared language: five, table, table.jpeg
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: around

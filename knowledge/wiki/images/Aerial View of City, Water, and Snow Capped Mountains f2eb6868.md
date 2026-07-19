@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Aerial Vie
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, aerial, view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, city, view
 - [[knowledge/wiki/images/Aerial View of Sprawling City with Mountains and Tower e4d53018|Aerial View of Sprawling City with Mountains and Tower]] — shared language: aerial, mountains, city
 - [[knowledge/wiki/images/Horses Grazing in a Green Field with Snow Capped Mountains bccaac19|Horses Grazing in a Green Field with Snow Capped Mountains]] — shared language: capped, snow, mountains
 - [[knowledge/wiki/images/Silver Teapot On Post With Snow Capped Mountains In Background c57d95c6|Silver Teapot On Post With Snow Capped Mountains In Background]] — shared language: capped, snow, mountains
-- [[knowledge/wiki/artists/Artist - thefacetpixel|Artist - thefacetpixel]] — shared language: aerial, city, view
 <!-- vault-crosslinks:end -->

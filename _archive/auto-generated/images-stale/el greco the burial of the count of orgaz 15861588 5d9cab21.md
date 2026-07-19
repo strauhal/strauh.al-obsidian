@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/The Burial of the Count of Orgaz by El Greco (1586 1588) bc203003|The Burial of the Count of Orgaz by El Greco (1586 1588)]] — shared language: orgaz, greco, count
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: count
 - [[knowledge/wiki/images/poster for the opera el greco by jorge fick 1993 6da0f3cd|poster for the opera el greco by jorge fick 1993]] — shared language: greco
 - [[_archive/auto-generated/images-stale/technical figure showing a 6x5 grid of male faces undergoing progressive visual distortion based on poison percentage and iteration count c80841a0|technical figure showing a 6x5 grid of male faces undergoing progressive visual distortion based on poison percentage and iteration count]] — shared language: count
 - [[knowledge/wiki/artists/Artist - jorge fick|Artist - jorge fick]] — shared language: greco
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jorge fick 1993|Artist - jorge fick 1993]] — shared language: greco
 <!-- vault-crosslinks:end -->

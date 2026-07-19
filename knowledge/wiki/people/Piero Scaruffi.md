@@ -33,7 +33,7 @@ his cataloguing, ranking, completist instinct — the same drive behind the
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: diary, impulse, influences
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: diary, turning, slop
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, page, diary
-- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: diary, i'm, slop
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: diary, summary, sources
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: cataloguing, influences, summary
+- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: diary, i'm, slop
 <!-- vault-crosslinks:end -->

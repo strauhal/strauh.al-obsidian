@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/george_washingto
 - [[knowledge/wiki/images/mrs perez morton by gilbert stuart c 1802 c2a7d752|mrs perez morton by gilbert stuart c 1802]] — same artist: gilbert stuart
 - [[knowledge/wiki/artists/Artist - gilbert williams|Artist - gilbert williams]] — shared language: gilbert
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: stuart
-- [[knowledge/wiki/images/Illustration Anime style Drawing of George Washington in Blue Military Uniform 4562a5c4|Illustration Anime style Drawing of George Washington in Blue Military Uniform]] — shared language: washington, george
+- [[knowledge/wiki/images/the offering by gilbert williams 1995 ae967606|the offering by gilbert williams 1995]] — shared language: gilbert
 <!-- vault-crosslinks:end -->

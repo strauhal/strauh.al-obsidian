@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_death_of_gel
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: prior
 - [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: hall
 - [[knowledge/wiki/images/blue door by john g hall 1980 d9cc98a9|blue door by john g hall 1980]] — shared language: hall
 - [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — shared language: death
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Large Exhibition Hall Interior c2700266|Photograph Black and White Photograph of a Large Exhibition Hall Interior]] — shared language: hall
+- [[knowledge/wiki/books/chris-cutrone-the-death-of-the-millennial-left-interventions-2006-2022-sublation-press|The Death of the Millennial Left Interventions 2006-2022-Sublation Press]] — shared language: death
 <!-- vault-crosslinks:end -->

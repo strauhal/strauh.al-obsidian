@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/agricultural_bui
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/images/administration building and statue of columbus world s columbian exposition chicago 1893 54c727e5|administration building and statue of columbus world s columbian exposition chicago 1893]] — shared language: columbian, exposition, world
 - [[knowledge/wiki/images/the administration building world s columbian exposition chicago by john moran 1894 e8e4331c|the administration building world s columbian exposition chicago by john moran 1894]] — shared language: columbian, exposition, world
 - [[knowledge/wiki/images/the lagoon world s columbian exposition by c d arnold 1893 542cfae7|the lagoon world s columbian exposition by c d arnold 1893]] — shared language: columbian, exposition, world
 - [[knowledge/wiki/images/Photograph Black and White Photograph of World's Columbian Exposition, 1893 5eedd249|Photograph Black and White Photograph of World's Columbian Exposition, 1893]] — shared language: columbian, exposition
-- [[knowledge/wiki/images/bird s eye view of the world s columbian exposition chicago 1893 1893 5d1f20a1|bird s eye view of the world s columbian exposition chicago 1893 1893]] — shared language: columbian, exposition, world
 <!-- vault-crosslinks:end -->

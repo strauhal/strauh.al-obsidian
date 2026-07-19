@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Heavily Bl
 - [[knowledge/wiki/images/Illustration Stylized Figure With Textured Background And Colorful Embellishments bf0f9634|Illustration Stylized Figure With Textured Background And Colorful Embellishments]] — shared language: textured, background
 - [[knowledge/wiki/images/Illustration Textured Walking Head Figure on White Background 5a0afdbd|Illustration Textured Walking Head Figure on White Background]] — shared language: textured, background, background.jpeg
 - [[knowledge/wiki/images/Illustration Textured Portrait Of A Person Smoking A Cigar c55c1864|Illustration Textured Portrait Of A Person Smoking A Cigar]] — shared language: textured, person
-- [[knowledge/wiki/images/Image White Text on Orange Textured Background with Illegible Symbols 34d803bb|Image White Text on Orange Textured Background with Illegible Symbols]] — shared language: textured, background
+- [[knowledge/wiki/images/Blurred Black And White Photo Of A Reclining Figure f61afd75|Blurred Black And White Photo Of A Reclining Figure]] — shared language: blurred
 <!-- vault-crosslinks:end -->

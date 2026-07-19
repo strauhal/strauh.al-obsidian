@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Mo
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern, large
 - [[knowledge/wiki/images/Modern White Building with Curved Architecture and Large Windows 90e19def|Modern White Building with Curved Architecture and Large Windows]] — shared language: windows, modern, large
 - [[knowledge/wiki/images/Interior of a Modern Industrial Loft Apartment with Large Windows 018c2df1|Interior of a Modern Industrial Loft Apartment with Large Windows]] — shared language: windows, modern, interior
 - [[knowledge/wiki/images/Illustration Sketchbook Drawing of Interior with Large Windows and Street View 9b70cb15|Illustration Sketchbook Drawing of Interior with Large Windows and Street View]] — shared language: windows, interior, large
 - [[knowledge/wiki/images/Interior of a large, modern library with wooden structure b5a1b809|Interior of a large, modern library with wooden structure]] — shared language: modern, interior, large
-- [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 <!-- vault-crosslinks:end -->

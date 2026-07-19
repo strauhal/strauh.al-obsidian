@@ -4,8 +4,8 @@ type: concept
 aliases: [dead digital space, illusion of movement]
 tags: [concept, video, time, space, gan]
 sources: ["[[No More Human Art]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Dead Architecture
@@ -32,18 +32,6 @@ The generated body seems to move, but the motion is a pixel structure assembled 
 
 <!-- archive-links:end -->
 
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: dead, latent, distance
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: movement, produces, vocal
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: study, video, work
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: dead, study, vocal
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: already, latent, makes
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: makes, latent, ben
-- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: implicit, latent, distance
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: dead, latent
-<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -52,3 +40,16 @@ The generated body seems to move, but the motion is a pixel structure assembled 
 
 > Alvar Aalto was consciously concerned with all the senses in his architecture. His comment on the sensory intentions his furniture design clearly reveals this concern: 'A piece of furniture that forms a part of a person's daily habitat should not cause excessive glare from light reflection: ditto, it should not be disadvantageous in terms of sound, sound absorption, etc. A piece that comes into the most intimate contact with man, as a chair does, shouldn't be constructed of materials that are excessively good conductors of heat.'
 <!-- quotes:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/images/The Golden Gate (1879) 2dde8620|The Golden Gate (1879)]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/images/cyberpunk 5cf1f5a5|cyberpunk]] — named in this note
+- [[knowledge/wiki/images/manhattan 084f63e4|manhattan]] — named in this note
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: quotes, city, street
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: quotes, tower, ruin
+- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: quotes, archive-links
+<!-- vault-crosslinks:end -->

@@ -4,8 +4,8 @@ type: review-queue
 status: needs-review
 tags: [chatgpt, memory, profile, review]
 sources: ["[[ChatGPT Memory Summary]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # ChatGPT Memory Review
@@ -50,6 +50,6 @@ Claims from ChatGPT's memory synthesis that are specific, potentially time-sensi
 - [[knowledge/wiki/images/king crimson abad7a5c|king crimson]] — named in this note
 - [[knowledge/wiki/images/massive attack 87b63bde|massive attack]] — named in this note
 - [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/anchors/california|california]] — named in this note
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Two Male Characters in School Uniforms on a Rooftop 1a21041d|Illustration Two Male Characters in School Uniforms on a Rooftop]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: school
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Classical Tower and Dome from Rooftop 27d35d6f|Photograph Black and White Photograph of Classical Tower and Dome from Rooftop]] — shared language: rooftop, tower
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: school
-- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: school
 <!-- vault-crosslinks:end -->

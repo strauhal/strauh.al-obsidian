@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Dig
 - [[knowledge/wiki/images/Digital Mind Map Graph View with Interconnected Nodes 07a3bf5a|Digital Mind Map Graph View with Interconnected Nodes]] — named in this note
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: nodes, graph, diagram
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: graph, mind, view
-- [[_archive/auto-generated/images-stale/Diagram Complex Network Graph with Nodes and Edges b1b8fd18|Diagram Complex Network Graph with Nodes and Edges]] — shared language: nodes, graph, diagram
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: mind
+- [[_archive/auto-generated/images-stale/Diagram Complex Network Graph with Nodes and Edges b1b8fd18|Diagram Complex Network Graph with Nodes and Edges]] — shared language: nodes, graph, diagram
 <!-- vault-crosslinks:end -->

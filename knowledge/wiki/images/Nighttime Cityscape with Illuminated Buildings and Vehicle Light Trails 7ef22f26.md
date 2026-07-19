@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Nighttime 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, buildings
 - [[knowledge/wiki/images/Car Creating Light Trails on Dark Surface 1f2bf2ea|Car Creating Light Trails on Dark Surface]] — shared language: trails, light
 - [[knowledge/wiki/images/Dense Cityscape with Traditional and Modern Buildings 22e16419|Dense Cityscape with Traditional and Modern Buildings]] — shared language: cityscape, buildings
-- [[knowledge/wiki/images/Comic Detailed Black And White Cityscape With Tall Buildings by Katsuhiro Otomo 6f955bff|Comic Detailed Black And White Cityscape With Tall Buildings by Katsuhiro Otomo]] — shared language: cityscape, buildings
+- [[knowledge/wiki/images/Photograph Downtown Los Angeles Skyline at Dusk with Freeway Light Trails 2b7c8253|Photograph Downtown Los Angeles Skyline at Dusk with Freeway Light Trails]] — shared language: trails, light
 <!-- vault-crosslinks:end -->

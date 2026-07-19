@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/the march of the israelites by david scott 1832 aa3d7f3c|the march of the israelites by david scott 1832]] — shared language: scott
 - [[knowledge/wiki/artists/Artist - J. Scott Applewhite|Artist - J. Scott Applewhite]] — shared language: scott
 - [[knowledge/wiki/artists/Artist - John Romita Jr. and Scott Hanna|Artist - John Romita Jr. and Scott Hanna]] — shared language: scott, comic
-- [[knowledge/wiki/images/Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna 2dd4c650|Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna]] — shared language: scott, comic
+- [[knowledge/wiki/images/Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna a587d824|Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna]] — shared language: scott, comic
 <!-- vault-crosslinks:end -->

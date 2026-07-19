@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - The UL
 
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: step
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: approach
 - [[knowledge/wiki/artists/Artist - Step House Sketch|Artist - Step House Sketch]] — shared language: step
 - [[knowledge/wiki/images/Illustration Pencil Sharpening, Holding, Strokes, and Step by Step House Sketch be96ed8e|Illustration Pencil Sharpening, Holding, Strokes, and Step by Step House Sketch]] — shared language: step
-- [[knowledge/wiki/images/Illustration Roblox Character Watches Comet Approach Floating Island With House 4281d38c|Illustration Roblox Character Watches Comet Approach Floating Island With House]] — shared language: approach
 <!-- vault-crosslinks:end -->

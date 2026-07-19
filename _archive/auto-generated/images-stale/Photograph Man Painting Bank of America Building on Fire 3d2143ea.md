@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Man Painting Bank of America Building on Fire 375cdb62|Man Painting Bank of America Building on Fire]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[_archive/auto-generated/images-stale/america gif 2854071e|america gif]] — shared language: america
 - [[_archive/auto-generated/images-stale/3d topographical map visualization of south america highlighting the andes 0ccd2c4d|3d topographical map visualization of south america highlighting the andes]] — shared language: america
 - [[knowledge/wiki/images/Photograph Building on Fire with Flames and Smoke Pouring from Windows 32dbee25|Photograph Building on Fire with Flames and Smoke Pouring from Windows]] — shared language: fire, building
-- [[_archive/auto-generated/images-stale/administration building d797c4c3|administration building]] — shared language: building
 <!-- vault-crosslinks:end -->

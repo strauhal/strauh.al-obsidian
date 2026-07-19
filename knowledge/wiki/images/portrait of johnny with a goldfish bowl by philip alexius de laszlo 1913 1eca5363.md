@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/portrait_of_john
 - [[knowledge/wiki/artists/Artist - laszlo moholy nagy|Artist - laszlo moholy nagy]] — shared language: laszlo
 - [[knowledge/wiki/artists/Artist - philip glass|Artist - philip glass]] — shared language: philip
 - [[knowledge/wiki/images/Portrait of Johnny Depp edfcb937|Portrait of Johnny Depp]] — shared language: johnny
-- [[knowledge/wiki/anchors/philip-glass|Philip Glass]] — shared language: philip
+- [[knowledge/wiki/images/composition by laszlo moholy nagy 1929 e8f4f4e8|composition by laszlo moholy nagy 1929]] — shared language: laszlo
 <!-- vault-crosslinks:end -->

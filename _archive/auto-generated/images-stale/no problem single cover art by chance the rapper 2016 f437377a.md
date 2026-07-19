@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: rapper
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: rapper
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: rapper
-- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: problem, single
+- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: single
 <!-- vault-crosslinks:end -->

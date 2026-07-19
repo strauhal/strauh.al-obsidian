@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Line Art Poster of Man in Suit with Text and Symbols 3bc598dd|Illustration Line Art Poster of Man in Suit with Text and Symbols]] — shared language: suit, poster, line
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: order, new
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: order
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: new, visual
 - [[knowledge/wiki/images/Illustration Stylized Portrait of Man in Suit Against Black Background 2a8d2b72|Illustration Stylized Portrait of Man in Suit Against Black Background]] — shared language: suit, background
-- [[_archive/auto-generated/images-stale/social order 5a42465d|social order]] — shared language: order
 <!-- vault-crosslinks:end -->

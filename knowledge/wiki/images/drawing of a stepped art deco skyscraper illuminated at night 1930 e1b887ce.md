@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/drawing_of_a_ste
 
 - [[knowledge/wiki/images/drawing of a stepped art deco skyscraper illuminated at night 1930 2 47c413ed|drawing of a stepped art deco skyscraper illuminated at night 1930 2]] — shared language: stepped, deco, skyscraper
 - [[knowledge/wiki/images/charcoal drawing of a stepped art deco skyscraper at night 1930 5fd24baa|charcoal drawing of a stepped art deco skyscraper at night 1930]] — shared language: stepped, deco, skyscraper
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: skyscraper
 - [[knowledge/wiki/images/Photograph Black And White Stepped Hotel Panorama Building 43c1efea|Photograph Black And White Stepped Hotel Panorama Building]] — shared language: stepped
 - [[knowledge/wiki/images/Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night 48c16123|Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night]] — shared language: illuminated, night
-- [[knowledge/wiki/pages/even more art|even more art]] — shared language: stepped, skyscraper, deco
 <!-- vault-crosslinks:end -->

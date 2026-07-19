@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/music.html"
 source_relpath: "knowledge_base/music.html"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:16"
+compiled_at: "2026-07-19T02:00:04"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base music
@@ -664,12 +664,12 @@ strauh.al/knowledge_base/music
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
 - [[knowledge/wiki/anchors/aphex-twin|Aphex Twin]] — named in this note
-- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — named in this note
 - [[knowledge/wiki/images/pete swanson 2606fb2c|pete swanson]] — named in this note
 - [[knowledge/wiki/images/pete swanson PR e1360767839462 d62b7513|pete swanson PR e1360767839462]] — named in this note
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
 - [[knowledge/wiki/books/the-use-of-folk-instruments-alongside-classical-instruments|The Use of Folk Instruments Alongside Classical Instruments]] — named in this note
-- [[knowledge/wiki/books/timbre-as-a-structural-device-in-compositions|Timbre as a Structural Device in Compositions]] — named in this note
+- [[knowledge/wiki/works/The Record Label|The Record Label]] — named in this note
+- [[knowledge/wiki/anchors/philip-glass|Philip Glass]] — named in this note
+- [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
 <!-- vault-crosslinks:end -->

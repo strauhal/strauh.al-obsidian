@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Burning, Graffiti Covered Police Car During Unrest 73ffc5b2|Burning, Graffiti Covered Police Car During Unrest]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: burning, graffiti
 - [[knowledge/wiki/images/Graffiti Covered Car Exploding in Flames on a Street 6f361e0d|Graffiti Covered Car Exploding in Flames on a Street]] — shared language: covered, graffiti, car
 - [[_archive/auto-generated/images-stale/Photograph Graffiti Covered Car Exploding in Flames on a Street 437061ec|Photograph Graffiti Covered Car Exploding in Flames on a Street]] — shared language: covered, graffiti, car
 - [[knowledge/wiki/images/Photograph Small Car Covered in Rainbow Graffiti Displayed Indoors at Night 470bdbfd|Photograph Small Car Covered in Rainbow Graffiti Displayed Indoors at Night]] — shared language: covered, graffiti, car
-- [[_archive/auto-generated/images-stale/small car covered in rainbow graffiti and tags displayed indoors 305eee9b|small car covered in rainbow graffiti and tags displayed indoors]] — shared language: covered, graffiti, car
 <!-- vault-crosslinks:end -->

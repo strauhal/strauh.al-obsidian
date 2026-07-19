@@ -26,6 +26,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/2023 downloadsfolder|2023 downloadsfolder]] — shared language: cremindexlogo.jpg
-- [[_archive/auto-generated/images-stale/Chimpanzee seated at typewriter 44992847|Chimpanzee seated at typewriter]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna 2dd4c650-20260719|Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna]] — nearby note in the same source series
 - [[_archive/auto-generated/images-stale/Diagram 1 Bedroom Rent By County In The United States d30ab876|Diagram 1 Bedroom Rent By County In The United States]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

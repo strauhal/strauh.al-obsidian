@@ -2,7 +2,7 @@
 title: "strauh.al Index"
 source_kind: "index"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:17"
+compiled_at: "2026-07-19T02:00:06"
 tags: ["strauhal", "index"]
 ---
 # strauh.al Index

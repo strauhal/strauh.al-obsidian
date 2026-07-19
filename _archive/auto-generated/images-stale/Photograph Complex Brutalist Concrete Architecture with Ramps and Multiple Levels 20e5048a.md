@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Complex Brutalist Concrete Architecture with Ramps and Multiple Levels 834eb45a|Complex Brutalist Concrete Architecture with Ramps and Multiple Levels]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: brutalist, concrete, ramps
 - [[knowledge/wiki/images/Brutalist Concrete Building with Curved Ramps and Arches 589dbe9d|Brutalist Concrete Building with Curved Ramps and Arches]] — shared language: ramps, brutalist, concrete
 - [[_archive/auto-generated/images-stale/Photograph Brutalist Concrete Building with Curved Ramps and Arches a4e5db6f|Photograph Brutalist Concrete Building with Curved Ramps and Arches]] — shared language: ramps, brutalist, concrete
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
-- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: levels
 <!-- vault-crosslinks:end -->

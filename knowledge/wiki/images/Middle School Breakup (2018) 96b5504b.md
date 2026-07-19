@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Middle School Br
 
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: school
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: school
-- [[knowledge/wiki/books/israel-regardie-the-middle-pillar-the-balance-between-mind-and-magic|The Middle Pillar: The Balance Between Mind and Magic]] — shared language: middle
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: school
+- [[knowledge/wiki/books/israel-regardie-the-middle-pillar-the-balance-between-mind-and-magic|The Middle Pillar: The Balance Between Mind and Magic]] — shared language: middle
 - [[knowledge/wiki/books/n-g-rjuna-david-j-kalupahana-the-philosophy-of-the-middle-way-mu-lamadhyamakaka-rika-suny-press|The philosophy of the middle way Mūlamadhyamakakārikā-SUNY Press]] — shared language: middle
 <!-- vault-crosslinks:end -->

@@ -9,8 +9,8 @@ metadata: curated
 aliases: [leo-bersani-is-the-rectum-a-grave-1]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/leo-bersani-is-the-rectum-a-grave-1.pdf"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Is the Rectum a Grave?

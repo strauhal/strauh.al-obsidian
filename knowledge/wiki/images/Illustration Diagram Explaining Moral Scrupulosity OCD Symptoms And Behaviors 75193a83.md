@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/books/regularity-of-colour-statistics-in-explaining-colo|Regularity of colour statistics in explaining colo]] — shared language: explaining
-- [[knowledge/wiki/images/Comic Robot Explaining Abstract Art To Two People 9d8cfbf0|Comic Robot Explaining Abstract Art To Two People]] — shared language: explaining
 - [[knowledge/wiki/images/Diagram And Text Explaining Recursive Self Improvement Process 4d3334b1|Diagram And Text Explaining Recursive Self Improvement Process]] — shared language: explaining, diagram
+- [[knowledge/wiki/images/Comic Robot Explaining Abstract Art To Two People 9d8cfbf0|Comic Robot Explaining Abstract Art To Two People]] — shared language: explaining
 - [[knowledge/wiki/images/Infographic Explaining Digital Occultism and Memetic Culture 5bb02a02|Infographic Explaining Digital Occultism and Memetic Culture]] — shared language: explaining
 <!-- vault-crosslinks:end -->

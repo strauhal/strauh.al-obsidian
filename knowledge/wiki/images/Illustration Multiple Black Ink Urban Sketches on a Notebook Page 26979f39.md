@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
-- [[knowledge/wiki/images/Illustration Grid of Nine Black Ink Sketches of Urban and Rural Scenes edc8a5c6|Illustration Grid of Nine Black Ink Sketches of Urban and Rural Scenes]] — shared language: urban, sketches, ink
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: notebook
 <!-- vault-crosslinks:end -->

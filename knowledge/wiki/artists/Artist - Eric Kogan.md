@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken, trash
 - [[knowledge/wiki/artists/Artist - eric fischl|Artist - eric fischl]] — shared language: eric
 - [[knowledge/wiki/anchors/eric-le-sage|Eric Le Sage]] — shared language: eric
+- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: bird, trash
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: eric
 - [[knowledge/wiki/anchors/eric-b-rakim|Eric B. & Rakim]] — shared language: eric
-- [[knowledge/wiki/images/the mattress by eric fischl 1991 c6f0df14|the mattress by eric fischl 1991]] — shared language: eric
 <!-- vault-crosslinks:end -->

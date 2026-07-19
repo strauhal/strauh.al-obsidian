@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/ Hofstadter, Douglas, R - GÃ¶del, Escher, Bach_ An Eternal Golden Braid (1999, Basic Books) - libgen.li.epub"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # GÃ¶del, Escher, Bach An Eternal Golden Braid

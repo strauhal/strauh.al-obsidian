@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Side by Side Comparison of Hongya Cave, Chongqing, China, 1998 vs. Now 94372d7e|Side by Side Comparison of Hongya Cave, Chongqing, China, 1998 vs. Now]] — shared language: hongya, chongqing, side
 - [[_archive/auto-generated/concept-stubs/Image Archive|Image Archive]] — shared language: side
 - [[knowledge/wiki/images/Comparison of Generated Images with Deconvolution Artifacts 5be9023f|Comparison of Generated Images with Deconvolution Artifacts]] — shared language: comparison
-- [[knowledge/wiki/images/The Bright Side by Winslow Homer (1865) b15e7f03|The Bright Side by Winslow Homer (1865)]] — shared language: side
 - [[_archive/auto-generated/images-stale/Diagram Comparison of Generated Images with Deconvolution Artifacts f654f9c7|Diagram Comparison of Generated Images with Deconvolution Artifacts]] — shared language: comparison
+- [[knowledge/wiki/images/The Bright Side by Winslow Homer (1865) b15e7f03|The Bright Side by Winslow Homer (1865)]] — shared language: side
 <!-- vault-crosslinks:end -->

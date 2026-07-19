@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Exh
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: tradition
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
 - [[knowledge/wiki/images/Man Posing With Abstract Drawing At Exhibition e3ad2e14|Man Posing With Abstract Drawing At Exhibition]] — shared language: exhibition
 - [[knowledge/wiki/images/Document Exhibition Label Listing Artworks and Mediums on a White Wall 58046525|Document Exhibition Label Listing Artworks and Mediums on a White Wall]] — shared language: exhibition, wall
 <!-- vault-crosslinks:end -->

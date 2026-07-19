@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Crowded Lagoon Area in Front of Neoclassical Exhibition Halls 3173df70|Photograph Crowded Lagoon Area in Front of Neoclassical Exhibition Halls]] — shared language: halls, exhibition
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, domed, large
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building 7fa929f6|Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building]] — shared language: exhibition, building
 - [[knowledge/wiki/images/black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893 58d3f569|black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893]] — shared language: exhibition, domed, large
 - [[knowledge/wiki/images/Man Posing With Abstract Drawing At Exhibition e3ad2e14|Man Posing With Abstract Drawing At Exhibition]] — shared language: exhibition
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Large Exhibition Hall Interior c2700266|Photograph Black and White Photograph of a Large Exhibition Hall Interior]] — shared language: exhibition, large
-- [[knowledge/wiki/images/Photograph Sepia Photograph of Grand Neoclassical Exhibition Building and Waterway 519af011|Photograph Sepia Photograph of Grand Neoclassical Exhibition Building and Waterway]] — shared language: exhibition, building
 <!-- vault-crosslinks:end -->

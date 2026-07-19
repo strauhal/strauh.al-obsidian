@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/00081_brutalist_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: brutalist
 - [[knowledge/wiki/images/Modern Brutalist Building on a City Street ec1167f3|Modern Brutalist Building on a City Street]] — shared language: brutalist
 - [[knowledge/wiki/images/Black And White Photograph Of Brutalist Concrete Staircase Monument 3b1f75cc|Black And White Photograph Of Brutalist Concrete Staircase Monument]] — shared language: brutalist
 - [[knowledge/wiki/images/People on a Staircase and Balcony in a Brutalist Building 363f6659|People on a Staircase and Balcony in a Brutalist Building]] — shared language: brutalist
 - [[knowledge/wiki/images/Brutalist Concrete Building with Tall Conifer Trees cb97be41|Brutalist Concrete Building with Tall Conifer Trees]] — shared language: brutalist
-- [[knowledge/wiki/images/Photograph Brutalist Concrete Monument Overlooking City With Lone Figure bcf162ec|Photograph Brutalist Concrete Monument Overlooking City With Lone Figure]] — shared language: brutalist
 <!-- vault-crosslinks:end -->

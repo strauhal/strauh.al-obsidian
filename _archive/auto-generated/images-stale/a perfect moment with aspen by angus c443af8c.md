@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: perfect
 - [[knowledge/wiki/books/nyt-our-oppenheimer-moment-the-creation-of-a-i-weapons|Our Oppenheimer Moment- The Creation of A.I. Weapons]] — shared language: moment
 - [[knowledge/wiki/images/aspen by toshi yoshida 1973 9c39469e|aspen by toshi yoshida 1973]] — shared language: aspen
-- [[knowledge/wiki/culture/movie-perfect-blue|Watchlist - Perfect Blue]] — shared language: perfect
+- [[knowledge/wiki/images/Illustration Vibrant Aspen Forest with Yellow and Orange Leaves Against Blue Sky 0eba5268|Illustration Vibrant Aspen Forest with Yellow and Orange Leaves Against Blue Sky]] — shared language: aspen
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Abstract Textured Mountain Landscape in Orange and Yellow 7da7b2b9|Illustration Abstract Textured Mountain Landscape in Orange and Yellow]] — shared language: textured, orange, yellow
 - [[knowledge/wiki/images/Illustration Abstract Painting with Vibrant Blue, Orange, Yellow, and Pink Hues by Joey Richardson f9aa1537|Illustration Abstract Painting with Vibrant Blue, Orange, Yellow, and Pink Hues by Joey Richardson]] — shared language: hues, orange, yellow
-- [[knowledge/wiki/images/Image White Text on Orange Textured Background with Illegible Symbols 34d803bb|Image White Text on Orange Textured Background with Illegible Symbols]] — shared language: textured, orange
 - [[knowledge/wiki/images/White Building in Desert Landscape with Mountains and Cactus 94e2a594|White Building in Desert Landscape with Mountains and Cactus]] — shared language: mountains, landscape
 - [[_archive/auto-generated/images-stale/oil painting of figures and traffic lights in saturated pink and orange hues 66c21f3e|oil painting of figures and traffic lights in saturated pink and orange hues]] — shared language: hues, orange, hues.jpeg
+- [[knowledge/wiki/images/Illustration Abstract Geometric Forms in Red and Brown Hues 6ac1d4ff|Illustration Abstract Geometric Forms in Red and Brown Hues]] — shared language: hues, hues.jpeg
 <!-- vault-crosslinks:end -->

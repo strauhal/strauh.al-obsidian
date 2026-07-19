@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Aerial Vie
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
 - [[knowledge/wiki/images/Photograph Aerial View of a Road Intersection with Long Shadows 0271b623|Photograph Aerial View of a Road Intersection with Long Shadows]] — shared language: shadows, aerial, view
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: people's
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: people's
-- [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: aerial, view
-- [[knowledge/wiki/images/Illustration Children Playing In Shallow Water On A Beach f03d08b7|Illustration Children Playing In Shallow Water On A Beach]] — shared language: beach, playing
 <!-- vault-crosslinks:end -->

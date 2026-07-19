@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Bare Tree Against Blue Sky With Cloud Resembling Foliage f2fcce3f|Bare Tree Against Blue Sky With Cloud Resembling Foliage]] — shared language: foliage, tree
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, water
 - [[knowledge/wiki/images/Illustration Vibrant Abstract Trees with Colorful Foliage 1fae8830|Illustration Vibrant Abstract Trees with Colorful Foliage]] — shared language: foliage
 - [[knowledge/wiki/images/Illustration Two Figures, Tree, and Goose in a Surreal Landscape 3ada5d1a|Illustration Two Figures, Tree, and Goose in a Surreal Landscape]] — shared language: tree
 - [[knowledge/wiki/images/Illustration Abstract Painting of Red Figure Overlaid on Old Map with Green Foliage 4cbf6ab8|Illustration Abstract Painting of Red Figure Overlaid on Old Map with Green Foliage]] — shared language: foliage
 - [[knowledge/wiki/images/Green Foliage And Purple Flowers Against A Red Background f674ceb1|Green Foliage And Purple Flowers Against A Red Background]] — shared language: foliage
-- [[knowledge/wiki/images/Illustration Stylized Painting of a Stream with Autumn Foliage cbeae40a|Illustration Stylized Painting of a Stream with Autumn Foliage]] — shared language: foliage
 <!-- vault-crosslinks:end -->

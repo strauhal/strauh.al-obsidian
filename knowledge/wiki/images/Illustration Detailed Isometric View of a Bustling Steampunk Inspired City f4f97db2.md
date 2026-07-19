@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 
 - [[knowledge/wiki/images/Illustration Detailed Isometric Illustration of a Bustling Futuristic City eb32de33|Illustration Detailed Isometric Illustration of a Bustling Futuristic City]] — shared language: bustling, isometric, detailed
 - [[knowledge/wiki/images/Illustration Detailed, Colorful Illustration of a Bustling City with Many Characters ae73dff9|Illustration Detailed, Colorful Illustration of a Bustling City with Many Characters]] — shared language: bustling, detailed, city
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric, view, city
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, view
 - [[knowledge/wiki/images/Illustration Detailed Isometric Cyberpunk City Street Scene c82cd53b|Illustration Detailed Isometric Cyberpunk City Street Scene]] — shared language: isometric, detailed, city
-- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: inspired
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Expressive Painting of Nude Figure in Landscape da18a7de|Illustration Expressive Painting of Nude Figure in Landscape]] — shared language: expressive, landscape, landscape.jpg
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: object
 - [[knowledge/wiki/images/Illustration Expressive Painting of Woman with Large Eyes and Dark Dress 98eb098f|Illustration Expressive Painting of Woman with Large Eyes and Dark Dress]] — shared language: expressive, dark
 - [[knowledge/wiki/images/Illustration Nude Figures Dancing in a Dark, Expressive Forest 7e8f7717|Illustration Nude Figures Dancing in a Dark, Expressive Forest]] — shared language: expressive, dark
 - [[_archive/auto-generated/images-stale/highly stylized digital image of a figure with pigtails holding an object against a landscape background 8558b54c|highly stylized digital image of a figure with pigtails holding an object against a landscape background]] — shared language: object, holding, landscape
-- [[knowledge/wiki/images/Illustration Corpulent Nude Figure Sitting, Holding Pot and Dark Object 6b917fe5|Illustration Corpulent Nude Figure Sitting, Holding Pot and Dark Object]] — shared language: object, holding, dark
 <!-- vault-crosslinks:end -->

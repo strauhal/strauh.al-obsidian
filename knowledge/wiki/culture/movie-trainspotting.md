@@ -7,8 +7,8 @@ status: queued
 queue_order: 25
 tags: [culture, movie, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Trainspotting
@@ -34,8 +34,8 @@ This is an active film in Ernest's current cultural diet. Add dates, reactions, 
 - [[knowledge/wiki/culture/movie-young-frankenstein|Watchlist - Young Frankenstein]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-edward-scissorhands|Watchlist - Edward Scissorhands]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-akira|Watchlist - Akira]] — shared language: watchlist, film, current
-- [[knowledge/wiki/culture/movie-crumb|Watchlist - Crumb]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-perfect-blue|Watchlist - Perfect Blue]] — shared language: watchlist, film, current
+- [[knowledge/wiki/culture/movie-crumb|Watchlist - Crumb]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-man-of-steel|Watchlist - Man of Steel]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-the-wizard-of-oz|Watchlist - The Wizard of Oz]] — shared language: watchlist, film, current
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees
 - [[knowledge/archive/auto-generated/artists-stale/Artist - snowy pine trees and mountains at dusk|Artist - Snowy Pine Trees And Mountains At Dusk]] — shared language: snowy, trees
 - [[knowledge/wiki/artists/Artist - Snowy Pine Trees And Mountains At Dusk|Artist - Snowy Pine Trees And Mountains At Dusk]] — shared language: snowy, trees
 - [[knowledge/archive/auto-generated/artists-stale/Artist - trees|Artist - Trees]] — shared language: trees
 - [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
-- [[_archive/auto-generated/images-stale/Photograph Snowy Forest with Bare Trees and Sunlight on Ground 60827ead|Photograph Snowy Forest with Bare Trees and Sunlight on Ground]] — shared language: snowy, trees
 <!-- vault-crosslinks:end -->

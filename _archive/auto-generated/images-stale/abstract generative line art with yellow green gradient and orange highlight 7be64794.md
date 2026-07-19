@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Abstract Generative Lines with Yellow Green Gradient and Orange Highlight 802c47b1|Illustration Abstract Generative Lines with Yellow Green Gradient and Orange Highlight]] — shared language: highlight, gradient, generative
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: generative
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: generative
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: generative
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
-- [[_archive/auto-generated/images-stale/black and white generative line drawing of abstract kinetic forms 0f796110|black and white generative line drawing of abstract kinetic forms]] — shared language: generative, line
 <!-- vault-crosslinks:end -->

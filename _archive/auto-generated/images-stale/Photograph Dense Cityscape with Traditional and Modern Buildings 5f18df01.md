@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Dense Cityscape with Traditional and Modern Buildings 22e16419|Dense Cityscape with Traditional and Modern Buildings]] — named in this note
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, buildings, dense
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern
 - [[_archive/auto-generated/images-stale/black and white print of buildings and dense trees in a landscape 23795676|black and white print of buildings and dense trees in a landscape]] — shared language: dense, buildings
 - [[knowledge/wiki/images/Illustration Black and White Print of Buildings and Dense Trees in Landscape 3e0dbe4a|Illustration Black and White Print of Buildings and Dense Trees in Landscape]] — shared language: dense, buildings
-- [[knowledge/wiki/images/Illustration Line Drawing of Figure Falling Above Dense Cityscape 1a17e27e|Illustration Line Drawing of Figure Falling Above Dense Cityscape]] — shared language: dense, cityscape
 <!-- vault-crosslinks:end -->

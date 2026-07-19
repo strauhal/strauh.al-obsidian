@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, sketchbook
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: sketchbook, ink
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, sketchbook
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: sketchbook, studies
-- [[knowledge/wiki/images/Illustration Sketchbook Page with Pen and Ink Nature Drawings and Timer 916fbeae|Illustration Sketchbook Page with Pen and Ink Nature Drawings and Timer]] — shared language: sketchbook, page, ink
 - [[knowledge/wiki/images/Illustration Ink Sketches of Cyberpunk Characters and Figure Studies in Sketchbook 48e651fd|Illustration Ink Sketches of Cyberpunk Characters and Figure Studies in Sketchbook]] — shared language: sketchbook, studies, ink
+- [[knowledge/wiki/images/Illustration Sketchbook Page with Pen and Ink Nature Drawings and Timer 916fbeae|Illustration Sketchbook Page with Pen and Ink Nature Drawings and Timer]] — shared language: sketchbook, page, ink
 <!-- vault-crosslinks:end -->

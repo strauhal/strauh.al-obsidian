@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Millau Via
 
 - [[knowledge/wiki/books/leonard-koren-wabi-sabi-for-artists-designers-poets-philosophers-stone-bridge-press|Wabi-Sabi for Artists, Designers, Poets & Philosophers-Stone Bridge Press]] — shared language: bridge
 - [[knowledge/wiki/images/Illustration Surreal Reclining Nude Figure with Emerging Forms in Dark Landscape f890115b|Illustration Surreal Reclining Nude Figure with Emerging Forms in Dark Landscape]] — shared language: emerging
-- [[knowledge/wiki/images/Hand Holding Ethernet Cable Against Tall Building 0f4a5bfa|Hand Holding Ethernet Cable Against Tall Building]] — shared language: cable
-- [[knowledge/wiki/images/Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ' 76060bd3|Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ']] — shared language: bridge
 - [[knowledge/wiki/images/Illustration Hand Emerging From Pink Draped Satin Fabric 17aa1815|Illustration Hand Emerging From Pink Draped Satin Fabric]] — shared language: emerging
+- [[knowledge/wiki/images/Illustration Light Haired Character Emerging From Dark Water With Orange Glow d9609c61|Illustration Light Haired Character Emerging From Dark Water With Orange Glow]] — shared language: emerging
+- [[knowledge/wiki/images/Illustration Grotesque Face and Skeletal Hands Emerging From Darkness ac10a517|Illustration Grotesque Face and Skeletal Hands Emerging From Darkness]] — shared language: emerging
 <!-- vault-crosslinks:end -->

@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/scripts.html"
 source_relpath: "scripts.html"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:16"
+compiled_at: "2026-07-19T02:00:04"
 tags: ["strauhal", "source/html"]
 ---
 # scripts
@@ -51,5 +51,5 @@ strauh.al/scripts
 - [[knowledge/wiki/images/ezgif.com resize f1cec9c6|ezgif.com resize]] — shared language: resize
 - [[knowledge/wiki/pages/portraits|portraits]] — shared language: none, related, yet
 - [[knowledge/wiki/pages/random quote|random quote]] — shared language: none, related, yet
-- [[knowledge/wiki/images/doppelbildnis double portrait by adolf wolfli 1920 e35f68f2|doppelbildnis double portrait by adolf wolfli 1920]] — shared language: double
+- [[knowledge/wiki/pages/photography fan ho|photography fan ho]] — shared language: none, related, yet
 <!-- vault-crosslinks:end -->

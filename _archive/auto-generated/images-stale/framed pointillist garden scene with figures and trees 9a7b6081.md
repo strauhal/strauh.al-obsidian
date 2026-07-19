@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/pointillist landscape with blue flowers and figures 2bc08bf2|pointillist landscape with blue flowers and figures]] — shared language: pointillist
 - [[_archive/auto-generated/images-stale/framed park scene with children and women under trees 550956fa|framed park scene with children and women under trees]] — shared language: scene, framed, trees
 - [[knowledge/wiki/images/Photograph Woman Painting Large Geometric Pointillist Artwork 76b158c1|Photograph Woman Painting Large Geometric Pointillist Artwork]] — shared language: pointillist
-- [[_archive/auto-generated/images-stale/framed interior scene with a woman and a mirror f67ee31d|framed interior scene with a woman and a mirror]] — shared language: scene, framed
+- [[_archive/auto-generated/images-stale/framed rainbow landscape painting with mountains and trees eb7b5e57|framed rainbow landscape painting with mountains and trees]] — shared language: framed, trees, trees.jpeg
 <!-- vault-crosslinks:end -->

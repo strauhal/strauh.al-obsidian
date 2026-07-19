@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Collection of Pink Isometric Pixel Art Folder Icons 3d13cf32|Illustration Collection of Pink Isometric Pixel Art Folder Icons]] — shared language: isometric, pixel
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric
 - [[knowledge/wiki/images/Illustration Isometric Pixel Art Illustration of Robots Working in a Kitchen a34c85e0|Illustration Isometric Pixel Art Illustration of Robots Working in a Kitchen]] — shared language: isometric, pixel
 - [[_archive/auto-generated/images-stale/isometric pixel art drawing of a kitchen with robots and food d1bf0bdb|isometric pixel art drawing of a kitchen with robots and food]] — shared language: isometric, pixel
 - [[knowledge/wiki/images/Illustration Isometric Pixel Art Building Interior with Staircase and Faint Figure 416df990|Illustration Isometric Pixel Art Building Interior with Staircase and Faint Figure]] — shared language: isometric, pixel
-- [[knowledge/wiki/images/Illustration Cat Hopes To Make Art At Art Factory Illustration 902a7367|Illustration Cat Hopes To Make Art At Art Factory Illustration]] — shared language: factory
 <!-- vault-crosslinks:end -->

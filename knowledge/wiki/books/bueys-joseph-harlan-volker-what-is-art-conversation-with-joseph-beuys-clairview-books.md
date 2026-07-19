@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Bueys, Joseph_ Harlan, Volker - What is Art__ Conversation with Joseph Beuys-Clairview Books (2012).mobi"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # What is Art Conversation with Joseph Beuys-Clairview Books

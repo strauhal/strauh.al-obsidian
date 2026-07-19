@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstracted Painting of Two Figures and Pots Beside a Blue River 70bd012f|Illustration Abstracted Painting of Two Figures and Pots Beside a Blue River]] — shared language: pots, abstracted, beside
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: beside
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: abstracted
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: beside
 - [[_archive/auto-generated/images-stale/oil painting of a close up abstracted face in grayscale ca009861|oil painting of a close up abstracted face in grayscale]] — shared language: abstracted
-- [[knowledge/wiki/images/Illustration Close Up Abstracted Face Painting in Grayscale Tones feae860c|Illustration Close Up Abstracted Face Painting in Grayscale Tones]] — shared language: abstracted
 <!-- vault-crosslinks:end -->

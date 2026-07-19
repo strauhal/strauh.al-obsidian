@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Silve
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: surfer, comic
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: surfer
 - [[knowledge/wiki/books/eugene-thacker-in-the-dust-of-this-planet|In the Dust of This Planet]] — shared language: planet
 - [[knowledge/wiki/images/Illustration Digital Collage of Occult Sigils Above a Green Circuit Board 0f07acb9|Illustration Digital Collage of Occult Sigils Above a Green Circuit Board]] — shared language: board, above
 - [[knowledge/wiki/images/escape from the planet of the apes movie poster 1971 8e87332e|escape from the planet of the apes movie poster 1971]] — shared language: planet
+- [[knowledge/wiki/images/Illustration Abstract Woven Painting with Red, Orange, Blue, and Silver Squares decd2476|Illustration Abstract Woven Painting with Red, Orange, Blue, and Silver Squares]] — shared language: silver
 <!-- vault-crosslinks:end -->

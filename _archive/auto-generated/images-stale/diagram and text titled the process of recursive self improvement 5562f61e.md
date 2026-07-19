@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/Diagram Diagram And Text Explaining Recursive Self Improvement Process 75325142|Diagram Diagram And Text Explaining Recursive Self Improvement Process]] — shared language: recursive, improvement, process
-- [[knowledge/wiki/images/Diagram And Text Explaining Recursive Self Improvement Process 4d3334b1|Diagram And Text Explaining Recursive Self Improvement Process]] — shared language: recursive, improvement, process
+- [[_archive/auto-generated/images-stale/Diagram Diagram And Text Explaining Recursive Self Improvement Process 75325142|Diagram Diagram And Text Explaining Recursive Self Improvement Process]] — shared language: improvement, recursive, process
+- [[knowledge/wiki/images/Diagram And Text Explaining Recursive Self Improvement Process 4d3334b1|Diagram And Text Explaining Recursive Self Improvement Process]] — shared language: improvement, recursive, process
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: recursive
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: process
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: simple
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: bodies
 - [[knowledge/wiki/books/jasbir-k-puar-bodies-with-new-organs|Bodies with New Organs]] — shared language: bodies
 - [[knowledge/wiki/images/Illustration Simple Line Drawing of Bent Over Figure 8be25f58|Illustration Simple Line Drawing of Bent Over Figure]] — shared language: simple
 - [[knowledge/wiki/images/Illustration Painting of a Large Red Rock Cliff with a Small Building 400c246c|Illustration Painting of a Large Red Rock Cliff with a Small Building]] — shared language: small, large
-- [[knowledge/wiki/images/black and white pixel art of three celestial bodies in space 1989 8cb058d7|black and white pixel art of three celestial bodies in space 1989]] — shared language: bodies
 <!-- vault-crosslinks:end -->

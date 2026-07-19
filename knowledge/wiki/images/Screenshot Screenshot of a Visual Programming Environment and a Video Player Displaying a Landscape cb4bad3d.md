@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/images/Screenshot Screenshot of a 3D Modeling Environment with Geometric Shapes 44b82bcb|Screenshot Screenshot of a 3D Modeling Environment with Geometric Shapes]] — shared language: environment, screenshot
 - [[knowledge/wiki/images/Screenshot Screenshot of a Drawing Program Displaying Abstract Pixel Art 55fb41e7|Screenshot Screenshot of a Drawing Program Displaying Abstract Pixel Art]] — shared language: screenshot, displaying
 - [[knowledge/wiki/images/Screenshot Windows Media Player Displaying Red Abstract Sound Visualization And Radio Information by Microsoft a695d84c|Screenshot Windows Media Player Displaying Red Abstract Sound Visualization And Radio Information by Microsoft]] — shared language: player, displaying, screenshot
+- [[knowledge/wiki/images/Screenshot Screenshot of Game Development Environment with Abstract Textured Planes 676b65dd|Screenshot Screenshot of Game Development Environment with Abstract Textured Planes]] — shared language: environment, screenshot
 <!-- vault-crosslinks:end -->

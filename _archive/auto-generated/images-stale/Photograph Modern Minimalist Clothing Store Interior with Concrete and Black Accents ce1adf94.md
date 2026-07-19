@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Modern Minimalist Clothing Store Interior with Concrete and Black Accents 29c047db|Modern Minimalist Clothing Store Interior with Concrete and Black Accents]] — shared language: accents, minimalist, store
 - [[knowledge/wiki/images/Minimalist Concrete Interior with Modern Furniture and Plant 249802ae|Minimalist Concrete Interior with Modern Furniture and Plant]] — shared language: minimalist, concrete, modern
 - [[_archive/auto-generated/images-stale/Photograph Minimalist Concrete Interior with Modern Furniture and Plant e836ee66|Photograph Minimalist Concrete Interior with Modern Furniture and Plant]] — shared language: minimalist, concrete, modern
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete, modern
 - [[knowledge/wiki/images/Modern Clothing Store Interior with Racks and Mannequins 8def1e29|Modern Clothing Store Interior with Racks and Mannequins]] — shared language: store, clothing, modern
-- [[_archive/auto-generated/images-stale/Photograph Modern Clothing Store Interior with Racks and Mannequins 74f56aca|Photograph Modern Clothing Store Interior with Racks and Mannequins]] — shared language: store, clothing, modern
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - British 
 - [[knowledge/wiki/images/Image Black And White Vin Diesel Meme About AI Art e5246fb8|Image Black And White Vin Diesel Meme About AI Art]] — shared language: meme
 - [[knowledge/wiki/books/eugene-thacker-in-the-dust-of-this-planet|In the Dust of This Planet]] — shared language: planet
 - [[knowledge/wiki/anchors/museum|museum]] — shared language: museum
-- [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text
 - [[knowledge/wiki/images/escape from the planet of the apes movie poster 1971 8e87332e|escape from the planet of the apes movie poster 1971]] — shared language: planet
+- [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text
 <!-- vault-crosslinks:end -->

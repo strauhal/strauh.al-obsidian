@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Stacked Ne
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: repeated
 - [[knowledge/wiki/images/Stacked Bar Chart Showing Car Colors By Year c3166772|Stacked Bar Chart Showing Car Colors By Year]] — shared language: stacked, showing
 - [[knowledge/wiki/images/Illustration Stylized Figure With Yellow Hair, Red Eyes, And Red Coat c5f25588|Illustration Stylized Figure With Yellow Hair, Red Eyes, And Red Coat]] — shared language: eyes, hair
 - [[knowledge/wiki/images/Illustration Pink Poster with Wavy Pattern of Repeated Figures and Text ae235189|Illustration Pink Poster with Wavy Pattern of Repeated Figures and Text]] — shared language: repeated
 - [[knowledge/wiki/images/Book Page Showing Photograph and Painting of Man Cutting Hair 475fd06f|Book Page Showing Photograph and Painting of Man Cutting Hair]] — shared language: showing, hair
-- [[knowledge/wiki/images/Illustration Grid Of Repeated Curved Marks On Light Background c2c4c35c|Illustration Grid Of Repeated Curved Marks On Light Background]] — shared language: repeated
 <!-- vault-crosslinks:end -->

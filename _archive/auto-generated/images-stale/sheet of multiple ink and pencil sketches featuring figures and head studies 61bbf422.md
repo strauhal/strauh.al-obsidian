@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Sheet of Multiple Ink and Pencil Sketches Featuring Figures and Head Studies 908351c4|Illustration Sheet of Multiple Ink and Pencil Sketches Featuring Figures and Head Studies]] — shared language: sheet, sketches, multiple
 - [[knowledge/wiki/images/Photograph Photograph of Framed Sheet with Multiple Blue Ink Sketches 1cc1c4f4|Photograph Photograph of Framed Sheet with Multiple Blue Ink Sketches]] — shared language: sheet, multiple, sketches
-- [[knowledge/wiki/images/Illustration Multiple Figure Studies in Black Ink 62cea0b9|Illustration Multiple Figure Studies in Black Ink]] — shared language: studies, multiple, ink
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, multiple, head
+- [[knowledge/wiki/images/Illustration Multiple Figure Studies in Black Ink 62cea0b9|Illustration Multiple Figure Studies in Black Ink]] — shared language: studies, multiple, ink
 - [[_archive/auto-generated/images-stale/pen and ink study sheet featuring multiple sketches of horses and human heads 9ba541bf|pen and ink study sheet featuring multiple sketches of horses and human heads]] — shared language: sheet, sketches, multiple
 <!-- vault-crosslinks:end -->

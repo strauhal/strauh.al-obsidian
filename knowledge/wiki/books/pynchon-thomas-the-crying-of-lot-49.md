@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The Crying of Lot 49 -- Pynchon, Thomas -- Penguin Random House LLC, [Place of publication not -- Penguin Group US -- 9781101594605 -- 50e597e7aa27b4c9539e74ce04e1d06b -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # The Crying of Lot 49

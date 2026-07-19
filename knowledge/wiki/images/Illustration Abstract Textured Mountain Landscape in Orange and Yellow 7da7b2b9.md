@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Image White Text on Orange Textured Background with Illegible Symbols 34d803bb|Image White Text on Orange Textured Background with Illegible Symbols]] — shared language: textured, orange
 - [[knowledge/wiki/images/Illustration Ink Drawing of Mountain Landscape with Trees and Calligraphy a2031983|Illustration Ink Drawing of Mountain Landscape with Trees and Calligraphy]] — shared language: mountain, landscape
 - [[knowledge/wiki/images/Illustration Textured Painting of a River Landscape with Bridge and Tower 4a5a27db|Illustration Textured Painting of a River Landscape with Bridge and Tower]] — shared language: textured, landscape
 - [[knowledge/wiki/images/A Young Woman in a Mountain Landscape by Hans Dahl (c. 1900) e4bff0a9|A Young Woman in a Mountain Landscape by Hans Dahl (c. 1900)]] — shared language: mountain, landscape
 - [[knowledge/wiki/images/Digital Visualization Of Orange And Yellow Lines On Dark Blue 0926db1d|Digital Visualization Of Orange And Yellow Lines On Dark Blue]] — shared language: orange, yellow
+- [[knowledge/wiki/images/Illustration Abstract Painting Golden Sky Over Fiery, Textured Red Landscape e1ca54e5|Illustration Abstract Painting Golden Sky Over Fiery, Textured Red Landscape]] — shared language: textured, landscape
 <!-- vault-crosslinks:end -->

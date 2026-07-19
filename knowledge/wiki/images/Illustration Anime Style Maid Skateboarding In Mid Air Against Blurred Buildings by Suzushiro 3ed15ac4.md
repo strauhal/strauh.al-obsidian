@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: style
 - [[knowledge/wiki/pages/mid century american|mid century american]] — shared language: mid
 - [[knowledge/wiki/images/Illustration Painting of an Anime Style Character With Spiky Yellow And Red Hair ad58fb5a|Illustration Painting of an Anime Style Character With Spiky Yellow And Red Hair]] — shared language: anime, style, anime-style
-- [[knowledge/wiki/books/robert-bringhurst-the-elements-of-typographic-style|The Elements of Typographic Style]] — shared language: style
+- [[knowledge/wiki/images/Blurred Black And White Photo Of A Reclining Figure f61afd75|Blurred Black And White Photo Of A Reclining Figure]] — shared language: blurred
 <!-- vault-crosslinks:end -->

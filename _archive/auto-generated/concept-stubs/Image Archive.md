@@ -26,7 +26,7 @@ The image side of strauh.al: thousands of files from `strauh.al3.1`, exposed in 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: thousands
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: thousands
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: thousands
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: seeker
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: media
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: seeker
-- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: media
 <!-- vault-crosslinks:end -->

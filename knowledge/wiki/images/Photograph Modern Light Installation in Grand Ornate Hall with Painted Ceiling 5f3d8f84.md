@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Mod
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ornate, modern
 - [[knowledge/wiki/images/Illustration Woman In Ornate Gown In Grand Hall With Armored Figures 64e197be|Illustration Woman In Ornate Gown In Grand Hall With Armored Figures]] — shared language: hall, ornate, grand
 - [[knowledge/wiki/images/Photograph Ornate Blue and Gold Vaulted Ceiling in a Grand Basilica 5e0f08fb|Photograph Ornate Blue and Gold Vaulted Ceiling in a Grand Basilica]] — shared language: ornate, grand, ceiling
 - [[knowledge/wiki/images/Modern Concert Hall Interior with Grand Piano and Wooden Architecture fb385756|Modern Concert Hall Interior with Grand Piano and Wooden Architecture]] — shared language: hall, grand, modern
 - [[knowledge/wiki/images/Illustration Modern Concert Hall Interior with Wooden Panels and Grand Piano f5d2ff12|Illustration Modern Concert Hall Interior with Wooden Panels and Grand Piano]] — shared language: hall, grand, modern
-- [[knowledge/wiki/images/Photograph Ornate Gold and Blue Tiled Ceiling 48cfe733|Photograph Ornate Gold and Blue Tiled Ceiling]] — shared language: ornate, ceiling, ceiling.jpg
 <!-- vault-crosslinks:end -->

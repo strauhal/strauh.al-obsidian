@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Aerial View of New Uniform Suburban Housing Development by ONX Homes 1a0bb9a8|Photograph Aerial View of New Uniform Suburban Housing Development by ONX Homes]] — shared language: housing, development, suburban
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, large
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial
 - [[knowledge/wiki/artists/Artist - ONX Homes|Artist - ONX Homes]] — shared language: housing, development, suburban
 - [[knowledge/wiki/images/Photograph Aerial View of Suburban Houses and Green Lawns e6b2ab60|Photograph Aerial View of Suburban Houses and Green Lawns]] — shared language: suburban, aerial
-- [[knowledge/wiki/images/large oil portrait of a man in 18th century military uniform d337dc9f|large oil portrait of a man in 18th century military uniform]] — shared language: uniform, large
 <!-- vault-crosslinks:end -->

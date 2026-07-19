@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Cluttered 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Detailed Black and White Illustration of Girl Drawing in Cluttered Office 1e742f23|Illustration Detailed Black and White Illustration of Girl Drawing in Cluttered Office]] — shared language: cluttered, office
-- [[knowledge/wiki/images/White Cat on Office Desk with Computer and Keyboard b157ca8c|White Cat on Office Desk with Computer and Keyboard]] — shared language: office, desk
+- [[knowledge/wiki/images/White Cat on Office Desk with Computer and Keyboard b157ca8c|White Cat on Office Desk with Computer and Keyboard]] — shared language: desk, office
 - [[knowledge/wiki/images/Highly Cluttered Room With Computer Desk And Trash 0503be2c|Highly Cluttered Room With Computer Desk And Trash]] — shared language: cluttered, desk
-- [[knowledge/wiki/images/Modern Office Interior with Chair, Desk, and City View 6d0b4ad5|Modern Office Interior with Chair, Desk, and City View]] — shared language: office, desk
+- [[knowledge/wiki/images/Modern Office Interior with Chair, Desk, and City View 6d0b4ad5|Modern Office Interior with Chair, Desk, and City View]] — shared language: desk, office
 - [[knowledge/wiki/images/Cluttered Attic Room With Computer Desk And Bed 57dafd01|Cluttered Attic Room With Computer Desk And Bed]] — shared language: cluttered, desk
 <!-- vault-crosslinks:end -->

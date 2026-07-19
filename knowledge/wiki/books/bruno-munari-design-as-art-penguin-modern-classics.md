@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Design as Art (Penguin Modern Classics) -- Bruno Munari -- Penguin modern classics, London, 2008, ©1971 -- Penguin Books Ltd -- 9780141035819 -- 662f399960ac0451db4a7b9ec7913aad -- Anna’s Archive.pdf"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Design as Art (Penguin Modern Classics)

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/twist silk jersey knits patchworks autumn winter 1984 85 by peter lindbergh 1984 d07dd516|twist silk jersey knits patchworks autumn winter 1984 85 by peter lindbergh 1984]] — shared language: autumn, winter
 - [[knowledge/wiki/images/Illustration Oil Painting of Winding Road Through Autumn Trees with Curve Sign 21204b3a|Illustration Oil Painting of Winding Road Through Autumn Trees with Curve Sign]] — shared language: autumn
 - [[knowledge/wiki/images/winter street by charles burchfield 1933 9dbe22f6|winter street by charles burchfield 1933]] — shared language: winter
-- [[knowledge/wiki/images/adolf hitler karlskirche vienna in winter c 1910 4e5622d3|adolf hitler karlskirche vienna in winter c 1910]] — shared language: winter
+- [[knowledge/wiki/images/Graffiti 'Sorry About Your Wall' on a building in winter 3c2999d9|Graffiti 'Sorry About Your Wall' on a building in winter]] — shared language: winter
 <!-- vault-crosslinks:end -->

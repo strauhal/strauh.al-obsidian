@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Knight with Grotesque Figures da68a3ba|Illustration Black and White Ink Drawing of Knight with Grotesque Figures]] — shared language: grotesque, knight, ink
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: grotesque, ink
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: objects
 - [[_archive/auto-generated/images-stale/black and white ink drawing of a woman in uniform surrounded by a grotesque creature and splatter 1290b3cd|black and white ink drawing of a woman in uniform surrounded by a grotesque creature and splatter]] — shared language: grotesque, surrounded, ink
 - [[knowledge/wiki/images/Illustration A Vibrant, Chaotic Painting Of Cartoon Characters And Objects 0faccd21|Illustration A Vibrant, Chaotic Painting Of Cartoon Characters And Objects]] — shared language: objects, characters, objects.jpeg
-- [[knowledge/wiki/images/Illustration Grotesque Expressionist Ink Drawing of Rotated Figures 6ccc6703|Illustration Grotesque Expressionist Ink Drawing of Rotated Figures]] — shared language: grotesque, ink
 <!-- vault-crosslinks:end -->

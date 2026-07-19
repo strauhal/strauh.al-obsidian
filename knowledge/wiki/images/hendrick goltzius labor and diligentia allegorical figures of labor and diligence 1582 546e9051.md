@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1500s/hendrick_goltziu
 - [[knowledge/wiki/images/the annunciation by hendrick goltzius 1594 8fc0932c|the annunciation by hendrick goltzius 1594]] — named in this note
 - [[knowledge/wiki/artists/Artist - hendrick goltzius 159394|Artist - hendrick goltzius 159394]] — shared language: hendrick, goltzius
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: labor
+- [[knowledge/wiki/concepts/Controlled Surrender|Controlled Surrender]] — shared language: labor
 - [[knowledge/wiki/images/hendrick goltzius bacchus 1595 jpg 0a0cbb80|hendrick goltzius bacchus 1595 jpg]] — shared language: hendrick, goltzius
-- [[knowledge/wiki/artists/Artist - hendrick goltzius|Artist - hendrick goltzius]] — shared language: hendrick, goltzius
 <!-- vault-crosslinks:end -->

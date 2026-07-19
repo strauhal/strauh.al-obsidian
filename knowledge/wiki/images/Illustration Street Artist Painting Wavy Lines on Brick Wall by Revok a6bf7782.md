@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Man Painting Wavy Lines On Brick Wall With Roller 3985a611|Photograph Man Painting Wavy Lines On Brick Wall With Roller]] — shared language: brick, wavy, wall
-- [[knowledge/wiki/images/Illustration Stylized Figures in Front of a Brick Wall 5dbf6ea5|Illustration Stylized Figures in Front of a Brick Wall]] — shared language: brick, wall
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
+- [[knowledge/wiki/images/Illustration Stylized Figures in Front of a Brick Wall 5dbf6ea5|Illustration Stylized Figures in Front of a Brick Wall]] — shared language: brick, wall
 - [[knowledge/wiki/images/Illustration Black Wavy Lines on White Background 989a4fe6|Illustration Black Wavy Lines on White Background]] — shared language: wavy, lines
 - [[knowledge/wiki/images/Person Painting Horizontal Colored Lines on a Brick Wall bbf9f2c6|Person Painting Horizontal Colored Lines on a Brick Wall]] — shared language: brick, wall, lines
 <!-- vault-crosslinks:end -->

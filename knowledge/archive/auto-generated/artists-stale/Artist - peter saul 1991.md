@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - peter saul 1967|Artist - peter saul 1967]] — shared language: saul, peter
 - [[knowledge/wiki/artists/Artist - peter saul|Artist - peter saul]] — shared language: saul, peter, new
+- [[knowledge/archive/auto-generated/artists-stale/Artist - peter saul 1967|Artist - peter saul 1967]] — shared language: saul, peter
 - [[knowledge/archive/auto-generated/artists-stale/Artist - peter saul 1969|Artist - peter saul 1969]] — shared language: saul, peter
 - [[knowledge/wiki/images/tangerine by peter saul 1967 841e0694|tangerine by peter saul 1967]] — shared language: saul, peter
 - [[knowledge/wiki/images/the second coming by peter saul 1969 75bb7b97|the second coming by peter saul 1969]] — shared language: saul, peter

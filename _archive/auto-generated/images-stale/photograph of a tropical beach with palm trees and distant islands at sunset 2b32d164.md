@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Tropical Beach With Palm Trees And Distant Islands At Sunset af14185b|Tropical Beach With Palm Trees And Distant Islands At Sunset]] — shared language: islands, tropical, palm
 - [[knowledge/wiki/images/Illustration Pixel Art Tropical Beach with Palm Trees and Ocean 0cf813e1|Illustration Pixel Art Tropical Beach with Palm Trees and Ocean]] — shared language: tropical, palm, beach
 - [[knowledge/wiki/images/Illustration Stylized Tropical Beach Scene with Pool and Palm Trees by Hiroshi Nagai ec3e621c|Illustration Stylized Tropical Beach Scene with Pool and Palm Trees by Hiroshi Nagai]] — shared language: tropical, palm, beach
-- [[_archive/auto-generated/images-stale/framed lake landscape with islands and distant mountains 6e0592dd|framed lake landscape with islands and distant mountains]] — shared language: islands, distant
+- [[_archive/auto-generated/images-stale/Photograph Tropical Island With Palm Trees, Turquoise Water, And Sailboat c54934ad|Photograph Tropical Island With Palm Trees, Turquoise Water, And Sailboat]] — shared language: tropical, palm, trees
 <!-- vault-crosslinks:end -->

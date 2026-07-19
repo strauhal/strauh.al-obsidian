@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - robert mccall|Artist - robert mccall]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert|Artist - robert]] — named in this note
 - [[knowledge/wiki/images/The Future World by Robert McCall (1982) 90e90c47|The Future World by Robert McCall (1982)]] — shared language: mccall, robert
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: discovery
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1905|Artist - robert henri 1905]] — shared language: robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1906|Artist - robert henri 1906]] — shared language: robert
-- [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1914|Artist - robert henri 1914]] — shared language: robert
 <!-- vault-crosslinks:end -->

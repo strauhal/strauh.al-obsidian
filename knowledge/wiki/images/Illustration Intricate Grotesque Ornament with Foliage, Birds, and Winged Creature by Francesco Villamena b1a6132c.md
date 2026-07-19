@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Engraving of Grotesque Ornament with Foliage, Birds, and Artichoke 28160950|Illustration Engraving of Grotesque Ornament with Foliage, Birds, and Artichoke]] — shared language: ornament, birds, foliage
+- [[knowledge/wiki/images/Illustration Engraving of Grotesque Ornament with Foliage, Birds, and Artichoke 28160950|Illustration Engraving of Grotesque Ornament with Foliage, Birds, and Artichoke]] — shared language: ornament, foliage, birds
 - [[knowledge/wiki/images/Illustration Woman and Grotesque Creature with Ink Splatters d44ed11e|Illustration Woman and Grotesque Creature with Ink Splatters]] — shared language: grotesque, creature
 - [[knowledge/wiki/artists/Artist - francesco hayez|Artist - francesco hayez]] — shared language: francesco
 - [[knowledge/wiki/artists/Artist - giovanni francesco barbieri|Artist - giovanni francesco barbieri]] — shared language: francesco

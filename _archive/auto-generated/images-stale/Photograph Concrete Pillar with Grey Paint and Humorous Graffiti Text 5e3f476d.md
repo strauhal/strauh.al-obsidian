@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Concrete Pillar with Grey Paint and Humorous Graffiti Text e5a13174|Concrete Pillar with Grey Paint and Humorous Graffiti Text]] — shared language: pillar, humorous, graffiti
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete, graffiti
 - [[knowledge/wiki/images/Image Black and White Portrait of Hegel with Humorous Text 9f12b49d|Image Black and White Portrait of Hegel with Humorous Text]] — shared language: humorous, text
-- [[knowledge/wiki/images/Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ' 76060bd3|Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ']] — shared language: graffiti, text
 - [[knowledge/wiki/books/israel-regardie-the-middle-pillar-the-balance-between-mind-and-magic|The Middle Pillar: The Balance Between Mind and Magic]] — shared language: pillar
-- [[knowledge/wiki/images/Image Man Kneeling on Overturned Chair with Humorous Text 9f30f9e9|Image Man Kneeling on Overturned Chair with Humorous Text]] — shared language: humorous, text, text.jpg
+- [[_archive/auto-generated/images-stale/Photograph Woman Speaking On Stage With Humorous Text On Screen 776787f4|Photograph Woman Speaking On Stage With Humorous Text On Screen]] — shared language: humorous, text
 <!-- vault-crosslinks:end -->

@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Retro Transparent Electronic Devices and Storage Media on Pink Background 5ce31032|Retro Transparent Electronic Devices and Storage Media on Pink Background]] — shared language: storage, transparent, devices
+- [[knowledge/wiki/images/Retro Transparent Electronic Devices and Storage Media on Pink Background 5ce31032|Retro Transparent Electronic Devices and Storage Media on Pink Background]] — shared language: storage, devices, transparent
 - [[_archive/auto-generated/concept-stubs/Image Archive|Image Archive]] — shared language: media
 - [[_archive/auto-generated/images-stale/collage of advertisements for portable electronic devices 108014b0|collage of advertisements for portable electronic devices]] — shared language: devices, electronic
 - [[knowledge/wiki/images/Illustration Collage of Advertisements for Portable Electronic Devices 723815b3|Illustration Collage of Advertisements for Portable Electronic Devices]] — shared language: devices, electronic

@@ -9,8 +9,8 @@ metadata: curated
 aliases: [The Essays of Warren Buffett Lessons for Corporate America Third Edition]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The Essays of Warren Buffett Lessons for Corporate America Third Edition.epub"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # The Essays of Warren Buffett: Lessons for Corporate America

@@ -50,18 +50,6 @@ that i can capture in html."
 **Books (2).** [[the-internet-s-ai-slop-problem-is-only-going-to-get-worse|The Internet’s AI Slop Problem Is Only Going to Get Worse]] · [[nicholas-carr-the-shallows-what-the-internet-is-doing-to-our-brains|The Shallows What the Internet Is Doing to Our Brains]]
 
 <!-- archive-links:end -->
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/books/spinoza-baruch-ethics|Ethics]] — named in this note
-- [[knowledge/wiki/books/narrative|Narrative]] — named in this note
-- [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
-<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -88,3 +76,16 @@ that i can capture in html."
 >
 > whole. We don't see the forest when we search the Web. We don't even see the trees. We see twigs and leaves. As companies like Google and Microsoft perfect search engines for video and audio content, more products are undergoing the fragmentation that already characterizes written works.
 <!-- quotes:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/books/spinoza-baruch-ethics|Ethics]] — named in this note
+- [[knowledge/wiki/books/narrative|Narrative]] — named in this note
+- [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
+<!-- vault-crosslinks:end -->

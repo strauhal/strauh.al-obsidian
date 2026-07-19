@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-18T00:07:46",
-  "markdownFiles": 19504,
-  "existingDirectedLinks": 34500,
-  "discoveredDirectedLinks": 100183,
-  "totalDirectedLinks": 134683,
-  "uniqueConnectedPairs": 111367,
-  "filesWithDiscoveredLinks": 19504,
+  "generated": "2026-07-19T02:02:55",
+  "markdownFiles": 19516,
+  "existingDirectedLinks": 34916,
+  "discoveredDirectedLinks": 100274,
+  "totalDirectedLinks": 135190,
+  "uniqueConnectedPairs": 111899,
+  "filesWithDiscoveredLinks": 19516,
   "minimumDiscoveredLinks": 2,
   "maximumDiscoveredLinks": 8,
   "byType": {
@@ -20,9 +20,9 @@
       "discoveredOutbound": 890
     },
     "artist": {
-      "files": 3523,
-      "existingOutbound": 4582,
-      "discoveredOutbound": 20500
+      "files": 3524,
+      "existingOutbound": 4583,
+      "discoveredOutbound": 20506
     },
     "book": {
       "files": 523,
@@ -30,9 +30,9 @@
       "discoveredOutbound": 4184
     },
     "concept": {
-      "files": 32,
-      "existingOutbound": 1076,
-      "discoveredOutbound": 256
+      "files": 38,
+      "existingOutbound": 1200,
+      "discoveredOutbound": 304
     },
     "criticism": {
       "files": 1,
@@ -66,7 +66,7 @@
     },
     "html": {
       "files": 82,
-      "existingOutbound": 293,
+      "existingOutbound": 517,
       "discoveredOutbound": 656
     },
     "ideas": {
@@ -75,9 +75,9 @@
       "discoveredOutbound": 8
     },
     "image": {
-      "files": 14175,
-      "existingOutbound": 20446,
-      "discoveredOutbound": 68715
+      "files": 14177,
+      "existingOutbound": 20449,
+      "discoveredOutbound": 68728
     },
     "image-analysis": {
       "files": 1,
@@ -106,12 +106,12 @@
     },
     "lineage": {
       "files": 1,
-      "existingOutbound": 10,
+      "existingOutbound": 12,
       "discoveredOutbound": 8
     },
     "log": {
       "files": 1,
-      "existingOutbound": 12,
+      "existingOutbound": 14,
       "discoveredOutbound": 8
     },
     "manifest": {
@@ -120,9 +120,9 @@
       "discoveredOutbound": 8
     },
     "map": {
-      "files": 45,
-      "existingOutbound": 938,
-      "discoveredOutbound": 360
+      "files": 46,
+      "existingOutbound": 953,
+      "discoveredOutbound": 368
     },
     "memory-summary": {
       "files": 1,
@@ -145,9 +145,9 @@
       "discoveredOutbound": 10
     },
     "person": {
-      "files": 25,
-      "existingOutbound": 112,
-      "discoveredOutbound": 200
+      "files": 26,
+      "existingOutbound": 157,
+      "discoveredOutbound": 208
     },
     "private-correspondence": {
       "files": 64,
@@ -190,9 +190,9 @@
       "discoveredOutbound": 16
     },
     "report": {
-      "files": 10,
+      "files": 11,
       "existingOutbound": 9,
-      "discoveredOutbound": 80
+      "discoveredOutbound": 88
     },
     "review-queue": {
       "files": 2,
@@ -9232,6 +9232,13 @@
       "existingOutbound": 1,
       "discoveredOutbound": 5,
       "totalOutbound": 6
+    },
+    "_archive/auto-generated/images-stale/Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna 2dd4c650-20260719.md": {
+      "title": "Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna",
+      "type": "image",
+      "existingOutbound": 2,
+      "discoveredOutbound": 5,
+      "totalOutbound": 7
     },
     "_archive/auto-generated/images-stale/CremIndexLogo ccd2f853.md": {
       "title": "CremIndexLogo",
@@ -22415,6 +22422,13 @@
       "totalOutbound": 4
     },
     "_archive/auto-generated/images-stale/Screen Displaying Philip Pearlstein's Positano 4 Artwork 89864fc4-20260706165156.md": {
+      "title": "Screen Displaying Philip Pearlstein's Positano 4 Artwork",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "_archive/auto-generated/images-stale/Screen Displaying Philip Pearlstein's Positano 4 Artwork 89864fc4-20260719.md": {
       "title": "Screen Displaying Philip Pearlstein's Positano 4 Artwork",
       "type": "image",
       "existingOutbound": 1,
@@ -45731,6 +45745,13 @@
       "discoveredOutbound": 3,
       "totalOutbound": 4
     },
+    "_archive/auto-generated/pages-stale/brain debug test.md": {
+      "title": "brain debug test",
+      "type": "html",
+      "existingOutbound": 2,
+      "discoveredOutbound": 8,
+      "totalOutbound": 10
+    },
     "_archive/auto-generated/pages-stale/knowledge base 2024 misc bookmarks.md": {
       "title": "knowledge base 2024 misc bookmarks",
       "type": "html",
@@ -46243,6 +46264,13 @@
       "totalOutbound": 7
     },
     "knowledge/archive/auto-generated/artists-stale/Artist - A-20260718000722.md": {
+      "title": "Artist - A.E",
+      "type": "artist",
+      "existingOutbound": 1,
+      "discoveredOutbound": 6,
+      "totalOutbound": 7
+    },
+    "knowledge/archive/auto-generated/artists-stale/Artist - A-20260719020010.md": {
       "title": "Artist - A.E",
       "type": "artist",
       "existingOutbound": 1,
@@ -60472,6 +60500,13 @@
       "existingOutbound": 1,
       "discoveredOutbound": 8,
       "totalOutbound": 9
+    },
+    "knowledge/output/claim-provenance-report.md": {
+      "title": "claim-provenance-report",
+      "type": "report",
+      "existingOutbound": 0,
+      "discoveredOutbound": 8,
+      "totalOutbound": 8
     },
     "knowledge/output/fanmail-import-report.md": {
       "title": "fanmail-import-report",
@@ -75715,16 +75750,30 @@
     "knowledge/wiki/concepts/Autofiction.md": {
       "title": "Autofiction",
       "type": "concept",
-      "existingOutbound": 51,
+      "existingOutbound": 53,
       "discoveredOutbound": 8,
-      "totalOutbound": 59
+      "totalOutbound": 61
+    },
+    "knowledge/wiki/concepts/Controlled Surrender.md": {
+      "title": "Controlled Surrender",
+      "type": "concept",
+      "existingOutbound": 8,
+      "discoveredOutbound": 8,
+      "totalOutbound": 16
+    },
+    "knowledge/wiki/concepts/Curated Disorder.md": {
+      "title": "Curated Disorder",
+      "type": "concept",
+      "existingOutbound": 8,
+      "discoveredOutbound": 8,
+      "totalOutbound": 16
     },
     "knowledge/wiki/concepts/Dead Architecture.md": {
       "title": "Dead Architecture",
       "type": "concept",
-      "existingOutbound": 6,
+      "existingOutbound": 67,
       "discoveredOutbound": 8,
-      "totalOutbound": 14
+      "totalOutbound": 75
     },
     "knowledge/wiki/concepts/Decadence Is Beautiful.md": {
       "title": "Decadence Is Beautiful",
@@ -75733,8 +75782,22 @@
       "discoveredOutbound": 8,
       "totalOutbound": 60
     },
+    "knowledge/wiki/concepts/Distributed Persistence.md": {
+      "title": "Distributed Persistence",
+      "type": "concept",
+      "existingOutbound": 8,
+      "discoveredOutbound": 8,
+      "totalOutbound": 16
+    },
     "knowledge/wiki/concepts/Human-Machine Tug of War.md": {
       "title": "Human-Machine Tug of War",
+      "type": "concept",
+      "existingOutbound": 17,
+      "discoveredOutbound": 8,
+      "totalOutbound": 25
+    },
+    "knowledge/wiki/concepts/Interest-Dependent Persistence.md": {
+      "title": "Interest-Dependent Persistence",
       "type": "concept",
       "existingOutbound": 6,
       "discoveredOutbound": 8,
@@ -75764,9 +75827,9 @@
     "knowledge/wiki/concepts/Post-Irony.md": {
       "title": "Post-Irony",
       "type": "concept",
-      "existingOutbound": 8,
+      "existingOutbound": 9,
       "discoveredOutbound": 8,
-      "totalOutbound": 16
+      "totalOutbound": 17
     },
     "knowledge/wiki/concepts/Reading Like a Computer.md": {
       "title": "Reading Like a Computer",
@@ -75782,12 +75845,26 @@
       "discoveredOutbound": 8,
       "totalOutbound": 36
     },
+    "knowledge/wiki/concepts/Recognition Through Shared Objects.md": {
+      "title": "Recognition Through Shared Objects",
+      "type": "concept",
+      "existingOutbound": 6,
+      "discoveredOutbound": 8,
+      "totalOutbound": 14
+    },
+    "knowledge/wiki/concepts/Recursive Myth-Making.md": {
+      "title": "Recursive Myth-Making",
+      "type": "concept",
+      "existingOutbound": 6,
+      "discoveredOutbound": 8,
+      "totalOutbound": 14
+    },
     "knowledge/wiki/concepts/Spontaneity and Elegance.md": {
       "title": "Spontaneity and Elegance",
       "type": "concept",
-      "existingOutbound": 68,
+      "existingOutbound": 70,
       "discoveredOutbound": 8,
-      "totalOutbound": 76
+      "totalOutbound": 78
     },
     "knowledge/wiki/concepts/Synesthesia.md": {
       "title": "Synesthesia",
@@ -75799,9 +75876,9 @@
     "knowledge/wiki/concepts/The Archive as Consciousness.md": {
       "title": "The Archive as Consciousness",
       "type": "concept",
-      "existingOutbound": 9,
+      "existingOutbound": 12,
       "discoveredOutbound": 8,
-      "totalOutbound": 17
+      "totalOutbound": 20
     },
     "knowledge/wiki/concepts/The Attention Economy.md": {
       "title": "The Attention Economy",
@@ -75862,9 +75939,9 @@
     "knowledge/wiki/concepts/To Render Myself Unnecessary.md": {
       "title": "To Render Myself Unnecessary",
       "type": "concept",
-      "existingOutbound": 20,
+      "existingOutbound": 22,
       "discoveredOutbound": 8,
-      "totalOutbound": 28
+      "totalOutbound": 30
     },
     "knowledge/wiki/concepts/Trainpilled.md": {
       "title": "Trainpilled",
@@ -81659,8 +81736,8 @@
       "title": "Aggregate A by Toru Kurokawa (2016)",
       "type": "image",
       "existingOutbound": 2,
-      "discoveredOutbound": 4,
-      "totalOutbound": 6
+      "discoveredOutbound": 5,
+      "totalOutbound": 7
     },
     "knowledge/wiki/images/Airplane lady freaks out on airplane. Woman Not Reals characters on a plane by Travis Chapman 944d8d1d.md": {
       "title": "Airplane lady freaks out on airplane. Woman Not Reals characters on a plane by Travis Chapman",
@@ -84014,7 +84091,7 @@
       "discoveredOutbound": 5,
       "totalOutbound": 6
     },
-    "knowledge/wiki/images/Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna 2dd4c650.md": {
+    "knowledge/wiki/images/Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna a587d824.md": {
       "title": "Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna",
       "type": "image",
       "existingOutbound": 2,
@@ -87896,8 +87973,8 @@
       "title": "Generated Images Illustrating Deconvolution Layer Artifacts",
       "type": "image",
       "existingOutbound": 1,
-      "discoveredOutbound": 4,
-      "totalOutbound": 5
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
     },
     "knowledge/wiki/images/Genius Calling Forth the Fine Arts to Adorn Manufactures by Benjamin West (1789) 33f47fa7.md": {
       "title": "Genius Calling Forth the Fine Arts to Adorn Manufactures by Benjamin West (1789)",
@@ -103338,8 +103415,8 @@
       "title": "Image Black And White Vin Diesel Meme About AI Art",
       "type": "image",
       "existingOutbound": 1,
-      "discoveredOutbound": 4,
-      "totalOutbound": 5
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
     },
     "knowledge/wiki/images/Image Black and White Photo of Deleuze, Guattari, and Michael Cera 6bd04e73.md": {
       "title": "Image Black and White Photo of Deleuze, Guattari, and Michael Cera",
@@ -111377,7 +111454,7 @@
       "discoveredOutbound": 5,
       "totalOutbound": 6
     },
-    "knowledge/wiki/images/Screen Displaying Philip Pearlstein's Positano 4 Artwork 89864fc4.md": {
+    "knowledge/wiki/images/Screen Displaying Philip Pearlstein's Positano 4 Artwork 13a64cfc.md": {
       "title": "Screen Displaying Philip Pearlstein's Positano 4 Artwork",
       "type": "image",
       "existingOutbound": 1,
@@ -135621,9 +135698,9 @@
     "knowledge/wiki/life/Beliefs and Temperament.md": {
       "title": "Beliefs and Temperament",
       "type": "person",
-      "existingOutbound": 5,
+      "existingOutbound": 7,
       "discoveredOutbound": 8,
-      "totalOutbound": 13
+      "totalOutbound": 15
     },
     "knowledge/wiki/life/Ernest Strauhal.md": {
       "title": "Ernest Strauhal",
@@ -135635,16 +135712,16 @@
     "knowledge/wiki/life/Failures and Abandoned Projects.md": {
       "title": "Failures and Abandoned Projects",
       "type": "log",
-      "existingOutbound": 12,
+      "existingOutbound": 14,
       "discoveredOutbound": 8,
-      "totalOutbound": 20
+      "totalOutbound": 22
     },
     "knowledge/wiki/life/Family.md": {
       "title": "Family",
       "type": "lineage",
-      "existingOutbound": 10,
+      "existingOutbound": 12,
       "discoveredOutbound": 8,
-      "totalOutbound": 18
+      "totalOutbound": 20
     },
     "knowledge/wiki/life/Personality (PAS).md": {
       "title": "Personality (PAS)",
@@ -135652,6 +135729,13 @@
       "existingOutbound": 3,
       "discoveredOutbound": 8,
       "totalOutbound": 11
+    },
+    "knowledge/wiki/life/Psychological Architecture.md": {
+      "title": "Psychological Architecture",
+      "type": "person",
+      "existingOutbound": 43,
+      "discoveredOutbound": 8,
+      "totalOutbound": 51
     },
     "knowledge/wiki/life/The Ceremony.md": {
       "title": "The Ceremony",
@@ -135779,12 +135863,19 @@
       "discoveredOutbound": 8,
       "totalOutbound": 13
     },
+    "knowledge/wiki/maps/Map - Claim Provenance.md": {
+      "title": "Map - Claim Provenance",
+      "type": "map",
+      "existingOutbound": 9,
+      "discoveredOutbound": 8,
+      "totalOutbound": 17
+    },
     "knowledge/wiki/maps/Map - Concepts.md": {
       "title": "Map - Concepts",
       "type": "map",
-      "existingOutbound": 57,
+      "existingOutbound": 63,
       "discoveredOutbound": 8,
-      "totalOutbound": 65
+      "totalOutbound": 71
     },
     "knowledge/wiki/maps/Map - Current Culture.md": {
       "title": "Map - Current Culture",
@@ -136087,13 +136178,6 @@
       "discoveredOutbound": 8,
       "totalOutbound": 10
     },
-    "knowledge/wiki/pages/brain debug test.md": {
-      "title": "brain debug test",
-      "type": "html",
-      "existingOutbound": 2,
-      "discoveredOutbound": 8,
-      "totalOutbound": 10
-    },
     "knowledge/wiki/pages/brain(wip).md": {
       "title": "brain(wip)",
       "type": "html",
@@ -136244,9 +136328,9 @@
     "knowledge/wiki/pages/knowledge base art.md": {
       "title": "knowledge base art",
       "type": "html",
-      "existingOutbound": 4,
+      "existingOutbound": 71,
       "discoveredOutbound": 8,
-      "totalOutbound": 12
+      "totalOutbound": 79
     },
     "knowledge/wiki/pages/knowledge base cool words.md": {
       "title": "knowledge base cool words",
@@ -136258,37 +136342,37 @@
     "knowledge/wiki/pages/knowledge base culture society.md": {
       "title": "knowledge base culture society",
       "type": "html",
-      "existingOutbound": 4,
+      "existingOutbound": 20,
       "discoveredOutbound": 8,
-      "totalOutbound": 12
+      "totalOutbound": 28
     },
     "knowledge/wiki/pages/knowledge base music.md": {
       "title": "knowledge base music",
       "type": "html",
-      "existingOutbound": 4,
+      "existingOutbound": 33,
       "discoveredOutbound": 8,
-      "totalOutbound": 12
+      "totalOutbound": 41
     },
     "knowledge/wiki/pages/knowledge base philosophy critical thinking.md": {
       "title": "knowledge base philosophy critical thinking",
       "type": "html",
-      "existingOutbound": 4,
+      "existingOutbound": 19,
       "discoveredOutbound": 8,
-      "totalOutbound": 12
+      "totalOutbound": 27
     },
     "knowledge/wiki/pages/knowledge base psychology.md": {
       "title": "knowledge base psychology",
       "type": "html",
-      "existingOutbound": 4,
+      "existingOutbound": 11,
       "discoveredOutbound": 8,
-      "totalOutbound": 12
+      "totalOutbound": 19
     },
     "knowledge/wiki/pages/knowledge base quotes.md": {
       "title": "knowledge base quotes",
       "type": "html",
-      "existingOutbound": 4,
+      "existingOutbound": 48,
       "discoveredOutbound": 8,
-      "totalOutbound": 12
+      "totalOutbound": 56
     },
     "knowledge/wiki/pages/knowledge base speed racer.md": {
       "title": "knowledge base speed racer",
@@ -136300,23 +136384,23 @@
     "knowledge/wiki/pages/knowledge base technology ai.md": {
       "title": "knowledge base technology ai",
       "type": "html",
-      "existingOutbound": 4,
+      "existingOutbound": 18,
       "discoveredOutbound": 8,
-      "totalOutbound": 12
+      "totalOutbound": 26
     },
     "knowledge/wiki/pages/knowledge base web art.md": {
       "title": "knowledge base web art",
       "type": "html",
-      "existingOutbound": 4,
+      "existingOutbound": 6,
       "discoveredOutbound": 8,
-      "totalOutbound": 12
+      "totalOutbound": 14
     },
     "knowledge/wiki/pages/knowledge base wikipedia articles.md": {
       "title": "knowledge base wikipedia articles",
       "type": "html",
-      "existingOutbound": 4,
+      "existingOutbound": 34,
       "discoveredOutbound": 8,
-      "totalOutbound": 12
+      "totalOutbound": 42
     },
     "knowledge/wiki/pages/knowledge base.md": {
       "title": "knowledge base",

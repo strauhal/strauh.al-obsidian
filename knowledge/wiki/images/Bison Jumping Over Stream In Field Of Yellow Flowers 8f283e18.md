@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Bison Jump
 - [[knowledge/wiki/images/Illustration Textured Abstract Painting of Colorful Flowers in a Field 2b700985|Illustration Textured Abstract Painting of Colorful Flowers in a Field]] — shared language: field, flowers
 - [[knowledge/wiki/images/flowers 9ddd69be|flowers]] — shared language: flowers, flowers.jpg
 - [[knowledge/wiki/images/Illustration Glowing Blue Stylized Plant With Two Yellow Flowers 0ad35ba2|Illustration Glowing Blue Stylized Plant With Two Yellow Flowers]] — shared language: flowers, yellow, flowers.jpg
-- [[knowledge/wiki/images/Illustration Oil Painting of a Garden with Pink and Yellow Flowers 76022de2|Illustration Oil Painting of a Garden with Pink and Yellow Flowers]] — shared language: flowers, yellow
+- [[knowledge/wiki/images/Men Jumping Into A Rocky River bdc61fff|Men Jumping Into A Rocky River]] — shared language: jumping
 <!-- vault-crosslinks:end -->

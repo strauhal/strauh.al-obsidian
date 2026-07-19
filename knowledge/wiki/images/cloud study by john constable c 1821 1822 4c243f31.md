@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/cloud_study_by_j
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: study
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: study
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: study
+- [[knowledge/wiki/images/helen frankenthaler cloud study 1980 2baed95c|helen frankenthaler cloud study 1980]] — shared language: cloud, study
 <!-- vault-crosslinks:end -->

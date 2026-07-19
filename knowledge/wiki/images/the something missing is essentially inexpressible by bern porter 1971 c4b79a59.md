@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_something_mi
 - [[knowledge/wiki/images/the tennis sweater by fairfield porter 1972 108ea2de|the tennis sweater by fairfield porter 1972]] — shared language: porter
 - [[knowledge/wiki/books/mckenzie-wark-capital-is-dead-is-this-something-worse|Capital Is Dead: Is This Something Worse?]] — shared language: something
 - [[knowledge/wiki/images/something on the eight ball by stuart davis 19531954 a21888ac|something on the eight ball by stuart davis 19531954]] — shared language: something
-- [[knowledge/output/lint-report|lint-report]] — shared language: missing
+- [[knowledge/output/wiki-lint-report|wiki-lint-report]] — shared language: missing
 <!-- vault-crosslinks:end -->

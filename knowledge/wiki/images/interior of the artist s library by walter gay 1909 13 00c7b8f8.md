@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/interior_of_the_
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: walter
-- [[knowledge/wiki/artists/Artist - walter sickert|Artist - walter sickert]] — shared language: walter
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: walter
+- [[knowledge/wiki/artists/Artist - walter sickert|Artist - walter sickert]] — shared language: walter
 - [[knowledge/wiki/books/cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] — shared language: gay
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: walter
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Surreal DeepDream Image of Multi Eyed Dog Like Creatures in Space by Google DeepDream 69ecd0d8|Illustration Surreal DeepDream Image of Multi Eyed Dog Like Creatures in Space by Google DeepDream]] — same artist: google deepdream
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: deepdream, like
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: deepdream
 - [[knowledge/wiki/images/Illustration Detailed Black and White Surreal Landscape with Figures and Creatures ec50ccba|Illustration Detailed Black and White Surreal Landscape with Figures and Creatures]] — shared language: creatures, surreal
 - [[knowledge/wiki/images/Illustration Detailed Pen And Ink Drawing Of Many Grotesque, Surreal Creatures 9e0dd894|Illustration Detailed Pen And Ink Drawing Of Many Grotesque, Surreal Creatures]] — shared language: creatures, surreal
-- [[knowledge/wiki/images/auguste renoir en ete la bohemienne google art projectfxd jpg 50681e2b|auguste renoir en ete la bohemienne google art projectfxd jpg]] — shared language: google
 <!-- vault-crosslinks:end -->

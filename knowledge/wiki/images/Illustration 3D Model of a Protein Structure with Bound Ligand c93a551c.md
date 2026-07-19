@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: model, structure
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: model, structure
 - [[knowledge/wiki/images/Symmetrical Molecular Diagram of a Pink and Yellow Protein Structure 1d533be6|Symmetrical Molecular Diagram of a Pink and Yellow Protein Structure]] — shared language: protein, structure
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: model
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: model, structure
+- [[knowledge/wiki/images/Diagram Scientific Visualization of Green Ribbon Protein Structure, Magenta Center bfb9d14c|Diagram Scientific Visualization of Green Ribbon Protein Structure, Magenta Center]] — shared language: protein, structure
 <!-- vault-crosslinks:end -->

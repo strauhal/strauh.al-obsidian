@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Com
 - [[knowledge/wiki/images/Comparison Diagram of Christian Trinity and JavaScript Type Coercion 6332bf93|Comparison Diagram of Christian Trinity and JavaScript Type Coercion]] — shared language: javascript, trinity, coercion
 - [[_archive/auto-generated/images-stale/black and white diagram comparing christian trinity to javascript type coercion 9d749fa1|black and white diagram comparing christian trinity to javascript type coercion]] — shared language: javascript, trinity, coercion
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: type
 - [[_archive/auto-generated/images-stale/Diagram Comparison of Generated Images with Deconvolution Artifacts f654f9c7|Diagram Comparison of Generated Images with Deconvolution Artifacts]] — shared language: comparison, diagram
-- [[knowledge/wiki/books/christopher-simpson-science-of-coercion-communication-research-and-psychological-warfare-1945-1960|Science of Coercion Communication Research and Psychological Warfare, 1945-1960]] — shared language: coercion
 <!-- vault-crosslinks:end -->

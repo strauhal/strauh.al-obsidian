@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Modern Room With Green Carpet, Concrete Wall, White Table, Brown Chairs 224d013d|Modern Room With Green Carpet, Concrete Wall, White Table, Brown Chairs]] — shared language: carpet, chairs, concrete
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete, modern
 - [[knowledge/wiki/images/Illustration Stencil of a Brown and White Cow Grazing on a Concrete Wall 6f067f1c|Illustration Stencil of a Brown and White Cow Grazing on a Concrete Wall]] — shared language: concrete, brown, wall
 - [[_archive/auto-generated/images-stale/stencil of a brown and white cow grazing on a concrete wall 7b8c6006|stencil of a brown and white cow grazing on a concrete wall]] — shared language: concrete, brown, wall
 - [[knowledge/wiki/images/Photograph Modern Concrete Building Resembling Open Book Amidst Green Landscape da05ca20|Photograph Modern Concrete Building Resembling Open Book Amidst Green Landscape]] — shared language: concrete, modern, green
-- [[knowledge/wiki/images/Mid Century Modern Living Room with Wood Paneling and Red Carpet ffdcfe7f|Mid Century Modern Living Room with Wood Paneling and Red Carpet]] — shared language: carpet, modern, room
 <!-- vault-crosslinks:end -->

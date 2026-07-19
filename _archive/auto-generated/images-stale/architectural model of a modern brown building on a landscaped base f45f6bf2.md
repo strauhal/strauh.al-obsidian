@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Architectural Model of a Modern Brown Building on Landscaped Base 4a48a410|Photograph Architectural Model of a Modern Brown Building on Landscaped Base]] — shared language: landscaped, model, base
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, modern
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: model
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: model
 - [[Welcome|strauh.al Knowledge Base]] — shared language: base
-- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: base
 <!-- vault-crosslinks:end -->

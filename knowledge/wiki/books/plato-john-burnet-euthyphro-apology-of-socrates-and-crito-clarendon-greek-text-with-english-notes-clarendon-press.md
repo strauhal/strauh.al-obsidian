@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Plato, John Burnet (Editor) - Euthyphro, Apology of Socrates, and Crito (Clarendon Greek Text with English Notes)-Clarendon Press (1977).pdf"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Euthyphro, Apology of Socrates, and Crito (Clarendon Greek Text with English Notes)-Clarendon Press

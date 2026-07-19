@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Scanned Bl
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape
 - [[knowledge/wiki/maps/Map - Film Watchlist|Map - Film Watchlist]] — shared language: film
 - [[knowledge/wiki/images/tower a810b293|tower]] — shared language: tower, tower.jpg
 - [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: film
-- [[knowledge/wiki/images/ben hur 1960 finnish original film art 1600x jpg 36362ebe|ben hur 1960 finnish original film art 1600x jpg]] — shared language: film
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Tall, Dens
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, tall
 - [[knowledge/wiki/images/Tall Pinkish Building with Signs and Bus in Urban Setting 06413287|Tall Pinkish Building with Signs and Bus in Urban Setting]] — shared language: urban, tall, setting
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, tall
 - [[knowledge/wiki/images/Photograph Aerial View of Densely Packed Cairo Cityscape d55e687b|Photograph Aerial View of Densely Packed Cairo Cityscape]] — shared language: packed, densely
 - [[knowledge/wiki/images/Photograph Aerial View of Densely Packed Buildings in Cairo's Garbage City 36086b23|Photograph Aerial View of Densely Packed Buildings in Cairo's Garbage City]] — shared language: packed, densely
-- [[knowledge/wiki/images/Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings 6377cbc7|Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings]] — shared language: packed, densely
 <!-- vault-crosslinks:end -->

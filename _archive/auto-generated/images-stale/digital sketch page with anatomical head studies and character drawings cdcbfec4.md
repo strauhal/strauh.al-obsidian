@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Digital Sketch Page with Anatomical Head Studies and Character Drawings ea94c21d|Illustration Digital Sketch Page with Anatomical Head Studies and Character Drawings]] — shared language: anatomical, studies, character
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, head
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, head, character
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: studies, drawings
 - [[knowledge/wiki/images/Illustration Digital Sketch of Fantasy Figure with Multiple Head and Body Studies 3ccd85a5|Illustration Digital Sketch of Fantasy Figure with Multiple Head and Body Studies]] — shared language: studies, sketch, head
 - [[knowledge/wiki/images/Illustration Sketchbook Page with Multiple Character Studies and a Ram's Head a9fef596|Illustration Sketchbook Page with Multiple Character Studies and a Ram's Head]] — shared language: studies, character, page

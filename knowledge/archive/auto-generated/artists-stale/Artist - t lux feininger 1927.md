@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - lyonel feininger 1912|Artist - lyonel feininger 1912]] — shared language: feininger
 - [[knowledge/wiki/images/die u bahn by lyonel feininger 1912 9ddc3d9b|die u bahn by lyonel feininger 1912]] — shared language: feininger
 - [[knowledge/wiki/books/elkins-james-why-art-cannot-be-taught-a-handbook-for-art-students|Why art cannot be taught a handbook for art students]] — shared language: students
-- [[knowledge/wiki/images/students by ilya repin 1899 48041fd5|students by ilya repin 1899]] — shared language: students
+- [[knowledge/wiki/images/Illustration Black and White Drawing of Three Stylized Figures 79ec4642|Illustration Black and White Drawing of Three Stylized Figures]] — shared language: three
 <!-- vault-crosslinks:end -->

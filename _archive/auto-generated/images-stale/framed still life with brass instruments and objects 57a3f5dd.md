@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Monochromatic Still Life Painting of a House and Objects 81f5d538|Illustration Monochromatic Still Life Painting of a House and Objects]] — shared language: objects, still, life
 - [[knowledge/wiki/images/Photograph Photograph of a Framed Line Drawing of Still Life f8da881e|Photograph Photograph of a Framed Line Drawing of Still Life]] — shared language: still, framed, life
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: objects
 - [[_archive/auto-generated/images-stale/framed still life with mandolin hat and paper e14c4d44|framed still life with mandolin hat and paper]] — shared language: still, framed, life
 - [[_archive/auto-generated/images-stale/framed flower still life with red bouquet abe692ec|framed flower still life with red bouquet]] — shared language: still, framed, life
-- [[_archive/auto-generated/images-stale/framed still life with books papers and flowers f6c1ee8d|framed still life with books papers and flowers]] — shared language: still, framed, life
 <!-- vault-crosslinks:end -->

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Coin Locker Babies -- Ryu Murakami, Stephen Snyder (translation) -- London, 2013 -- Pushkin Press, Limited -- 9781782270348 -- 73ef61382d226196e467a9b69eb61ff8 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Coin Locker Babies

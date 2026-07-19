@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Two Blue And Yellow Jets Flying Past A Modern Skyscraper da49630e|Two Blue And Yellow Jets Flying Past A Modern Skyscraper]] — shared language: jets, skyscraper, past
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: skyscraper, modern
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: past
 - [[knowledge/wiki/images/Illustration Fantasy Rider on Flying Fish Past Waterfall Castle c0ab69b7|Illustration Fantasy Rider on Flying Fish Past Waterfall Castle]] — shared language: past, flying
 - [[knowledge/wiki/artists/Artist - Officers Past Photographers|Artist - Officers Past Photographers]] — shared language: past
-- [[_archive/auto-generated/images-stale/grainy photograph of an airplane and a smoking skyscraper d7d42d7d|grainy photograph of an airplane and a smoking skyscraper]] — shared language: skyscraper, skyscraper.jpg
 <!-- vault-crosslinks:end -->

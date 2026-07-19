@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Map_of_Northe
 - [[knowledge/wiki/anchors/nick-land|Nick Land]] — shared language: land
 - [[knowledge/wiki/images/LOSS OF LAND 991713f3|LOSS OF LAND]] — shared language: land
 - [[knowledge/wiki/books/neil-postman-amusing-ourselves-to-death-public-discourse-in-the-age-of-show-business|Amusing Ourselves to Death Public Discourse in the Age of Show Business]] — shared language: public
-- [[knowledge/wiki/images/watercolor rendering of the arcadia public library building 1997 c73d68ca|watercolor rendering of the arcadia public library building 1997]] — shared language: public
+- [[knowledge/wiki/images/3D Data Visualization Map With Density Spikes Over Landmass 8304f803|3D Data Visualization Map With Density Spikes Over Landmass]] — shared language: density
 <!-- vault-crosslinks:end -->

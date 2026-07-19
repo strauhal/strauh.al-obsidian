@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Art Galler
 - [[knowledge/wiki/artists/Artist - alex grey|Artist - alex grey]] — shared language: grey
 - [[knowledge/wiki/images/Theologue by Alex Grey (2001) 4e5a6ce8|Theologue by Alex Grey (2001)]] — shared language: grey
 - [[knowledge/wiki/images/Tyger by Alex Grey (2001) 2163b548|Tyger by Alex Grey (2001)]] — shared language: grey
-- [[knowledge/wiki/images/Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery 71ab7c81|Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery]] — shared language: multiple, gallery
+- [[knowledge/wiki/images/Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery 71ab7c81|Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery]] — shared language: gallery, multiple
 <!-- vault-crosslinks:end -->

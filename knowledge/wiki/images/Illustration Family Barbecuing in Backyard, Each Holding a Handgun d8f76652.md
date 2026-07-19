@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - F
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: family
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: handgun
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: family
 - [[knowledge/wiki/images/Illustration Woman in Sunglasses Holding Beer Bottle in Backyard by Robert Bechtle 0e2346bd|Illustration Woman in Sunglasses Holding Beer Bottle in Backyard by Robert Bechtle]] — shared language: backyard, holding
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
-- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: family
 <!-- vault-crosslinks:end -->

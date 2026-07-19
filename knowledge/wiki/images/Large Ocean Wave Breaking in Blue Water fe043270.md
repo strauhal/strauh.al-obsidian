@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Large Ocea
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: large, water
 - [[knowledge/wiki/images/the breaking wave by winslow homer circa 1895 1c3054ee|the breaking wave by winslow homer circa 1895]] — shared language: breaking, wave
 - [[knowledge/wiki/images/Illustration Impasto Painting of Ocean Wave Crashing on Rocks cdf47edb|Illustration Impasto Painting of Ocean Wave Crashing on Rocks]] — shared language: ocean, wave
 - [[knowledge/wiki/images/wave c8640d58|wave]] — shared language: wave
 - [[knowledge/wiki/images/Lighthouse Being Engulfed By A Massive Ocean Wave by Fabrice Le Borgne f7cda0d6|Lighthouse Being Engulfed By A Massive Ocean Wave by Fabrice Le Borgne]] — shared language: ocean, wave
-- [[knowledge/wiki/images/Illustration Two Large Trees on Bluff Overlooking Beach and Ocean b69430b2|Illustration Two Large Trees on Bluff Overlooking Beach and Ocean]] — shared language: ocean, large
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Woman In O
 - [[knowledge/wiki/books/aesop-aesop-s-fables-the-fox-and-the-grapes|Aesop's Fables: The Fox and the Grapes]] — shared language: fox
 - [[knowledge/wiki/images/Man Posing With Abstract Drawing At Exhibition e3ad2e14|Man Posing With Abstract Drawing At Exhibition]] — shared language: posing
 - [[knowledge/wiki/images/Empty Convention Hall with Inflatable Ball Pit 9d665b9b|Empty Convention Hall with Inflatable Ball Pit]] — shared language: inflatable
-- [[knowledge/wiki/images/The Stoned Fox by Adele Morse (2012) 8ba0c816|The Stoned Fox by Adele Morse (2012)]] — shared language: fox
 - [[knowledge/wiki/images/Illustration Vintage Poster Woman In White Costume With Musical Entertainers 50e61984|Illustration Vintage Poster Woman In White Costume With Musical Entertainers]] — shared language: costume
+- [[knowledge/wiki/images/The Stoned Fox by Adele Morse (2012) 8ba0c816|The Stoned Fox by Adele Morse (2012)]] — shared language: fox
 <!-- vault-crosslinks:end -->

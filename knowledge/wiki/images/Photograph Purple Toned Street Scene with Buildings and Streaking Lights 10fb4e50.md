@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Pur
 - [[knowledge/wiki/images/Dark Landscape with Trees, Chair, and Streaking Lights 640adbef|Dark Landscape with Trees, Chair, and Streaking Lights]] — shared language: streaking, lights, lights.jpg
 - [[knowledge/wiki/images/Photograph Blurry Night Photograph of Buildings with Red and Blue Lights 4dc72be0|Photograph Blurry Night Photograph of Buildings with Red and Blue Lights]] — shared language: lights, buildings
 - [[knowledge/wiki/images/Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings 6377cbc7|Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings]] — shared language: buildings, scene, street
-- [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street
+- [[knowledge/wiki/images/Illustration Busy City Street at Night with Arch and Many Lights 4c0e108b|Illustration Busy City Street at Night with Arch and Many Lights]] — shared language: lights, street, lights.jpg
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Repetitive
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, facade
+- [[knowledge/wiki/concepts/Controlled Surrender|Controlled Surrender]] — shared language: repetitive
 - [[knowledge/wiki/images/Photograph Grainy Black And White Building Facade With Geometric Distortion ee184a3d|Photograph Grainy Black And White Building Facade With Geometric Distortion]] — shared language: facade, building
-- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: pattern
 - [[knowledge/wiki/images/Modern Grey Building with External Staircases and Balconies d8d8e92d|Modern Grey Building with External Staircases and Balconies]] — shared language: balconies, building
 - [[knowledge/wiki/images/Photograph Vintage Photograph of Classical Sculpture on Building Facade with Seated Group dceb46f1|Photograph Vintage Photograph of Classical Sculpture on Building Facade with Seated Group]] — shared language: facade, building
-- [[knowledge/wiki/images/Peach Art Deco Building with Rounded Balconies in Miami 75dfff1b|Peach Art Deco Building with Rounded Balconies in Miami]] — shared language: balconies, building
 <!-- vault-crosslinks:end -->

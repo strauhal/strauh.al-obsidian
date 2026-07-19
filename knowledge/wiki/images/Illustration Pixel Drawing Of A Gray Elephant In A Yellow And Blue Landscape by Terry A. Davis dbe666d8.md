@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — named in this note
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: davis
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: davis, terry
 - [[knowledge/wiki/artists/Artist - stuart davis 19531954|Artist - stuart davis 19531954]] — shared language: davis
 - [[knowledge/wiki/artists/Artist - stuart davis|Artist - stuart davis]] — shared language: davis
-- [[knowledge/wiki/images/Illustration Stylized Blue Elephant Figures and Broken Pieces on Yellow Green Background a2a89723|Illustration Stylized Blue Elephant Figures and Broken Pieces on Yellow Green Background]] — shared language: elephant, yellow
 <!-- vault-crosslinks:end -->

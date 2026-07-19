@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Person Next To Car With Manhattan Bridge In Background 5254d0a8|Person Next To Car With Manhattan Bridge In Background]] — named in this note
 - [[knowledge/wiki/images/manhattan 084f63e4|manhattan]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge
 - [[knowledge/wiki/images/manhattan bridge construction d 194 by irving underhill 1909 28d82fbb|manhattan bridge construction d 194 by irving underhill 1909]] — shared language: manhattan, bridge
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: bridge
-- [[knowledge/wiki/images/Map of Manhattan Neighborhoods with Labeled Points of Interest a72c9b2d|Map of Manhattan Neighborhoods with Labeled Points of Interest]] — shared language: manhattan
 <!-- vault-crosslinks:end -->

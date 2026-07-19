@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Tex
 - [[knowledge/wiki/images/Photograph Two Framed Hand Colored Woodcuts on a Textured Wall e6a3ed38|Photograph Two Framed Hand Colored Woodcuts on a Textured Wall]] — shared language: textured, wall, wall.jpeg
 - [[knowledge/wiki/images/Illustration Textured sculpture of a person in a black hooded jacket 6f2adb20|Illustration Textured sculpture of a person in a black hooded jacket]] — shared language: textured, sculpture
 - [[knowledge/wiki/images/Illustration Textured Sculpture Of A Hooded Figure Holding A Red Object cb1c2c8f|Illustration Textured Sculpture Of A Hooded Figure Holding A Red Object]] — shared language: textured, sculpture
-- [[knowledge/wiki/images/Monumental Stone Sculpture Gateway with City Skyline in Background 7fdd7b2a|Monumental Stone Sculpture Gateway with City Skyline in Background]] — shared language: stone, sculpture
+- [[knowledge/wiki/images/Photograph Two Framed Oil Paintings Hanging on a Textured Wall c46f3c7d|Photograph Two Framed Oil Paintings Hanging on a Textured Wall]] — shared language: textured, wall, wall.jpeg
 <!-- vault-crosslinks:end -->

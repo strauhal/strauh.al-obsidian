@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Document - Text 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Text Describing Artworks by Michael James Roberts d3b31c16|Screenshot Text Describing Artworks by Michael James Roberts]] — same artist: michael james roberts
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: describing
 - [[knowledge/wiki/images/Screenshot Screenshot of Text Describing Euthanasia Coaster with Diagram e02b6883|Screenshot Screenshot of Text Describing Euthanasia Coaster with Diagram]] — shared language: describing, text
 - [[knowledge/wiki/images/Document Profile Drawing with Text Describing Patient's Artistic Process 9287383b|Document Profile Drawing with Text Describing Patient's Artistic Process]] — shared language: describing, document, text
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
+- [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
 <!-- vault-crosslinks:end -->

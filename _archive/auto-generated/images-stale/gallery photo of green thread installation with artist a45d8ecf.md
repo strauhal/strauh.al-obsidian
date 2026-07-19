@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
 - [[_archive/auto-generated/images-stale/gallery photo of a reclining stone sculpture 94a15857|gallery photo of a reclining stone sculpture]] — shared language: gallery, photo
 - [[_archive/auto-generated/images-stale/photo of donald trump with a man in a gallery 2a0d7b4c|photo of donald trump with a man in a gallery]] — shared language: gallery, photo
-- [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 2 7e276340|PHOTO 2024 03 02 20 46 54 2]] — shared language: photo
+- [[_archive/auto-generated/images-stale/gallery photo of wall label for artwork 1a2386ce|gallery photo of wall label for artwork]] — shared language: gallery, photo
 <!-- vault-crosslinks:end -->

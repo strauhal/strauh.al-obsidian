@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Black and 
 - [[knowledge/wiki/images/Illustration Painting of a Person with Long Hair at a Table 2b334d18|Illustration Painting of a Person with Long Hair at a Table]] — shared language: hair, person
 - [[knowledge/wiki/images/Black And White Photograph Of Person Submerged In Water f59fbb2a|Black And White Photograph Of Person Submerged In Water]] — shared language: water, person
 - [[knowledge/wiki/artists/Artist - Water|Artist - Water]] — shared language: water, person
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: water
 - [[knowledge/wiki/images/Illustration Stylized Profile of a Person with Swirling Hair and Water by Ruth Robbins 12fe5e3b|Illustration Stylized Profile of a Person with Swirling Hair and Water by Ruth Robbins]] — shared language: water, hair, person
-- [[knowledge/wiki/images/Illustration Profile Of A Person With Flowing Hair And Dark Headpiece c4a1acd3|Illustration Profile Of A Person With Flowing Hair And Dark Headpiece]] — shared language: hair, person
 <!-- vault-crosslinks:end -->

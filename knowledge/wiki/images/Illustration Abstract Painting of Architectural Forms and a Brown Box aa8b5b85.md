@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Abstract Geometric Forms in Red and Brown Hues 6ac1d4ff|Illustration Abstract Geometric Forms in Red and Brown Hues]] — shared language: forms, brown
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: forms
 - [[knowledge/wiki/artists/Artist - joan brown|Artist - joan brown]] — shared language: brown
-- [[knowledge/wiki/images/Illustration Abstract Painting with Black Calligraphic Shapes and Colorful Forms 994a4a17|Illustration Abstract Painting with Black Calligraphic Shapes and Colorful Forms]] — shared language: forms
 - [[knowledge/wiki/artists/Artist - Cecily Brown|Artist - Cecily Brown]] — shared language: brown
+- [[knowledge/wiki/images/Illustration Abstract Painting with Black Calligraphic Shapes and Colorful Forms 994a4a17|Illustration Abstract Painting with Black Calligraphic Shapes and Colorful Forms]] — shared language: forms
 <!-- vault-crosslinks:end -->

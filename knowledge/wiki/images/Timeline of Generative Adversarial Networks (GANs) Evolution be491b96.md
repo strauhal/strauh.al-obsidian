@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Timeline_of_G
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — named in this note
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: generative
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: generative
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: generative
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: adversarial
-- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: timeline
 <!-- vault-crosslinks:end -->

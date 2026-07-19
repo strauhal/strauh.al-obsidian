@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Pla
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — named in this note
-- [[knowledge/wiki/images/playboi carti 67497c45|playboi carti]] — shared language: playboi, carti
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: carti, playboi
+- [[knowledge/wiki/images/playboi carti 67497c45|playboi carti]] — shared language: playboi, carti
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: carti, playboi
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: recording
 <!-- vault-crosslinks:end -->

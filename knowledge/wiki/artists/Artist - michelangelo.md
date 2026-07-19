@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/Illustration Nude Reclining Figure on Draped Bed, Black and White Drawing 0ce4c58d|Illustration Nude Reclining Figure on Draped Bed, Black and White Drawing]] — shared language: draped, nude
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: study
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: study
+- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: study
 - [[knowledge/wiki/images/Illustration Brown Ink and Wash Study of Draped Figures and Architecture a2cd485f|Illustration Brown Ink and Wash Study of Draped Figures and Architecture]] — shared language: draped, study
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Aerial View of Concentrated Solar Power Plant in Desert e803f820|Aerial View of Concentrated Solar Power Plant in Desert]] — named in this note
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: power
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: power
-- [[knowledge/wiki/books/power-of-full-engagement|power of full engagement]] — shared language: power
 <!-- vault-crosslinks:end -->

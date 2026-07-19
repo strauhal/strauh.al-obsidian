@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Lawson Con
 - [[knowledge/wiki/artists/Artist - william sidney mount|Artist - william sidney mount]] — shared language: mount
 - [[knowledge/wiki/images/fuji from the sea kaijo no fuji by utagawa hiroshige c 18301844 51ecf79b|fuji from the sea kaijo no fuji by utagawa hiroshige c 18301844]] — shared language: fuji
 - [[knowledge/wiki/images/mt fuji from gotemba by toshi yoshida 1987 5828aa99|mt fuji from gotemba by toshi yoshida 1987]] — shared language: fuji
-- [[knowledge/wiki/images/The Sermon on the Mount by Eug ne Burnand (1911) 9decf8ec|The Sermon on the Mount by Eug ne Burnand (1911)]] — shared language: mount
+- [[knowledge/wiki/images/the banjo player by william sidney mount 1856 9a9965f9|the banjo player by william sidney mount 1856]] — shared language: mount
 <!-- vault-crosslinks:end -->

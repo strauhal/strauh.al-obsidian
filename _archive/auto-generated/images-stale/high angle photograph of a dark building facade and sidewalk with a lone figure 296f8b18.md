@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/High Angle View of Building Facade, Sidewalk, and Lone Figure 2c5bcc37|High Angle View of Building Facade, Sidewalk, and Lone Figure]] — shared language: lone, sidewalk, angle
 - [[_archive/auto-generated/images-stale/Photograph High Angle View of Building Facade, Sidewalk, and Lone Figure 70078dbe|Photograph High Angle View of Building Facade, Sidewalk, and Lone Figure]] — shared language: lone, sidewalk, angle
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, facade
 - [[knowledge/wiki/images/Photograph High Angle Black and White Photograph of a Grand Exposition Complex 17afa330|Photograph High Angle Black and White Photograph of a Grand Exposition Complex]] — shared language: angle, high
-- [[knowledge/wiki/images/Repetitive Pattern of Balconies on a Building Facade 03182353|Repetitive Pattern of Balconies on a Building Facade]] — shared language: facade, building
-- [[knowledge/wiki/images/Photograph High Angle View of Tanks and Troops in Tiananmen Square c0d0a91c|Photograph High Angle View of Tanks and Troops in Tiananmen Square]] — shared language: angle, high
+- [[knowledge/wiki/images/Photograph Grainy Black And White Building Facade With Geometric Distortion ee184a3d|Photograph Grainy Black And White Building Facade With Geometric Distortion]] — shared language: facade, building
 <!-- vault-crosslinks:end -->

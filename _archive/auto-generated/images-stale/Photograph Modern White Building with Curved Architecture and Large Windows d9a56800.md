@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Modern White Building with Curved Architecture and Large Windows 90e19def|Modern White Building with Curved Architecture and Large Windows]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, modern, curved
 - [[knowledge/wiki/images/Document Modern Interior with Balcony and Large Windows in a Publication 868feb05|Document Modern Interior with Balcony and Large Windows in a Publication]] — shared language: windows, modern, large
 - [[knowledge/wiki/images/Interior of a Modern Industrial Loft Apartment with Large Windows 018c2df1|Interior of a Modern Industrial Loft Apartment with Large Windows]] — shared language: windows, modern, large
 - [[_archive/auto-generated/images-stale/Photograph Interior of a Modern Industrial Loft Apartment with Large Windows 7f27f0c8|Photograph Interior of a Modern Industrial Loft Apartment with Large Windows]] — shared language: windows, modern, large
-- [[_archive/auto-generated/images-stale/Img26 (Windows 7) 255d58cc|Img26 (Windows 7)]] — shared language: windows
 <!-- vault-crosslinks:end -->

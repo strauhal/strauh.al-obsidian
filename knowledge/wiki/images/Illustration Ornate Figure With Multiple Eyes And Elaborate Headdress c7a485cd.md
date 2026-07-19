@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Black and White Portrait of a Young Woman in Elaborate Headdress cf32474c|Black and White Portrait of a Young Woman in Elaborate Headdress]] — shared language: headdress, elaborate, headdress.jpg
 - [[knowledge/wiki/images/Illustration Mural of a Woman with Elaborate Headdress and Flowers a014e2e4|Illustration Mural of a Woman with Elaborate Headdress and Flowers]] — shared language: headdress, elaborate
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ornate
 - [[knowledge/wiki/images/Illustration Colorful Expressionist Portrait of Figure in White Headdress 1595ba03|Illustration Colorful Expressionist Portrait of Figure in White Headdress]] — shared language: headdress
 - [[knowledge/wiki/images/Illustration Abstract Painting With Multiple Eyes And Swirling Patterns 704a3f86|Illustration Abstract Painting With Multiple Eyes And Swirling Patterns]] — shared language: eyes, multiple
-- [[knowledge/wiki/images/Illustration Multiple Pencil Studies of Human Eyes ffab2218|Illustration Multiple Pencil Studies of Human Eyes]] — shared language: multiple, eyes
 <!-- vault-crosslinks:end -->

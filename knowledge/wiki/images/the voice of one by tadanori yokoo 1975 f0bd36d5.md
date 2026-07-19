@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_voice_of_one
 - [[knowledge/wiki/images/the flower hana by tadanori yokoo 1966 5f00d0c1|the flower hana by tadanori yokoo 1966]] — same artist: tadanori yokoo
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: voice, one
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: voice
-- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: voice
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: voice
 <!-- vault-crosslinks:end -->

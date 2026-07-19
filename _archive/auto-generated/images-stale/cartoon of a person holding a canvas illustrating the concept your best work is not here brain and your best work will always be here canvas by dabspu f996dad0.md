@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/artists/Artist - Dabspunk|Artist - Dabspunk]] — named in this note
 - [[knowledge/wiki/images/Illustration Cartoon of Person Holding Canvas, Brain and Canvas Labeled by Dabspunk 31d1a017|Illustration Cartoon of Person Holding Canvas, Brain and Canvas Labeled by Dabspunk]] — same artist: dabspunk
 - [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: concept
-- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: canvas
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: work, person
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: work
 <!-- vault-crosslinks:end -->

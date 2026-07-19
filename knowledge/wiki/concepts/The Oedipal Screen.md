@@ -45,18 +45,6 @@ oedipal power. like riding a missile through cyberspace."
 **Books (3).** [[richard-szeliski-computer-vision-algorithms-and-applications|Computer Vision: Algorithms and Applications]] · [[michael-heim-the-metaphysics-of-virtual-reality-oxford-university-press-usa|The Metaphysics of Virtual Reality-Oxford University Press, USA]] · [[michael-green-zen-and-the-art-of-the-macintosh|Zen and the Art of the Macintosh]]
 
 <!-- archive-links:end -->
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
-- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
-- [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/pages/2026 updates|2026 updates]] — named in this note
-- [[knowledge/wiki/images/amazing 9104b34b|amazing]] — named in this note
-<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -115,3 +103,16 @@ oedipal power. like riding a missile through cyberspace."
 
 *…and 7 more on [[knowledge base quotes]].*
 <!-- quotes:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
+- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
+- [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/pages/2026 updates|2026 updates]] — named in this note
+- [[knowledge/wiki/images/amazing 9104b34b|amazing]] — named in this note
+<!-- vault-crosslinks:end -->

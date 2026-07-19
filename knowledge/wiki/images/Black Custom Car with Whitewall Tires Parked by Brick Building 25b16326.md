@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Black Cust
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/images/Three Custom Built Extra Long Limousines Parked on Asphalt 16c07dcc|Three Custom Built Extra Long Limousines Parked on Asphalt]] — shared language: parked, custom
 - [[knowledge/wiki/images/Illustration Stylized Figures in Front of a Brick Wall 5dbf6ea5|Illustration Stylized Figures in Front of a Brick Wall]] — shared language: brick
 - [[knowledge/wiki/images/Illustration Stylized Artwork People, Dog, Snow Outside Brick Building 7069372e|Illustration Stylized Artwork People, Dog, Snow Outside Brick Building]] — shared language: brick, building, building.jpeg
 - [[knowledge/wiki/images/Photograph White Brick Building Exterior With Metal Pipes And Windows 230eb388|Photograph White Brick Building Exterior With Metal Pipes And Windows]] — shared language: brick, building
-- [[knowledge/wiki/images/Photograph Man Painting Wavy Lines On Brick Wall With Roller 3985a611|Photograph Man Painting Wavy Lines On Brick Wall With Roller]] — shared language: brick
 <!-- vault-crosslinks:end -->

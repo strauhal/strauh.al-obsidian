@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Amazi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna a587d824|Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna]] — same artist: john romita scott hanna
+- [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1984 and 1987|Artist - john m kohlenberger 1984 and 1987]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1986|Artist - john m kohlenberger 1986]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/images/amazing 9104b34b|amazing]] — named in this note
-- [[knowledge/output/wiki-lint-report|wiki-lint-report]] — shared language: amazing, romita, vol
-- [[knowledge/wiki/artists/Artist - Hanna K|Artist - Hanna K]] — shared language: hanna
-- [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: vol
 <!-- vault-crosslinks:end -->

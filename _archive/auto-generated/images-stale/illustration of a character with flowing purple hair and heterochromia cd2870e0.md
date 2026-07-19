@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Two Minimalist Figures With Long Flowing Hair 9265bb8c|Illustration Two Minimalist Figures With Long Flowing Hair]] — shared language: flowing, hair
 - [[knowledge/wiki/images/Illustration Abstract Flowing Shapes With Purple Glow On Black Background fd11cdff|Illustration Abstract Flowing Shapes With Purple Glow On Black Background]] — shared language: flowing, purple
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Sleeping Figure with Flowing Hair 77b1aabd|Illustration Pencil Sketch of Sleeping Figure with Flowing Hair]] — shared language: flowing, hair
-- [[knowledge/wiki/images/Illustration Stylized Female Figure with Flowing Hair and Colorful Stars efee9465|Illustration Stylized Female Figure with Flowing Hair and Colorful Stars]] — shared language: flowing, hair
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: character
 <!-- vault-crosslinks:end -->

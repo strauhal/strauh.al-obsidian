@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/The Ruins 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: ruins
+- [[knowledge/wiki/concepts/Interest-Dependent Persistence|Interest-Dependent Persistence]] — shared language: remains
 - [[knowledge/wiki/images/Transparent Sign Showing Reconstructed Tower Over Ruins 4d0e4100|Transparent Sign Showing Reconstructed Tower Over Ruins]] — shared language: ruins, showing
 - [[knowledge/wiki/images/Comic Three Figures In Ruins Under Dark Sky 80e5d8e8|Comic Three Figures In Ruins Under Dark Sky]] — shared language: ruins
 - [[knowledge/wiki/images/Illustration Two Pink and White Skeletal Towers on Red Background with Flames db8dfe48|Illustration Two Pink and White Skeletal Towers on Red Background with Flames]] — shared language: skeletal
-- [[knowledge/wiki/images/the crystal palace by moebius 1977 22cf026a|the crystal palace by moebius 1977]] — shared language: palace
 <!-- vault-crosslinks:end -->

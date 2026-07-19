@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bal
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: reusable
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: reusable
 - [[knowledge/wiki/images/Photograph Crumpled Metallic Balenciaga Drawstring Bag with Silver Chain 0302a99a|Photograph Crumpled Metallic Balenciaga Drawstring Bag with Silver Chain]] — shared language: balenciaga, bag
 - [[knowledge/wiki/images/Photograph Dark Metallic Crinkled Balenciaga Drawstring Bag With Chain Strap c25ee986|Photograph Dark Metallic Crinkled Balenciaga Drawstring Bag With Chain Strap]] — shared language: balenciaga, bag
 - [[knowledge/wiki/images/Black Cat With Glowing Eyes, Spilled Green Material, Plastic Bag 4fdbed48|Black Cat With Glowing Eyes, Spilled Green Material, Plastic Bag]] — shared language: bag, green
-- [[knowledge/wiki/images/Shopping Carts by Ben Shahn (1957) 414ee588|Shopping Carts by Ben Shahn (1957)]] — shared language: shopping
 <!-- vault-crosslinks:end -->

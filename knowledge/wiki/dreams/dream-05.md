@@ -8,8 +8,8 @@ temporal_context: after marriage and before an ayahuasca ceremony
 motifs: ["old community", "grief", "teaching", "lateness", "food", "pursuit"]
 tags: [dream, journal, threshold]
 sources: ["[[recent-dreams-before-ayahuasca]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Dream 5 - The Zen Friend and the Windshield Wipers
@@ -44,12 +44,12 @@ No fixed interpretation has been assigned. Add remembered details, waking associ
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: record, attention, economy
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: teaching, memory
+- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: record, economy, attention
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: dreams, elegance, spontaneity
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: teaching, memory, elegance
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: teaching, dreams, moves
 - [[knowledge/wiki/collections/Collection - dreams|Collection - dreams]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00001 0401c221|dream 00001]] — shared language: dream, dreams
-- [[knowledge/wiki/images/dream 00002 0db5cf73|dream 00002]] — shared language: dream, dreams
 <!-- vault-crosslinks:end -->

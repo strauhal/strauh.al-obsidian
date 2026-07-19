@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tall
 - [[knowledge/wiki/images/Illustration Birch Trees and Tall Grass in a Forest Landscape 96c8c178|Illustration Birch Trees and Tall Grass in a Forest Landscape]] — shared language: grass, tall
 - [[knowledge/wiki/images/Illustration Stylized Landscape with Deer, Tall Grass, Trees, and Red Sun 3cdaff40|Illustration Stylized Landscape with Deer, Tall Grass, Trees, and Red Sun]] — shared language: grass, tall
 - [[knowledge/wiki/images/Person in Cowboy Hat Lying in Dry Grass 794759cb|Person in Cowboy Hat Lying in Dry Grass]] — shared language: grass, hat
 - [[knowledge/wiki/images/Illustration Japanese Man in Traditional Attire Playing Flute in Tall Grass 9ec3b211|Illustration Japanese Man in Traditional Attire Playing Flute in Tall Grass]] — shared language: grass, tall
-- [[knowledge/wiki/images/Fluffy Orange Cat Wearing Wizard Hat And Holding Staff 616ecd4e|Fluffy Orange Cat Wearing Wizard Hat And Holding Staff]] — shared language: staff, hat
 <!-- vault-crosslinks:end -->

@@ -3,8 +3,8 @@ title: strauh.al Knowledge Base
 type: map
 aliases: [Atlas, strauh.al Atlas, home]
 tags: [map, home, strauhal, atlas]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # strauh.al — an atlas, not a feed
@@ -12,7 +12,7 @@ updated: 2026-07-18
 A knowledge system built the opposite way from the old web. Instead of a flat pile
 of pages linking to index pages, this is a **layered atlas**: a spine of *ideas* at
 the center, and everything else — people, works, reading, images — arranged as what
-*feeds* those ideas. From here, any of ~10266 notes is three hops away.
+*feeds* those ideas. From here, any of ~10268 notes is three hops away.
 
 ## ① The spine — start here
 
@@ -53,12 +53,11 @@ grouped into four themes. This is the front door; read the vault *through* the i
 
 ## Current counts
 
-people 22 · concepts 28 · works 11 · books 416 · culture 120 · dreams 7 · images 8407 · pages 81 · collections 95
+people 22 · concepts 34 · works 11 · books 416 · culture 120 · dreams 7 · images 8409 · pages 80 · collections 95
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
 - [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: ideas, works, knowledge
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: atlas, graph, built
@@ -66,4 +65,5 @@ people 22 · concepts 28 · works 11 · books 416 · culture 120 · dreams 7 · 
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: latent, space
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: latent, influences, space
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: latent, influences, space
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: ideas, influences, culture
 <!-- vault-crosslinks:end -->

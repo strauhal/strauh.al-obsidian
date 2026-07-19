@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[_archive/auto-generated/images-stale/Photograph Two Statues On Building Roof Amidst Power Lines 827d8296|Photograph Two Statues On Building Roof Amidst Power Lines]] — shared language: roof, building
 - [[knowledge/wiki/images/Two Statues On Building Roof Amidst Power Lines 8380a322|Two Statues On Building Roof Amidst Power Lines]] — shared language: roof, building
 - [[_archive/auto-generated/images-stale/administration building d797c4c3|administration building]] — shared language: building
 - [[knowledge/wiki/images/People Pushing a Piano Off a Building Roof by Charles Brooks 4fcfa163|People Pushing a Piano Off a Building Roof by Charles Brooks]] — shared language: roof, building
-- [[knowledge/wiki/images/administration building and statue of columbus world s columbian exposition chicago 1893 54c727e5|administration building and statue of columbus world s columbian exposition chicago 1893]] — shared language: statue, building
 <!-- vault-crosslinks:end -->

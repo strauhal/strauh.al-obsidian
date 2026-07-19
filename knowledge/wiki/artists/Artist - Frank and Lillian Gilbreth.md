@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/Chronocyclegraph of a Solderer by Frank and Lillian Gilbreth (1914) 86013d09|Chronocyclegraph of a Solderer by Frank and Lillian Gilbreth (1914)]] — shared language: lillian, gilbreth, frank
 - [[knowledge/wiki/artists/Artist - Frank Gilbreth|Artist - Frank Gilbreth]] — shared language: gilbreth, frank
 - [[knowledge/wiki/images/Chronocyclegraph of a Person's Movement by Frank Gilbreth bf1a37f8|Chronocyclegraph of a Person's Movement by Frank Gilbreth]] — shared language: gilbreth, frank
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: motion, study
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study, human
 - [[knowledge/wiki/artists/Artist - lillian schwartz|Artist - lillian schwartz]] — shared language: lillian
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: frank
 <!-- vault-crosslinks:end -->

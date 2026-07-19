@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Digital Illustration of a Face Overlaid with Urban Structures and Highway 6662e996|Illustration Digital Illustration of a Face Overlaid with Urban Structures and Highway]] — shared language: structures, overlaid, highway
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[knowledge/wiki/images/Image Abstract Digital Image with Wavy Textures, Overlaid Text, and Crying Face 7cba1cc4|Image Abstract Digital Image with Wavy Textures, Overlaid Text, and Crying Face]] — shared language: overlaid, face, digital
 - [[_archive/auto-generated/images-stale/oil painting of a man s portrait overlaid with geometric digital patterns 6270d681|oil painting of a man s portrait overlaid with geometric digital patterns]] — shared language: overlaid, digital
-- [[_archive/auto-generated/images-stale/abstract digital image with wavy textures overlaid text and stylized crying face a23c7e41|abstract digital image with wavy textures overlaid text and stylized crying face]] — shared language: overlaid, face, digital
 <!-- vault-crosslinks:end -->

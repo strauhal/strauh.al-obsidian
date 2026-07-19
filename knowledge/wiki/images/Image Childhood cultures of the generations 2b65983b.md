@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Childhoo
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/the voyage of life childhood by thomas cole 1842 07aec253|the voyage of life childhood by thomas cole 1842]] — shared language: childhood
 - [[knowledge/wiki/books/jonathan-haidt-the-anxious-generation-how-the-great-rewiring-of-childhood-is-causing-an-epidemic-of-mental-illness-penguin-publishing-group|The Anxious Generation How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness-Penguin Publishing Group]] — shared language: childhood
+- [[knowledge/wiki/images/the voyage of life childhood by thomas cole 1842 07aec253|the voyage of life childhood by thomas cole 1842]] — shared language: childhood
 - [[knowledge/wiki/dreams/dream-03|Dream 3 - The Broken strauh.al Award Demo]] — shared language: childhood
 - [[knowledge/wiki/artists/Artist - thomas cole|Artist - thomas cole]] — shared language: childhood
 - [[knowledge/raw/recent-dreams-before-ayahuasca|Recent Dreams Before Ayahuasca]] — shared language: childhood

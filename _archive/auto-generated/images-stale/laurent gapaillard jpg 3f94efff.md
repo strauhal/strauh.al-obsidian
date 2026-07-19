@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Intricate Ornate Fantasy Architecture Drawing in Grayscale by Laurent Gapaillard 9accda7c|Illustration Intricate Ornate Fantasy Architecture Drawing in Grayscale by Laurent Gapaillard]] — shared language: gapaillard, laurent
 - [[knowledge/wiki/images/Illustration Intricate Pencil Drawing of a Floating Fantasy City by Laurent Gapaillard 29cd68eb|Illustration Intricate Pencil Drawing of a Floating Fantasy City by Laurent Gapaillard]] — shared language: gapaillard, laurent
 - [[knowledge/wiki/images/Illustration Detailed Ornate Fantastical Baroque Architecture Drawing by Laurent Gapaillard 42cc2cb0|Illustration Detailed Ornate Fantastical Baroque Architecture Drawing by Laurent Gapaillard]] — shared language: gapaillard, laurent
-- [[_archive/auto-generated/images-stale/Photograph Yves Saint Laurent at Christian Dior's Funeral ad4ae1c9|Photograph Yves Saint Laurent at Christian Dior's Funeral]] — shared language: laurent
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: gapaillard, laurent
 <!-- vault-crosslinks:end -->

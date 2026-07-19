@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Digital Screenshot of Computer Interface with Parisian Landmarks and Maps 49212ddf|Screenshot Digital Screenshot of Computer Interface with Parisian Landmarks and Maps]] — shared language: parisian, maps, interface
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: maps, interface, digital
 - [[knowledge/wiki/images/Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face dd219d5a|Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face]] — shared language: interface, screenshot, digital
-- [[knowledge/wiki/images/Illustration Fragmented Digital Figure Over Computer Code and Interface Elements f338a651|Illustration Fragmented Digital Figure Over Computer Code and Interface Elements]] — shared language: interface, computer, digital
 <!-- vault-crosslinks:end -->

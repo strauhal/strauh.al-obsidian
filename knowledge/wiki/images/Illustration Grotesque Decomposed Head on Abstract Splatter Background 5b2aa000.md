@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - G
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: grotesque
 - [[knowledge/wiki/images/Illustration Vibrant Abstract Digital Art with Colorful Splatter Effect 31920f85|Illustration Vibrant Abstract Digital Art with Colorful Splatter Effect]] — shared language: splatter
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of RPG Character and Grotesque Head 5f784133|Illustration Black and White Ink Drawing of RPG Character and Grotesque Head]] — shared language: grotesque, head
-- [[knowledge/wiki/images/Illustration Stylized Glitchy Head on Blue Background 7dd543cb|Illustration Stylized Glitchy Head on Blue Background]] — shared language: head, background, background.jpg
 - [[knowledge/wiki/images/a grotesque head and a profile of a youth by leonardo da vinci c 1490 55b192ec|a grotesque head and a profile of a youth by leonardo da vinci c 1490]] — shared language: grotesque, head
+- [[knowledge/wiki/images/grotesque head and profile of a youth by leonardo da vinci c 1490 36ea063a|grotesque head and profile of a youth by leonardo da vinci c 1490]] — shared language: grotesque, head
 <!-- vault-crosslinks:end -->

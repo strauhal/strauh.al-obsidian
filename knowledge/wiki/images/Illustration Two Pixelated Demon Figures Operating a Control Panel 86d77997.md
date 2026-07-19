@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: control
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: control
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panel
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: control
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: control
-- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: control
 <!-- vault-crosslinks:end -->

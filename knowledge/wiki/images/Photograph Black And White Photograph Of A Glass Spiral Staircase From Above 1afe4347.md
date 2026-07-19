@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Modern Glass and Steel Spiral Staircase with Blurred Figure e0feefc0|Photograph Modern Glass and Steel Spiral Staircase with Blurred Figure]] — shared language: spiral, staircase, glass
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: staircase
 - [[knowledge/wiki/images/Illustration Overhead View Of A Spiral Staircase With Patterned Floor 51d715ee|Illustration Overhead View Of A Spiral Staircase With Patterned Floor]] — shared language: spiral, staircase
 - [[knowledge/wiki/images/Modern Kitchen And Spiral Staircase In Open Plan Interior f090fe5d|Modern Kitchen And Spiral Staircase In Open Plan Interior]] — shared language: spiral, staircase
 - [[knowledge/wiki/images/Modern White Curvilinear Building with Balcony and Spiral Staircase 817c8aeb|Modern White Curvilinear Building with Balcony and Spiral Staircase]] — shared language: spiral, staircase
-- [[knowledge/wiki/images/Motorcyclist Doing Wheelie with Fibonacci Spiral Overlay 7ac313f1|Motorcyclist Doing Wheelie with Fibonacci Spiral Overlay]] — shared language: spiral
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Screenshot of Wikipedia Page Featuring 'This Man' Drawing 0d973c9d|Screenshot Screenshot of Wikipedia Page Featuring 'This Man' Drawing]] — shared language: wikipedia, screenshot, page
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: war
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: page
 - [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: death, world
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: war
+- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: death
 <!-- vault-crosslinks:end -->

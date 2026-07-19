@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Venn_Diagrams
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: god
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: god
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: god
+- [[knowledge/wiki/images/god ec3a662d|god]] — shared language: god
 <!-- vault-crosslinks:end -->

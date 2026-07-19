@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Chris Cutrone - The Death of the Millennial Left_ Interventions 2006-2022-Sublation Press (2023).epub"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # The Death of the Millennial Left Interventions 2006-2022-Sublation Press

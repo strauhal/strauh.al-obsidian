@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Interior o
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, angular
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
 - [[knowledge/wiki/images/Modern Concrete Building With Angular Design 6ff6e4a2|Modern Concrete Building With Angular Design]] — shared language: angular, building
-- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: color
 <!-- vault-crosslinks:end -->

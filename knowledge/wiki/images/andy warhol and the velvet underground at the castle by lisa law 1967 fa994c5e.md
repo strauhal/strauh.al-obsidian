@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/andy_warhol_and_
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: law
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: warhol
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: law
-- [[knowledge/wiki/images/Self Portrait by Andy Warhol (1964) 99ff1a2b|Self Portrait by Andy Warhol (1964)]] — shared language: warhol, andy
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: law
 <!-- vault-crosslinks:end -->

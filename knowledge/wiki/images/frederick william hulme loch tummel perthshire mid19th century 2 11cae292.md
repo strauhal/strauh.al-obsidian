@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/frederick_willia
 - [[knowledge/wiki/artists/Artist - frederick william macmonnies|Artist - frederick william macmonnies]] — shared language: frederick, william
 - [[knowledge/wiki/artists/Artist - frederick hollyer|Artist - frederick hollyer]] — shared language: frederick, william
 - [[knowledge/wiki/artists/Artist - frederick booth|Artist - frederick booth]] — shared language: frederick
-- [[knowledge/wiki/images/albert zimmermann italian coastal landscape with figures and villas mid19th century 19060b79|albert zimmermann italian coastal landscape with figures and villas mid19th century]] — shared language: mid19th, century
+- [[knowledge/wiki/images/william morris by frederick hollyer 1884 f808d900|william morris by frederick hollyer 1884]] — shared language: frederick, william
 <!-- vault-crosslinks:end -->

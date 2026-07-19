@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Stanley Kubrick on Set of 2001 A Space Odyssey 26c7eeb1|Stanley Kubrick on Set of 2001 A Space Odyssey]] — named in this note
 - [[_archive/auto-generated/images-stale/kubrick 389cc330|kubrick]] — named in this note
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: set, space
-- [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: space
+- [[knowledge/wiki/artists/Artist - robert stanley|Artist - robert stanley]] — shared language: stanley
 <!-- vault-crosslinks:end -->

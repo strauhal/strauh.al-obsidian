@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - evgeny kiselev 2014|Artist - evgeny kiselev 2014]] — named in this note
 - [[knowledge/wiki/images/tower a810b293|tower]] — shared language: tower
-- [[knowledge/wiki/images/Illustration Engraving of Domed Tower, Bridge, and Figures in Andernach 8b72e48e|Illustration Engraving of Domed Tower, Bridge, and Figures in Andernach]] — shared language: tower
 - [[knowledge/wiki/images/the red tower by giorgio de chirico 1925 ace7da61|the red tower by giorgio de chirico 1925]] — shared language: tower
 - [[knowledge/wiki/images/Illustration Textured Painting of a River Landscape with Bridge and Tower 4a5a27db|Illustration Textured Painting of a River Landscape with Bridge and Tower]] — shared language: tower
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Classical Tower and Dome from Rooftop 27d35d6f|Photograph Black and White Photograph of Classical Tower and Dome from Rooftop]] — shared language: tower
+- [[knowledge/wiki/images/Illustration Watercolor and Ink Drawing of a Cellular Tower fffa5395|Illustration Watercolor and Ink Drawing of a Cellular Tower]] — shared language: tower
 <!-- vault-crosslinks:end -->

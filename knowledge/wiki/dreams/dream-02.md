@@ -8,8 +8,8 @@ temporal_context: after marriage and before an ayahuasca ceremony
 motifs: ["family home", "soiled clothing", "cat", "streaming", "old employer"]
 tags: [dream, journal, threshold]
 sources: ["[[recent-dreams-before-ayahuasca]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Dream 2 - The Jacket, the Cat, and the Streamer
@@ -43,7 +43,6 @@ No fixed interpretation has been assigned. Add remembered details, waking associ
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: autofiction, attention, oedipal
 - [[knowledge/wiki/collections/Collection - dreams|Collection - dreams]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00001 0401c221|dream 00001]] — shared language: dream, dreams
@@ -51,4 +50,5 @@ No fixed interpretation has been assigned. Add remembered details, waking associ
 - [[knowledge/wiki/images/dream 00003 9f1e7ff8|dream 00003]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00004 80771321|dream 00004]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00005 421501aa|dream 00005]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00006 d47d201e|dream 00006]] — shared language: dream, dreams
 <!-- vault-crosslinks:end -->

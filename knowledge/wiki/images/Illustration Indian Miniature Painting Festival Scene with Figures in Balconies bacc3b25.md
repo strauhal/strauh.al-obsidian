@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 - [[knowledge/wiki/images/Illustration Indian Miniature Painting of a Grand Palace and Formal Gardens cd9ee009|Illustration Indian Miniature Painting of a Grand Palace and Formal Gardens]] — shared language: indian, miniature
 - [[knowledge/wiki/images/Illustration Indian Miniature Painting of Palace, Formal Gardens, Figures, and Cityscape bd3c618c|Illustration Indian Miniature Painting of Palace, Formal Gardens, Figures, and Cityscape]] — shared language: indian, miniature
 - [[knowledge/wiki/images/Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot 09910ad6|Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot]] — shared language: indian, miniature
-- [[knowledge/wiki/images/Repetitive Pattern of Balconies on a Building Facade 03182353|Repetitive Pattern of Balconies on a Building Facade]] — shared language: balconies
 - [[knowledge/wiki/books/classics-of-indian-spirituality-eknath-easwaran-nagler-michael-n-the-upanishads-nilgiri-press|The Upanishads-Nilgiri Press]] — shared language: indian
+- [[knowledge/wiki/images/Document Abstract Geometric Design with Text for Music Festival c6aaa180|Document Abstract Geometric Design with Text for Music Festival]] — shared language: festival
 <!-- vault-crosslinks:end -->

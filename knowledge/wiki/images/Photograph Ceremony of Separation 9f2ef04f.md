@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Cer
 - [[knowledge/wiki/life/The Ceremony|The Ceremony]] — named in this note
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: separation, ceremony
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: ceremony
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: separation
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: ceremony
-- [[knowledge/wiki/images/Separation by Edvard Munch (1896) 11553387|Separation by Edvard Munch (1896)]] — shared language: separation
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Stylized Room With Blowing Curtain, Window, And Game Controller 8dd73421|Illustration Stylized Room With Blowing Curtain, Window, And Game Controller]] — shared language: blowing, curtain, controller
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/images/Illustration Stylized Figures In Room With Arched Window c94eecb8|Illustration Stylized Figures In Room With Arched Window]] — shared language: window, room, stylized
 - [[knowledge/wiki/images/flix gonzleztorres untitled curtain installation early 1990s b4fe9af8|flix gonzleztorres untitled curtain installation early 1990s]] — shared language: curtain
+- [[knowledge/wiki/images/Illustration Video Game Character Appears Behind Player In Room 6dd87004|Illustration Video Game Character Appears Behind Player In Room]] — shared language: game, video, room
 <!-- vault-crosslinks:end -->

@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur f5972813|Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur]] — shared language: musician, blur, instrument
-- [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur d3963ca1|Photograph Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur]] — shared language: musician, blur, instrument
+- [[knowledge/wiki/images/Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur f5972813|Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur]] — shared language: musician, blur, wind
+- [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur d3963ca1|Photograph Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur]] — shared language: musician, blur, wind
 - [[_archive/auto-generated/images-stale/black and white photograph of figures with extreme motion blur 2fe70cce|black and white photograph of figures with extreme motion blur]] — shared language: blur, motion, blur.jpg
 - [[knowledge/wiki/images/Black And White Photograph Of Figures With Extreme Motion Blur 6853a58e|Black And White Photograph Of Figures With Extreme Motion Blur]] — shared language: blur, motion, blur.jpg
 - [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of Figures With Extreme Motion Blur 04594385|Photograph Black And White Photograph Of Figures With Extreme Motion Blur]] — shared language: blur, motion, blur.jpg

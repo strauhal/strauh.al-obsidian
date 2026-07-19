@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Michael Heim - The Metaphysics of Virtual Reality-Oxford University Press, USA (1994).pdf"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # The Metaphysics of Virtual Reality-Oxford University Press, USA
@@ -46,5 +46,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/neil-postman-technopoly-the-surrender-of-culture-to-technology|Technopoly The Surrender of Culture to Technology]] — same category: media technology
 - [[knowledge/wiki/books/charles-dickens-great-expectations-public-domain-books|Great Expectations-Public Domain Books]] — same category: media technology
 - [[knowledge/wiki/books/james-bridle-new-dark-age-technology-and-the-end-of-the-future-verso-books|New Dark Age - Technology and the End of the Future-Verso Books]] — same category: media technology
-- [[knowledge/wiki/books/william-gibson-neuromancer-remembering-tomorrow|Neuromancer (Remembering Tomorrow)]] — same category: media technology
+- [[knowledge/wiki/books/william-gibson-pattern-recognition-a-novel|Pattern Recognition - A Novel]] — same category: media technology
 <!-- vault-crosslinks:end -->

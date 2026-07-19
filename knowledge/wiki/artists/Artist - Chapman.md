@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Airplane lady freaks out on airplane. Woman Not Reals characters on a plane by Travis Chapman 944d8d1d|Airplane lady freaks out on airplane. Woman Not Reals characters on a plane by Travis Chapman]] — shared language: chapman
 - [[knowledge/wiki/images/Screenshot Mark Zuckerberg and Jesse Eisenberg on Saturday Night Live Stage a0863c9c|Screenshot Mark Zuckerberg and Jesse Eisenberg on Saturday Night Live Stage]] — shared language: zuckerberg, mark
 - [[knowledge/wiki/books/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee-wired|Microdosing for Depression Appears to Work About as Well as Drinking Coffee - WIRED]] — shared language: drinking
-- [[knowledge/wiki/books/mark-fisher-capitalist-realism-is-there-no-alternative|Capitalist Realism: Is There No Alternative?]] — shared language: mark
+- [[knowledge/wiki/images/Photograph Crocheted Fried Chicken Drumsticks and Dipping Sauce in Takeout Box a8758e28|Photograph Crocheted Fried Chicken Drumsticks and Dipping Sauce in Takeout Box]] — shared language: sauce
 <!-- vault-crosslinks:end -->

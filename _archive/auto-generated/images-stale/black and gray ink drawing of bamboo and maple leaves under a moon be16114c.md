@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Black And Gray Ink Drawing Of Bamboo, Maple Leaves, And Moon 8b42390d|Illustration Black And Gray Ink Drawing Of Bamboo, Maple Leaves, And Moon]] — shared language: maple, leaves, bamboo
+- [[knowledge/wiki/images/Illustration Black And Gray Ink Drawing Of Bamboo, Maple Leaves, And Moon 8b42390d|Illustration Black And Gray Ink Drawing Of Bamboo, Maple Leaves, And Moon]] — shared language: maple, bamboo, leaves
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink, moon
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/images/ink bamboo for the qingbige by ke jiusi 1338 8947e143|ink bamboo for the qingbige by ke jiusi 1338]] — shared language: bamboo, ink

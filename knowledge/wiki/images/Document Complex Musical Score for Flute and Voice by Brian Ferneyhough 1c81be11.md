@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Co
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: voice
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: voice
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: voice
 - [[knowledge/wiki/images/Document Abstract Graphic Score on Musical Staff Paper with Text 545ca683|Document Abstract Graphic Score on Musical Staff Paper with Text]] — shared language: score, musical, document
 - [[knowledge/wiki/images/Document Modern Musical Score With Complex Graphic Notation by Karlheinz Stockhausen 89010eb0|Document Modern Musical Score With Complex Graphic Notation by Karlheinz Stockhausen]] — shared language: score, musical, complex
-- [[knowledge/wiki/images/Document Musical Score and Dance Notation for 'La Mari e' e37971b9|Document Musical Score and Dance Notation for 'La Mari e']] — shared language: score, musical, document
 <!-- vault-crosslinks:end -->

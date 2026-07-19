@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_persistence_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: memory
-- [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: age
-- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: memory
-- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: memory
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: persistence, memory
+- [[knowledge/wiki/concepts/Interest-Dependent Persistence|Interest-Dependent Persistence]] — shared language: persistence
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: memory, persistence
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: memory
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: memory
 <!-- vault-crosslinks:end -->

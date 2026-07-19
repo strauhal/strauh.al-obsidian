@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Yel
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: tags, graffiti
 - [[knowledge/wiki/images/Photograph Colorful Graffiti Tags on a Large Iceberg in Blue Water 48e17b40|Photograph Colorful Graffiti Tags on a Large Iceberg in Blue Water]] — shared language: tags, graffiti
 - [[knowledge/wiki/images/Graffiti 'Sorry About Your Wall' on a building in winter 3c2999d9|Graffiti 'Sorry About Your Wall' on a building in winter]] — shared language: graffiti, wall
-- [[knowledge/wiki/images/Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ' 76060bd3|Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ']] — shared language: graffiti
+- [[knowledge/wiki/images/Illustration Two Posters Art Nouveau Woman and Psychedelic Concert Poster fa410bb3|Illustration Two Posters Art Nouveau Woman and Psychedelic Concert Poster]] — shared language: posters
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1000s/fogong_si_pagoda
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/images/tower a810b293|tower]] — shared language: tower
 - [[knowledge/wiki/images/Illustration Chinese Landscape Painting with Red Mountains, Water, Boats, and Pagoda 2ce223a8|Illustration Chinese Landscape Painting with Red Mountains, Water, Boats, and Pagoda]] — shared language: pagoda
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
-- [[knowledge/wiki/images/Pagoda in Kyoto by Toshi Yoshida 04ab11d6|Pagoda in Kyoto by Toshi Yoshida]] — shared language: pagoda
 <!-- vault-crosslinks:end -->

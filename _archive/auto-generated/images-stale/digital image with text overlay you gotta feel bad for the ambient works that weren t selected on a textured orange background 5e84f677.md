@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
 - [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: ambient
-- [[knowledge/wiki/images/Image White Text on Orange Textured Background with Illegible Symbols 34d803bb|Image White Text on Orange Textured Background with Illegible Symbols]] — shared language: textured, orange, text
 - [[knowledge/wiki/books/ambient-art|Ambient art]] — shared language: ambient
 - [[Welcome|strauh.al Knowledge Base]] — shared language: works
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: works
 <!-- vault-crosslinks:end -->

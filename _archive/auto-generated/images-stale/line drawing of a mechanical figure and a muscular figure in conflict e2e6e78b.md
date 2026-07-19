@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Line Drawing of Muscular and Mechanical Figures in Conflict afb98d19|Illustration Line Drawing of Muscular and Mechanical Figures in Conflict]] — shared language: conflict, muscular, mechanical
+- [[knowledge/wiki/images/Illustration Line Drawing of Muscular and Mechanical Figures in Conflict afb98d19|Illustration Line Drawing of Muscular and Mechanical Figures in Conflict]] — shared language: muscular, conflict, mechanical
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: mechanical
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[_archive/auto-generated/books-stale/06b-benjamin-work-of-art-in-the-age-of-mechanical-reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: mechanical

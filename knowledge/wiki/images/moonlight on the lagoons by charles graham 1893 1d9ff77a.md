@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/moonlight_on_the
 - [[knowledge/wiki/artists/Artist - robert graham|Artist - robert graham]] — shared language: graham
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 - [[knowledge/wiki/images/two nudes by robert graham 1993 dbb4ecd1|two nudes by robert graham 1993]] — shared language: graham
-- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
+- [[knowledge/wiki/artists/Artist - moonlight|Artist - moonlight]] — shared language: moonlight
 <!-- vault-crosslinks:end -->

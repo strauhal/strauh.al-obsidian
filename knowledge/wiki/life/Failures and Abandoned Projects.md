@@ -48,6 +48,10 @@ the vault is measured against — the literal content of [[Amor Fati]], learning
 from it, and the baseline the [[The Ceremony|ceremony]] is meant to work on.
 
 ## Connections
+- [[Interest-Dependent Persistence]] — abandonment at project scale coexists with
+  persistence at archive scale.
+- [[Psychological Architecture]] — the failures ledger as behavioral evidence, not a
+  global verdict on conscientiousness.
 - [[Ernest Strauhal]] — whose arc this is.
 - [[The Record Label]] · [[AI Slop]] · [[The Attention Economy]] · [[Ryuichi Sakamoto]]
 - [[Amor Fati]] — the stance that turns the rebuild into the point.
@@ -64,8 +68,8 @@ from it, and the baseline the [[The Ceremony|ceremony]] is meant to work on.
 - [[knowledge/wiki/anchors/california|california]] — named in this note
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: failures, bottom, abandoned
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: work, projects, label
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: persistence, teaching
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: rebuild, failures, abandoned
-- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: work, attention, economy
+- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: project, work, economy
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: teaching, work, ryuichi
-- [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: diary, amor, fati
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Complex_Netwo
 - [[knowledge/wiki/images/Complex Diagram of Nodes and Arrows on Grid Paper 5e521ede|Complex Diagram of Nodes and Arrows on Grid Paper]] — shared language: complex, grid, diagram
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: network
 - [[knowledge/wiki/images/Complex Network Diagram with Nodes and Directed Edges on Graph Paper aee24062|Complex Network Diagram with Nodes and Directed Edges on Graph Paper]] — shared language: network, complex, diagram
-- [[knowledge/wiki/images/Convolution and Deconvolution Network Architecture Diagram d47630d5|Convolution and Deconvolution Network Architecture Diagram]] — shared language: network, diagram
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: complex
 <!-- vault-crosslinks:end -->

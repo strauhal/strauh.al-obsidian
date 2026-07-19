@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: ito
 - [[knowledge/wiki/anchors/junji-ito|Junji Ito]] — shared language: ito
 - [[knowledge/wiki/images/tomie by junji ito 1987 b700ed28|tomie by junji ito 1987]] — shared language: ito
 - [[knowledge/wiki/images/the long dream by junji ito 1997 9be646fc|the long dream by junji ito 1997]] — shared language: ito
 - [[knowledge/wiki/images/uzumaki by junji ito 1998 1999 386ecb02|uzumaki by junji ito 1998 1999]] — shared language: ito
+- [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — shared language: memory
 <!-- vault-crosslinks:end -->

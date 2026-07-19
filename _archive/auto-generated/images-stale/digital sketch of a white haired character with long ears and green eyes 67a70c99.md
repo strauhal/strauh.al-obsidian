@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration White Haired Character with Long Ears, Green Eyes, Finger to Lips 1bef354c|Illustration White Haired Character with Long Ears, Green Eyes, Finger to Lips]] — shared language: ears, haired, character
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: long, character
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Girl With Cat Ears Holding Black Cat With Red Eyes 5d1953cd|Illustration Girl With Cat Ears Holding Black Cat With Red Eyes]] — shared language: ears, eyes
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[_archive/auto-generated/images-stale/black and white sketch of a short haired character in a military uniform laughing while covering their mouth 9cecc144|black and white sketch of a short haired character in a military uniform laughing while covering their mouth]] — shared language: haired, character, sketch
 <!-- vault-crosslinks:end -->

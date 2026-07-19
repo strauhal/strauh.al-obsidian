@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ben tolman 2015|Artist - ben tolman 2015]] — named in this note
 - [[knowledge/wiki/images/Urban by Ben Tolman (2015) 0a14e5a2|Urban by Ben Tolman (2015)]] — shared language: tolman, ben
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ben
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: ben
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: ben
+- [[knowledge/wiki/images/ben hur 1960 finnish original film art 1600x jpg 36362ebe|ben hur 1960 finnish original film art 1600x jpg]] — shared language: ben
 <!-- vault-crosslinks:end -->

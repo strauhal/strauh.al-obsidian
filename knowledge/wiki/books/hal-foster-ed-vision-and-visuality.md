@@ -9,8 +9,8 @@ metadata: curated
 aliases: [vision and visuality readings]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/vision and visuality readings"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Vision and Visuality

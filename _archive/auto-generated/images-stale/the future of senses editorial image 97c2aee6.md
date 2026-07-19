@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/the future of senses editorial jpg 757f753b|the future of senses editorial jpg]] — shared language: senses, editorial, future
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: editorial
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: future
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: editorial
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Aesthetic of Process and Control|Constellation - The Aesthetic of Process and Control]] — shared language: editorial
 - [[_archive/auto-generated/images-stale/shutterstock editorial 5886046ag huge 1553887166 e9f05396|shutterstock editorial 5886046ag huge 1553887166]] — shared language: editorial

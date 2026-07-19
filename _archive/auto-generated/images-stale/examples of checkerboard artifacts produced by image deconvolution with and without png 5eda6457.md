@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/artists-noise/Artist - image deconvolution with and without png|Artist - image deconvolution with and without png]] — shared language: without, produced, artifacts
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: without
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: without
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: artifacts, without
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: without
-- [[knowledge/wiki/maps/Map - Image Archive|Map - Image Archive]] — shared language: without
 <!-- vault-crosslinks:end -->

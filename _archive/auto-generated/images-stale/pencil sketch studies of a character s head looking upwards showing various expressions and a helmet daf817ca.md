@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Character Head Studies With Helmet And Upward Gazing Expressions 122aa508|Illustration Character Head Studies With Helmet And Upward Gazing Expressions]] — shared language: expressions, helmet, studies
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, head
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, head, character
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: studies
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: studies
 - [[_archive/auto-generated/images-stale/digital collage of various character and landscape studies 63cf3992|digital collage of various character and landscape studies]] — shared language: various, studies, character

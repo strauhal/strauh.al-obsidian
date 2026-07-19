@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Dream Chairs by Tadao Ando (2013) 4980484c|Dream Chairs by Tadao Ando (2013)]] — shared language: chairs
 - [[knowledge/wiki/images/Illustration Abstract Illustration of Chairs and Pillars on Wavy Orange Surface 412efe08|Illustration Abstract Illustration of Chairs and Pillars on Wavy Orange Surface]] — shared language: chairs
 - [[knowledge/wiki/images/Two Chickens Standing on Chairs Looking Towards a Window 73ab56d2|Two Chickens Standing on Chairs Looking Towards a Window]] — shared language: chairs
-- [[knowledge/wiki/images/Illustration Two Folding Chairs on Patio Next to Blue Water 11fa9c83|Illustration Two Folding Chairs on Patio Next to Blue Water]] — shared language: chairs
 - [[knowledge/wiki/images/Diagram Diagram Of Two Spider Webs From Drug Experiment cff60bbc|Diagram Diagram Of Two Spider Webs From Drug Experiment]] — shared language: experiment
+- [[knowledge/wiki/images/Illustration Two Folding Chairs on Patio Next to Blue Water 11fa9c83|Illustration Two Folding Chairs on Patio Next to Blue Water]] — shared language: chairs
 <!-- vault-crosslinks:end -->

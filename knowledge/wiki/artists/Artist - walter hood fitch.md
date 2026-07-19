@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - walter gay|Artist - walter gay]] — shared language: walter
 - [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: walter
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: walter
-- [[knowledge/wiki/images/interior of the artist s library by walter gay 1909 13 00c7b8f8|interior of the artist s library by walter gay 1909 13]] — shared language: walter
+- [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: walter
 <!-- vault-crosslinks:end -->

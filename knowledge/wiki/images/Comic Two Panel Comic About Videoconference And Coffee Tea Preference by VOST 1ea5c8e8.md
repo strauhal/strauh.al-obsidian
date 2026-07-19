@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Two-P
 - [[knowledge/wiki/images/Comic Boy Generates AI Images Of Therapist On Phone by Vost bad11610|Comic Boy Generates AI Images Of Therapist On Phone by Vost]] — same artist: vost
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, panel
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: preference
-- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: preference
 - [[knowledge/wiki/images/Comic Black And White Comic Panel Of Crying Woman (2) 58837ea7|Comic Black And White Comic Panel Of Crying Woman (2)]] — shared language: comic, panel
+- [[knowledge/wiki/images/Comic Black and White Comic Panel of Crying Woman 4f909488|Comic Black and White Comic Panel of Crying Woman]] — shared language: comic, panel
 <!-- vault-crosslinks:end -->

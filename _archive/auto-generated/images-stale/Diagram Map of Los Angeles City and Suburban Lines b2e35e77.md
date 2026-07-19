@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Map
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Map of Los Angeles City and Suburban Lines a0ad140d|Map of Los Angeles City and Suburban Lines]] — named in this note
-- [[_archive/auto-generated/images-stale/map showing city and suburban lines in and about los angeles and connections with surrounding towns 5c23a492|map showing city and suburban lines in and about los angeles and connections with surrounding towns]] — shared language: angeles, los, suburban
+- [[_archive/auto-generated/images-stale/map showing city and suburban lines in and about los angeles and connections with surrounding towns 5c23a492|map showing city and suburban lines in and about los angeles and connections with surrounding towns]] — shared language: angeles, suburban, los
 - [[knowledge/wiki/images/Illustration City Street with Los Angeles City Hall and Futuristic Skyscraper 34767dff|Illustration City Street with Los Angeles City Hall and Futuristic Skyscraper]] — shared language: angeles, los, city
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Black Trash Can In Front Of Rainbow Poster In Library c7edb02d|Black Trash Can In Front Of Rainbow Poster In Library]] — named in this note
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: rainbow
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: trash
+- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: trash
 - [[knowledge/archive/auto-generated/artists-stale/Artist - trash and grotesque debris|Artist - trash and grotesque debris]] — shared language: trash
-- [[knowledge/wiki/images/the rainbow by john martin 1837 fe2de1d9|the rainbow by john martin 1837]] — shared language: rainbow
 <!-- vault-crosslinks:end -->

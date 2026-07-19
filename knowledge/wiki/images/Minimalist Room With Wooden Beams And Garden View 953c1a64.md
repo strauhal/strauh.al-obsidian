@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Minimalist
 - [[knowledge/wiki/images/Modern Interior Room with Dark Shelves, Window, and Garden View 21ea89fa|Modern Interior Room with Dark Shelves, Window, and Garden View]] — shared language: garden, room, view
 - [[knowledge/wiki/images/Photograph Gallery View of Ten Framed Minimalist Figure Drawings c9b7edcf|Photograph Gallery View of Ten Framed Minimalist Figure Drawings]] — shared language: minimalist, view
 - [[knowledge/wiki/images/View Through Window of Red Sunset and Dark Garden f67370bc|View Through Window of Red Sunset and Dark Garden]] — shared language: garden, view
-- [[knowledge/wiki/images/Tall Library Room with Wooden Bookshelves and Oval Table 35465dec|Tall Library Room with Wooden Bookshelves and Oval Table]] — shared language: wooden, room
 - [[knowledge/wiki/images/Illustration Two Minimalist Figures With Long Flowing Hair 9265bb8c|Illustration Two Minimalist Figures With Long Flowing Hair]] — shared language: minimalist
+- [[knowledge/wiki/images/Tall Library Room with Wooden Bookshelves and Oval Table 35465dec|Tall Library Room with Wooden Bookshelves and Oval Table]] — shared language: wooden, room
 <!-- vault-crosslinks:end -->

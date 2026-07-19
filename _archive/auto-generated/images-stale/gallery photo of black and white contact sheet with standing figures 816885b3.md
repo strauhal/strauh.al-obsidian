@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Contact Sheet of MF DOOM in Silver Mask and Red Shirt 27fb91f0|Contact Sheet of MF DOOM in Silver Mask and Red Shirt]] — shared language: contact, sheet
-- [[_archive/auto-generated/images-stale/Photograph Contact Sheet of MF DOOM in Silver Mask and Red Shirt 56406355|Photograph Contact Sheet of MF DOOM in Silver Mask and Red Shirt]] — shared language: contact, sheet
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: contact
 - [[_archive/auto-generated/images-stale/gallery photo of green thread installation with artist a45d8ecf|gallery photo of green thread installation with artist]] — shared language: gallery, photo
 - [[_archive/auto-generated/images-stale/gallery photo of colorful childlike portrait with red scribbles c2b40dd5|gallery photo of colorful childlike portrait with red scribbles]] — shared language: gallery, photo
-- [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
+- [[knowledge/wiki/images/Contact Sheet of MF DOOM in Silver Mask and Red Shirt 27fb91f0|Contact Sheet of MF DOOM in Silver Mask and Red Shirt]] — shared language: contact, sheet
+- [[_archive/auto-generated/images-stale/Photograph Contact Sheet of MF DOOM in Silver Mask and Red Shirt 56406355|Photograph Contact Sheet of MF DOOM in Silver Mask and Red Shirt]] — shared language: contact, sheet
 <!-- vault-crosslinks:end -->

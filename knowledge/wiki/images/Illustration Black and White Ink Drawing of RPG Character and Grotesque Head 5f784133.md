@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, grotesque
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: character, head
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Knight with Grotesque Figures da68a3ba|Illustration Black and White Ink Drawing of Knight with Grotesque Figures]] — shared language: grotesque, ink
 - [[knowledge/wiki/images/Illustration Grotesque Expressionist Ink Drawing of Rotated Figures 6ccc6703|Illustration Grotesque Expressionist Ink Drawing of Rotated Figures]] — shared language: grotesque, ink
 - [[knowledge/wiki/images/Illustration Woman and Grotesque Creature with Ink Splatters d44ed11e|Illustration Woman and Grotesque Creature with Ink Splatters]] — shared language: grotesque, ink
-- [[knowledge/wiki/images/Illustration Pen and Ink Illustration of Man Fleeing Grotesque Monster 61ade3f0|Illustration Pen and Ink Illustration of Man Fleeing Grotesque Monster]] — shared language: grotesque, ink
 <!-- vault-crosslinks:end -->

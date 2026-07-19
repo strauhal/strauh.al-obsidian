@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Geometric Composition with Spiral and Angular Forms b3eb83ae|Illustration Abstract Geometric Composition with Spiral and Angular Forms]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: angular
 - [[_archive/auto-generated/images-stale/geometric abstract collage with yellow red and green forms ac210be0|geometric abstract collage with yellow red and green forms]] — shared language: forms, geometric, yellow
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: forms
 - [[knowledge/wiki/images/Illustration Abstract Geometric Composition with Distorted Architectural Forms and Scattered Elements 65d5896e|Illustration Abstract Geometric Composition with Distorted Architectural Forms and Scattered Elements]] — shared language: composition, forms, geometric
-- [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: busy, street, city
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, street
 - [[knowledge/wiki/images/Couple Walking On Busy Street At Night 99d8a76a|Couple Walking On Busy Street At Night]] — shared language: busy, night, street
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: night, street, city
 - [[knowledge/wiki/images/Busy City Street with Prudential Building and Flags 67c124a0|Busy City Street with Prudential Building and Flags]] — shared language: busy, street, city
-- [[knowledge/wiki/images/Busy Street Scene with Numerous Signs in an Asian City 6e9f1f45|Busy Street Scene with Numerous Signs in an Asian City]] — shared language: busy, street, city
 <!-- vault-crosslinks:end -->

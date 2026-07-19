@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: instrument
 - [[knowledge/wiki/images/Illustration Stylized Women With Umbrellas And A Framed Portrait On Grey Background b936b744|Illustration Stylized Women With Umbrellas And A Framed Portrait On Grey Background]] — shared language: grey, stylized
 - [[knowledge/wiki/images/Screenshot Online Forum Screenshot Showing Person Holding Musical Instrument Case b3007dcc|Screenshot Online Forum Screenshot Showing Person Holding Musical Instrument Case]] — shared language: instrument, musical
-- [[knowledge/wiki/images/Black And White Image Of Person Curled Up On Hexagonal Floor 484998d3|Black And White Image Of Person Curled Up On Hexagonal Floor]] — shared language: hexagonal
 - [[knowledge/wiki/artists/Artist - alex grey|Artist - alex grey]] — shared language: grey
+- [[knowledge/wiki/images/Illustration Abstract Generative Drawing Of Concentric Hexagonal Lines bc3e2f33|Illustration Abstract Generative Drawing Of Concentric Hexagonal Lines]] — shared language: hexagonal
 <!-- vault-crosslinks:end -->

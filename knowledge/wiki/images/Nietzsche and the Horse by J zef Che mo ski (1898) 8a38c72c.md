@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/Nietzsche and th
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: nietzsche
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: nietzsche
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: nietzsche
 - [[knowledge/wiki/books/friedrich-nietzsche-basic-writings-of-nietzsche|Basic Writings of Nietzsche]] — shared language: nietzsche
 - [[knowledge/wiki/books/friedrich-nietzsche-ed-walter-kaufmann-the-portable-nietzsche|The Portable Nietzsche]] — shared language: nietzsche
-- [[knowledge/wiki/books/friedrich-nietzsche-selected-and-translated-with-an-introduction-by-r-j-hollingdale-a-nietzsche-reader-penguin-classics|A Nietzsche Reader (Penguin Classics)]] — shared language: nietzsche
 <!-- vault-crosslinks:end -->

@@ -6,8 +6,8 @@ category: drawing-submission
 message_count: 1
 incoming_count: 1
 tags: [private, correspondence, fanmail]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # https://x.com/pitzspecial https://computerdrawing.club/
@@ -32,7 +32,7 @@ updated: 2026-07-18
 - [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/03-art|Private Correspondence - 03 - art]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/29-picture|Private Correspondence - 29 - picture]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/08-computerdrawing-club-submission|Private Correspondence - 08 - computerdrawing.club submission!!]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/23-my-drawing|Private Correspondence - 23 - My drawing]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/08-computerdrawing-club-submission|Private Correspondence - 08 - computerdrawing.club submission!!]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/13-hello|Private Correspondence - 13 - Hello]] — same category: drawing-submission
 <!-- vault-crosslinks:end -->

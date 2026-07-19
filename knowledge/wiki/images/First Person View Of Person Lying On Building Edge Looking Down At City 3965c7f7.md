@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/First-Pers
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, view, city
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, view
 - [[knowledge/wiki/images/Orange And White Cat Lying Down Looking At Camera 8a710d85|Orange And White Cat Lying Down Looking At Camera]] — shared language: lying, down, looking
 - [[knowledge/wiki/images/Illustration Portrait of Young Person Looking Down in Hoodie 99c7f9af|Illustration Portrait of Young Person Looking Down in Hoodie]] — shared language: down, looking, person
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: down, view
-- [[knowledge/wiki/images/Person Lying Face Down On Cobblestones Surrounded By Swans At Night 11304e06|Person Lying Face Down On Cobblestones Surrounded By Swans At Night]] — shared language: lying, down, person
 <!-- vault-crosslinks:end -->

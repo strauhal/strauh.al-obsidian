@@ -15,10 +15,10 @@ This note exists because generated pages linked this spelling or alias. The rich
 
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: distance, implicit, idea
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: implicit, distance
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: implicit, distance
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: implicit, distance
-- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, richer, spelling
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: linked, pages
+- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, richer, spelling
 - [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, richer, spelling
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Synesthesia of Culture and Form|Constellation - The Synesthesia of Culture and Form]] — shared language: implicit, distance
+- [[_archive/auto-generated/concept-stubs/AI Slop|AI Slop]] — shared language: canonical, richer, spelling
 <!-- vault-crosslinks:end -->

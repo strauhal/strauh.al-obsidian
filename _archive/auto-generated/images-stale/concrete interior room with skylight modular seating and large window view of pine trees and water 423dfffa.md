@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete, trees, view
 - [[knowledge/wiki/images/Photograph Minimalist Concrete Interior with Skylight and Scenic Window View by Claus Brechenmacher and Reiner Baumann 2ca5c871|Photograph Minimalist Concrete Interior with Skylight and Scenic Window View by Claus Brechenmacher and Reiner Baumann]] — shared language: skylight, concrete, window
 - [[knowledge/wiki/images/Modern Interior Room with Dark Shelves, Window, and Garden View 21ea89fa|Modern Interior Room with Dark Shelves, Window, and Garden View]] — shared language: window, room, interior
 - [[_archive/auto-generated/images-stale/Photograph Modern Interior Room with Dark Shelves, Window, and Garden View e48cd78e|Photograph Modern Interior Room with Dark Shelves, Window, and Garden View]] — shared language: window, room, interior
 - [[_archive/auto-generated/images-stale/ink and marker sketch of an interior room with large window and orange chair d0025ed6|ink and marker sketch of an interior room with large window and orange chair]] — shared language: window, room, interior
-- [[knowledge/archive/auto-generated/artists-stale/Artist - snowy pine trees and mountains at dusk|Artist - Snowy Pine Trees And Mountains At Dusk]] — shared language: pine, trees
 <!-- vault-crosslinks:end -->

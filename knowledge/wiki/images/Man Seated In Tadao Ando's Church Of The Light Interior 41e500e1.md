@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Man Seated
 - [[knowledge/wiki/images/Dream Chairs by Tadao Ando (2013) 4980484c|Dream Chairs by Tadao Ando (2013)]] — shared language: tadao
 - [[knowledge/wiki/images/Illustration Ornate Interior With Figure Seated In Sunlight b66c58e5|Illustration Ornate Interior With Figure Seated In Sunlight]] — shared language: seated, interior
 - [[knowledge/wiki/images/Illustration Digital Artwork of Ruined Stone Church Interior with Robed Figure 5822b97a|Illustration Digital Artwork of Ruined Stone Church Interior with Robed Figure]] — shared language: church, interior
-- [[knowledge/wiki/artists/Artist - frederick edwin church|Artist - frederick edwin church]] — shared language: church
+- [[knowledge/wiki/images/Illustration Bedroom at Night with Warm Interior Light f81e6afb|Illustration Bedroom at Night with Warm Interior Light]] — shared language: light, interior
 <!-- vault-crosslinks:end -->

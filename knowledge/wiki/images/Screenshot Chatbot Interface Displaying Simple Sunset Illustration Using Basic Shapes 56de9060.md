@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/images/Screenshot Blender 4.2.1 LTS Interface Displaying Two Face Sketches 33962a62|Screenshot Blender 4.2.1 LTS Interface Displaying Two Face Sketches]] — shared language: interface, displaying, screenshot
 - [[knowledge/wiki/books/friedrich-nietzsche-basic-writings-of-nietzsche|Basic Writings of Nietzsche]] — shared language: basic
 - [[knowledge/wiki/images/screenshot of a 1990s era computer interface displaying movie data visualization filmfinder 1993 a25792c4|screenshot of a 1990s era computer interface displaying movie data visualization filmfinder 1993]] — shared language: interface, displaying, screenshot
-- [[knowledge/wiki/images/Screenshot Screenshot of Simple Line Drawing of City with Buildings and Cars daffa747|Screenshot Screenshot of Simple Line Drawing of City with Buildings and Cars]] — shared language: simple, screenshot
+- [[knowledge/wiki/images/Screenshot Screenshot of Adobe Dimensions 3.0 Interface Displaying Wireframe 3D Models 3827123a|Screenshot Screenshot of Adobe Dimensions 3.0 Interface Displaying Wireframe 3D Models]] — shared language: interface, displaying, screenshot
 <!-- vault-crosslinks:end -->

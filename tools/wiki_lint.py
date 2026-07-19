@@ -9,6 +9,10 @@ from pathlib import Path
 VAULT = Path(__file__).resolve().parents[1]
 WIKI = VAULT / "knowledge" / "wiki"
 OUTPUT = VAULT / "knowledge" / "output"
+MEDIA_EXTENSIONS = {
+    ".avif", ".gif", ".heic", ".html", ".jpeg", ".jpg", ".mp3", ".mp4",
+    ".pdf", ".png", ".svg", ".tif", ".tiff", ".wav", ".webm", ".webp",
+}
 
 
 def notes() -> list[Path]:
@@ -65,11 +69,6 @@ def wikilinks(text: str) -> list[str]:
     links = []
     for match in re.finditer(r"\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]", text):
         target = match.group(1).strip()
-        if Path(target).suffix.lower() in {
-            ".avif", ".gif", ".heic", ".html", ".jpeg", ".jpg", ".mp3", ".mp4",
-            ".pdf", ".png", ".svg", ".tif", ".tiff", ".wav", ".webm", ".webp",
-        }:
-            continue
         links.append(target)
     return links
 
@@ -115,6 +114,7 @@ def main() -> None:
                 known.setdefault(variant, p)
     missing_frontmatter: list[Path] = []
     broken: list[tuple[Path, str]] = []
+    broken_media: list[tuple[Path, str]] = []
     outbound: dict[str, set[str]] = {}
     inbound: dict[Path, set[str]] = {p: set() for p in all_notes}
 
@@ -133,6 +133,10 @@ def main() -> None:
                 if direct.exists() or markdown.exists():
                     continue
             if not target:
+                if Path(link).suffix.lower() in MEDIA_EXTENSIONS:
+                    if not (VAULT / link).exists():
+                        broken_media.append((path, link))
+                    continue
                 broken.append((path, link))
             else:
                 inbound.setdefault(target, set()).add(title)
@@ -157,6 +161,7 @@ def main() -> None:
     report += f"- Notes checked: {len(all_notes)}\n"
     report += f"- Missing frontmatter: {len(missing_frontmatter)}\n"
     report += f"- Broken wikilinks: {len(broken)}\n"
+    report += f"- Broken media embeds: {len(broken_media)}\n"
     report += f"- Orphan notes: {len(orphaned)}\n\n"
 
     report += "## Missing Frontmatter\n\n"
@@ -165,6 +170,13 @@ def main() -> None:
     report += "\n".join(f"- `{p.relative_to(VAULT)}` -> `[[{link}]]`" for p, link in broken[:300]) or "- None"
     if len(broken) > 300:
         report += f"\n- ...and {len(broken) - 300} more"
+    report += "\n\n## Broken Media Embeds\n\n"
+    report += "\n".join(
+        f"- `{p.relative_to(VAULT)}` -> `![[{link}]]`"
+        for p, link in broken_media[:300]
+    ) or "- None"
+    if len(broken_media) > 300:
+        report += f"\n- ...and {len(broken_media) - 300} more"
     report += "\n\n## Orphan Notes\n\n"
     report += "\n".join(f"- [[{title}]]" for title in orphaned[:300]) or "- None"
     if len(orphaned) > 300:

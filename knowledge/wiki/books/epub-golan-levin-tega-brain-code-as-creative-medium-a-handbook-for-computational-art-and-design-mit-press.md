@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/(EPUB)%20Golan%20Levin_%20Tega%20Brain%20-%20Code%20as%20Creative%20Medium_%20A%20Handbook%20for%20Computational%20Art%20and%20Design-MIT%20Press%20(2021).epub"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Code as Creative Medium A Handbook for Computational Art and Design-MIT Press
@@ -43,8 +43,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
 - [[knowledge/wiki/books/egon-schiele-schiele-drawings-dover-publications|Schiele Drawings-Dover Publications]] — same category: art aesthetics
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
-- [[knowledge/wiki/books/leonard-koren-wabi-sabi-for-artists-designers-poets-philosophers-stone-bridge-press|Wabi-Sabi for Artists, Designers, Poets & Philosophers-Stone Bridge Press]] — same category: art aesthetics
 - [[knowledge/wiki/books/albert-camus-the-stranger-vintage|The Stranger-Vintage]] — same category: art aesthetics
-- [[knowledge/wiki/books/susan-magsamen-ivy-ross-your-brain-on-art-how-the-arts-transform-us-hardcover|Your Brain on Art How the Arts Transform Us Hardcover]] — same category: art aesthetics
+- [[knowledge/wiki/books/leonard-koren-wabi-sabi-for-artists-designers-poets-philosophers-stone-bridge-press|Wabi-Sabi for Artists, Designers, Poets & Philosophers-Stone Bridge Press]] — same category: art aesthetics
 - [[knowledge/wiki/books/andrew-loomis-figure-drawing-for-all-it-s-worth|Figure Drawing for All It's Worth]] — same category: art aesthetics
+- [[knowledge/wiki/books/susan-magsamen-ivy-ross-your-brain-on-art-how-the-arts-transform-us-hardcover|Your Brain on Art How the Arts Transform Us Hardcover]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

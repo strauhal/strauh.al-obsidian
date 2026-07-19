@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 
 - [[knowledge/wiki/images/Screenshot Child Wearing VR Headset Points While Sitting With Adult a2b4fabc|Screenshot Child Wearing VR Headset Points While Sitting With Adult]] — shared language: headset, adult, child
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: reality
-- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: virtual
 - [[knowledge/wiki/images/Illustration Oil Painting of an Adult and Child Seated at a Table 235086f5|Illustration Oil Painting of an Adult and Child Seated at a Table]] — shared language: adult, child
 - [[knowledge/wiki/images/Screenshot Mixed Reality Interface with Virtual Screens and Tropical Beach Background 592bbf5e|Screenshot Mixed Reality Interface with Virtual Screens and Tropical Beach Background]] — shared language: virtual, reality, screenshot
+- [[knowledge/wiki/images/Screenshot Virtual Room With Russia Ukraine News Panels And Map 00a763e0|Screenshot Virtual Room With Russia Ukraine News Panels And Map]] — shared language: virtual, screenshot
 <!-- vault-crosslinks:end -->

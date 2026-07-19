@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/framed city street scene with crowd and buildings 1c10003d|framed city street scene with crowd and buildings]] — shared language: crowd, scene, framed
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd, city, scene
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern, city
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
 - [[_archive/auto-generated/images-stale/framed city river scene with bridge and smoky sky b0eb6ac7|framed city river scene with bridge and smoky sky]] — shared language: scene, framed, city
-- [[_archive/auto-generated/images-stale/framed interior scene with a woman and a mirror f67ee31d|framed interior scene with a woman and a mirror]] — shared language: scene, framed
 <!-- vault-crosslinks:end -->

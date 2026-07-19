@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/figure_and_space
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: space, studies
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: movement
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: movement, studies
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: movement, space
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies
+- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: studies
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: studies
 <!-- vault-crosslinks:end -->

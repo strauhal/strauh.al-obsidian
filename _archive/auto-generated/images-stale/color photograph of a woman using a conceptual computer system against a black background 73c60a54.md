@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Woman Using Conceptual Apple Computer System 4f8f60b4|Photograph Woman Using Conceptual Apple Computer System]] — shared language: conceptual, system, using
+- [[knowledge/wiki/images/Photograph Woman Using Conceptual Apple Computer System 4f8f60b4|Photograph Woman Using Conceptual Apple Computer System]] — shared language: conceptual, using, system
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer

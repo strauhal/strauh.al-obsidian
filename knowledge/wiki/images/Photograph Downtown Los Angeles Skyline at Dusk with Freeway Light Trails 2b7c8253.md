@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Dow
 - [[knowledge/wiki/images/Waymo Self Driving Car on Los Angeles Freeway with City Skyline 9321590a|Waymo Self Driving Car on Los Angeles Freeway with City Skyline]] — shared language: freeway, angeles, los
 - [[knowledge/wiki/images/Map of Los Angeles City and Suburban Lines a0ad140d|Map of Los Angeles City and Suburban Lines]] — shared language: angeles, los
 - [[knowledge/wiki/images/los angeles 2010 by syd mead 1983 03cf86c4|los angeles 2010 by syd mead 1983]] — shared language: angeles, los
-- [[knowledge/wiki/images/Illustration City Street with Los Angeles City Hall and Futuristic Skyscraper 34767dff|Illustration City Street with Los Angeles City Hall and Futuristic Skyscraper]] — shared language: angeles, los
 - [[knowledge/wiki/images/Car Creating Light Trails on Dark Surface 1f2bf2ea|Car Creating Light Trails on Dark Surface]] — shared language: trails, light
+- [[knowledge/wiki/images/Illustration City Street with Los Angeles City Hall and Futuristic Skyscraper 34767dff|Illustration City Street with Los Angeles City Hall and Futuristic Skyscraper]] — shared language: angeles, los
 <!-- vault-crosslinks:end -->

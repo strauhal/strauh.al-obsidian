@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/escape_from_the_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: escape
 - [[knowledge/wiki/books/eugene-thacker-in-the-dust-of-this-planet|In the Dust of This Planet]] — shared language: planet
 - [[knowledge/wiki/images/italian movie poster for la pantera rosa 1963 7354e625|italian movie poster for la pantera rosa 1963]] — shared language: movie, poster
 - [[knowledge/wiki/images/clash of the titans movie poster by brothers hildebrandt 1981 63d84b7d|clash of the titans movie poster by brothers hildebrandt 1981]] — shared language: movie, poster
 - [[knowledge/wiki/images/godzilla vs destoroyah japanese movie poster by noriyoshi ohrai 1995 2fa0b529|godzilla vs destoroyah japanese movie poster by noriyoshi ohrai 1995]] — shared language: movie, poster
+- [[knowledge/wiki/images/new york movie by edward hopper 1939 d2826b3e|new york movie by edward hopper 1939]] — shared language: movie
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study, human
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: study, human
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
-- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human, study
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: study, human
 <!-- vault-crosslinks:end -->

@@ -20,5 +20,5 @@ This note exists because generated pages linked this spelling or alias. The rich
 - [[_archive/auto-generated/concept-stubs/escher|escher]] — shared language: canonical, richer, spelling
 - [[_archive/auto-generated/concept-stubs/Memory and Preservation|Memory and Preservation]] — shared language: canonical, richer, spelling
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: linked, pages
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: internet, confidant
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: internet, confidant, see
 <!-- vault-crosslinks:end -->

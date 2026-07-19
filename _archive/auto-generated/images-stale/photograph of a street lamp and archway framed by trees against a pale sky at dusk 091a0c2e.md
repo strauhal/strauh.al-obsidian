@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/Photograph Street Lamp And Archway Framed By Trees At Dusk 0cf7753c|Photograph Street Lamp And Archway Framed By Trees At Dusk]] — shared language: lamp, archway, dusk
 - [[knowledge/wiki/images/Street Lamp And Archway Framed By Trees At Dusk c2490ab8|Street Lamp And Archway Framed By Trees At Dusk]] — shared language: lamp, archway, dusk
 - [[knowledge/wiki/artists/Artist - Trees At Dusk|Artist - Trees At Dusk]] — shared language: dusk, trees, lamp
-- [[_archive/auto-generated/images-stale/framed landscape with trees and pale field e7db1ccb|framed landscape with trees and pale field]] — shared language: pale, trees, framed
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees, street
 <!-- vault-crosslinks:end -->

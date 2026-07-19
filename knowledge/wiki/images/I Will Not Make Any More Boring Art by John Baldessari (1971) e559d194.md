@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/I Will Not Make 
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: make
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: make
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: make
-- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: make
 - [[knowledge/wiki/images/Illustration Cat Hopes To Make Art At Art Factory Illustration 902a7367|Illustration Cat Hopes To Make Art At Art Factory Illustration]] — shared language: make
+- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
 <!-- vault-crosslinks:end -->

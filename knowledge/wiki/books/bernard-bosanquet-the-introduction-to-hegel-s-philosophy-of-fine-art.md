@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Bonsanquent1886-The Introduction to Hegel s Philosophy of Fine Art]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Bonsanquent1886-The_Introduction_to_Hegel_s_Philosophy_of_Fine_Art.pdf"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # The Introduction to Hegel's Philosophy of Fine Art

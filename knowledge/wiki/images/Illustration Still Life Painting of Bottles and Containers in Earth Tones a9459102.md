@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Still Life Drawing of Three Bottles 34eeb5f1|Illustration Still Life Drawing of Three Bottles]] — shared language: bottles, still, life
 - [[knowledge/wiki/images/Illustration Still Life Painting of Bottles and a Bowl 816df707|Illustration Still Life Painting of Bottles and a Bowl]] — shared language: bottles, still, life
 - [[knowledge/wiki/images/Illustration Abstract Still Life Painting Of Bottles And Vessels 9a5fb15d|Illustration Abstract Still Life Painting Of Bottles And Vessels]] — shared language: bottles, still, life
-- [[knowledge/wiki/images/Illustration Pixel Art Still Life with Two Blue Bottles and Red Apple 16ac9f51|Illustration Pixel Art Still Life with Two Blue Bottles and Red Apple]] — shared language: bottles, still, life
+- [[knowledge/wiki/concepts/Interest-Dependent Persistence|Interest-Dependent Persistence]] — shared language: containers
 <!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — named in this note
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: davis, terry
 - [[knowledge/wiki/artists/Artist - stuart davis 19531954|Artist - stuart davis 19531954]] — shared language: davis
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: davis
 - [[knowledge/wiki/images/composition by stuart davis 1930 5aefd485|composition by stuart davis 1930]] — shared language: davis
 - [[knowledge/wiki/images/composition by stuart davis 1957 1e5db7ad|composition by stuart davis 1957]] — shared language: davis
-- [[knowledge/wiki/artists/Artist - stuart davis|Artist - stuart davis]] — shared language: davis
 <!-- vault-crosslinks:end -->

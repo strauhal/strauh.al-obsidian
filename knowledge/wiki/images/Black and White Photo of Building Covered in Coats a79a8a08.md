@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Black and 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/images/Black And White Photo Of Person On Skateboard In Front Of Building 03c8818b|Black And White Photo Of Person On Skateboard In Front Of Building]] — shared language: photo, building
 - [[knowledge/wiki/images/photo 3270 96ff2ef1|photo 3270]] — shared language: photo
 - [[knowledge/wiki/images/Two Figures in Black Leather Coats and Helmets with Rifle 8614f3e9|Two Figures in Black Leather Coats and Helmets with Rifle]] — shared language: coats
 - [[knowledge/wiki/images/Illustration Four Framed Black Line Fashion Sketches of Coats and Jackets 7d956fd8|Illustration Four Framed Black Line Fashion Sketches of Coats and Jackets]] — shared language: coats
-- [[knowledge/wiki/images/Photograph Potted Pilea Plant Next to Building Covered in Satellite Dishes 44e1ae2f|Photograph Potted Pilea Plant Next to Building Covered in Satellite Dishes]] — shared language: covered, building
 <!-- vault-crosslinks:end -->

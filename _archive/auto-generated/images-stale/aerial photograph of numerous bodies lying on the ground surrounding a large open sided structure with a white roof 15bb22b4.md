@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, numerous
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, large
 - [[_archive/auto-generated/images-stale/aerial photograph of a dense city surrounding a large hill ad739689|aerial photograph of a dense city surrounding a large hill]] — shared language: surrounding, aerial, large
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: bodies
 - [[knowledge/wiki/images/Photograph Aerial View of Dense City Surrounding a Large Hill 1704900d|Photograph Aerial View of Dense City Surrounding a Large Hill]] — shared language: surrounding, aerial, large
-- [[knowledge/wiki/images/Illustration Drawing of Numerous Faces and Heads Surrounding a Blue Mandala 4a194268|Illustration Drawing of Numerous Faces and Heads Surrounding a Blue Mandala]] — shared language: surrounding, numerous
 <!-- vault-crosslinks:end -->

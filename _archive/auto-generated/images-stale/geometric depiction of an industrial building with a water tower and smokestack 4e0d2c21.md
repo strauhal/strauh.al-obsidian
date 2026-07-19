@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Geometric Depiction of Industrial Building with Water Tower and Smokestack 7090aa53|Illustration Geometric Depiction of Industrial Building with Water Tower and Smokestack]] — shared language: depiction, smokestack, industrial
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower, building, water
 - [[_archive/auto-generated/books-stale/industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: industrial
 - [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: industrial
 - [[knowledge/wiki/images/tower a810b293|tower]] — shared language: tower
-- [[_archive/auto-generated/images-stale/animated depiction of a blue dragon lighting a cigar 4fbc4712|animated depiction of a blue dragon lighting a cigar]] — shared language: depiction
 <!-- vault-crosslinks:end -->

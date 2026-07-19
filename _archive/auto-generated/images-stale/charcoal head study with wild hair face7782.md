@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: study, head
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: charcoal
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: study
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: study
+- [[knowledge/wiki/images/Illustration Expressive Drawing of a Screaming Face with Wild Hair b7ab037e|Illustration Expressive Drawing of a Screaming Face with Wild Hair]] — shared language: wild, hair, hair.jpeg
 <!-- vault-crosslinks:end -->

@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Breakdown_Of_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Granular Conversation Topic Shares Breakdown Diagram e02d44e7|Granular Conversation Topic Shares Breakdown Diagram]] — shared language: breakdown, granular, shares
+- [[knowledge/wiki/images/Granular Conversation Topic Shares Breakdown Diagram e02d44e7|Granular Conversation Topic Shares Breakdown Diagram]] — shared language: breakdown, shares, granular
 - [[knowledge/wiki/images/Illustration Abstract Outlines of Figures Over Bright Granular Colors with Red Seal 9a64cada|Illustration Abstract Outlines of Figures Over Bright Granular Colors with Red Seal]] — shared language: granular
 - [[knowledge/wiki/images/Brain Network Diagrams Comparing Placebo and Psilocybin Effects b8e99b65|Brain Network Diagrams Comparing Placebo and Psilocybin Effects]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

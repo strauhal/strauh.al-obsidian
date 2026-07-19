@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ilya repin 1873|Artist - ilya repin 1873]] — shared language: ilya, repin
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ilya repin 1883|Artist - ilya repin 1883]] — shared language: repin, ilya
 - [[knowledge/wiki/artists/Artist - ilya repin 18701873|Artist - ilya repin 18701873]] — shared language: ilya, repin
-- [[knowledge/archive/auto-generated/artists-stale/Artist - ilya repin 1899|Artist - ilya repin 1899]] — shared language: ilya, repin
 - [[knowledge/wiki/images/students by ilya repin 1899 48041fd5|students by ilya repin 1899]] — shared language: ilya, repin
+- [[knowledge/archive/auto-generated/artists-stale/Artist - ilya repin 1899|Artist - ilya repin 1899]] — shared language: ilya, repin
 <!-- vault-crosslinks:end -->

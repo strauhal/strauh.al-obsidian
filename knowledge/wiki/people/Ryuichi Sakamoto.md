@@ -37,6 +37,6 @@ and the more serious work of [[Implicit Distance]].
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, sakamoto, ryuichi
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: implicit, influences, distance
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music, composer, hecker
-- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: music, ambient, hecker
 - [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: diary, turning, slop
+- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences, listed, ernest's
 <!-- vault-crosslinks:end -->

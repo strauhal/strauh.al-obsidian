@@ -7,8 +7,8 @@ status: queued
 queue_order: 3
 tags: [culture, reading, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Play the Piano Drunk Like a Percussion Instrument Until the Fingers Begin to Bleed a Bit

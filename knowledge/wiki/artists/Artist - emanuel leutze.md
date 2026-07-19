@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - emanuel de witte|Artist - emanuel de witte]] — shared language: emanuel
 - [[knowledge/wiki/images/interior of the oude kerk amsterdam by emanuel de witte c 1658 fbf20210|interior of the oude kerk amsterdam by emanuel de witte c 1658]] — shared language: emanuel
 - [[knowledge/wiki/books/the-teachings-of-don-juan-a-yaqui-way-of-knowledge|A Yaqui Way of Knowledge]] — shared language: way
-- [[knowledge/wiki/images/Image Altered Thomas Cole 'Course of Empire' Series with Dinosaur 9e570b90|Image Altered Thomas Cole 'Course of Empire' Series with Dinosaur]] — shared language: course, empire
+- [[knowledge/wiki/images/Image Altered Thomas Cole 'Course of Empire' Series with Dinosaur 9e570b90|Image Altered Thomas Cole 'Course of Empire' Series with Dinosaur]] — shared language: empire, course
 - [[knowledge/wiki/images/thomas cole the consummation of empire 1836 4a6c936f|thomas cole the consummation of empire 1836]] — shared language: empire
 - [[knowledge/wiki/images/People Dining With Empire State Building View At Night 455fe04a|People Dining With Empire State Building View At Night]] — shared language: empire
 <!-- vault-crosslinks:end -->

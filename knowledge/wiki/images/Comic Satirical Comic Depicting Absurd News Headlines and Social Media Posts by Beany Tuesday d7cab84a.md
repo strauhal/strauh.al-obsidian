@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Satir
 
 - [[knowledge/wiki/images/Screenshot Social Media Feed Showing News Headlines About Amazon and Jeff Bezos 4c4c7b9d|Screenshot Social Media Feed Showing News Headlines About Amazon and Jeff Bezos]] — shared language: headlines, news, social
 - [[knowledge/wiki/images/Screenshot Social Media Post About OpenAI Whistleblower News a264621e|Screenshot Social Media Post About OpenAI Whistleblower News]] — shared language: news, social, media
-- [[knowledge/wiki/books/jean-jacques-rousseau-the-social-contract|The Social Contract]] — shared language: social
 - [[knowledge/wiki/books/ai-dating|ai dating]] — shared language: media
+- [[knowledge/wiki/books/jean-jacques-rousseau-the-social-contract|The Social Contract]] — shared language: social
 - [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — shared language: media
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, screen
 - [[_archive/auto-generated/images-stale/Photograph Screen Displaying Philip Pearlstein's Positano 4 Artwork 41b296ee|Photograph Screen Displaying Philip Pearlstein's Positano 4 Artwork]] — shared language: artwork, displaying, screen
 - [[_archive/auto-generated/images-stale/Screen Displaying Philip Pearlstein's Positano 4 Artwork 89864fc4-20260706165156|Screen Displaying Philip Pearlstein's Positano 4 Artwork]] — shared language: artwork, displaying, screen
-- [[_archive/auto-generated/images-stale/Screen Displaying Philip Pearlstein's Positano 4 Artwork 89864fc4|Screen Displaying Philip Pearlstein's Positano 4 Artwork]] — shared language: artwork, displaying, screen
+- [[_archive/auto-generated/images-stale/Screen Displaying Philip Pearlstein's Positano 4 Artwork 89864fc4-20260719|Screen Displaying Philip Pearlstein's Positano 4 Artwork]] — shared language: artwork, displaying, screen
 <!-- vault-crosslinks:end -->

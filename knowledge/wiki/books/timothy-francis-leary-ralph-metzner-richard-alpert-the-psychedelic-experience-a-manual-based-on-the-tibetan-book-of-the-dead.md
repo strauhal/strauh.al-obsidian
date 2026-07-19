@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Timothy Francis Leary, Ralph Metzner, Richard Alpert - The Psychedelic Experience_ A Manual Based on the Tibetan Book of the Dead.pdf"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # The Psychedelic Experience A Manual Based on the Tibetan Book of the Dead

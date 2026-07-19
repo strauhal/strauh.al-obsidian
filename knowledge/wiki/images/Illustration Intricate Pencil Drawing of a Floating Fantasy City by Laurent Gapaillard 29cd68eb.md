@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 
 - [[knowledge/wiki/images/Illustration Intricate Ornate Fantasy Architecture Drawing in Grayscale by Laurent Gapaillard 9accda7c|Illustration Intricate Ornate Fantasy Architecture Drawing in Grayscale by Laurent Gapaillard]] — same artist: laurent gapaillard
 - [[knowledge/wiki/images/Illustration Detailed Ornate Fantastical Baroque Architecture Drawing by Laurent Gapaillard 42cc2cb0|Illustration Detailed Ornate Fantastical Baroque Architecture Drawing by Laurent Gapaillard]] — same artist: laurent gapaillard
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: gapaillard, laurent, city
 - [[knowledge/wiki/images/Illustration Pencil Drawing of a Fantasy Castle and Bridge on a Hill 8dae315e|Illustration Pencil Drawing of a Fantasy Castle and Bridge on a Hill]] — shared language: fantasy, pencil
 - [[knowledge/wiki/books/martin-butler-the-corporeal-fantasy|The Corporeal Fantasy]] — shared language: fantasy
-- [[knowledge/wiki/images/Man Painting On Floating Easel In Water Near City ff2eaf60|Man Painting On Floating Easel In Water Near City]] — shared language: floating, city
 <!-- vault-crosslinks:end -->

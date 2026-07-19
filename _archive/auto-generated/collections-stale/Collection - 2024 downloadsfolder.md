@@ -276,5 +276,5 @@ _Only the first 200 image notes are listed here; search covers all 427._
 - [[knowledge/wiki/images/Artist Cecily Brown Posing In Her Studio With Large Paintings by Cecily Brown 8d08949f|Artist Cecily Brown Posing In Her Studio With Large Paintings by Cecily Brown]] — shared language: cecily, brown
 - [[_archive/auto-generated/images-stale/Photograph Artist Cecily Brown Posing In Her Studio With Large Paintings by Cecily Brown ca5d521c|Photograph Artist Cecily Brown Posing In Her Studio With Large Paintings by Cecily Brown]] — shared language: cecily, brown
 - [[knowledge/wiki/images/iannis xenakis and le corbusier philips pavilion brussels worlds fair expo 58 1958 c5ecbd1c|iannis xenakis and le corbusier philips pavilion brussels worlds fair expo 58 1958]] — shared language: iannis, xenakis
-- [[knowledge/wiki/collections/Collection - gif collection|Collection - gif collection]] — shared language: listed, search, first
+- [[knowledge/wiki/collections/Collection - gif collection|Collection - gif collection]] — shared language: listed, search, covers
 <!-- vault-crosslinks:end -->

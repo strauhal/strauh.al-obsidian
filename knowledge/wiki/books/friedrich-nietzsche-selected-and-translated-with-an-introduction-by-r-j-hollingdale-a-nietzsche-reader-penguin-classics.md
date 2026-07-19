@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Friedrich Nietzsche, Selected and Translated with an Introduction by R. J. Hollingdale - A Nietzsche Reader (Penguin Classics) (2003, Penguin Books) - libgen.lc.epub"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # A Nietzsche Reader (Penguin Classics)
@@ -43,8 +43,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/friedrich-nietzsche-ed-walter-kaufmann-the-portable-nietzsche|The Portable Nietzsche]] — same category: philosophy
 - [[knowledge/wiki/books/friedrich-nietzsche-beyond-good-and-evil|Beyond Good and Evil]] — same category: philosophy
 - [[knowledge/wiki/books/penguin-classics-heraclitus-brooks-haxton-james-hillman-fragments|Fragments]] — same category: philosophy
-- [[knowledge/wiki/books/karl-marx-friedrich-engels-ed-robert-c-tucker-the-marx-engels-reader|The Marx-Engels Reader]] — same category: philosophy
 - [[knowledge/wiki/books/friedrich-nietzsche-thus-spoke-zarathustra|Thus Spoke Zarathustra]] — same category: philosophy
+- [[knowledge/wiki/books/karl-marx-friedrich-engels-ed-robert-c-tucker-the-marx-engels-reader|The Marx-Engels Reader]] — same category: philosophy
 - [[knowledge/wiki/books/cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] — same category: philosophy
 - [[knowledge/wiki/books/friedrich-engels-dialectics-of-nature|Dialectics of Nature]] — same category: philosophy
 <!-- vault-crosslinks:end -->

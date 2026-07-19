@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: objects
 - [[knowledge/wiki/images/Arrangement of Clothing, Weapons, and Objects on a Floor dc54bbfd|Arrangement of Clothing, Weapons, and Objects on a Floor]] — shared language: clothing, objects
 - [[_archive/auto-generated/images-stale/Photograph Arrangement of Clothing, Weapons, and Objects on a Floor 7e07476f|Photograph Arrangement of Clothing, Weapons, and Objects on a Floor]] — shared language: clothing, objects
 - [[knowledge/wiki/images/henry sissons the assault late 19th century 92466db6|henry sissons the assault late 19th century]] — shared language: assault
 - [[knowledge/wiki/images/Illustration Man In Suit With Patterned Shirt Holding Phone And Gun 719ce768|Illustration Man In Suit With Patterned Shirt Holding Phone And Gun]] — shared language: gun, shirt
-- [[_archive/auto-generated/books-stale/the-book-of-disquiet|The Book of Disquiet]] — shared language: book
 <!-- vault-crosslinks:end -->

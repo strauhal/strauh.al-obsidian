@@ -7,8 +7,8 @@ status: queued
 queue_order: 6
 tags: [culture, music, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Scriabin: The Complete Preludes for Piano
@@ -31,7 +31,7 @@ This is an active recording in Ernest's current cultural diet. Add dates, reacti
 ## Discovered Connections
 
 - [[knowledge/wiki/culture/music-chopin-preludes-piano-sonata-no-2|Listening - Chopin: Preludes & Piano Sonata No. 2]] — shared language: preludes, listening, piano
-- [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: preludes, piano, complete
+- [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: preludes, piano, scriabin
 - [[knowledge/wiki/culture/music-ravel-the-complete-piano-works|Listening - Ravel: The Complete Piano Works]] — shared language: complete, listening, piano
 - [[knowledge/wiki/culture/music-playing-the-piano-12122020|Listening - Playing the Piano 12122020]] — shared language: listening, piano, current
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: scriabin, ernest's

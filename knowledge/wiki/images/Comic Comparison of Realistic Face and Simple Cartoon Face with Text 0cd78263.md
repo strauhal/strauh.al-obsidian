@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Compa
 - [[knowledge/wiki/images/Illustration Realistic Painting of a Large Manila Envelope with Metal Clasp af1f3240|Illustration Realistic Painting of a Large Manila Envelope with Metal Clasp]] — shared language: realistic
 - [[knowledge/wiki/images/Comic Manga Character With Wide Eyes And Simple Mouth 41214c49|Comic Manga Character With Wide Eyes And Simple Mouth]] — shared language: simple, comic
 - [[knowledge/wiki/images/Illustration Black And White Ink Drawing Collage Of Manga And Realistic Figures 0c3308a7|Illustration Black And White Ink Drawing Collage Of Manga And Realistic Figures]] — shared language: realistic
-- [[knowledge/wiki/images/Illustration Simple Line Drawing of Bent Over Figure 8be25f58|Illustration Simple Line Drawing of Bent Over Figure]] — shared language: simple
+- [[knowledge/wiki/images/Illustration Two Cartoon Figures on Winding Paths with Text 301283fd|Illustration Two Cartoon Figures on Winding Paths with Text]] — shared language: cartoon, text
 <!-- vault-crosslinks:end -->

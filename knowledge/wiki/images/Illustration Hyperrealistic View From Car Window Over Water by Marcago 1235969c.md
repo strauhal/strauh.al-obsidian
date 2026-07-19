@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - H
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: view, water
 - [[knowledge/wiki/images/View Through Window of Red Sunset and Dark Garden f67370bc|View Through Window of Red Sunset and Dark Garden]] — shared language: window, view
 - [[knowledge/wiki/images/Black Dog Looking Out Car Window At Rural Landscape 9c98c5d1|Black Dog Looking Out Car Window At Rural Landscape]] — shared language: window, car
 - [[knowledge/wiki/artists/Artist - Window|Artist - Window]] — shared language: window
 - [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: window
-- [[knowledge/wiki/images/Michael Jackson Leaning Out Of Car Window, Pointing 49452865|Michael Jackson Leaning Out Of Car Window, Pointing]] — shared language: window, car
 <!-- vault-crosslinks:end -->

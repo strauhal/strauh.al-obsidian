@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: objects
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Knight with Grotesque Figures da68a3ba|Illustration Black and White Ink Drawing of Knight with Grotesque Figures]] — shared language: grotesque, knight, ink
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: grotesque, ink
 - [[knowledge/wiki/images/Illustration A Vibrant, Chaotic Painting Of Cartoon Characters And Objects 0faccd21|Illustration A Vibrant, Chaotic Painting Of Cartoon Characters And Objects]] — shared language: objects, characters
 - [[knowledge/wiki/images/Illustration Still Life Painting Of Diverse Objects On Wooden Shelves 6f4c4913|Illustration Still Life Painting Of Diverse Objects On Wooden Shelves]] — shared language: objects, wooden
 - [[knowledge/wiki/images/Illustration Vibrant, Chaotic Cartoon Artwork With Various Characters And Objects 2fcf7b39|Illustration Vibrant, Chaotic Cartoon Artwork With Various Characters And Objects]] — shared language: objects, characters
-- [[knowledge/wiki/images/Illustration Grotesque Expressionist Ink Drawing of Rotated Figures 6ccc6703|Illustration Grotesque Expressionist Ink Drawing of Rotated Figures]] — shared language: grotesque, ink
 <!-- vault-crosslinks:end -->

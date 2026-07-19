@@ -2,8 +2,8 @@
 title: Map - Audience Correspondence
 type: map
 tags: [map, audience, correspondence, archive, community]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Map - Audience Correspondence
@@ -52,10 +52,10 @@ Full messages, pseudonymized thread notes, and attachments are stored under `kno
 
 - [[knowledge/private/fanmail/Private Fanmail Index|Private Fanmail Index]] — named in this note
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: audience, feedback, readers
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: submissions, computerdrawing.club, personal
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: internet, messages
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: audience, readers
 - [[knowledge/output/fanmail-import-report|fanmail-import-report]] — shared language: unique, messages, fanmail
 - [[knowledge/private/fanmail/threads/18-site-drawings|Private Correspondence - 18 - site drawings]] — shared language: site, private
-- [[knowledge/private/fanmail/threads/35-site-drawings|Private Correspondence - 35 - site drawings]] — shared language: site, private
-- [[knowledge/private/fanmail/threads/15-https-x-com-pitzspecial-https-computerdrawing-club|Private Correspondence - 15 - https://x.com/pitzspecial https://computerdrawing.club/]] — shared language: computerdrawing.club, private
-- [[knowledge/wiki/images/Image Twitter Post with Ghibli Style Illustration and Chat Messages a16d76b3|Image Twitter Post with Ghibli Style Illustration and Chat Messages]] — shared language: messages
 <!-- vault-crosslinks:end -->

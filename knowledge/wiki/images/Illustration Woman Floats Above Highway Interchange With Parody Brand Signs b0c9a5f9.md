@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 - [[knowledge/wiki/images/Aerial Comparison of Siena City Center and Houston Highway Interchange be855b27|Aerial Comparison of Siena City Center and Houston Highway Interchange]] — shared language: interchange, highway
 - [[knowledge/wiki/images/Person Wearing Black T Shirt With Anti Brand List On Back ab21d6a0|Person Wearing Black T Shirt With Anti Brand List On Back]] — shared language: brand
 - [[knowledge/wiki/images/Illustration Side Profiles of White Crossover SUVs by Brand 242dc90c|Illustration Side Profiles of White Crossover SUVs by Brand]] — shared language: brand
-- [[knowledge/wiki/images/Young Boy Holding 'The Book of Bionicles' Parody 3e3c2415|Young Boy Holding 'The Book of Bionicles' Parody]] — shared language: parody
+- [[knowledge/wiki/images/Illustration Stylized City Skyline and Highway with Cars at Dusk 03e9f154|Illustration Stylized City Skyline and Highway with Cars at Dusk]] — shared language: highway
 <!-- vault-crosslinks:end -->

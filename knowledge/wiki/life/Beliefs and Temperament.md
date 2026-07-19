@@ -60,6 +60,9 @@ me the most" — offered as the one thing worth knowing about that relationship 
 rather than a roster of names.
 
 ## Connections
+- [[Psychological Architecture]] — inference kept downstream from these direct answers.
+- [[Map - Claim Provenance]] — preserves the difference between self-report and later
+  interpretation.
 - [[Amor Fati]] — the realism/absurdism drift and "things must get worse first" belief both read as variations on the same yes-saying-through-difficulty stance.
 - [[Atomization]] — the solitary-life curiosity sits directly in this concept's register.
 - [[Autofiction]] — the diary itself as the proudest-moment answer is the clearest possible statement of what that concept already argues.
@@ -74,7 +77,7 @@ rather than a roster of names.
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: way, get, things
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: belief, rather, way
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: rather, get, one
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: get, rather, one
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: get, diary, people
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: rather, ways, music
 - [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: diary, things, music

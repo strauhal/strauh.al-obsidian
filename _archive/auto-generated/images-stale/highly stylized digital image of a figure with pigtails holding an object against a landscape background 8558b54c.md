@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Highly Stylized Blue and Orange Figure with Pigtails 553eacba|Illustration Highly Stylized Blue and Orange Figure with Pigtails]] — shared language: pigtails, highly, stylized
 - [[knowledge/wiki/images/Illustration Highly Stylized Blue And Orange Digital Portrait Of A Man 12158df6|Illustration Highly Stylized Blue And Orange Digital Portrait Of A Man]] — shared language: highly, stylized, digital
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: object
 - [[knowledge/wiki/images/Illustration Highly Stylized Abstract Portrait of a Man in Blue and Orange 0d729a12|Illustration Highly Stylized Abstract Portrait of a Man in Blue and Orange]] — shared language: highly, stylized
 - [[_archive/auto-generated/images-stale/digital illustration of a figure holding daisies against a blue graffiti background a1076593|digital illustration of a figure holding daisies against a blue graffiti background]] — shared language: against, holding, digital
-- [[knowledge/wiki/images/Illustration Stylized Portrait of Man in Suit Against Black Background 2a8d2b72|Illustration Stylized Portrait of Man in Suit Against Black Background]] — shared language: against, stylized, background
 <!-- vault-crosslinks:end -->

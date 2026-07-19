@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Casio Wris
 - [[knowledge/wiki/images/Black And White Photograph Of Person Falling From Airplane bead4a67|Black And White Photograph Of Person Falling From Airplane]] — shared language: airplane
 - [[knowledge/wiki/images/Looking Up At Tall Buildings With Airplane In Sky af44381f|Looking Up At Tall Buildings With Airplane In Sky]] — shared language: airplane
 - [[knowledge/wiki/images/Photograph Photograph of Digital Map Showing United Airplane Near Chicago 6ef3f4b0|Photograph Photograph of Digital Map Showing United Airplane Near Chicago]] — shared language: airplane
-- [[knowledge/wiki/images/Illustration Airplane Crashed on Bridge with Fire and Cars b5e8380c|Illustration Airplane Crashed on Bridge with Fire and Cars]] — shared language: airplane
+- [[knowledge/wiki/images/Illustration Illustration of a Person in Brace Position on Airplane Safety Card f5f3b8b9|Illustration Illustration of a Person in Brace Position on Airplane Safety Card]] — shared language: airplane
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Detailed Purple and Blue Futuristic Computer Room Illustration 43d5416b|Illustration Detailed Purple and Blue Futuristic Computer Room Illustration]] — shared language: futuristic, detailed
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: futuristic
 - [[knowledge/wiki/images/Illustration Sketch Of A Pilot In A Detailed Cockpit c3b49858|Illustration Sketch Of A Pilot In A Detailed Cockpit]] — shared language: detailed, sketch
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Ornate Architectural Interior with Figures e4528559|Illustration Black and White Sketch of Ornate Architectural Interior with Figures]] — shared language: sketch, interior
-- [[knowledge/wiki/images/Illustration Detailed Isometric Illustration of a Bustling Futuristic City eb32de33|Illustration Detailed Isometric Illustration of a Bustling Futuristic City]] — shared language: futuristic, detailed
 <!-- vault-crosslinks:end -->

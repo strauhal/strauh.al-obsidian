@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Chuck Jone
 - [[knowledge/wiki/artists/Artist - chuck close|Artist - chuck close]] — shared language: chuck
 - [[knowledge/wiki/images/Illustration Black Dog Looking Into Mirror, Reflection Visible ecde2416|Illustration Black Dog Looking Into Mirror, Reflection Visible]] — shared language: reflection, mirror
 - [[knowledge/wiki/artists/Artist - chuck walker|Artist - chuck walker]] — shared language: chuck
-- [[knowledge/wiki/images/Golden Retriever Looking At Its Reflection In A Mirror 10a8d052|Golden Retriever Looking At Its Reflection In A Mirror]] — shared language: reflection, mirror
+- [[knowledge/wiki/images/self portrait by chuck close 1997 6ed2c249|self portrait by chuck close 1997]] — shared language: chuck
 <!-- vault-crosslinks:end -->

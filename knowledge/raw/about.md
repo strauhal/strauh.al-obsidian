@@ -27,7 +27,7 @@ if you have questions or comments about the site, email me at  mailto:ernest@str
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
 - [[knowledge/wiki/pages/donate|donate]] — named in this note
 - [[knowledge/wiki/pages/scripts|scripts]] — named in this note
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: site, closest, capture
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: you're, however, going
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: you're, however, going
 - [[knowledge/wiki/pages/about|about]] — shared language: site, donations, enjoy
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: site, link

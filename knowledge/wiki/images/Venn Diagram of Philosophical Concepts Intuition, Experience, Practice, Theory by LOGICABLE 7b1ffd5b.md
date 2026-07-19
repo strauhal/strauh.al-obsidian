@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Venn_Diagram_
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: experience
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: practice
 - [[knowledge/wiki/books/david-graeber-bullshit-jobs-a-theory|Bullshit Jobs A Theory]] — shared language: theory
-- [[knowledge/wiki/books/athlone-contemporary-european-thinkers-theodor-w-adorno-aesthetic-theory|Aesthetic Theory]] — shared language: theory
 - [[knowledge/wiki/images/Venn Diagrams Illustrating Paths of Self and God Relationship 19dda284|Venn Diagrams Illustrating Paths of Self and God Relationship]] — shared language: venn
+- [[knowledge/wiki/images/Diagram of interconnected spiritual and philosophical concepts with text e50467e8|Diagram of interconnected spiritual and philosophical concepts with text]] — shared language: concepts, diagram
 <!-- vault-crosslinks:end -->

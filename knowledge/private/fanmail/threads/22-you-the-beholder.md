@@ -30,7 +30,7 @@ updated: 2026-06-22
 - [[knowledge/private/fanmail/threads/21-love-your-archive|Private Correspondence - 21 - Love your archive]] — same category: audience-response
 - [[knowledge/private/fanmail/threads/17-saw-your-ads-clicked-the-about-page|Private Correspondence - 17 - saw your ads, clicked the about page]] — same category: audience-response
 - [[knowledge/private/fanmail/threads/32-saw-your-ads-clicked-the-about-page|Private Correspondence - 32 - saw your ads, clicked the about page]] — same category: audience-response
-- [[knowledge/private/fanmail/threads/40-untitled|Private Correspondence - 40 - Untitled]] — shared language: private, incoming, direction
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: private
+- [[knowledge/private/fanmail/threads/40-untitled|Private Correspondence - 40 - Untitled]] — shared language: private, incoming, direction
 - [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — shared language: private, incoming, direction
 <!-- vault-crosslinks:end -->

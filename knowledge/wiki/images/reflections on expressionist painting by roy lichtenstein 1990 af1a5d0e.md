@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/reflections_on_e
 - [[knowledge/wiki/artists/Artist - Arpita Roy|Artist - Arpita Roy]] — shared language: roy
 - [[knowledge/wiki/images/Black And White Portrait Of Aphex Twin With Reflections 49911b6f|Black And White Portrait Of Aphex Twin With Reflections]] — shared language: reflections
 - [[knowledge/wiki/images/Pink Lily Of The Valley Flowers With Dewdrops by Arpita Roy 8d82e828|Pink Lily Of The Valley Flowers With Dewdrops by Arpita Roy]] — shared language: roy
-- [[knowledge/wiki/books/walter-benjamin-hannah-arendt-hannah-arendt-harry-zohn-illuminations-essays-and-reflections|Illuminations Essays and Reflections]] — shared language: reflections
 - [[knowledge/wiki/images/Illustration Abstract Painting of Vertical Streaks and Reflections in Pink, Red 2643a7f3|Illustration Abstract Painting of Vertical Streaks and Reflections in Pink, Red]] — shared language: reflections
+- [[knowledge/wiki/books/walter-benjamin-hannah-arendt-hannah-arendt-harry-zohn-illuminations-essays-and-reflections|Illuminations Essays and Reflections]] — shared language: reflections
 <!-- vault-crosslinks:end -->

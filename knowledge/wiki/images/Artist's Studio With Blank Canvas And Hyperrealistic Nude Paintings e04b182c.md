@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Artist's S
 - [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: artist's, paintings
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: canvas
 - [[knowledge/wiki/images/The Artist's Studio by Raoul Dufy (1935) 4af52f46|The Artist's Studio by Raoul Dufy (1935)]] — shared language: artist's, studio
-- [[knowledge/wiki/books/consanguinity-on-the-canvas-studying-inbreeding-in-the-habsburg|Consanguinity on the Canvas Studying Inbreeding in the Habsburg]] — shared language: canvas
 - [[knowledge/wiki/images/Hunter Biden Posing In His Art Studio With Paintings d3e9b452|Hunter Biden Posing In His Art Studio With Paintings]] — shared language: paintings, studio, paintings.jpg
+- [[knowledge/wiki/books/consanguinity-on-the-canvas-studying-inbreeding-in-the-habsburg|Consanguinity on the Canvas Studying Inbreeding in the Habsburg]] — shared language: canvas
 <!-- vault-crosslinks:end -->

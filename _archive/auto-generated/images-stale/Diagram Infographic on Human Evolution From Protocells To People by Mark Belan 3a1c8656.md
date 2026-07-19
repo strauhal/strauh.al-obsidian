@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Inf
 - [[_archive/auto-generated/images-stale/human evolution diagram 93d1b55d|human evolution diagram]] — shared language: evolution, human, diagram
 - [[_archive/auto-generated/images-stale/human evolution vf png f3f47e82|human evolution vf png]] — shared language: evolution, human
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: people, human
-- [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: evolution
+- [[_archive/auto-generated/images-stale/mark roth current 2017 e80f6573|mark roth current 2017]] — shared language: mark
 <!-- vault-crosslinks:end -->

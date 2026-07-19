@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/nyce/banquet/new_mexico.html"
 source_relpath: "nyce/banquet/new_mexico.html"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:16"
+compiled_at: "2026-07-19T02:00:04"
 tags: ["strauhal", "source/html"]
 ---
 # nyce banquet new mexico
@@ -36,8 +36,8 @@ strauh.al/nyce/banquet/new_mexico
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: nyce, banquet, mexico
 - [[knowledge/wiki/pages/nyce banquet california|nyce banquet california]] — shared language: banquet, nyce, wedding1.png
 - [[knowledge/wiki/pages/epk|epk]] — shared language: mexico, refs, raw.githubusercontent.com
-- [[knowledge/wiki/_index|strauh.al Index]] — shared language: nyce, banquet, compiled
-- [[knowledge/wiki/strauh.al Index|strauh.al Index]] — shared language: nyce, banquet, compiled
+- [[knowledge/wiki/_index|strauh.al Index]] — shared language: nyce, banquet, portraits
+- [[knowledge/wiki/strauh.al Index|strauh.al Index]] — shared language: nyce, banquet, portraits
 - [[knowledge/raw/dreams|Dreams Series]] — shared language: refs, raw.githubusercontent.com, https
 - [[knowledge/wiki/pages/portraits|portraits]] — shared language: portraits, none, related
 <!-- vault-crosslinks:end -->

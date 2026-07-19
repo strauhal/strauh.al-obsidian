@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Black and 
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: hand
 - [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: hand
 - [[knowledge/wiki/artists/Artist - Giant Hand|Artist - Giant Hand]] — shared language: hand
-- [[knowledge/wiki/images/Photograph Photograph of Hand Holding Sketchbook with Drawing of Butchers a13c17b5|Photograph Photograph of Hand Holding Sketchbook with Drawing of Butchers]] — shared language: hand
+- [[knowledge/wiki/images/Illustration Futuristic Floating Ring Structure with Spaceships in Japanese Landscape 44d7484c|Illustration Futuristic Floating Ring Structure with Spaceships in Japanese Landscape]] — shared language: ring
 <!-- vault-crosslinks:end -->

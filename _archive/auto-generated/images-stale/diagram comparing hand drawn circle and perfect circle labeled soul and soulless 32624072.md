@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/Diagram Diagram Comparing Hand Drawn And Perfect Circles Labeled Soul And Soulless 4f7d7067|Diagram Diagram Comparing Hand Drawn And Perfect Circles Labeled Soul And Soulless]] — shared language: soulless, perfect, soul
-- [[knowledge/wiki/images/Diagram Comparing Hand Drawn And Perfect Circles Labeled Soul And Soulless 4db0c1a9|Diagram Comparing Hand Drawn And Perfect Circles Labeled Soul And Soulless]] — shared language: soulless, perfect, soul
+- [[_archive/auto-generated/images-stale/Diagram Diagram Comparing Hand Drawn And Perfect Circles Labeled Soul And Soulless 4f7d7067|Diagram Diagram Comparing Hand Drawn And Perfect Circles Labeled Soul And Soulless]] — shared language: soulless, soul, perfect
+- [[knowledge/wiki/images/Diagram Comparing Hand Drawn And Perfect Circles Labeled Soul And Soulless 4db0c1a9|Diagram Comparing Hand Drawn And Perfect Circles Labeled Soul And Soulless]] — shared language: soulless, soul, perfect
 - [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: perfect
-- [[knowledge/wiki/images/Illustration Grid of Hand Drawn Geometric Shapes and Patterns 8e8fcb7f|Illustration Grid of Hand Drawn Geometric Shapes and Patterns]] — shared language: drawn, hand
 - [[knowledge/wiki/books/carl-gustav-jung-modern-man-in-search-of-a-soul-routledge|Modern Man in Search of a Soul -Routledge]] — shared language: soul
+- [[knowledge/wiki/images/Illustration Grid of Hand Drawn Geometric Shapes and Patterns 8e8fcb7f|Illustration Grid of Hand Drawn Geometric Shapes and Patterns]] — shared language: drawn, hand
 <!-- vault-crosslinks:end -->

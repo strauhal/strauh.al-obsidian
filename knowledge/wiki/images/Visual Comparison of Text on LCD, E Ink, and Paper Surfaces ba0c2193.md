@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Visual_Compar
 - [[knowledge/wiki/books/humphries-paper-copy|humphries paper copy]] — shared language: paper
 - [[knowledge/wiki/images/Illustration Chinese Calligraphy in Black Ink on White Paper 7f0bf24b|Illustration Chinese Calligraphy in Black Ink on White Paper]] — shared language: paper, ink
 - [[knowledge/wiki/images/Illustration Dynamic Abstract Black Ink Calligraphy on White Paper dce31969|Illustration Dynamic Abstract Black Ink Calligraphy on White Paper]] — shared language: paper, ink
-- [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text
+- [[knowledge/wiki/images/Comparison of Generated Images with Deconvolution Artifacts 5be9023f|Comparison of Generated Images with Deconvolution Artifacts]] — shared language: comparison
 <!-- vault-crosslinks:end -->

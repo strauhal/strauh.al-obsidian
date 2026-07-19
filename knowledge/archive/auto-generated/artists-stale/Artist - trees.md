@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — named in this note
 - [[_archive/auto-generated/images-stale/black and white etching of a large building surrounded by trees 37501344|black and white etching of a large building surrounded by trees]] — shared language: trees, etching, surrounded
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees, building
 - [[knowledge/wiki/artists/Artist - Trees At Dusk|Artist - Trees At Dusk]] — shared language: trees
 - [[knowledge/wiki/images/Illustration Colorful Landscape Painting of Water Reflecting Trees and Building 9aa7474e|Illustration Colorful Landscape Painting of Water Reflecting Trees and Building]] — shared language: trees, building
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Boats in Water with Trees fc55556f|Illustration Impressionistic Painting of Boats in Water with Trees]] — shared language: trees
-- [[knowledge/wiki/images/Illustration Impasto Painting of Red and Orange Trees in a Landscape 1a0b4643|Illustration Impasto Painting of Red and Orange Trees in a Landscape]] — shared language: trees
 <!-- vault-crosslinks:end -->

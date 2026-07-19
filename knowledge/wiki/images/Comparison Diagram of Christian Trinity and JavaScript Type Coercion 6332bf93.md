@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Comparison_Di
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: type
 - [[knowledge/wiki/books/christopher-simpson-science-of-coercion-communication-research-and-psychological-warfare-1945-1960|Science of Coercion Communication Research and Psychological Warfare, 1945-1960]] — shared language: coercion
 - [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: christian
 - [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: christian
 - [[knowledge/wiki/images/Comparison of Generated Images with Deconvolution Artifacts 5be9023f|Comparison of Generated Images with Deconvolution Artifacts]] — shared language: comparison
-- [[knowledge/wiki/images/Illustration Blue Pixel Art Character, John Ward, From Faith The Unholy Trinity 22b2f865|Illustration Blue Pixel Art Character, John Ward, From Faith The Unholy Trinity]] — shared language: trinity
 <!-- vault-crosslinks:end -->

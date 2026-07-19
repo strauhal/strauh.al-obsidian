@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Black Custom Car with Whitewall Tires Parked by Brick Building 25b16326|Black Custom Car with Whitewall Tires Parked by Brick Building]] — same artist: brick building
 - [[_archive/auto-generated/images-stale/102127 a1m3mxqxxxxdms7 custom e233cbf9|102127 a1m3mxqxxxxdms7 custom]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/images/Three Custom Built Extra Long Limousines Parked on Asphalt 16c07dcc|Three Custom Built Extra Long Limousines Parked on Asphalt]] — shared language: parked, custom
 - [[_archive/auto-generated/images-stale/black and white photograph of bicycles parked outside a building caa8ff83|black and white photograph of bicycles parked outside a building]] — shared language: parked, building
-- [[knowledge/wiki/images/Illustration Stylized Figures in Front of a Brick Wall 5dbf6ea5|Illustration Stylized Figures in Front of a Brick Wall]] — shared language: brick
 <!-- vault-crosslinks:end -->

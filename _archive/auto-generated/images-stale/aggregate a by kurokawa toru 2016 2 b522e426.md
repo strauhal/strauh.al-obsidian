@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kurokawa toru 2016|Artist - kurokawa toru 2016]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kurokawa toru 2016 2|Artist - kurokawa toru 2016 2]] — named in this note
 - [[knowledge/wiki/images/Aggregate A by Toru Kurokawa (2016) d82ec5f1|Aggregate A by Toru Kurokawa (2016)]] — shared language: toru, kurokawa, aggregate
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: aggregate
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: kurokawa
 <!-- vault-crosslinks:end -->

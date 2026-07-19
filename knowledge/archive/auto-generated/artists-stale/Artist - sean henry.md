@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean adair|Artist - Sean Adair]] — shared language: sean
 - [[knowledge/wiki/artists/Artist - Sean Adair|Artist - Sean Adair]] — shared language: sean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean adair 2001|Artist - sean adair 2001]] — shared language: sean
-- [[knowledge/wiki/life/Beliefs and Temperament|Beliefs and Temperament]] — shared language: drift
+- [[knowledge/wiki/images/Blue Cat by Oliver Henry (1999) 6fd1dc18|Blue Cat by Oliver Henry (1999)]] — shared language: henry
 <!-- vault-crosslinks:end -->

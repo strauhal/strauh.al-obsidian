@@ -114,8 +114,8 @@ Files: 43
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — named in this note
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — named in this note
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — named in this note
-- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — named in this note
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — named in this note
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — named in this note
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — named in this note
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — named in this note
 <!-- vault-crosslinks:end -->

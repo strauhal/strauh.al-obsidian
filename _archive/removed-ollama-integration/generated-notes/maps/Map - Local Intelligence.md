@@ -33,12 +33,12 @@ The audit trail for knowledge created by local models. These notes remain ordina
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — named in this note
 - [[_archive/auto-generated/images-stale/connection map 409fea96|connection map]] — named in this note
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: memory, separate, remain
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: remain, control, material
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: process, control, thinking
 - [[_archive/auto-generated/concept-stubs/Compiled Wiki|Compiled Wiki]] — shared language: cross-linked
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: screen, knowledge, body
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: remain, control, material
-- [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — shared language: memory, review, remain
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: separate, ordinary, control
 <!-- vault-crosslinks:end -->

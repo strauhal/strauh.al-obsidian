@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Dense Aeri
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, buildings, dense
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
 - [[knowledge/wiki/books/lit-wiki|lit wiki]] — shared language: lit
 - [[knowledge/wiki/images/Blue House with Lit Windows at Night f6f95007|Blue House with Lit Windows at Night]] — shared language: lit, windows
 - [[knowledge/wiki/images/Photograph Aerial View of Dense City Surrounding a Large Hill 1704900d|Photograph Aerial View of Dense City Surrounding a Large Hill]] — shared language: dense, aerial, view
-- [[knowledge/wiki/images/Aerial View of Dense Cityscape with Central Avenue and Mountains 0d56a368|Aerial View of Dense Cityscape with Central Avenue and Mountains]] — shared language: dense, aerial, view
 <!-- vault-crosslinks:end -->

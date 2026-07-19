@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: objects
 - [[knowledge/wiki/images/Illustration Abstract Drawing of Stylized Flying Creatures and Objects bb4db2f9|Illustration Abstract Drawing of Stylized Flying Creatures and Objects]] — shared language: objects, stylized
 - [[knowledge/wiki/artists/Artist - elizabeth thompson lady butler|Artist - elizabeth thompson lady butler]] — shared language: thompson
 - [[knowledge/wiki/artists/Artist - bob willoughby|Artist - bob willoughby]] — shared language: bob
 - [[knowledge/wiki/images/Illustration Indigenous Woman Carrying Child in Desert Landscape 9d758115|Illustration Indigenous Woman Carrying Child in Desert Landscape]] — shared language: carrying, landscape
-- [[knowledge/wiki/images/Illustration Girl with Green Eyes and Bob Hair Against Red Background 5b263e9a|Illustration Girl with Green Eyes and Bob Hair Against Red Background]] — shared language: bob
 <!-- vault-crosslinks:end -->

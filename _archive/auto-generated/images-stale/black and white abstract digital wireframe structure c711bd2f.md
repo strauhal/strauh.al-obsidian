@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Abstract Black And White Digital Wireframe Structure e3c61436|Illustration Abstract Black And White Digital Wireframe Structure]] — shared language: wireframe, structure, digital
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: wireframe
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: structure
+- [[knowledge/wiki/concepts/Interest-Dependent Persistence|Interest-Dependent Persistence]] — shared language: structure
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[_archive/auto-generated/images-stale/framed wireframe drawing of a circular form bf61e11f|framed wireframe drawing of a circular form]] — shared language: wireframe
 <!-- vault-crosslinks:end -->

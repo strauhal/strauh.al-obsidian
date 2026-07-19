@@ -56,11 +56,11 @@ poles, plus a fourth "activity level" measure. Ernest's result:
 ## Discovered Connections
 
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
-- [[knowledge/wiki/life/Beliefs and Temperament|Beliefs and Temperament]] — shared language: pas, rather, things
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: activity, one, things
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: rather, nothing, one
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: activity, read, one
+- [[knowledge/wiki/life/Beliefs and Temperament|Beliefs and Temperament]] — shared language: pas, rather, things
 - [[knowledge/wiki/books/we-used-to-read-things-in-this-country-noah-mccormack|We Used to Read Things in This Country - Noah McCormack]] — shared language: things, read
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-rene-hague-toward-the-future-mariner-books|Toward The Future-Mariner Books]] — shared language: toward
 - [[knowledge/wiki/anchors/david-lean|David Lean]] — shared language: lean
-- [[knowledge/wiki/images/Screenshot Text About Consciousness, Neural Activity, And Pseudoscience ad0f7f06|Screenshot Text About Consciousness, Neural Activity, And Pseudoscience]] — shared language: activity
 <!-- vault-crosslinks:end -->

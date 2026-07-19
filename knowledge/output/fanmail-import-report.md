@@ -1,6 +1,6 @@
 # Fanmail Import Report
 
-Generated: 2026-07-18T00:07:20
+Generated: 2026-07-19T02:00:08
 
 - EML source files: 139
 - Unique messages: 76
@@ -17,7 +17,7 @@ Generated: 2026-07-18T00:07:20
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: attachments, messages, threads
 - [[knowledge/private/fanmail/Private Fanmail Index|Private Fanmail Index]] — shared language: attachments, messages, fanmail
 - [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — shared language: import
-- [[knowledge/output/library-build-report|library-build-report]] — shared language: t00, report
-- [[knowledge/output/site-sync-log|site-sync-log]] — shared language: fanmail, deleted, attachments
-- [[knowledge/wiki/images/Image Twitter Post with Ghibli Style Illustration and Chat Messages a16d76b3|Image Twitter Post with Ghibli Style Illustration and Chat Messages]] — shared language: messages
+- [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — shared language: import
+- [[knowledge/output/library-build-report|library-build-report]] — shared language: t02, report
+- [[knowledge/output/claim-provenance-report|claim-provenance-report]] — shared language: t02, report
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Two
 
 - [[knowledge/wiki/images/Photograph Four Framed Paintings Displayed In A Museum Gallery 858ac780|Photograph Four Framed Paintings Displayed In A Museum Gallery]] — shared language: displayed, paintings, gallery
 - [[knowledge/wiki/images/Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery 71ab7c81|Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery]] — shared language: displayed, paintings, gallery
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete
 - [[knowledge/wiki/images/Photograph Art Gallery with Abstract Paintings and Sculptural Wall Piece b784ff70|Photograph Art Gallery with Abstract Paintings and Sculptural Wall Piece]] — shared language: paintings, gallery, wall
 - [[knowledge/wiki/images/Painting of a Market Fruit Stall Displayed on Gallery Wall 8ae0c6f8|Painting of a Market Fruit Stall Displayed on Gallery Wall]] — shared language: displayed, gallery, wall
-- [[knowledge/wiki/images/Photograph Artworks Displayed in a Gallery or Storage Space 044fe024|Photograph Artworks Displayed in a Gallery or Storage Space]] — shared language: displayed, gallery
 <!-- vault-crosslinks:end -->

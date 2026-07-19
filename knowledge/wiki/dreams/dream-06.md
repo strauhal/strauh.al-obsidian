@@ -8,8 +8,8 @@ temporal_context: after marriage and before an ayahuasca ceremony
 motifs: ["vehicle", "new job", "collectibles", "old coworker", "wrong exit"]
 tags: [dream, journal, threshold]
 sources: ["[[recent-dreams-before-ayahuasca]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Dream 6 - The Cybertruck and the Wrong Exit
@@ -43,12 +43,12 @@ No fixed interpretation has been assigned. Add remembered details, waking associ
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: record, attention, economy
+- [[knowledge/wiki/concepts/Interest-Dependent Persistence|Interest-Dependent Persistence]] — shared language: remains, new, economy
+- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: record, economy, attention
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: dreams, recent, home
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: dreams, attention, economy
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: dreams, economy, attention
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: autofiction, attention, post-irony
 - [[knowledge/wiki/collections/Collection - dreams|Collection - dreams]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00001 0401c221|dream 00001]] — shared language: dream, dreams
-- [[knowledge/wiki/images/dream 00002 0db5cf73|dream 00002]] — shared language: dream, dreams
 <!-- vault-crosslinks:end -->

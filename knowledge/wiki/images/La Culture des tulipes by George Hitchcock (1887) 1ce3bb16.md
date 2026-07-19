@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/La Culture des t
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: des
 - [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: culture
 - [[knowledge/wiki/images/williamadolphe bouguereau nymphes des sources 1902 ed0e3352|williamadolphe bouguereau nymphes des sources 1902]] — shared language: des
 - [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — shared language: george
 - [[knowledge/wiki/artists/Artist - george bellows|Artist - george bellows]] — shared language: george
-- [[knowledge/wiki/artists/Artist - george inness|Artist - george inness]] — shared language: george
 <!-- vault-crosslinks:end -->

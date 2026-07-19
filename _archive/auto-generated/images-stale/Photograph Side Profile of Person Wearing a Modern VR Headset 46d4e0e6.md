@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Side Profile of Person Wearing a Modern VR Headset c94ea24b|Side Profile of Person Wearing a Modern VR Headset]] — named in this note
 - [[_archive/auto-generated/concept-stubs/Image Archive|Image Archive]] — shared language: side
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern
 - [[knowledge/wiki/images/Homeless Person Wearing VR Headset on San Francisco Street 5ea108a2|Homeless Person Wearing VR Headset on San Francisco Street]] — shared language: headset, wearing, person
 - [[_archive/auto-generated/images-stale/Photograph Homeless Person Wearing VR Headset on San Francisco Street 5e79f560|Photograph Homeless Person Wearing VR Headset on San Francisco Street]] — shared language: headset, wearing, person
-- [[knowledge/wiki/images/Man Wearing VR Headset Playing Video Game 6819790d|Man Wearing VR Headset Playing Video Game]] — shared language: headset, wearing
 <!-- vault-crosslinks:end -->

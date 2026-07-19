@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/images/Illustration Stylized Figures in Front of a Brick Wall 5dbf6ea5|Illustration Stylized Figures in Front of a Brick Wall]] — shared language: brick
 - [[knowledge/wiki/images/Photograph White Brick Building Exterior With Metal Pipes And Windows 230eb388|Photograph White Brick Building Exterior With Metal Pipes And Windows]] — shared language: brick, building
 - [[knowledge/wiki/images/Illustration Stylized Artwork People, Dog, Snow Outside Brick Building 7069372e|Illustration Stylized Artwork People, Dog, Snow Outside Brick Building]] — shared language: brick, building
 - [[knowledge/wiki/images/Photograph Man Painting Wavy Lines On Brick Wall With Roller 3985a611|Photograph Man Painting Wavy Lines On Brick Wall With Roller]] — shared language: brick
 - [[knowledge/wiki/images/Photograph Large Sheet of Dried Ivy Peeling Off Brick Building 54beb1bf|Photograph Large Sheet of Dried Ivy Peeling Off Brick Building]] — shared language: brick, building
-- [[knowledge/wiki/images/Person Painting Horizontal Colored Lines on a Brick Wall bbf9f2c6|Person Painting Horizontal Colored Lines on a Brick Wall]] — shared language: brick
 <!-- vault-crosslinks:end -->

@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Mon
 - [[knowledge/archive/auto-generated/artists-stale/Artist - benjamin west 1768|Artist - benjamin west 1768]] — shared language: west
 - [[knowledge/archive/auto-generated/artists-stale/Artist - benjamin west 1802|Artist - benjamin west 1802]] — shared language: west
 - [[knowledge/wiki/books/daoist-alchemy-in-the-west-the-esoteric-paradigms|Daoist Alchemy in the West: The Esoteric Paradigms]] — shared language: west
-- [[knowledge/archive/auto-generated/artists-stale/Artist - kanye west|Artist - kanye west]] — shared language: west
+- [[knowledge/archive/auto-generated/artists-stale/Artist - benjamin west 1770|Artist - benjamin west 1770]] — shared language: west
 <!-- vault-crosslinks:end -->

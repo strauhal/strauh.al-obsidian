@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/evening_cool_at_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: evening
 - [[knowledge/wiki/artists/Artist - onoe matsusuke i by utagawa toyokuni i|Artist - onoe matsusuke i by utagawa toyokuni i]] — shared language: toyokuni, utagawa
 - [[knowledge/wiki/images/the ghost of oiwa played by onoe matsusuke i by utagawa toyokuni i c 1796 771d939c|the ghost of oiwa played by onoe matsusuke i by utagawa toyokuni i c 1796]] — shared language: toyokuni, utagawa
 - [[knowledge/wiki/books/cormac-mccarthy-blood-meridian-or-the-evening-redness-in-the-west|Blood Meridian - Or the Evening Redness in the West]] — shared language: evening
 - [[knowledge/wiki/anchors/cool-words|cool words]] — shared language: cool
-- [[knowledge/wiki/artists/Artist - utagawa kunisada|Artist - utagawa kunisada]] — shared language: utagawa
 <!-- vault-crosslinks:end -->

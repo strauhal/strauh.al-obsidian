@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Modern Int
 ## Discovered Connections
 
 - [[knowledge/wiki/images/pillars 43e3e1eb|pillars]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern, curved
 - [[knowledge/wiki/images/Modern White Building with Curved Architecture and Large Windows 90e19def|Modern White Building with Curved Architecture and Large Windows]] — shared language: curved, modern
 - [[knowledge/wiki/images/Modern Library Interior with Spiral Wooden Ceiling and Circular Skylight cda45386|Modern Library Interior with Spiral Wooden Ceiling and Circular Skylight]] — shared language: ceiling, modern, interior
 - [[knowledge/wiki/images/Modern Auditorium Interior with Swirling Textured Ceiling and Green Floor 2c92db87|Modern Auditorium Interior with Swirling Textured Ceiling and Green Floor]] — shared language: ceiling, modern, interior
-- [[knowledge/wiki/images/Photograph of a Colorful Abstract Illustration with Musical Instruments and Mannequin e147d6ba|Photograph of a Colorful Abstract Illustration with Musical Instruments and Mannequin]] — shared language: mannequin, mannequin.jpeg
 <!-- vault-crosslinks:end -->

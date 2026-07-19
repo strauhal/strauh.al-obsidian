@@ -44,18 +44,6 @@ reignited" and he reframes the despair as what gave the year its meaning.
 **Books (6).** [[friedrich-nietzsche-selected-and-translated-with-an-introduction-by-r-j-hollingdale-a-nietzsche-reader-penguin-classics|A Nietzsche Reader (Penguin Classics)]] · [[friedrich-nietzsche-basic-writings-of-nietzsche|Basic Writings of Nietzsche]] · [[cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] · [[friedrich-nietzsche-ed-walter-kaufmann-the-portable-nietzsche|The Portable Nietzsche]] · [[friedrich-nietzsche-thus-spoke-zarathustra|Thus Spoke Zarathustra]] · [[stoic-4chan|stoic 4chan]]
 
 <!-- archive-links:end -->
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
-- [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
-- [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
-- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
-- [[knowledge/wiki/images/deathbed b3013235|deathbed]] — named in this note
-- [[knowledge/wiki/images/essence dbff3c59|essence]] — named in this note
-<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -114,3 +102,16 @@ reignited" and he reframes the despair as what gave the year its meaning.
 
 *…and 13 more on [[knowledge base quotes]].*
 <!-- quotes:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
+- [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
+- [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
+- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
+- [[knowledge/wiki/images/deathbed b3013235|deathbed]] — named in this note
+- [[knowledge/wiki/images/essence dbff3c59|essence]] — named in this note
+<!-- vault-crosslinks:end -->

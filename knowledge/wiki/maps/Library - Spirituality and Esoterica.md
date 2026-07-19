@@ -2,8 +2,8 @@
 title: Library - Spirituality and Esoterica
 type: map
 tags: [map, library, books]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Library - Spirituality and Esoterica
@@ -50,6 +50,6 @@ Books/files: 28
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: press, university, richard
 - [[knowledge/wiki/books/timothy-leary-start-your-own-religion-ronin-publishing|Start Your Own Religion-Ronin Publishing]] — shared language: leary, timothy
 - [[knowledge/wiki/books/timothy-leary-politics-of-self-determination-self-mastery-series|Politics of Self-Determination (Self-Mastery Series)]] — shared language: leary, timothy
-- [[knowledge/wiki/books/powers-richard-galatea-2-2|Galatea 2 2]] — shared language: powers, richard
 - [[knowledge/output/book-author-candidates|Book Author Candidates]] — shared language: joyous, adventures, cosmology
+- [[knowledge/wiki/books/powers-richard-galatea-2-2|Galatea 2 2]] — shared language: powers, richard
 <!-- vault-crosslinks:end -->

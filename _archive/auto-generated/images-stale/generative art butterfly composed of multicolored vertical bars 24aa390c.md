@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: generative
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: generative
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: generative
 - [[_archive/auto-generated/images-stale/black and white generative drawing of three vertical swirling forms c639147f|black and white generative drawing of three vertical swirling forms]] — shared language: generative, vertical
 - [[_archive/auto-generated/images-stale/black ink drawing of two vertical abstract forms composed of fine lines 8ff72f74|black ink drawing of two vertical abstract forms composed of fine lines]] — shared language: composed, vertical
-- [[_archive/auto-generated/images-stale/black and white line drawing of a fragmented human head composed of horizontal and vertical lines 12923969|black and white line drawing of a fragmented human head composed of horizontal and vertical lines]] — shared language: composed, vertical
 <!-- vault-crosslinks:end -->

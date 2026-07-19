@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: step
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Two Figures Embracing 7d27ddde|Illustration Pencil Sketch of Two Figures Embracing]] — shared language: pencil, sketch
 - [[knowledge/wiki/images/Illustration Red Pencil Sketch of Striped Nude Woman Holding Rodent 6742508b|Illustration Red Pencil Sketch of Striped Nude Woman Holding Rodent]] — shared language: pencil, sketch, holding
 - [[knowledge/wiki/images/Diagram The ULMFiT 3 step approach 59abb9b2|Diagram The ULMFiT 3 step approach]] — shared language: step
-- [[knowledge/wiki/images/Illustration Pencil Sketch of Two Men with Textured Hair b7fe34e0|Illustration Pencil Sketch of Two Men with Textured Hair]] — shared language: pencil, sketch
 <!-- vault-crosslinks:end -->

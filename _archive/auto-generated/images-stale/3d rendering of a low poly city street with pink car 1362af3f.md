@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Screenshot Low Poly 3D City Street with Pink Car and Street View UI dde70352|Screenshot Low Poly 3D City Street with Pink Car and Street View UI]] — shared language: poly, low, street
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, street
 - [[knowledge/wiki/life/Personality (PAS)|Personality (PAS)]] — shared language: low
 - [[knowledge/wiki/images/Illustration Low Poly Torso Against Hot Pink Background by Gao Hang e02b7458|Illustration Low Poly Torso Against Hot Pink Background by Gao Hang]] — shared language: poly, low, pink
-- [[knowledge/wiki/images/Illustration Low Poly Four Armed Figure With Blue Head And Camouflage Pattern e8f40279|Illustration Low Poly Four Armed Figure With Blue Head And Camouflage Pattern]] — shared language: poly, low
 <!-- vault-crosslinks:end -->

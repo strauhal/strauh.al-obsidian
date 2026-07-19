@@ -46,18 +46,6 @@ side of [[Transmitting My Neural Signals by Hand]].
 **Books (2).** [[thomas-pynchon-gravity-s-rainbow-penguin-classics-deluxe-edition-penguin-classics|Gravity's Rainbow (Penguin Classics Deluxe Edition)-Penguin Classics]] · [[regularity-of-colour-statistics-in-explaining-colo|Regularity of colour statistics in explaining colo]]
 
 <!-- archive-links:end -->
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/images/three friends of winter by zhao mengjian c 1250 9e59e391|three friends of winter by zhao mengjian c 1250]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
-- [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
-- [[knowledge/wiki/books/handwriting|handwriting]] — named in this note
-- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
-- [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
-<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -116,3 +104,16 @@ side of [[Transmitting My Neural Signals by Hand]].
 
 *…and 6 more on [[knowledge base quotes]].*
 <!-- quotes:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/three friends of winter by zhao mengjian c 1250 9e59e391|three friends of winter by zhao mengjian c 1250]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
+- [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
+- [[knowledge/wiki/books/handwriting|handwriting]] — named in this note
+- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
+- [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
+<!-- vault-crosslinks:end -->

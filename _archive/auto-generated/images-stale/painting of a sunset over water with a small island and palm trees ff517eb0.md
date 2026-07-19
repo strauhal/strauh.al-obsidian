@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Tropical Island With Palm Trees, Turquoise Water, And Sailboat f1dec837|Tropical Island With Palm Trees, Turquoise Water, And Sailboat]] — shared language: palm, island, trees
 - [[_archive/auto-generated/images-stale/photograph of a tropical island with three palm trees turquoise water and a sailboat ddcd3297|photograph of a tropical island with three palm trees turquoise water and a sailboat]] — shared language: palm, island, trees
 - [[knowledge/wiki/images/Illustration Vibrant Sunset Over Road, Houses, and Palm Trees 6d79bef5|Illustration Vibrant Sunset Over Road, Houses, and Palm Trees]] — shared language: palm, sunset, trees
-- [[_archive/auto-generated/images-stale/Photograph Two Silhouetted Figures Fishing on a Small Island in Sparkling Water 0f3fd889|Photograph Two Silhouetted Figures Fishing on a Small Island in Sparkling Water]] — shared language: island, small, water
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees, water
 <!-- vault-crosslinks:end -->

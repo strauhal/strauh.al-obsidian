@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/2023_downloadsfolder.html"
 source_relpath: "2023_downloadsfolder.html"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:15"
+compiled_at: "2026-07-19T02:00:03"
 tags: ["strauhal", "source/html"]
 ---
 # 2023 downloadsfolder

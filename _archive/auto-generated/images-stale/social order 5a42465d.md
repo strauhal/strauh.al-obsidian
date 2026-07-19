@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: social, order
 - [[knowledge/wiki/images/Screenshot Screenshot of Text Describing an Ideal Social Order 928e7df5|Screenshot Screenshot of Text Describing an Ideal Social Order]] — shared language: order, social, order.png
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: social
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: social
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: order
-- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: social
 <!-- vault-crosslinks:end -->

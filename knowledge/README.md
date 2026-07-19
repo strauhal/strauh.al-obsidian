@@ -117,8 +117,8 @@ Conversation notes are archival evidence. Automatically surfaced memory candidat
 - [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — named in this note
 - [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
 - [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: vault, memory
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: memory, vault
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: curated, knowledge
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: chatgpt, memory, existing
 <!-- vault-crosslinks:end -->

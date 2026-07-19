@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Sketches of Military Vehicles and Robotic Figures on Sketchbook Page fb8f2365|Illustration Sketches of Military Vehicles and Robotic Figures on Sketchbook Page]] — shared language: robotic, vehicles, military
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: sketchbook, ink, pencil
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, sketchbook, pencil
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: sketchbook
 - [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketchbook, sketches
 - [[knowledge/wiki/images/Illustration Pencil Sketches of Figures in Military Uniforms 1bffd224|Illustration Pencil Sketches of Figures in Military Uniforms]] — shared language: military, sketches, pencil

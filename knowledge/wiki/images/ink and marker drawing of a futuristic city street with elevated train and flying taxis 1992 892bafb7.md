@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/ink_and_marker_d
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: futuristic, city, street
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train
-- [[knowledge/wiki/images/Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways c83538a1|Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways]] — shared language: elevated, futuristic
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: train
-- [[knowledge/wiki/images/Green And White Train On Elevated Tracks In Chicago Skyline ec286cad|Green And White Train On Elevated Tracks In Chicago Skyline]] — shared language: elevated, train
+- [[knowledge/wiki/images/Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways c83538a1|Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways]] — shared language: elevated, futuristic
 <!-- vault-crosslinks:end -->

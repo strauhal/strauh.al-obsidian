@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Cla
 
 - [[knowledge/wiki/images/Claim Denial Rates By Insurance Company Bar Chart cd221550|Claim Denial Rates By Insurance Company Bar Chart]] — same artist: insurance company bar chart
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, chart
-- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: company
-- [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — shared language: denial
-- [[_archive/auto-generated/images-stale/Diagram Stacked Bar Chart Showing Car Colors By Year a12920e2|Diagram Stacked Bar Chart Showing Car Colors By Year]] — shared language: bar, chart, diagram
+- [[knowledge/wiki/concepts/Recursive Myth-Making|Recursive Myth-Making]] — shared language: claim
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: claim
+- [[knowledge/wiki/maps/Map - Claim Provenance|Map - Claim Provenance]] — shared language: claim
 <!-- vault-crosslinks:end -->

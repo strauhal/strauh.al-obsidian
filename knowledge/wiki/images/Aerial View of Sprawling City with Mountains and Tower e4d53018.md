@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Aerial Vie
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, aerial, view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower, aerial, city
 - [[knowledge/wiki/images/Aerial View of City, Water, and Snow Capped Mountains f2eb6868|Aerial View of City, Water, and Snow Capped Mountains]] — shared language: aerial, mountains, city
 - [[knowledge/wiki/artists/Artist - thefacetpixel|Artist - thefacetpixel]] — shared language: aerial, city, view
 - [[knowledge/wiki/images/Photograph Aerial View of Chicago City Grid at Night by thefacetpixel 391f7c96|Photograph Aerial View of Chicago City Grid at Night by thefacetpixel]] — shared language: aerial, city, view
-- [[knowledge/wiki/images/Photograph Aerial View of Chicago City Grid at Night a6c70bdd|Photograph Aerial View of Chicago City Grid at Night]] — shared language: aerial, city, view
 <!-- vault-crosslinks:end -->

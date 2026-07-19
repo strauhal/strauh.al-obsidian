@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Line Drawing Tattoo of Two Nude Figures Dancing b9ec4aa1|Photograph Line Drawing Tattoo of Two Nude Figures Dancing]] — shared language: tattoo, dancing, nude
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line, one
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: one
 - [[_archive/auto-generated/images-stale/oil painting of nude figures dancing in a dark forest bf880719|oil painting of nude figures dancing in a dark forest]] — shared language: dancing, nude
 - [[knowledge/wiki/images/Hooked Tail by Toshiyuki Enoki (2014) 55c4e030|Hooked Tail by Toshiyuki Enoki (2014)]] — shared language: tail
-- [[knowledge/wiki/images/Illustration Line Drawing Of Reclining Nude Woman 60246e28|Illustration Line Drawing Of Reclining Nude Woman]] — shared language: nude, line
 <!-- vault-crosslinks:end -->

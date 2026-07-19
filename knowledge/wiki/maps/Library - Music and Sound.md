@@ -2,8 +2,8 @@
 title: Library - Music and Sound
 type: map
 tags: [map, library, books]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Library - Music and Sound
@@ -34,8 +34,8 @@ Books/files: 14
 - [[knowledge/wiki/images/hideo kojima d3de540b|hideo kojima]] — named in this note
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music, sound, hecker
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: music, hecker
-- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: music, hecker
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: music, sound, spectral
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: music, hecker
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: music, sound
+- [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: hecker, tim
 <!-- vault-crosslinks:end -->

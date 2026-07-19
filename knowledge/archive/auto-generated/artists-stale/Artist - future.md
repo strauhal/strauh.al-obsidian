@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - future 2015|Artist - future 2015]] — named in this note
 - [[_archive/auto-generated/images-stale/the future is now by scott c 2014 e04b827c|the future is now by scott c 2014]] — shared language: future
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: future
 - [[_archive/auto-generated/books-stale/industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: future
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-future-of-man-image|The Future of Man-Image]] — shared language: future
 - [[knowledge/wiki/images/The Future Is Now by Josan Gonzalez (2017) 227e430a|The Future Is Now by Josan Gonzalez (2017)]] — shared language: future
-- [[_archive/auto-generated/images-stale/the future of senses editorial jpg 757f753b|the future of senses editorial jpg]] — shared language: future
 <!-- vault-crosslinks:end -->

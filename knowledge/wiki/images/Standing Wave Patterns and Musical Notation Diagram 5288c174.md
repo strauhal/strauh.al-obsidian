@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Standing_Wave
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
-- [[knowledge/wiki/images/Document Musical Score and Dance Notation for 'La Mari e' e37971b9|Document Musical Score and Dance Notation for 'La Mari e']] — shared language: notation, musical
 - [[knowledge/wiki/images/Illustration Abstract Line Drawing With Wave Like And Swirling Patterns 04c51151|Illustration Abstract Line Drawing With Wave Like And Swirling Patterns]] — shared language: wave, patterns
+- [[knowledge/wiki/images/Document Musical Score and Dance Notation for 'La Mari e' e37971b9|Document Musical Score and Dance Notation for 'La Mari e']] — shared language: notation, musical
 - [[knowledge/wiki/images/Musical Notation of a Six Note Chord in Treble Clef f099dca3|Musical Notation of a Six Note Chord in Treble Clef]] — shared language: notation, musical
 - [[knowledge/wiki/images/Document Illuminated Manuscript Fragment with Initial E and Musical Notation dab19ee4|Document Illuminated Manuscript Fragment with Initial E and Musical Notation]] — shared language: notation, musical
 <!-- vault-crosslinks:end -->

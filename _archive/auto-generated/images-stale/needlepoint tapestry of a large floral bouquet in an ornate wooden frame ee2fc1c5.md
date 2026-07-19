@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Needlepoint Tapestry of Floral Bouquet in Ornate Frame 62a099df|Illustration Needlepoint Tapestry of Floral Bouquet in Ornate Frame]] — shared language: tapestry, needlepoint, bouquet
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ornate, large
 - [[knowledge/wiki/images/Illustration Ornate Carved Wood Fire Screen With Floral Needlepoint Panel ea6e4a83|Illustration Ornate Carved Wood Fire Screen With Floral Needlepoint Panel]] — shared language: needlepoint, floral, ornate
 - [[_archive/auto-generated/images-stale/ornate carved wood fire screen with floral needlepoint panel 06402a52|ornate carved wood fire screen with floral needlepoint panel]] — shared language: needlepoint, floral, ornate
 - [[_archive/auto-generated/images-stale/oil painting of a colorful floral bouquet in a glass vase 37b61983|oil painting of a colorful floral bouquet in a glass vase]] — shared language: bouquet, floral
-- [[knowledge/wiki/images/Illustration Colorful Floral Bouquet in Glass Vase on Table 06a276e5|Illustration Colorful Floral Bouquet in Glass Vase on Table]] — shared language: bouquet, floral
 <!-- vault-crosslinks:end -->

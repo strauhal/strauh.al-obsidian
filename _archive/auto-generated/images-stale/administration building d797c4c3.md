@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Classical Building Under Construction 99341c75|Photograph Black and White Photograph of a Classical Building Under Construction]] — shared language: building
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building 7fa929f6|Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building]] — shared language: building, building.jpg
 - [[knowledge/wiki/artists/Artist - Brick Building|Artist - Brick Building]] — shared language: building
 - [[knowledge/wiki/images/Black And White Photo Of Person On Skateboard In Front Of Building 03c8818b|Black And White Photo Of Person On Skateboard In Front Of Building]] — shared language: building, building.jpg
-- [[_archive/auto-generated/images-stale/Photograph Black And White Photo Of Person On Skateboard In Front Of Building 2ebace70|Photograph Black And White Photo Of Person On Skateboard In Front Of Building]] — shared language: building, building.jpg
 <!-- vault-crosslinks:end -->

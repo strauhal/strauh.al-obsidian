@@ -6,8 +6,8 @@ category: drawing-submission
 message_count: 1
 incoming_count: 1
 tags: [private, correspondence, fanmail]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # HHIII my name is khalil im 17 and found your website on 4 chan lol but i had to take a picture of it cuz i was drawing on a my xbox believe it or not.

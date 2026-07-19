@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Distant White House With Red Roof In Green Field, Circular View dfa43fb5|Illustration Distant White House With Red Roof In Green Field, Circular View]] — shared language: roof, circular, field
+- [[knowledge/wiki/images/Illustration Distant White House With Red Roof In Green Field, Circular View dfa43fb5|Illustration Distant White House With Red Roof In Green Field, Circular View]] — shared language: roof, circular, house
 - [[knowledge/wiki/images/Aerial View of Large Crowd and Circular Arrangement on Green Field 8afd9814|Aerial View of Large Crowd and Circular Arrangement on Green Field]] — shared language: circular, field, view
 - [[_archive/auto-generated/images-stale/Photograph Aerial View of Large Crowd and Circular Arrangement on Green Field 02c8155f|Photograph Aerial View of Large Crowd and Circular Arrangement on Green Field]] — shared language: circular, field, view
 - [[knowledge/wiki/images/Illustration Pixel Art White House, Red Roof, Black Car, Turquoise Sky 63c88f24|Illustration Pixel Art White House, Red Roof, Black Car, Turquoise Sky]] — shared language: roof, house

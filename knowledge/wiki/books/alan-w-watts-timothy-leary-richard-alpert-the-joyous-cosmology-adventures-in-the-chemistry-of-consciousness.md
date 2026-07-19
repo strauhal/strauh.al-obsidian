@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The Joyous Cosmology Adventures in the Chemistry of Consciousness by Alan W. Watts, Timothy Leary, Richard Alpert (z-lib.org).pdf"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # The Joyous Cosmology Adventures in the Chemistry of Consciousness

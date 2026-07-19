@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/peace_and_war_by
 ## Discovered Connections
 
 - [[knowledge/wiki/images/mars and peace by pompeo batoni 1770 1775 29e030fc|mars and peace by pompeo batoni 1770 1775]] — same artist: pompeo batoni
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: war
 - [[knowledge/wiki/images/1998 152 allegory of peace and war jpg e5c9d52f|1998 152 allegory of peace and war jpg]] — shared language: peace, war
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: war
 - [[knowledge/wiki/images/Peace by Joe Roberts (2018) 643b712a|Peace by Joe Roberts (2018)]] — shared language: peace
+- [[knowledge/wiki/images/isaac levitan above eternal peace 1894 b4586498|isaac levitan above eternal peace 1894]] — shared language: peace
 <!-- vault-crosslinks:end -->

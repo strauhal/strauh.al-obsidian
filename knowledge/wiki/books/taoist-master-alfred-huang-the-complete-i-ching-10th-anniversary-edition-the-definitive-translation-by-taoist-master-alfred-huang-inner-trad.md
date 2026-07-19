@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Taoist Master Alfred Huang - The Complete I Ching - 10th Anniversary Edition_ The Definitive Translation by Taoist Master Alfred Huang-Inner Traditions (2010).epub"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # The Complete I Ching - 10th Anniversary Edition The Definitive Translation by Taoist Master Alfred Huang-Inner Traditions

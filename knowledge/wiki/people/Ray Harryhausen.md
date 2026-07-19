@@ -43,8 +43,8 @@ frame, the seam between the real and the constructed made to disappear.
 - [[knowledge/wiki/images/ray harryhausen b1a61e72|ray harryhausen]] — shared language: harryhausen, ray, influences
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: influences, listed, among
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences, listed, among
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, listed, among
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: influences, listed, among
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, harryhausen, ray
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, listed, among
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: influences, line, listed
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Ariana Gra
 - [[knowledge/wiki/images/Man Posing With Pink Balloon Letters On Blue Wall 56cc195c|Man Posing With Pink Balloon Letters On Blue Wall]] — shared language: posing, pink
 - [[knowledge/wiki/images/Man Posing With Abstract Drawing At Exhibition e3ad2e14|Man Posing With Abstract Drawing At Exhibition]] — shared language: posing
 - [[knowledge/wiki/images/Illustration Expressionistic Oil Painting of Baby in Striped Outfit 68dcf6cf|Illustration Expressionistic Oil Painting of Baby in Striped Outfit]] — shared language: outfit
-- [[knowledge/wiki/images/Photograph Black and White Photograph of a Woman Posing in an Empty Room b8da348e|Photograph Black and White Photograph of a Woman Posing in an Empty Room]] — shared language: posing
+- [[knowledge/wiki/images/Person In Maid Outfit Operating DJ Equipment 0c9455fc|Person In Maid Outfit Operating DJ Equipment]] — shared language: outfit
 <!-- vault-crosslinks:end -->

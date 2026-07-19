@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/images/Illustration Line Drawing of Armored Mecha Figure in Action 236f9417|Illustration Line Drawing of Armored Mecha Figure in Action]] — shared language: armored, line
 - [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line
-- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: line
+- [[knowledge/wiki/images/Man's Head Reflected With Traffic Lights In Window 886b5f88|Man's Head Reflected With Traffic Lights In Window]] — shared language: man's, head
 <!-- vault-crosslinks:end -->

@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: deepdream, like
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: deepdream, space
 - [[knowledge/wiki/images/auguste renoir en ete la bohemienne google art projectfxd jpg 50681e2b|auguste renoir en ete la bohemienne google art projectfxd jpg]] — shared language: google
 - [[knowledge/wiki/images/Illustration Detailed Black and White Surreal Landscape with Figures and Creatures ec50ccba|Illustration Detailed Black and White Surreal Landscape with Figures and Creatures]] — shared language: creatures, surreal
 - [[knowledge/wiki/books/andrea-agostinelli-et-al-google-research-musiclm-generating-music-from-text|MusicLM: Generating Music From Text]] — shared language: google, space
 - [[knowledge/wiki/images/Illustration Detailed Pen And Ink Drawing Of Many Grotesque, Surreal Creatures 9e0dd894|Illustration Detailed Pen And Ink Drawing Of Many Grotesque, Surreal Creatures]] — shared language: creatures, surreal
-- [[knowledge/wiki/images/Screenshot Google Images Search Results Showing Crab Nebula and The Fall of the Damned c857aca6|Screenshot Google Images Search Results Showing Crab Nebula and The Fall of the Damned]] — shared language: google
 <!-- vault-crosslinks:end -->

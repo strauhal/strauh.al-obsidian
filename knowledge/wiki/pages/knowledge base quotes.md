@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/quotes.html"
 source_relpath: "knowledge_base/quotes.html"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:16"
+compiled_at: "2026-07-19T02:00:04"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base quotes
@@ -630,5 +630,5 @@ A few of the adult guests wandered in, including Warhol and Haring. Warhol took 
 - [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
 - [[knowledge/wiki/images/cemetery 5775776a|cemetery]] — named in this note
 - [[knowledge/wiki/images/essence dbff3c59|essence]] — named in this note
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: slave, ilwaco, recognition
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: recognition
 <!-- vault-crosslinks:end -->

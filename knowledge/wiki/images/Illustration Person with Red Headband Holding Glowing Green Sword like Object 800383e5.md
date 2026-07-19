@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: object
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
-- [[knowledge/wiki/images/Woman's Face And Hands Holding A Square Object 7ec468ee|Woman's Face And Hands Holding A Square Object]] — shared language: object, holding, object.jpg
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
+- [[knowledge/wiki/images/Woman's Face And Hands Holding A Square Object 7ec468ee|Woman's Face And Hands Holding A Square Object]] — shared language: object, holding, object.jpg
 - [[knowledge/wiki/images/Person in Dark Armor Holding Massive Gray Sword Outdoors at Night c11f7860|Person in Dark Armor Holding Massive Gray Sword Outdoors at Night]] — shared language: sword, holding, person
-- [[knowledge/wiki/images/Illustration Blue Glowing Abstract Figure on Dark Background bab4a6d9|Illustration Blue Glowing Abstract Figure on Dark Background]] — shared language: glowing
 <!-- vault-crosslinks:end -->

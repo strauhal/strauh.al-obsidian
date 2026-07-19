@@ -26,10 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: gapaillard, laurent, ornate
 - [[knowledge/wiki/images/Yves Saint Laurent at Christian Dior's Funeral b280d98c|Yves Saint Laurent at Christian Dior's Funeral]] — shared language: laurent
-- [[knowledge/wiki/images/Yves Saint Laurent, Paris by Jeanloup Sieff cc2334e8|Yves Saint Laurent, Paris by Jeanloup Sieff]] — shared language: laurent
 - [[knowledge/wiki/images/Illustration Black and White Drawing of Ornate Baroque Interior with Figure on Stairs a9a09cab|Illustration Black and White Drawing of Ornate Baroque Interior with Figure on Stairs]] — shared language: ornate, baroque
+- [[knowledge/wiki/images/Yves Saint Laurent, Paris by Jeanloup Sieff cc2334e8|Yves Saint Laurent, Paris by Jeanloup Sieff]] — shared language: laurent
 - [[knowledge/wiki/books/martin-butler-the-corporeal-fantasy|The Corporeal Fantasy]] — shared language: fantasy
 - [[knowledge/wiki/images/Illustration Intricate Fantasy Labyrinth Illustration with Diverse Architectural and Mythical Elements 544dcae7|Illustration Intricate Fantasy Labyrinth Illustration with Diverse Architectural and Mythical Elements]] — shared language: fantasy, intricate
-- [[knowledge/wiki/images/Illustration Ornate Carved Skull With Skeletons And Intricate Patterns e55b9770|Illustration Ornate Carved Skull With Skeletons And Intricate Patterns]] — shared language: ornate, intricate
 <!-- vault-crosslinks:end -->

@@ -48,7 +48,7 @@ anyone can clone it. Maintained through donations.
 - [[knowledge/wiki/collections/Collection - album covers|Collection - album covers]] — named in this note
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — named in this note
 - [[knowledge/wiki/pages/scripts|scripts]] — named in this note
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: confidant, memory, internet
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: memory, confidant, internet
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: organized, site's, readers
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: diary, confidant, internet
-- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: site, feedback, link
 <!-- vault-crosslinks:end -->

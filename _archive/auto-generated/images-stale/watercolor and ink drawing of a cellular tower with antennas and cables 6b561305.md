@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Watercolor and Ink Drawing of a Cellular Tower fffa5395|Illustration Watercolor and Ink Drawing of a Cellular Tower]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/images/Illustration Abstract Watercolor and Ink Sketch of a Woman dca3f6d7|Illustration Abstract Watercolor and Ink Sketch of a Woman]] — shared language: watercolor, ink
 - [[_archive/auto-generated/images-stale/watercolor and ink drawing of a park with modern red building 314ff354|watercolor and ink drawing of a park with modern red building]] — shared language: watercolor, ink
-- [[knowledge/wiki/images/Illustration Watercolor and Ink Portrait of Woman in Hat with Red Jewelry cc101935|Illustration Watercolor and Ink Portrait of Woman in Hat with Red Jewelry]] — shared language: watercolor, ink
 <!-- vault-crosslinks:end -->

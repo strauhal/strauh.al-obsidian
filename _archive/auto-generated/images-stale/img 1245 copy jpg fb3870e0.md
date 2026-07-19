@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/img_1245_copy
 
 - [[_archive/auto-generated/images-stale/Captsafdsvdsvure copy c35f1e2c|Captsafdsvdsvure copy]] — shared language: copy
 - [[knowledge/wiki/images/1458239495 607 copy bba5c1e0|1458239495 607 copy]] — shared language: copy
-- [[knowledge/wiki/books/humphries-paper-copy|humphries paper copy]] — shared language: copy
 - [[_archive/auto-generated/images-stale/image 0068 real B copy a7bc373b|image 0068 real B copy]] — shared language: copy
+- [[knowledge/wiki/books/humphries-paper-copy|humphries paper copy]] — shared language: copy
 - [[_archive/auto-generated/images-stale/pix2pix copy 07d244e2|pix2pix copy]] — shared language: copy
 <!-- vault-crosslinks:end -->

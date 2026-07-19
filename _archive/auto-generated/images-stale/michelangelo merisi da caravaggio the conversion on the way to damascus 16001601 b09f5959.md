@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/artists/Artist - michelangelo merisi da caravaggio|Artist - michelangelo merisi da caravaggio]] — shared language: merisi, caravaggio
 - [[knowledge/archive/auto-generated/artists-stale/Artist - michelangelo merisi da caravaggio 1597 1598|Artist - michelangelo merisi da caravaggio 1597 1598]] — shared language: merisi, caravaggio
 - [[knowledge/wiki/images/medusa by michelangelo merisi da caravaggio 1597 1598 eb9c51ba|medusa by michelangelo merisi da caravaggio 1597 1598]] — shared language: merisi, caravaggio
-- [[knowledge/archive/auto-generated/artists-stale/Artist - caravaggio|Artist - caravaggio]] — shared language: caravaggio
+- [[knowledge/wiki/concepts/Distributed Persistence|Distributed Persistence]] — shared language: conversion
 <!-- vault-crosslinks:end -->

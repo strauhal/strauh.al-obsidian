@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Leonard Koren - Wabi-Sabi_ for Artists, Designers, Poets & Philosophers-Stone Bridge Press (1994).pdf"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Wabi-Sabi for Artists, Designers, Poets & Philosophers-Stone Bridge Press

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Two Young 
 
 - [[knowledge/wiki/images/Illustration Black and White Illustration of Man Reading in Library by Franklin Booth 80d2848d|Illustration Black and White Illustration of Man Reading in Library by Franklin Booth]] — shared language: booth, booth.jpg
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: people
+- [[knowledge/wiki/artists/Artist - frederick booth|Artist - frederick booth]] — shared language: booth
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: people
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: people
-- [[knowledge/wiki/artists/Artist - frederick booth|Artist - frederick booth]] — shared language: booth
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Pixel Drawing Of A Gray Elephant In A Yellow And Blue Landscape by Terry A. Davis dbe666d8|Illustration Pixel Drawing Of A Gray Elephant In A Yellow And Blue Landscape by Terry A. Davis]] — shared language: elephant, gray, pixel
 - [[knowledge/wiki/artists/Artist - Terry A. Davis|Artist - Terry A. Davis]] — shared language: elephant, gray, pixel
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: pixel
 - [[_archive/auto-generated/images-stale/painting of two stylized blue elephant figures and broken pieces on a yellow green background 64fe8329|painting of two stylized blue elephant figures and broken pieces on a yellow green background]] — shared language: elephant, yellow
 - [[knowledge/wiki/images/Illustration Stylized Blue Elephant Figures and Broken Pieces on Yellow Green Background a2a89723|Illustration Stylized Blue Elephant Figures and Broken Pieces on Yellow Green Background]] — shared language: elephant, yellow
-- [[knowledge/wiki/images/Illustration Abstract Composite of Pixel Art and Colorful Landscape Paintings c7ac585d|Illustration Abstract Composite of Pixel Art and Colorful Landscape Paintings]] — shared language: pixel, landscape
 <!-- vault-crosslinks:end -->

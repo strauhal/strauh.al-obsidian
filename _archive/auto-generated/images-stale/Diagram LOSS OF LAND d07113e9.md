@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - LOS
 - [[knowledge/wiki/images/LOSS OF LAND 991713f3|LOSS OF LAND]] — named in this note
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: loss
-- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: land
 - [[knowledge/wiki/anchors/nick-land|Nick Land]] — shared language: land
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: land
 <!-- vault-crosslinks:end -->

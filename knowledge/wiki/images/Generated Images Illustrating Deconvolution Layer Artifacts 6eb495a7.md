@@ -28,5 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Generated_Ima
 - [[knowledge/wiki/images/Comparison of Generated Images with Deconvolution Artifacts 5be9023f|Comparison of Generated Images with Deconvolution Artifacts]] — shared language: artifacts, artifacts.png
 - [[knowledge/wiki/images/Diagram Grid of Pixelated Images Illustrating Deconvolution Artifacts fa6d1ab9|Diagram Grid of Pixelated Images Illustrating Deconvolution Artifacts]] — shared language: artifacts, artifacts.png
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: layer
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: artifacts
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: layer
 <!-- vault-crosslinks:end -->

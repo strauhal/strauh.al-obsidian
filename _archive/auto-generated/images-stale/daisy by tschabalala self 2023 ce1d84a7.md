@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tschabalala self 2023|Artist - tschabalala self 2023]] — named in this note
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: self
 - [[knowledge/wiki/images/william merritt chase a daisy field 1906 41678409|william merritt chase a daisy field 1906]] — shared language: daisy
-- [[knowledge/wiki/images/Illustration Person Holding Daisy, Wearing Tank Top and Sneakers 9fde2cc7|Illustration Person Holding Daisy, Wearing Tank Top and Sneakers]] — shared language: daisy
 <!-- vault-crosslinks:end -->

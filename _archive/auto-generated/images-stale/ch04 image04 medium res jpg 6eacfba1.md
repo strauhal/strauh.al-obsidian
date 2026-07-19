@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/The Library by Erik Desmazi res (1984) bceff546|The Library by Erik Desmazi res (1984)]] — shared language: res
+- [[knowledge/wiki/concepts/Controlled Surrender|Controlled Surrender]] — shared language: medium
 - [[knowledge/wiki/books/epub-golan-levin-tega-brain-code-as-creative-medium-a-handbook-for-computational-art-and-design-mit-press|Code as Creative Medium A Handbook for Computational Art and Design-MIT Press]] — shared language: medium
 - [[knowledge/wiki/images/Apple M1 chip family lineup 220308 big.jpg.slideshow medium 2x 4d0bbbe0|Apple M1 chip family lineup 220308 big.jpg.slideshow medium 2x]] — shared language: medium
 - [[knowledge/wiki/images/page 170 of the new york city transit authority graphics standards manual showing standard medium typeface numbers and symbols 1970 29c08d11|page 170 of the new york city transit authority graphics standards manual showing standard medium typeface numbers and symbols 1970]] — shared language: medium
-- [[_archive/auto-generated/images-stale/1 clpde odlazc0uhln02vuq jpg 3e7a507f|1 clpde odlazc0uhln02vuq jpg]] — shared language: jpg.jpg
 <!-- vault-crosslinks:end -->

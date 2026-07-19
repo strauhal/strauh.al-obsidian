@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - ito shinsui|Artist - ito shinsui]] — named in this note
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: ito
 - [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 1987|Artist - junji ito 1987]] — shared language: ito
 - [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 2002|Artist - junji ito 2002]] — shared language: ito
 - [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 19872000|Artist - junji ito 19872000]] — shared language: ito
+- [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 1998 1999|Artist - junji ito 1998 1999]] — shared language: ito
 <!-- vault-crosslinks:end -->

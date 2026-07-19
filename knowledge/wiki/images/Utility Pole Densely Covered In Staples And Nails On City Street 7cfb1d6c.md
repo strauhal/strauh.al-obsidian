@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Utility Po
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, street
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, street
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: utility
 - [[knowledge/wiki/images/Black and White Photograph of Crucifix on Utility Pole with Wires ec021f7e|Black and White Photograph of Crucifix on Utility Pole with Wires]] — shared language: utility, pole
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: pole
-- [[knowledge/wiki/images/Photograph Dense Black Cables Covering Building Facade and Utility Pole in Dhaka 77adf1ae|Photograph Dense Black Cables Covering Building Facade and Utility Pole in Dhaka]] — shared language: utility, pole
 <!-- vault-crosslinks:end -->

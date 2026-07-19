@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Close-up o
 
 - [[knowledge/wiki/images/Photograph Crude 9 11 Themed Tattoo on a Person's Back 329ef1cf|Photograph Crude 9 11 Themed Tattoo on a Person's Back]] — shared language: tattoo, person's
 - [[knowledge/wiki/images/Photograph Line Drawing Tattoo of Two Nude Figures Dancing b9ec4aa1|Photograph Line Drawing Tattoo of Two Nude Figures Dancing]] — shared language: tattoo
-- [[knowledge/wiki/images/Illustration Fragmented Portrait of a Person's Face c30cf128|Illustration Fragmented Portrait of a Person's Face]] — shared language: person's
 - [[knowledge/wiki/images/Black And White Tattoo Of Anime Girl With Text 871741f2|Black And White Tattoo Of Anime Girl With Text]] — shared language: tattoo
-- [[knowledge/wiki/images/Illustration Black and White Halftone Profile of a Person's Head 3fdc0aff|Illustration Black and White Halftone Profile of a Person's Head]] — shared language: person's
+- [[knowledge/wiki/images/Illustration Fragmented Portrait of a Person's Face c30cf128|Illustration Fragmented Portrait of a Person's Face]] — shared language: person's
+- [[knowledge/wiki/images/Illustration Red Haired Woman With Tattoo In Water Looking Up f67df98c|Illustration Red Haired Woman With Tattoo In Water Looking Up]] — shared language: tattoo
 <!-- vault-crosslinks:end -->

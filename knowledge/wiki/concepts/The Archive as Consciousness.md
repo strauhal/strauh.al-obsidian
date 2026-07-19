@@ -26,6 +26,10 @@ shared nervous system.
 - Makes [[Latent Space]] literal — a self with coordinates because the self is stored.
 
 ## Connections
+- [[Distributed Persistence]] — the archive is meant to remain usable, not merely remembered.
+- [[Recursive Myth-Making]] — an external mind can amplify its own interpretations unless
+  source descent remains visible.
+- [[Map - Claim Provenance]] — the trust model for the second memory.
 - [[strauh.al Archive]] — the consciousness in question.
 - [[Memory and Preservation]] — the drive that fills it.
 - [[The Internet as Confidant]] — the externalized mind's interlocutor.
@@ -52,9 +56,9 @@ shared nervous system.
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: latent, archive-links, space
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: self, already, archive-links
-- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: mind, drive, less
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: mind, confidant, internet
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: mind, drive
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: mind, it's
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: latent, autofiction, confidant
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: already, latent, makes
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: archive-links, space, corpus
+- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: it's, latent, literal
 <!-- vault-crosslinks:end -->

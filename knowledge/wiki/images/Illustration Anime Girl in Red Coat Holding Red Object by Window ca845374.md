@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Stylized Still Life of Flowers in Vase by Window bb6431e7|Illustration Stylized Still Life of Flowers in Vase by Window]] — same artist: window
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: object
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: anime
 - [[knowledge/wiki/images/Illustration Black and White Sketches of Mechanical Object, Anime Girl, Featureless Head 4362da6f|Illustration Black and White Sketches of Mechanical Object, Anime Girl, Featureless Head]] — shared language: object, anime, girl
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
-- [[knowledge/wiki/images/Black And White Tattoo Of Anime Girl With Text 871741f2|Black And White Tattoo Of Anime Girl With Text]] — shared language: anime, girl
 <!-- vault-crosslinks:end -->

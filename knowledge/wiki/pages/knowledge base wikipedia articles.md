@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/wikipedia_articles.html"
 source_relpath: "knowledge_base/wikipedia_articles.html"
 compiled: "True"
-compiled_at: "2026-07-18T00:07:16"
+compiled_at: "2026-07-19T02:00:04"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base wikipedia articles
@@ -679,12 +679,12 @@ strauh.al/knowledge_base/wikipedia_articles
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
-- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — named in this note
-- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — named in this note
-- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — named in this note
-- [[knowledge/wiki/books/vladimir-mayakovsky-a-cloud-in-trousers|A Cloud in Trousers]] — named in this note
-- [[knowledge/wiki/books/william-s-burroughs-naked-lunch|Naked lunch]] — named in this note
-- [[knowledge/wiki/pages/culture society|culture society]] — named in this note
 - [[knowledge/wiki/anchors/satoshi-kon|Satoshi Kon]] — named in this note
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/images/The End of Evangelion (1997) 97513b0f|The End of Evangelion (1997)]] — named in this note
+- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+- [[knowledge/wiki/pages/culture society|culture society]] — named in this note
+- [[knowledge/wiki/images/virgil abloh 0a467cdb|virgil abloh]] — named in this note
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
+- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
 <!-- vault-crosslinks:end -->

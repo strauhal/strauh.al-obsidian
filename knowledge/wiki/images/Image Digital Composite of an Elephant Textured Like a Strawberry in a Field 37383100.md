@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Digital 
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
 - [[knowledge/wiki/images/Illustration Red Rope Like Figure Merging With Textured Painting 864c9fbc|Illustration Red Rope Like Figure Merging With Textured Painting]] — shared language: textured, like
 - [[knowledge/wiki/images/Illustration Abstract Digital Art with Blue Numbers and Red Textured Patterns 90a91af4|Illustration Abstract Digital Art with Blue Numbers and Red Textured Patterns]] — shared language: textured, digital
-- [[knowledge/wiki/images/Illustration Abstract Composite of Pixel Art and Colorful Landscape Paintings c7ac585d|Illustration Abstract Composite of Pixel Art and Colorful Landscape Paintings]] — shared language: composite
+- [[knowledge/wiki/images/Illustration Stylized Blue Elephant Figures and Broken Pieces on Yellow Green Background a2a89723|Illustration Stylized Blue Elephant Figures and Broken Pieces on Yellow Green Background]] — shared language: elephant
 <!-- vault-crosslinks:end -->

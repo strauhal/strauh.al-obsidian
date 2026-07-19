@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Hon
 
 - [[knowledge/wiki/images/Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings 6377cbc7|Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings]] — shared language: hong, kong
 - [[knowledge/wiki/images/hong kong and shanghai bank by andreas gursky 1994 23f0808e|hong kong and shanghai bank by andreas gursky 1994]] — shared language: hong, kong
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: bridge
 - [[knowledge/wiki/images/Screenshot Comparison of Original and AI Generated Godzilla vs. Kong Scenes 3ea7f481|Screenshot Comparison of Original and AI Generated Godzilla vs. Kong Scenes]] — shared language: kong
-- [[knowledge/wiki/artists/Artist - andreas gursky|Artist - andreas gursky]] — shared language: hong, kong
 <!-- vault-crosslinks:end -->

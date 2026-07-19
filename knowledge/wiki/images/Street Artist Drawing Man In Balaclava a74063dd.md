@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Street Art
 - [[knowledge/wiki/images/Black and White Photo of Woman Licking Man in Balaclava 7b84f081|Black and White Photo of Woman Licking Man in Balaclava]] — shared language: balaclava, balaclava.jpeg
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
 - [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: street
 - [[knowledge/wiki/images/Person In Balaclava Holding Metal Chain With Chopsticks 000e77bb|Person In Balaclava Holding Metal Chain With Chopsticks]] — shared language: balaclava
-- [[knowledge/wiki/images/Illustration Two Balaclava Clad Figures Holding Cats 746393b1|Illustration Two Balaclava Clad Figures Holding Cats]] — shared language: balaclava
 <!-- vault-crosslinks:end -->

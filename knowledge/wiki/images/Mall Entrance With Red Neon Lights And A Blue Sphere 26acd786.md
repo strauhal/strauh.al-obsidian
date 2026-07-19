@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Mall Entra
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: lights
 - [[knowledge/wiki/images/Four Views Of A Color Sphere Diagram fbbbaad6|Four Views Of A Color Sphere Diagram]] — shared language: sphere
 - [[knowledge/wiki/images/neon and rain ba804198|neon and rain]] — shared language: neon
 - [[knowledge/wiki/images/Interior of a shopping mall with pink lighting and fountain 75691f38|Interior of a shopping mall with pink lighting and fountain]] — shared language: mall
 - [[knowledge/wiki/images/Illustration Abstract Figures Within Glowing Spatial Sphere aa198dd9|Illustration Abstract Figures Within Glowing Spatial Sphere]] — shared language: sphere
-- [[knowledge/wiki/images/Close Up Of A Cave Entrance Or Rock Formation 0067f515|Close Up Of A Cave Entrance Or Rock Formation]] — shared language: entrance
 <!-- vault-crosslinks:end -->

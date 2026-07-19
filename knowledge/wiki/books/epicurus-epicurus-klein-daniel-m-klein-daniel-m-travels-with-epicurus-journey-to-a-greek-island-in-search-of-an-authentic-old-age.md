@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Epicurus, Epicurus._ Klein, Daniel M._ Klein, Daniel M - Travels with Epicurus_ journey to a Greek island in search of an authentic old age (2012, Text Publishing Company) - libgen.lc.epub"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Travels with Epicurus journey to a Greek island in search of an authentic old age

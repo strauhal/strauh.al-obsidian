@@ -38,7 +38,7 @@ Images attributed by filename: 6
 - [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: benjamin
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: benjamin
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: benjamin
 - [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: benjamin
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: benjamin
-- [[knowledge/wiki/images/Genius Calling Forth the Fine Arts to Adorn Manufactures by Benjamin West (1789) 33f47fa7|Genius Calling Forth the Fine Arts to Adorn Manufactures by Benjamin West (1789)]] — shared language: benjamin, west
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 - [[_archive/auto-generated/images-stale/img 1245 copy jpg fb3870e0|img 1245 copy jpg]] — shared language: copy
 - [[_archive/auto-generated/images-stale/pix2pix copy 07d244e2|pix2pix copy]] — shared language: copy, copy.png
 - [[knowledge/wiki/images/1458239495 607 copy bba5c1e0|1458239495 607 copy]] — shared language: copy
-- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: real
+- [[knowledge/wiki/books/humphries-paper-copy|humphries paper copy]] — shared language: copy
 <!-- vault-crosslinks:end -->

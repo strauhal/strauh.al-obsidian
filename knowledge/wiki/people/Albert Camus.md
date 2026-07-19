@@ -36,7 +36,7 @@ with them as humans."
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — named in this note
 - [[knowledge/wiki/images/albert camus 509478c6|albert camus]] — shared language: camus, albert, influences
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: like, attention, instead
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: like, diary, even
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: like, even, without
 - [[knowledge/wiki/artists/Artist - Albert Camus|Artist - Albert Camus]] — shared language: camus, albert
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, camus, albert
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, diary, listed
 <!-- vault-crosslinks:end -->

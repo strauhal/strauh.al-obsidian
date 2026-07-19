@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Man Posing
 - [[knowledge/wiki/artists/Artist - neoclassical exhibition halls|Artist - neoclassical exhibition halls]] — shared language: exhibition
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Large Exhibition Hall Interior c2700266|Photograph Black and White Photograph of a Large Exhibition Hall Interior]] — shared language: exhibition
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Woman Posing in an Empty Room b8da348e|Photograph Black and White Photograph of a Woman Posing in an Empty Room]] — shared language: posing
-- [[knowledge/wiki/images/Photograph Sepia Photograph of Grand Neoclassical Exhibition Building and Waterway 519af011|Photograph Sepia Photograph of Grand Neoclassical Exhibition Building and Waterway]] — shared language: exhibition
+- [[knowledge/wiki/images/Two People Posing Against A Plain Background c35bbd2a|Two People Posing Against A Plain Background]] — shared language: posing
 <!-- vault-crosslinks:end -->

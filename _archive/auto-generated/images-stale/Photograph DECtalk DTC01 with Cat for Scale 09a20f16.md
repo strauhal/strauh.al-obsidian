@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[_archive/auto-generated/images-stale/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
 - [[knowledge/wiki/images/cat a443393d|cat]] — shared language: cat
 - [[knowledge/wiki/images/Illustration Detailed Line Drawing Of A Large Spotted Crustacean With Scale Figure 50dad1e0|Illustration Detailed Line Drawing Of A Large Spotted Crustacean With Scale Figure]] — shared language: scale
-- [[knowledge/wiki/images/Diagram Typographic Scale Showing Letter 'a' in Various Point Sizes a7b39d96|Diagram Typographic Scale Showing Letter 'a' in Various Point Sizes]] — shared language: scale
+- [[knowledge/wiki/images/Illustration Black and White Ink Drawing of a Cat in a Suit 389c33c6|Illustration Black and White Ink Drawing of a Cat in a Suit]] — shared language: cat
 <!-- vault-crosslinks:end -->

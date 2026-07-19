@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - Daniel Isles|Artist - Daniel Isles]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - daniel isles|Artist - Daniel Isles]] — shared language: isles, daniel, futuristic
 - [[knowledge/wiki/images/Illustration Stylized Characters Skating in a Futuristic City by Daniel Isles a776e810|Illustration Stylized Characters Skating in a Futuristic City by Daniel Isles]] — shared language: isles, daniel, futuristic
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: futuristic, city
 - [[knowledge/wiki/artists/Artist - Daniel Landin|Artist - Daniel Landin]] — shared language: daniel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - daniel arsham|Artist - daniel arsham]] — shared language: daniel
-- [[knowledge/archive/auto-generated/artists-stale/Artist - daniel arsham 2019|Artist - daniel arsham 2019]] — shared language: daniel
 <!-- vault-crosslinks:end -->

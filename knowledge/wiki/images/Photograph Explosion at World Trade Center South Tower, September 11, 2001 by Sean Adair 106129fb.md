@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Exp
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Explosion at World Trade Center During September 11 Attacks d28920f1|Explosion at World Trade Center During September 11 Attacks]] — shared language: september, explosion, trade
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower
 - [[knowledge/wiki/images/Photograph Airplane Approaching Smoking World Trade Center Tower 03634adb|Photograph Airplane Approaching Smoking World Trade Center Tower]] — shared language: trade, center, tower
 - [[knowledge/wiki/images/Woman Watching World Trade Center Towers Smoking 4ff2ea42|Woman Watching World Trade Center Towers Smoking]] — shared language: trade, center, world
 - [[knowledge/wiki/images/World Trade Center Towers Burning After 9 11 Attack fd7770c2|World Trade Center Towers Burning After 9 11 Attack]] — shared language: trade, center, world
-- [[knowledge/wiki/images/Woman Watching World Trade Center Towers During 9 11 Attacks 075517fe|Woman Watching World Trade Center Towers During 9 11 Attacks]] — shared language: trade, center, world
 <!-- vault-crosslinks:end -->

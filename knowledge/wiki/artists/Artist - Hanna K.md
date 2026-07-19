@@ -21,7 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - John Romita Jr. and Scott Hanna|Artist - John Romita Jr. and Scott Hanna]] — shared language: hanna
-- [[knowledge/wiki/images/Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna 2dd4c650|Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna]] — shared language: hanna
+- [[knowledge/wiki/images/Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna a587d824|Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna]] — shared language: hanna
 - [[knowledge/wiki/images/Protester With Tennis Racket Returning Tear Gas Canister 057412d4|Protester With Tennis Racket Returning Tear Gas Canister]] — shared language: racket, tennis
 - [[knowledge/wiki/images/Demonstrator With Tennis Racket And Smoke Bomb At Protest by Stephane Mahe 7ef8d150|Demonstrator With Tennis Racket And Smoke Bomb At Protest by Stephane Mahe]] — shared language: racket, tennis
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl

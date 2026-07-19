@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Trees Seen
 
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: screen
 - [[knowledge/wiki/artists/Artist - Open Door|Artist - Open Door]] — shared language: door
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees
 - [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: screen
-- [[knowledge/wiki/images/The Colosseum Seen from the Palatine Hill by Julius Zielke (c. 1870) 28312145|The Colosseum Seen from the Palatine Hill by Julius Zielke (c. 1870)]] — shared language: seen
 <!-- vault-crosslinks:end -->

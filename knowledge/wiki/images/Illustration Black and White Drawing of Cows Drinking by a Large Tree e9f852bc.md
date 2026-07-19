@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 
 - [[knowledge/wiki/books/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee-wired|Microdosing for Depression Appears to Work About as Well as Drinking Coffee - WIRED]] — shared language: drinking
 - [[knowledge/wiki/images/tool cows by gary larson 1982 ab263c9d|tool cows by gary larson 1982]] — shared language: cows
-- [[knowledge/wiki/images/Photograph Seagull Drinking From 'Dogs Only' Water Bowl 09c70e5a|Photograph Seagull Drinking From 'Dogs Only' Water Bowl]] — shared language: drinking
 - [[knowledge/wiki/artists/Artist - Tree Foliage|Artist - Tree Foliage]] — shared language: tree
+- [[knowledge/wiki/images/Photograph Seagull Drinking From 'Dogs Only' Water Bowl 09c70e5a|Photograph Seagull Drinking From 'Dogs Only' Water Bowl]] — shared language: drinking
 - [[knowledge/wiki/images/Illustration Black And White ASCII Art Of A House And Tree 4f37e911|Illustration Black And White ASCII Art Of A House And Tree]] — shared language: tree, tree.jpg
 <!-- vault-crosslinks:end -->

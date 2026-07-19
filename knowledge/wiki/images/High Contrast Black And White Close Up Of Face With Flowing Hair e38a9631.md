@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/High Contr
 - [[knowledge/wiki/images/Illustration Two Minimalist Figures With Long Flowing Hair 9265bb8c|Illustration Two Minimalist Figures With Long Flowing Hair]] — shared language: flowing, hair, hair.jpg
 - [[knowledge/wiki/images/Illustration Woven Textile Featuring High Contrast Portrait of Downcast Face e54b617b|Illustration Woven Textile Featuring High Contrast Portrait of Downcast Face]] — shared language: contrast, high, face
 - [[knowledge/wiki/images/Illustration Profile Of A Person With Flowing Hair And Dark Headpiece c4a1acd3|Illustration Profile Of A Person With Flowing Hair And Dark Headpiece]] — shared language: flowing, hair
+- [[knowledge/wiki/life/Psychological Architecture|Psychological Architecture]] — shared language: high
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Sleeping Figure with Flowing Hair 77b1aabd|Illustration Pencil Sketch of Sleeping Figure with Flowing Hair]] — shared language: flowing, hair
-- [[knowledge/wiki/images/red and pink high contrast promotional flyer for seiko matsuda s second album 1981 e6935883|red and pink high contrast promotional flyer for seiko matsuda s second album 1981]] — shared language: contrast, high
 <!-- vault-crosslinks:end -->

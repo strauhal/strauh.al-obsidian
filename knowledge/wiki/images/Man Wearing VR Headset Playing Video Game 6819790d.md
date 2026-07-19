@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Man Wearin
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/images/Photograph Chimpanzee In Yellow Shirt Playing Video Game Under 'USER' Sign 1ef78e8d|Photograph Chimpanzee In Yellow Shirt Playing Video Game Under 'USER' Sign]] — shared language: video, game, playing
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: video
 - [[knowledge/wiki/images/Side Profile of Person Wearing a Modern VR Headset c94ea24b|Side Profile of Person Wearing a Modern VR Headset]] — shared language: headset, wearing
+- [[knowledge/wiki/images/Man Wearing VR Headset And Smoking Hookah In Restaurant c26e060c|Man Wearing VR Headset And Smoking Hookah In Restaurant]] — shared language: headset, wearing
 <!-- vault-crosslinks:end -->

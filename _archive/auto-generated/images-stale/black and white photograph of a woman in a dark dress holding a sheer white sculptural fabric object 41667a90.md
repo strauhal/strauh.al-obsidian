@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Woman Holding Sheer White Fabric 7ea3607d|Photograph Black and White Photograph of Woman Holding Sheer White Fabric]] — shared language: sheer, fabric, holding
-- [[_archive/auto-generated/images-stale/expressive painting of a figure holding a light object in a dark landscape 4760e24d|expressive painting of a figure holding a light object in a dark landscape]] — shared language: object, holding, dark
+- [[knowledge/wiki/concepts/Recognition Through Shared Objects|Recognition Through Shared Objects]] — shared language: object
 - [[knowledge/wiki/images/Illustration Dark Wavy Sculptural Wooden Cabinet with Drawers 5f049167|Illustration Dark Wavy Sculptural Wooden Cabinet with Drawers]] — shared language: sculptural, dark
+- [[_archive/auto-generated/images-stale/expressive painting of a figure holding a light object in a dark landscape 4760e24d|expressive painting of a figure holding a light object in a dark landscape]] — shared language: object, holding, dark
 - [[knowledge/wiki/images/Illustration Contemporary Art Installation Featuring Painting and Sculptural Elements 2472759f|Illustration Contemporary Art Installation Featuring Painting and Sculptural Elements]] — shared language: sculptural
-- [[_archive/auto-generated/images-stale/framed portrait of a woman in a white dress on a dark background 35506619|framed portrait of a woman in a white dress on a dark background]] — shared language: dress, dark
 <!-- vault-crosslinks:end -->

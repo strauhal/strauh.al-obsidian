@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Illustration Collection Of White Compact Disc Logos On Black Background 0df8b1f0|Illustration Collection Of White Compact Disc Logos On Black Background]] — shared language: compact, disc, logos
 - [[knowledge/wiki/books/the-lost-generation-compact|The Lost Generation - Compact]] — shared language: compact
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: video
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: compact
 <!-- vault-crosslinks:end -->

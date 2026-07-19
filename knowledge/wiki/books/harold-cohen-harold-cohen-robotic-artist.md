@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Harold Cohen, Robotic Artist, 1995]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Harold Cohen,  Robotic Artist, 1995.pdf"
 sources: ["[[books]]"]
-created: 2026-07-18
-updated: 2026-07-18
+created: 2026-07-19
+updated: 2026-07-19
 ---
 
 # Harold Cohen, Robotic Artist

@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/speed_racer.html"
 source_relpath: "knowledge_base/speed_racer.html"
 compiled: "True"
-compiled_at: "2026-07-19T02:00:04"
+compiled_at: "2026-07-19T13:06:43"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base speed racer

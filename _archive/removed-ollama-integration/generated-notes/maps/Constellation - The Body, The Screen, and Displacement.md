@@ -34,6 +34,6 @@ Interrogating how technology mediates embodiment—from physical movement captur
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: oedipal, physical
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: vocal, study, dreams
-- [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: body, screen, digital
+- [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: screen, body, digital
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: vocal, study
 <!-- vault-crosslinks:end -->

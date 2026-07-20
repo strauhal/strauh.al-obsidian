@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Man Standi
 - [[knowledge/wiki/images/Illustration Black And White Dithered Snowy Landscape With Cabin And Footprints ad1d2af9|Illustration Black And White Dithered Snowy Landscape With Cabin And Footprints]] — shared language: cabin
 - [[knowledge/wiki/images/Standing 3d0a82bd|Standing]] — shared language: standing
 - [[knowledge/wiki/images/Illustration Muscular Man with Spear Standing Next to Lion by Robert G. K. (R.G.K.) 0958651e|Illustration Muscular Man with Spear Standing Next to Lion by Robert G. K. (R.G.K.)]] — shared language: next, standing
-- [[knowledge/wiki/artists/Artist - FOREST|Artist - FOREST]] — shared language: forest
+- [[knowledge/wiki/images/Woman Standing Next To Tall Stack Of Computer Printouts 0d0601d5|Woman Standing Next To Tall Stack Of Computer Printouts]] — shared language: next, standing
 <!-- vault-crosslinks:end -->

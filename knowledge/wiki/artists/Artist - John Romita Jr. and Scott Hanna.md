@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/images/amazing 9104b34b|amazing]] — named in this note
 - [[knowledge/wiki/artists/Artist - Hanna K|Artist - Hanna K]] — shared language: hanna
-- [[knowledge/output/wiki-lint-report|wiki-lint-report]] — shared language: romita, hanna, scott
 - [[knowledge/wiki/artists/Artist - david scott|Artist - david scott]] — shared language: scott
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: scott
+- [[knowledge/wiki/artists/Artist - Scott McCloud|Artist - Scott McCloud]] — shared language: scott, comic
 <!-- vault-crosslinks:end -->

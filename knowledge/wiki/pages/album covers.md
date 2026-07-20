@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/album_covers.html"
 source_relpath: "album_covers.html"
 compiled: "True"
-compiled_at: "2026-07-19T02:00:03"
+compiled_at: "2026-07-19T13:06:43"
 tags: ["strauhal", "source/html"]
 ---
 # album covers

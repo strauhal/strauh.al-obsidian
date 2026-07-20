@@ -46,8 +46,8 @@ thinking (see [[Latent Space]]).
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: distance, implicit, latent
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: implicit, distance, diary
 - [[knowledge/wiki/pages/implicit distance|implicit distance]] — shared language: implicit, distance, warping
-- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: latent, space, temporal
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: latent, distance, space
+- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: latent, space, temporal
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: latent, space
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: stylegan, latent, space
 <!-- vault-crosslinks:end -->

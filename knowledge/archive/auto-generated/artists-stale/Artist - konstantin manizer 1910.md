@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - konstantin manizer|Artist - konstantin manizer]] — named in this note
 - [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin makovsky 1880|Artist - konstantin makovsky 1880]] — shared language: konstantin
 - [[knowledge/wiki/images/portrait of a woman by konstantin makovsky 1880 189a2d30|portrait of a woman by konstantin makovsky 1880]] — shared language: konstantin
 - [[knowledge/wiki/images/portrait of a woman by konstantin makovsky 1880 6b3987c3|portrait of a woman by konstantin makovsky 1880]] — shared language: konstantin
+- [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin makovsky 1880|Artist - konstantin makovsky 1880]] — shared language: konstantin
 - [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin somov 1907|Artist - konstantin somov 1907]] — shared language: konstantin
 <!-- vault-crosslinks:end -->

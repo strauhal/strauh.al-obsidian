@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/web_art.html"
 source_relpath: "knowledge_base/web_art.html"
 compiled: "True"
-compiled_at: "2026-07-19T02:00:04"
+compiled_at: "2026-07-19T13:06:43"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base web art
@@ -50,26 +50,15 @@ strauh.al/knowledge_base/web_art
 
 - None yet
 
-<!-- kb-links:start -->
-## Connections
-
-*Every bookmark on this page wired to the ideas, people, and books it touches — 3 of 23 links connected (2 nodes).*
-
-**[[Transmitting My Neural Signals by Hand]]** — [drawing jam #1](http://www.jyrk.com/drawingjam01/index.html) · [drawing jam #2](http://www.jyrk.com/drawingjam02/index.html)
-
-**[[The Spatial Web]]** — [Grand Theft Auto: Vice City / DOS games in browser](https://dos.zone/grand-theft-auto-vice-city/)
-
-<!-- kb-links:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
 - [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
-- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: web, knowledge, spatial
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: web, knowledge
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: web, city
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: web, knowledge, ideas
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: web, end
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: web
+- [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, pages
 - [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: web, websites, work
-- [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, ideas
+- [[knowledge/wiki/pages/knowledge base speed racer|knowledge base speed racer]] — shared language: base, knowledge, none
 <!-- vault-crosslinks:end -->

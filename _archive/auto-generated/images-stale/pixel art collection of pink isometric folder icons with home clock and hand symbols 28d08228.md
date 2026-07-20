@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Collection of Pink Isometric Pixel Art Folder Icons 3d13cf32|Illustration Collection of Pink Isometric Pixel Art Folder Icons]] — shared language: isometric, icons, pixel
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: home
 - [[_archive/auto-generated/images-stale/isometric pixel art of a factory or lab 1cdb4136|isometric pixel art of a factory or lab]] — shared language: isometric, pixel
 - [[knowledge/wiki/images/Illustration Abstract Isometric Geometric Shapes in Pink, Yellow, Blue a1321b69|Illustration Abstract Isometric Geometric Shapes in Pink, Yellow, Blue]] — shared language: isometric, pink
-- [[knowledge/wiki/images/Illustration Isometric Pixel Art Illustration of Robots Working in a Kitchen a34c85e0|Illustration Isometric Pixel Art Illustration of Robots Working in a Kitchen]] — shared language: isometric, pixel
 <!-- vault-crosslinks:end -->

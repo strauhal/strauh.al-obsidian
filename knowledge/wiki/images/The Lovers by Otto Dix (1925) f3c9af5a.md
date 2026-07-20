@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/The Lovers by Ot
 - [[knowledge/wiki/images/otto dix 52f77c29|otto dix]] — named in this note
 - [[knowledge/wiki/artists/Artist - otto dix|Artist - otto dix]] — shared language: dix, otto
 - [[knowledge/wiki/images/self portrait with carnation by otto dix 1912 8bf976e1|self portrait with carnation by otto dix 1912]] — shared language: dix, otto
-- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: dix, otto
 - [[knowledge/wiki/images/soldatengrab soldier s grave by otto dix 1924 292c60dc|soldatengrab soldier s grave by otto dix 1924]] — shared language: dix, otto
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: dix, otto
 <!-- vault-crosslinks:end -->

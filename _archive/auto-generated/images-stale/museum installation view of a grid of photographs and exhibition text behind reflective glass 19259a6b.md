@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Museum Installation View of Photographs and Text Behind Reflective Glass fed3cb53|Photograph Museum Installation View of Photographs and Text Behind Reflective Glass]] — shared language: photographs, reflective, museum
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
 - [[knowledge/wiki/images/Illustration Document with Text and Grid of Black and White Photographs of a Coyote dcedb82c|Illustration Document with Text and Grid of Black and White Photographs of a Coyote]] — shared language: photographs, grid, text
 - [[knowledge/wiki/anchors/museum|museum]] — shared language: museum
 - [[knowledge/wiki/images/Photograph Interior View of an Art Exhibition Room with Sculptures and Paintings ac49cb4a|Photograph Interior View of an Art Exhibition Room with Sculptures and Paintings]] — shared language: exhibition, view
+- [[_archive/auto-generated/concept-stubs/museum|museum]] — shared language: museum
 <!-- vault-crosslinks:end -->

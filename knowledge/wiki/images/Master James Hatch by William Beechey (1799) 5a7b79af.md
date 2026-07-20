@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/Master James Hat
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - sir william beechey|Artist - sir william beechey]] — shared language: beechey, william
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: master
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: master
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: master
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: master
 - [[knowledge/wiki/artists/Artist - master e s|Artist - master e s]] — shared language: master
 <!-- vault-crosslinks:end -->

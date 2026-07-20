@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Abstract Digital Art with Magenta and Red, Dark Glitch Effect 1f33d572|Illustration Abstract Digital Art with Magenta and Red, Dark Glitch Effect]] — shared language: effect, digital
 - [[knowledge/wiki/images/Illustration Grotesque Decomposed Head on Abstract Splatter Background 5b2aa000|Illustration Grotesque Decomposed Head on Abstract Splatter Background]] — shared language: splatter
 - [[knowledge/wiki/images/Illustration Vibrant Abstract Glitch Art with Distorted Digital Patterns d3ce1323|Illustration Vibrant Abstract Glitch Art with Distorted Digital Patterns]] — shared language: vibrant, digital
-- [[knowledge/wiki/images/Screenshot Japanese Weather Presenter With Digital Tunnel Effect On Screen 050b588c|Screenshot Japanese Weather Presenter With Digital Tunnel Effect On Screen]] — shared language: effect, digital
+- [[knowledge/wiki/images/Illustration Two Figures In Vibrant Pink And Blue Abstract Landscape b392b3ec|Illustration Two Figures In Vibrant Pink And Blue Abstract Landscape]] — shared language: vibrant
 <!-- vault-crosslinks:end -->

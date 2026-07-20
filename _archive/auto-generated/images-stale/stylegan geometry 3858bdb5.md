@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: stylegan
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: stylegan
 - [[knowledge/raw/no-more-human-art|No More Human Art]] — shared language: stylegan
-- [[knowledge/wiki/pages/knowledge base wikipedia articles|knowledge base wikipedia articles]] — shared language: geometry
 - [[knowledge/wiki/pages/implicit distance|implicit distance]] — shared language: stylegan
+- [[knowledge/raw/implicit-distance|Implicit Distance]] — shared language: stylegan
 <!-- vault-crosslinks:end -->

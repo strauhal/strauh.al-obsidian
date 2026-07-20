@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/philosophy_critical_thinking.html"
 source_relpath: "knowledge_base/philosophy_critical_thinking.html"
 compiled: "True"
-compiled_at: "2026-07-19T02:00:04"
+compiled_at: "2026-07-19T13:06:43"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base philosophy critical thinking
@@ -101,52 +101,15 @@ strauh.al/knowledge_base/philosophy_critical_thinking
 
 - None yet
 
-<!-- kb-links:start -->
-## Connections
-
-*Every bookmark on this page wired to the ideas, people, and books it touches — 33 of 65 links connected (15 nodes).*
-
-**[[Art Fills the God-Shaped Hole]]** — [The Sermon At Benares](https://www.sacred-texts.com/bud/btg/btg17.htm) · [The Questions of King Milinda (SBE35): Book II: The Distinguishing Characteristics of Ethical Qualities: Chapter 1](https://www.sacred-texts.com/bud/sbe35/sbe3504.htm) · [God in the Central Tower: Disciplined Religion and the Panopticon / MCM 0100 Fall 2010 Course Blog](https://blogs.brown.edu/mcm-0100-2010fall-s01/2010/10/14/god-in-the-central-tower-disciplined-religion-and-the-panopticon/) · [Sublime (philosophy) - Wikipedia](https://en.wikipedia.org/wiki/Sublime_(philosophy)) · [Dialectic of Enlightenment - Wikipedia](https://en.wikipedia.org/wiki/Dialectic_of_Enlightenment) · [Power of Intuition: Paramahansa Yogananda](https://yssofindia.org/spiritual/beyond-thought-and-intellect-the-unlimited-insight-of-soul-intuition) · [My exhausting meditation retreat: 10 days of Vipassana, silence and spiders / Health / The Guardian](https://www.theguardian.com/society/2016/mar/31/meditation-retreat-vipassana-new-zealand-exhausting-silence-spiders) · [Daoist Alchemy in the West: The Esoteric Paradigms](http://esoteric.msu.edu/VolumeVI/Dao.htm) · [What is Buddhism? / Learn More About Buddhism / Buddhism For Beginners](https://tricycle.org/beginners/)
-
-**[[The Oedipal Screen]]** — [Spinoza and "Anti-Oedipus." On Desiring One's Own Suppression / Epoché Magazine](https://epochemagazine.org/37/spinoza-and-anti-oedipus-on-desiring-ones-own-suppression/) · [Notes to Deleuze and Guattari’s Anti-Oedipus: Chapters 1 and 2 – Fractal Ontology](https://fractalontology.wordpress.com/2007/10/23/notes-to-anti-oedipus-chapters-1-and-2/) · [zizek/matrix](https://www.lacan.com/matrix.html) · [God in the Central Tower: Disciplined Religion and the Panopticon / MCM 0100 Fall 2010 Course Blog](https://blogs.brown.edu/mcm-0100-2010fall-s01/2010/10/14/god-in-the-central-tower-disciplined-religion-and-the-panopticon/) · [Panopticon - Wikipedia](https://en.wikipedia.org/wiki/Panopticon) · [A Panopticon for your Zoom Breakout Rooms · Matt Salomone](http://matthematics.com/zoombreakouts/) · [Marx and “Anti-Oedipus.” On Desiring One’s Own Suppression / Epoché Magazine](https://epochemagazine.org/32/marx-and-anti-oedipus-on-desiring-ones-own-suppression/) · [Yes, there’s such a thing as a ‘female gaze.’ But it’s not what you think. / by Stefani Forster / Truly. / Medium](https://medium.com/truly-social/yes-theres-such-a-thing-as-a-female-gaze-but-it-s-not-what-you-think-d27be6fc2fed)
-
-**[[The Internet as Confidant]]** — [The Philosophy of Vaporwave – Vapor95](https://vapor95.com/blogs/darknet/the-philosophy-of-vaporwave) · [Simulacra and Simulation - Wikipedia](https://en.wikipedia.org/wiki/Simulacra_and_Simulation) · [K-punk, capitalist realism and acid communism](https://crackmagazine.net/article/long-reads/k-punk-capitalist-realism-and-acid-communism/) · [Reddit - askphilosophy - What do Deleuze/Guattari mean by Judge Schreber's 'Solar Anus'?](https://www.reddit.com/r/askphilosophy/comments/4dwzvx/what_do_deleuzeguattari_mean_by_judge_schrebers/) · [Marxists Internet Archive](https://www.marxists.org/) · [German Idealism / Internet Encyclopedia of Philosophy](https://iep.utm.edu/germidea/)
-
-**[[Atomization]]** — [What is Acid Communism?. Mark Fisher’s unfinished philosophy... / by Stuart Mills / The Startup / Medium](https://medium.com/swlh/what-is-acid-communism-e5c65ecf6188) · [Mark Fisher / Acid Communism (Unfinished Introduction) – BLACKOUT ((poetry & politics))](https://my-blackout.com/2019/04/25/mark-fisher-acid-communism-unfinished-introduction/) · [Capitalist Realism: Is there no alternative? / by Diana McPartlin / Medium](https://medium.com/@dianamcpartlin/capitalist-realism-is-there-no-alternative-d3192554f620) · [K-punk, capitalist realism and acid communism](https://crackmagazine.net/article/long-reads/k-punk-capitalist-realism-and-acid-communism/) · [The Bard of Capitalist Realism by Ed Simon / Poetry Foundation](https://www.poetryfoundation.org/articles/152135/the-bard-of-capitalist-realism)
-
-**[[The Attention Economy]]** — [God in the Central Tower: Disciplined Religion and the Panopticon / MCM 0100 Fall 2010 Course Blog](https://blogs.brown.edu/mcm-0100-2010fall-s01/2010/10/14/god-in-the-central-tower-disciplined-religion-and-the-panopticon/) · [Panopticon - Wikipedia](https://en.wikipedia.org/wiki/Panopticon) · [A Panopticon for your Zoom Breakout Rooms · Matt Salomone](http://matthematics.com/zoombreakouts/)
-
-**[[Post-Irony]]** — [The Philosophy of Vaporwave – Vapor95](https://vapor95.com/blogs/darknet/the-philosophy-of-vaporwave) · [Fuck it, here’s the entire Quran - r/copypasta](https://r.nf/r/copypasta/comments/m91ltz/fuck_it_heres_the_entire_quran/grkly3l)
-
-**[[The Flâneur as Web Surfer]]** — [Guy Debord - Wikipedia](https://en.wikipedia.org/wiki/Guy_Debord) · [Psychogeography - Wikipedia](https://en.wikipedia.org/wiki/Psychogeography)
-
-**[[Amor Fati]]** — [Nietzsche, Regret and Amor Fati -The School of Life Articles](https://www.theschooloflife.com/thebookoflife/nietzsche-regret-and-amor-fati/)
-
-**[[Capitalist Realism: Is There No Alternative?]]** — [Capitalist Realism: Is there no alternative? / by Diana McPartlin / Medium](https://medium.com/@dianamcpartlin/capitalist-realism-is-there-no-alternative-d3192554f620)
-
-**[[Daoist Alchemy in the West: The Esoteric Paradigms]]** — [Daoist Alchemy in the West: The Esoteric Paradigms](http://esoteric.msu.edu/VolumeVI/Dao.htm)
-
-**[[Latent Space]]** — [Rhizome (philosophy) - Wikipedia](https://en.wikipedia.org/wiki/Rhizome_(philosophy))
-
-**[[Reading Like a Computer]]** — [What Neuroscience Has To Say About The 'Tortured Genius' / HuffPost Life](https://www.huffpost.com/entry/creativity-mental-illness-health_n_5695887?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAksvbiTUEfXlha3AA2W0kYo-DVjDc-db4J6EygszBzOAY0FdHafX4FvUz6d6AszY76v1zk53eHhDD5kbX8PkgdxeTg9s8W2_o7NtGljqRUnT5aZ-S0ckdrdlxHhu-5bpo1kgS7ZjIjinJfKUzaWy9OT-ErNTorSr2KkNLoIU1NM)
-
-**[[Rebuilding from the Bottom]]** — [The failure of Reason: Adorno and the non-identical / The Charnel-House](https://thecharnelhouse.org/2014/05/18/the-failure-of-reason-adorno-and-the-non-identical/)
-
-**[[Simulacra and Simulation]]** — [Simulacra and Simulation - Wikipedia](https://en.wikipedia.org/wiki/Simulacra_and_Simulation)
-
-**[[The Spatial Web]]** — [K-punk, capitalist realism and acid communism](https://crackmagazine.net/article/long-reads/k-punk-capitalist-realism-and-acid-communism/)
-
-<!-- kb-links:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/books/daoist-alchemy-in-the-west-the-esoteric-paradigms|Daoist Alchemy in the West: The Esoteric Paradigms]] — named in this note
+- [[knowledge/wiki/books/mark-fisher-capitalist-realism-is-there-no-alternative|Capitalist Realism: Is There No Alternative?]] — named in this note
 - [[knowledge/wiki/anchors/georg-wilhelm-friedrich-hegel|Georg Wilhelm Friedrich Hegel]] — named in this note
+- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — named in this note
+- [[knowledge/wiki/books/the-body-in-theory-histories-of-cultural-materialism-jean-baudrillard-sheila-faria-glaser-simulacra-and-simulation|Simulacra and Simulation]] — named in this note
 - [[knowledge/wiki/anchors/camille-paglia|Camille Paglia]] — named in this note
 - [[knowledge/wiki/books/phenomenology-of-spirit-g-w-f-hegel-0|G. W. F. Hegel 0]] — named in this note
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/books/jhanas|jhanas]] — named in this note
-- [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
-- [[knowledge/wiki/anchors/quran|quran]] — named in this note
 <!-- vault-crosslinks:end -->

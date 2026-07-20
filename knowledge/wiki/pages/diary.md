@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/diary.html"
 source_relpath: "diary.html"
 compiled: "True"
-compiled_at: "2026-07-19T02:00:04"
+compiled_at: "2026-07-19T13:06:43"
 tags: ["strauhal", "source/html"]
 ---
 # diary
@@ -629,6 +629,12 @@ The invention did not catch on immediately. Men found them effeminate; women fou
 a year or two ago, the thought of publishing my writing occurred to me but i dismissed it because i felt that there were so many other talented writers and i didn’t quite feel like my writing was up to their level. self pity aside, regarding the current literary climate which is currently drowning in AI generated sludge and fantasy themed smut, i think there might be some people out there that might benefit from reading my writings which are painfully human and were made during a pivotal time in my life
 
 thank you for reading
+
+## july 19th, 2026
+
+ i started the last entry with how bad i am at keeping up this version, i think if i remember to update this diary every five days, i’ll be fine. today, i played the piano at the facility for my students. i even spiced it up by throwing in an 808 drumset and playing some beats. they’re all in wheelchairs and only two out of the four of them are slightly conscious but that’s alright. i think they enjoyed the music session. had really great sex with my wife today, then vietnamese food. wait, no, vietnamese food, then coffee, then sex. sat on the porch with her and listened to cassette tapes watching the traffic go by, got a bunch of bug bites on my legs. oh, that reminds me, one of my other students bit my hand pretty hard and left a pretty deep indentation near my thumb. i don’t think he meant it though, he’s nonverbal and i’m not sure what plane of reality he’s on, hopefully our piano lesson next week will go well.
+
+ hmm, what else happened the past few days..? ah yes, i picked up my parents from the airport, they were in belfast recently. got a new book from the library called “superbloom” by nicholas carr. currently (still) slogging through being and time by heidegger. about to approach the chapter about Das Man. oh! and my copy of “boy (tales of childhood)” by roald dahl came in the mail! one of my favorite books of his. i read that book over and over again, the chapter about how they make candy out of dead rats was still imprinted in my mind decades later. i can almost *feel* shades of my life when i read this book
 
 ## additional photographs
 

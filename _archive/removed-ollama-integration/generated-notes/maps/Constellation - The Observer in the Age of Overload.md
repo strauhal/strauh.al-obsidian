@@ -33,7 +33,7 @@ Examining the modern role of the observer—the flâneur, the critic, the diaris
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: attention, audience, economy
 - [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: audience, wandering, neur
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: age, slop, questions
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: attention, portraiture, slop
 - [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: attention, feed, economy
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: attention, portraiture, slop
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: attention, slop, feed
 <!-- vault-crosslinks:end -->

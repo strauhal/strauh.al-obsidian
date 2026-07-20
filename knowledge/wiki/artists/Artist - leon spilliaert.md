@@ -20,9 +20,9 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - leon ferrari|Artist - leon ferrari]] — shared language: leon
 - [[knowledge/wiki/images/untitled by leon ferrari 1962 a1432dc1|untitled by leon ferrari 1962]] — shared language: leon
 - [[knowledge/wiki/images/untitled by leon ferrari 1964 85b401cd|untitled by leon ferrari 1964]] — shared language: leon
-- [[knowledge/wiki/artists/Artist - leon ferrari|Artist - leon ferrari]] — shared language: leon
 - [[knowledge/wiki/images/two figures by leon golub 1960 cf93f1d3|two figures by leon golub 1960]] — shared language: leon
 - [[knowledge/wiki/images/head by leon golub 1975 0fa24ca1|head by leon golub 1975]] — shared language: leon
 - [[knowledge/wiki/artists/Artist - leon golub|Artist - leon golub]] — shared language: leon

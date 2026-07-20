@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: bird
 - [[knowledge/wiki/images/bust 18b2b566|bust]] — shared language: bust
 - [[knowledge/wiki/images/Black And White Photograph Of A Figure With Large Dark Wings cf67daa7|Black And White Photograph Of A Figure With Large Dark Wings]] — shared language: wings
-- [[knowledge/wiki/images/Cat and Small Bird by Toshi Yoshida b5cc1bd1|Cat and Small Bird by Toshi Yoshida]] — shared language: bird, small
+- [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 <!-- vault-crosslinks:end -->

@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/wikipedia_articles.html"
 source_relpath: "knowledge_base/wikipedia_articles.html"
 compiled: "True"
-compiled_at: "2026-07-19T02:00:04"
+compiled_at: "2026-07-19T13:06:43"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base wikipedia articles
@@ -609,82 +609,15 @@ strauh.al/knowledge_base/wikipedia_articles
 
 - None yet
 
-<!-- kb-links:start -->
-## Connections
-
-*Every bookmark on this page wired to the ideas, people, and books it touches — 39 of 550 links connected (30 nodes).*
-
-**[[Art Fills the God-Shaped Hole]]** — [Sacred geometry](https://en.wikipedia.org/wiki/Sacred_geometry) · [Christ of Saint John of the Cross](https://en.wikipedia.org/wiki/Christ_of_Saint_John_of_the_Cross) · [God and Man at Yale](https://en.wikipedia.org/wiki/God_and_Man_at_Yale) · [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy) · [Unfulfilled Christian religious predictions](https://en.wikipedia.org/wiki/Unfulfilled_Christian_religious_predictions) · [Esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language#Shakespeare) · [Spiritual bypass](https://en.wikipedia.org/wiki/Spiritual_bypass) · [Religious views on capitalism](https://en.wikipedia.org/wiki/Religious_views_on_capitalism) · [God Shammgod](https://en.wikipedia.org/wiki/God_Shammgod) · [Soul City, NC](https://en.wikipedia.org/wiki/Soul_City,_North_Carolina)
-
-**[[To Render Myself Unnecessary]]** — [Corita Kent](https://en.wikipedia.org/wiki/Corita_Kent#Early_life_and_education) · [Constructivism (education)](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education)) · [Kibbutz communal child rearing](https://en.wikipedia.org/wiki/Kibbutz_communal_child_rearing_and_collective_education)
-
-**[[Post-Irony]]** — [The Irony of Fate](https://en.wikipedia.org/wiki/The_Irony_of_Fate) · [Internet meme](https://en.wikipedia.org/wiki/Internet_meme)
-
-**[[The Oedipal Screen]]** — [Anti-Oedipus](https://en.wikipedia.org/wiki/Anti-Oedipus) · [Desire path](https://en.wikipedia.org/wiki/Desire_path)
-
-**[[A Cloud in Trousers]]** — [A Cloud in Trousers](https://en.wikipedia.org/wiki/A_Cloud_in_Trousers)
-
-**[[Artist - Alessandra Mussolini]]** — [Alessandra Mussolini](https://en.wikipedia.org/wiki/Alessandra_Mussolini)
-
-**[[Artist - John Lennon]]** — [Murder of John Lennon](https://en.wikipedia.org/wiki/Murder_of_John_Lennon)
-
-**[[Artist - Marcel Proust]]** — [Marcel Proust](https://en.wikipedia.org/wiki/Marcel_Proust)
-
-**[[Artist - Satoshi Kon]]** — [Satoshi Kon](https://en.wikipedia.org/wiki/Satoshi_Kon)
-
-**[[Artist - chuck close]]** — [Chuck Close](https://en.wikipedia.org/wiki/Chuck_Close)
-
-**[[Artist - claude monet]]** — [Claude Monet](https://en.wikipedia.org/wiki/Claude_Monet)
-
-**[[Artist - cy twombly]]** — [Cy Twombly](https://en.wikipedia.org/wiki/Cy_Twombly)
-
-**[[Artist - gustav klimt]]** — [Gustav Klimt](https://en.wikipedia.org/wiki/Gustav_Klimt)
-
-**[[Artist - jean giraud]]** — [Jean Giraud (Mœbius)](https://en.wikipedia.org/wiki/Jean_Giraud)
-
-**[[Artist - lygia pape]]** — [Lygia Pape](https://en.wikipedia.org/wiki/Lygia_Pape)
-
-**[[Artist - pieter bruegel the elder]]** — [Pieter Bruegel the Elder](https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder)
-
-**[[Artist - rudolf arnheim]]** — [Rudolf Arnheim](https://en.wikipedia.org/wiki/Rudolf_Arnheim)
-
-**[[Artist - victor moscoso]]** — [Victor Moscoso](https://en.wikipedia.org/wiki/Victor_Moscoso)
-
-**[[Charles Baudelaire]]** — [Charles Baudelaire](https://en.wikipedia.org/wiki/Charles_Baudelaire)
-
-**[[Decadence Is Beautiful]]** — [Charles Baudelaire](https://en.wikipedia.org/wiki/Charles_Baudelaire)
-
-**[[Interpolating the Instruction Set]]** — [Push processing](https://en.wikipedia.org/wiki/Push_processing)
-
-**[[Marcel Proust]]** — [Marcel Proust](https://en.wikipedia.org/wiki/Marcel_Proust)
-
-**[[Martha Argerich]]** — [Martha Argerich](https://en.wikipedia.org/wiki/Martha_Argerich)
-
-**[[Naked lunch]]** — [Naked Lunch](https://en.wikipedia.org/wiki/Naked_Lunch)
-
-**[[The Archive as Consciousness]]** — [Memex](https://en.wikipedia.org/wiki/Memex)
-
-**[[The Internet as Confidant]]** — [Internet meme](https://en.wikipedia.org/wiki/Internet_meme)
-
-**[[The Panel as Canvas]]** — [The End of Evangelion](https://en.wikipedia.org/wiki/The_End_of_Evangelion)
-
-**[[The Plague]]** — [The Plague](https://en.wikipedia.org/wiki/The_Plague)
-
-**[[The Spatial Web]]** — [Memex](https://en.wikipedia.org/wiki/Memex)
-
-**[[Transmitting My Neural Signals by Hand]]** — [Guqin notation](https://en.wikipedia.org/wiki/Guqin_notation)
-
-<!-- kb-links:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/satoshi-kon|Satoshi Kon]] — named in this note
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
-- [[knowledge/wiki/images/The End of Evangelion (1997) 97513b0f|The End of Evangelion (1997)]] — named in this note
-- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — named in this note
+- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — named in this note
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — named in this note
+- [[knowledge/wiki/books/vladimir-mayakovsky-a-cloud-in-trousers|A Cloud in Trousers]] — named in this note
+- [[knowledge/wiki/books/william-s-burroughs-naked-lunch|Naked lunch]] — named in this note
 - [[knowledge/wiki/pages/culture society|culture society]] — named in this note
-- [[knowledge/wiki/images/virgil abloh 0a467cdb|virgil abloh]] — named in this note
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
-- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
+- [[knowledge/wiki/anchors/satoshi-kon|Satoshi Kon]] — named in this note
 <!-- vault-crosslinks:end -->

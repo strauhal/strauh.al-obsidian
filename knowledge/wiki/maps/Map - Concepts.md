@@ -125,6 +125,6 @@ Orbiting: [[Barry McGee]] · [[Egon Schiele]] · [[Yohji Yamamoto]] · [[Rei Kaw
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: ideas, works, knowledge
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: attention, economy, feed
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: latent, attention, internet
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: works, authorship, human-machine
-- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: works, knowledge, human-machine
+- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: latent, space
+- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: latent, space
 <!-- vault-crosslinks:end -->

@@ -98,8 +98,15 @@ def clean_work_name(fm, base):
 # invisible to retrieval, no matter how well a query's keywords would have
 # matched it. There are only a few of these, so a much larger cap costs
 # almost nothing in total JSON size.
-DEEP_EXCERPT_RELPATHS = {"knowledge/raw/diary.md", "knowledge/raw/ideas-sketchbook.md"}
-DEEP_EXCERPT_CHARS = 20000
+DEEP_EXCERPT_RELPATHS = {
+    "knowledge/raw/diary.md",
+    "knowledge/raw/ideas-sketchbook.md",
+    "knowledge/wiki/pages/diary.md",
+}
+# Keep complete journal-scale sources available to embedded retrieval. At the previous
+# 20k cap, recent entries at the end of the diary were invisible until an external
+# search service was queried.
+DEEP_EXCERPT_CHARS = 100000
 
 def _clean_prose(b, cap):
     b = re.sub(r'<!--.*?-->', '', b, flags=re.S)              # html comments

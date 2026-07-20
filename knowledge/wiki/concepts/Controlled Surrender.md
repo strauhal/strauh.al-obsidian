@@ -30,12 +30,12 @@ resistance keeps the process alive.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: gan, authorship, result
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: gan, human-machine, tug
+- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: gan, authorship, result
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: authorship, human-machine, tug
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: tedium, authorship, goal
 - [[knowledge/wiki/maps/Books Folder Title List|Books Folder Title List]] — shared language: version
 - [[knowledge/wiki/books/neil-postman-technopoly-the-surrender-of-culture-to-technology|Technopoly The Surrender of Culture to Technology]] — shared language: surrender
 - [[knowledge/wiki/books/routledge-classics-jacques-lacan-ecrits-a-selection|Ecrits A Selection]] — shared language: selection
 - [[knowledge/wiki/images/Document A Pie Slice in the Sky Up over the Loop 87e4b8fa|Document A Pie Slice in the Sky Up over the Loop]] — shared language: loop
+- [[knowledge/wiki/images/Chart Comparing Total Job Openings and S and P 500 Over Time 6918a968|Chart Comparing Total Job Openings and S and P 500 Over Time]] — shared language: total
 <!-- vault-crosslinks:end -->

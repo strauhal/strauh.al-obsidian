@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/psychology.html"
 source_relpath: "knowledge_base/psychology.html"
 compiled: "True"
-compiled_at: "2026-07-19T02:00:04"
+compiled_at: "2026-07-19T13:06:43"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base psychology
@@ -119,27 +119,6 @@ strauh.al/knowledge_base/psychology
 
 - None yet
 
-<!-- kb-links:start -->
-## Connections
-
-*Every bookmark on this page wired to the ideas, people, and books it touches — 25 of 86 links connected (7 nodes).*
-
-**[[Art Fills the God-Shaped Hole]]** — [Millions more are tripping on psychedelic drugs than ever before: study](https://nypost.com/2022/08/19/millions-more-are-tripping-on-psychedelic-drugs-than-ever-before-study/) · [Frontiers / Psychedelic Experiences During the Early COVID-19 Pandemic: Findings From an International Online Survey](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.732028/full) · [Psychedelic Experiences During the Early COVID-19 Pandemic: Findings From an International Online Survey - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8599818/) · [Lifetime use of psychedelics is associated with better mental health indicators during the COVID-19 pandemic in: Journal of Psychedelic Studies Volume 5 Issue 2 (2021)](https://akjournals.com/view/journals/2054/5/2/article-p83.xml) · [Towards an understanding of psychedelic-induced neuroplasticity / Neuropsychopharmacology](https://www.nature.com/articles/s41386-022-01389-z) · [Psychedelics open your brain. You might not like what falls in. - The Atlantic](https://www.theatlantic.com/health/archive/2023/02/psychedelic-drug-therapy-effects-brain-neuroplasticity/672910/)
-
-**[[The Internet as Confidant]]** — [Distorted Grief: 10 Things to Know When Grief Turns Hostile » Urns / Online](https://www.usurnsonline.com/grief-loss/distorted-grief/) · [Debunking the Internet Myth of the A.T. Field - HubPages](https://discover.hubpages.com/entertainment/Why-the-AT-Field-is-Not-a-Real-Psychological-Term?fbclid=IwAR0hBxO6S3yE-NsFb1drCC3QhJ8jM0kBpYbS7tSTCUGElCaMpbfZKy6loD4) · [First-ever recording of a dying human brain reveals what happens right before death / Daily Mail Online](https://www.dailymail.co.uk/sciencetech/article-14356349/first-recording-dying-human-brain-revealed-death.html) · [Deep depression after ten day vipassana retreat. : r/vipassana](https://www.reddit.com/r/vipassana/comments/91hj9w/deep_depression_after_ten_day_vipassana_retreat/) · [Frontiers / Psychedelic Experiences During the Early COVID-19 Pandemic: Findings From an International Online Survey](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.732028/full) · [Psychedelic Experiences During the Early COVID-19 Pandemic: Findings From an International Online Survey - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8599818/)
-
-**[[The Oedipal Screen]]** — [paranoiac knowledge](https://www.processpsychology.com/new-articles/Lacan-PP-revised.htm) · [Lacan: The Mirror Stage](http://www.english.hawaii.edu/criticalink/lacan/index.html) · [Scopophilia - Wikipedia](https://en.wikipedia.org/wiki/Scopophilia) · [Signifier - No Subject - Encyclopedia of Psychoanalysis - Encyclopedia of Lacanian Psychoanalysis](https://nosubject.com/Signifier) · [Psychoanalysis Behind The Cake Mix - Life Changing Ideas E02 / by Bugra Celik / Medium](https://medium.com/@CelikBugra/psychoanalytics-behind-the-cake-mix-life-changing-ideas-e02-412e8d4e54e4) · [Edward Bernays, Uncle Freud, and Betty Crocker / Psychology Today](https://www.psychologytoday.com/us/blog/the-secular-shepherd/201604/edward-bernays-uncle-freud-and-betty-crocker)
-
-**[[AI Slop]]** — [Nation Cringes as Man Goes on TV to Declare That He's in Love With ChatGPT](https://futurism.com/televised-love-declaration-chatgpt) · [A Teen Was Suicidal. ChatGPT Was the Friend He Confided In. - The New York Times](https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html) · [Man Killed by Police After Spiraling Into ChatGPT-Driven Psychosis](https://futurism.com/man-killed-police-chatgpt) · [A chatbot convinced her she’d find love. Then it betrayed her : NPR](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot) · [Her husband wanted to use ChatGPT to create sustainable housing. Then it took over his life. / AI (artificial intelligence) / The Guardian](https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health)
-
-**[[Memory and Preservation]]** — [Lorwen Harris Nagle, PhD on X: "A Stanford neuroscientist warns high cortisol wrecks memory, enlarges your fear center, and make your brain feel broken. If I wanted to fix it naturally, I'd do these 8 things every day: 1. Walk barefoot on grass for 5–7 minutes. https://t.co/fFxBEh94Ky" / X](https://x.com/LORWEN108/status/2061066986554286116) · [‘With brain preservation, nobody has to die’: meet the neuroscientist who believes life could be eternal / Neuroscience / The Guardian](https://www.theguardian.com/science/2024/dec/01/with-brain-preservation-nobody-has-to-die-meet-the-neuroscientist-who-believes-life-could-be-eternal)
-
-**[[The Atlantic]]** — [Understanding Reality: What Hallucinations Reveal - The Atlantic](https://www.theatlantic.com/health/archive/2018/10/hallucinations-hearing-voices-reality-debate/571819/) · [Psychedelics open your brain. You might not like what falls in. - The Atlantic](https://www.theatlantic.com/health/archive/2023/02/psychedelic-drug-therapy-effects-brain-neuroplasticity/672910/)
-
-**[[The Attention Economy]]** — ['Dopamine Kids' helps parents deal with kids' cravings for screens and sweets : NPR](https://www.npr.org/2026/03/06/nx-s1-5737901/dopamine-kids-parenting-screens)
-
-<!-- kb-links:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
@@ -147,8 +126,8 @@ strauh.al/knowledge_base/psychology
 - [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
 - [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
 - [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
+- [[knowledge/wiki/books/the-end-of-reading-is-here-the-atlantic|The Atlantic]] — named in this note
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
 - [[knowledge/wiki/books/luke-caldwell-schizophrenizing-lacan|Schizophrenizing Lacan]] — named in this note
 - [[knowledge/wiki/books/essays|essays]] — named in this note
-- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: disorder, knowledge
 <!-- vault-crosslinks:end -->

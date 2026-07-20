@@ -60,8 +60,8 @@ level of perception.
 - [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
 - [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
 - [[knowledge/wiki/images/empty 42051b21|empty]] — named in this note
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: rebuilding, quotes, bottom
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: quotes, tower, ruin
-- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: quotes, rebuilding, bottom
 - [[knowledge/wiki/concepts/Interest-Dependent Persistence|Interest-Dependent Persistence]] — shared language: rebuilding, abandoned, bottom
 - [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: quotes, archive-links, start
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: web, diagram
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: web, diary
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: diary, web
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: diary
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: web
 <!-- vault-crosslinks:end -->

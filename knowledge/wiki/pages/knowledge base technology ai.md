@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/technology_ai.html"
 source_relpath: "knowledge_base/technology_ai.html"
 compiled: "True"
-compiled_at: "2026-07-19T02:00:04"
+compiled_at: "2026-07-19T13:06:43"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base technology ai
@@ -159,50 +159,15 @@ strauh.al/knowledge_base/technology_ai
 
 - None yet
 
-<!-- kb-links:start -->
-## Connections
-
-*Every bookmark on this page wired to the ideas, people, and books it touches — 32 of 110 links connected (14 nodes).*
-
-**[[AI Slop]]** — [slop — Will Manidis](https://willmanidis.com/slop) · [We Are Living in a ‘ChatGPT Flyer Pandemic’](https://www.404media.co/we-are-living-in-a-chatgpt-flyer-pandemic/) · [Rampant AI Cheating Is Ruining Education Alarmingly Fast](https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html) · [ChatGPT is bringing back 4o as an option because people missed it / The Verge](https://www.theverge.com/news/756980/openai-chatgpt-users-mourn-gpt-5-4o) · [OpenAI will add parental controls for ChatGPT following teen’s death / The Verge](https://www.theverge.com/news/766678/openai-chatgpt-parental-controls-teen-death) · [Humans are being hired to make AI slop look less sloppy](https://www.nbcnews.com/tech/tech-news/humans-hired-to-fix-ai-slop-rcna225969) · [Why Darren Aronofsky thought an AI-generated historical docudrama was a good idea - Ars Technica](https://arstechnica.com/features/2026/02/why-darren-aronofsky-thought-an-ai-generated-historical-docudrama-was-a-good-idea/) · [Introducing the AI Mirror Test, which very smart people keep failing - The Verge](https://www.theverge.com/23604075/ai-chatbots-bing-chatgpt-intelligent-sentient-mirror-test) · [This Guy Used ChatGPT to Talk to 5,000 Women on Tinder and Met His Wife](https://gizmodo.com/guy-used-chatgpt-talk-5-000-women-tinder-met-his-wife-1851228179) · [My Kids Will Fancy Generative AI, I Choose to Fight It](https://www.thealgorithmicbridge.com/p/my-kids-will-fancy-generative-ai) · [Reddit thinks ChatGPT-like AI will ‘complement’ human connection, not replace it - The Verge](https://www.theverge.com/2023/2/10/23594786/reddit-bing-chatgpt-ai-google-search-bard)
-
-**[[Interpolating the Instruction Set]]** — [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://nvlabs.github.io/stylegan3/) · [A Gentle Introduction to BigGAN the Big Generative Adversarial Network](https://machinelearningmastery.com/a-gentle-introduction-to-the-biggan/) · [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://vcai.mpi-inf.mpg.de/projects/DragGAN/) · [My Kids Will Fancy Generative AI, I Choose to Fight It](https://www.thealgorithmicbridge.com/p/my-kids-will-fancy-generative-ai) · [Google apologizes for ‘missing the mark’ after Gemini generated racially diverse Nazis - The Verge](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical) · [Computer Scientists Discover Limits of Major Research Algorithm / Quanta Magazine](https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/)
-
-**[[Latent Space]]** — [stylegan-xl](https://sites.google.com/view/stylegan-xl/) · [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://nvlabs.github.io/stylegan3/) · [A Gentle Introduction to BigGAN the Big Generative Adversarial Network](https://machinelearningmastery.com/a-gentle-introduction-to-the-biggan/) · [3D Visualization of a Convolutional Neural Network](https://adamharley.com/nn_vis/cnn/3d.html) · [Harold Cohen AARON - computer art — Kate Vass Galerie](https://www.katevassgalerie.com/blog/harold-cohen-aaron-computer-art) · [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
-
-**[[The Internet as Confidant]]** — [What happens when the internet disappears? / The Verge](https://www.theverge.com/24321569/internet-decay-link-rot-web-archive-deleted-culture) · [Help me prove “eigenslur hypothesis”: Built within every LLM is the ultimate offensive word value that you can add to any word to make it output the offensive version. : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1pp5otm/help_me_prove_eigenslur_hypothesis_built_within/) · [Say Goodbye to the Undersea Cable That Made the Global Internet Possible / WIRED](https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/) · [(16) Repost: A Parallel Life / Awoken By A Lamp : Glitch_in_the_Matrix](https://www.reddit.com/r/Glitch_in_the_Matrix/comments/30t9kd/repost_a_parallel_life_awoken_by_a_lamp/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf) · [Create Your Own Quantum Mechanics Simulation (With Python) / by Philip Mocz / Level Up Coding](https://levelup.gitconnected.com/create-your-own-quantum-mechanics-simulation-with-python-51e215346798) · [Reddit thinks ChatGPT-like AI will ‘complement’ human connection, not replace it - The Verge](https://www.theverge.com/2023/2/10/23594786/reddit-bing-chatgpt-ai-google-search-bard)
-
-**[[Artist - Microsoft]]** — [Microsoft's Software Is Malware - GNU Project - Free Software Foundation](https://www.gnu.org/proprietary/malware-microsoft.html) · [Is Bing too belligerent? Microsoft looks to tame AI chatbot / AP News](https://apnews.com/article/technology-science-microsoft-corp-business-software-fb49e5d625bf37be0527e5173116bef3)
-
-**[[Dead Architecture]]** — [What happens when the internet disappears? / The Verge](https://www.theverge.com/24321569/internet-decay-link-rot-web-archive-deleted-culture) · [Architecture 3D Models - Sketchfab Store](https://sketchfab.com/3d-models/warehouse-2016-b48f8f9116914e72a2da4b997faadb7d)
-
-**[[Artist - Darren Aronofsky]]** — [Why Darren Aronofsky thought an AI-generated historical docudrama was a good idea - Ars Technica](https://arstechnica.com/features/2026/02/why-darren-aronofsky-thought-an-ai-generated-historical-docudrama-was-a-good-idea/)
-
-**[[Artist - Security]]** — [Amazon admits employees listen to Alexa conversations / The Independent / The Independent](https://www.independent.co.uk/tech/amazon-alexa-echo-listening-spy-security-a8865056.html)
-
-**[[Artist - moonlight]]** — ["Just because we can": Zelda Tears of the Kingdom running on PS Vita (Moonlight/Yuzu) - Wololo.net](https://wololo.net/2023/06/05/just-because-we-can-zelda-tears-of-the-kingdom-running-on-ps-vita-moonlight-yuzu/)
-
-**[[Situational Awareness: The Decade Ahead]]** — [Introduction - SITUATIONAL AWARENESS: The Decade Ahead](https://situational-awareness.ai/)
-
-**[[The Attention Economy]]** — [Computer Scientists Discover Limits of Major Research Algorithm / Quanta Magazine](https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/)
-
-**[[To Render Myself Unnecessary]]** — [Rampant AI Cheating Is Ruining Education Alarmingly Fast](https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html)
-
-**[[Trainpilled]]** — [AI companies want to use improv actors to train AI on human emotion / The Verge](https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data)
-
-**[[art reading]]** — [Keywords to know before you start reading papers on GANs / by Dr. Varshita Sher / Towards Data Science](https://towardsdatascience.com/keywords-to-know-before-you-start-reading-papers-on-gans-8a08a665b40c)
-
-<!-- kb-links:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/darren-aronofsky|Darren Aronofsky]] — named in this note
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/books/leopold-aschenbrenner-situational-awareness-the-decade-ahead|Situational Awareness: The Decade Ahead]] — named in this note
+- [[knowledge/wiki/anchors/darren-aronofsky|Darren Aronofsky]] — named in this note
 - [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
 - [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — named in this note
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
 - [[knowledge/wiki/images/essence dbff3c59|essence]] — named in this note
 - [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, built
-- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: chatgpt, software, internet
 <!-- vault-crosslinks:end -->

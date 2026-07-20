@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/cool_words.html"
 source_relpath: "knowledge_base/cool_words.html"
 compiled: "True"
-compiled_at: "2026-07-19T02:00:04"
+compiled_at: "2026-07-19T13:06:43"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base cool words
@@ -58,6 +58,6 @@ strauh.al/knowledge_base/cool_words
 - [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, pages
 - [[knowledge/wiki/maps/Books Folder Title List|Books Folder Title List]] — shared language: knowledge
 - [[knowledge/wiki/pages/knowledge base speed racer|knowledge base speed racer]] — shared language: base, knowledge, none
+- [[knowledge/wiki/pages/knowledge base web art|knowledge base web art]] — shared language: base, knowledge, none
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: knowledge, concepts
-- [[knowledge/wiki/pages/knowledge base web art|knowledge base web art]] — shared language: base, knowledge, page
 <!-- vault-crosslinks:end -->

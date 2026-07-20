@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Image Adam Sandler Poster Above Extensive Collection of Click DVDs 59e4a61a|Image Adam Sandler Poster Above Extensive Collection of Click DVDs]] — shared language: sandler, dvds, adam
+- [[knowledge/wiki/images/Image Adam Sandler Poster Above Extensive Collection of Click DVDs 59e4a61a|Image Adam Sandler Poster Above Extensive Collection of Click DVDs]] — shared language: dvds, sandler, adam
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: click
 - [[_archive/auto-generated/images-stale/promotional poster for apple featuring two imac g3s and the text yin yang 2000 52cf5828|promotional poster for apple featuring two imac g3s and the text yin yang 2000]] — shared language: promotional, poster, featuring
 - [[knowledge/wiki/images/Illustration Promotional Poster for 'SPLAT' Film Premiere 7fed9c71|Illustration Promotional Poster for 'SPLAT' Film Premiere]] — shared language: promotional, poster

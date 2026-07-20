@@ -30,11 +30,11 @@ shows that this juxtaposition was part of what readers valued.
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Books Folder Title List|Books Folder Title List]] — shared language: navigable, knowledge
+- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: web, surfer, neur
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: neur, wandering, site's
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: web, surfer, neur
 - [[knowledge/wiki/maps/Map - Claim Provenance|Map - Claim Provenance]] — shared language: evidence, rule, independent
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: curated, rule
 - [[knowledge/wiki/books/gabor-mat-scattered-minds-the-origins-and-healing-of-attention-deficit-disorder|Scattered Minds The Origins and Healing of Attention Deficit Disorder]] — shared language: disorder
 - [[knowledge/wiki/images/3D Plot of Borderline Personality Disorder Model a0cf5e17|3D Plot of Borderline Personality Disorder Model]] — shared language: disorder
-- [[knowledge/wiki/anchors/web-art|web art]] — shared language: web
 <!-- vault-crosslinks:end -->

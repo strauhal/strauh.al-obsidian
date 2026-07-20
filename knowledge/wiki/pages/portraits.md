@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/portraits.html"
 source_relpath: "portraits.html"
 compiled: "True"
-compiled_at: "2026-07-19T02:00:04"
+compiled_at: "2026-07-19T13:06:44"
 tags: ["strauhal", "source/html"]
 ---
 # portraits

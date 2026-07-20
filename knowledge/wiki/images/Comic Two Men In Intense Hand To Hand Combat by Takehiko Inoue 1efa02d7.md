@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Two M
 - [[knowledge/wiki/images/Comic Vagabond by Takehiko Inoue 25e76e62|Comic Vagabond by Takehiko Inoue]] — same artist: takehiko inoue
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand, comic
 - [[knowledge/wiki/images/le combat by felix vallotton 1910 87cdb7aa|le combat by felix vallotton 1910]] — shared language: combat
-- [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: men
 - [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: hand
+- [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: men
 <!-- vault-crosslinks:end -->

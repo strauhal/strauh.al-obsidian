@@ -33,5 +33,5 @@ Open [[Home]] or [[Map - Maintenance]].
 - [[knowledge/output/library-build-report|library-build-report]] — shared language: t02, build, report
 - [[knowledge/wiki/images/The Morning Visitor by Dino Buzzati (1963) 1c418e93|The Morning Visitor by Dino Buzzati (1963)]] — shared language: morning
 - [[knowledge/output/lint-report|lint-report]] — shared language: curated, missing, report
-- [[knowledge/wiki/images/Photograph Black and White Photograph of People Sitting on Floor 5d26b5dd|Photograph Black and White Photograph of People Sitting on Floor]] — shared language: people
+- [[knowledge/output/wiki-lint-report|wiki-lint-report]] — shared language: missing, t02, report
 <!-- vault-crosslinks:end -->

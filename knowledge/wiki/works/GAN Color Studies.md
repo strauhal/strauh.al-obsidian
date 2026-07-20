@@ -35,8 +35,8 @@ The process makes authorship sequential rather than singular. Hand drawing estab
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color, studies, gan
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: gan, color, studies
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: color, gan, studies
-- [[knowledge/wiki/concepts/Controlled Surrender|Controlled Surrender]] — shared language: gan, authorship, result
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: color, gan, studies
+- [[knowledge/wiki/concepts/Controlled Surrender|Controlled Surrender]] — shared language: gan, authorship, result
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, process
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: read, described, result
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color

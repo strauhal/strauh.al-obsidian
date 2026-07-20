@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Installation View of a Long White Gallery Space with Abstract Paintings 7c95dda0|Photograph Installation View of a Long White Gallery Space with Abstract Paintings]] — shared language: gallery, paintings, space
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: space
-- [[knowledge/wiki/images/Photograph Four Framed Paintings Displayed In A Museum Gallery 858ac780|Photograph Four Framed Paintings Displayed In A Museum Gallery]] — shared language: paintings, gallery, four
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: space
+- [[knowledge/wiki/images/Photograph Four Framed Paintings Displayed In A Museum Gallery 858ac780|Photograph Four Framed Paintings Displayed In A Museum Gallery]] — shared language: paintings, gallery, four
 - [[knowledge/wiki/images/Photograph Interior View of a Modern Art Gallery or Office Space 9aa654e7|Photograph Interior View of a Modern Art Gallery or Office Space]] — shared language: gallery, space, view
 <!-- vault-crosslinks:end -->

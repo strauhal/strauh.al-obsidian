@@ -36,6 +36,6 @@ This is an active film in Ernest's current cultural diet. Add dates, reactions, 
 - [[knowledge/wiki/culture/movie-young-frankenstein|Watchlist - Young Frankenstein]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-edward-scissorhands|Watchlist - Edward Scissorhands]] — shared language: watchlist, film, current
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: akira, katsuhiro, otomo
-- [[knowledge/wiki/culture/movie-perfect-blue|Watchlist - Perfect Blue]] — shared language: watchlist, film, current
 - [[knowledge/wiki/images/akira by katsuhiro otomo 1989 28f648f8|akira by katsuhiro otomo 1989]] — shared language: akira, katsuhiro, otomo
+- [[knowledge/wiki/culture/movie-perfect-blue|Watchlist - Perfect Blue]] — shared language: watchlist, film, current
 <!-- vault-crosslinks:end -->

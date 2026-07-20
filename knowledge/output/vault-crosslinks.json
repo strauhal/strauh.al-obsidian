@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-19T02:02:55",
-  "markdownFiles": 19516,
-  "existingDirectedLinks": 34916,
-  "discoveredDirectedLinks": 100274,
-  "totalDirectedLinks": 135190,
-  "uniqueConnectedPairs": 111899,
-  "filesWithDiscoveredLinks": 19516,
+  "generated": "2026-07-19T13:07:08",
+  "markdownFiles": 19517,
+  "existingDirectedLinks": 34693,
+  "discoveredDirectedLinks": 100279,
+  "totalDirectedLinks": 134972,
+  "uniqueConnectedPairs": 111712,
+  "filesWithDiscoveredLinks": 19517,
   "minimumDiscoveredLinks": 2,
   "maximumDiscoveredLinks": 8,
   "byType": {
@@ -20,9 +20,9 @@
       "discoveredOutbound": 890
     },
     "artist": {
-      "files": 3524,
-      "existingOutbound": 4583,
-      "discoveredOutbound": 20506
+      "files": 3525,
+      "existingOutbound": 4584,
+      "discoveredOutbound": 20512
     },
     "book": {
       "files": 523,
@@ -66,7 +66,7 @@
     },
     "html": {
       "files": 82,
-      "existingOutbound": 517,
+      "existingOutbound": 293,
       "discoveredOutbound": 656
     },
     "ideas": {
@@ -77,7 +77,7 @@
     "image": {
       "files": 14177,
       "existingOutbound": 20449,
-      "discoveredOutbound": 68728
+      "discoveredOutbound": 68727
     },
     "image-analysis": {
       "files": 1,
@@ -62027,6 +62027,13 @@
       "discoveredOutbound": 5,
       "totalOutbound": 5
     },
+    "knowledge/wiki/artists/Artist - A.md": {
+      "title": "Artist - A.E",
+      "type": "artist",
+      "existingOutbound": 1,
+      "discoveredOutbound": 6,
+      "totalOutbound": 7
+    },
     "knowledge/wiki/artists/Artist - ACAMA.md": {
       "title": "Artist - ACAMA",
       "type": "artist",
@@ -103415,8 +103422,8 @@
       "title": "Image Black And White Vin Diesel Meme About AI Art",
       "type": "image",
       "existingOutbound": 1,
-      "discoveredOutbound": 5,
-      "totalOutbound": 6
+      "discoveredOutbound": 4,
+      "totalOutbound": 5
     },
     "knowledge/wiki/images/Image Black and White Photo of Deleuze, Guattari, and Michael Cera 6bd04e73.md": {
       "title": "Image Black and White Photo of Deleuze, Guattari, and Michael Cera",
@@ -136328,9 +136335,9 @@
     "knowledge/wiki/pages/knowledge base art.md": {
       "title": "knowledge base art",
       "type": "html",
-      "existingOutbound": 71,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 79
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base cool words.md": {
       "title": "knowledge base cool words",
@@ -136342,37 +136349,37 @@
     "knowledge/wiki/pages/knowledge base culture society.md": {
       "title": "knowledge base culture society",
       "type": "html",
-      "existingOutbound": 20,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 28
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base music.md": {
       "title": "knowledge base music",
       "type": "html",
-      "existingOutbound": 33,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 41
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base philosophy critical thinking.md": {
       "title": "knowledge base philosophy critical thinking",
       "type": "html",
-      "existingOutbound": 19,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 27
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base psychology.md": {
       "title": "knowledge base psychology",
       "type": "html",
-      "existingOutbound": 11,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 19
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base quotes.md": {
       "title": "knowledge base quotes",
       "type": "html",
-      "existingOutbound": 48,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 56
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base speed racer.md": {
       "title": "knowledge base speed racer",
@@ -136384,23 +136391,23 @@
     "knowledge/wiki/pages/knowledge base technology ai.md": {
       "title": "knowledge base technology ai",
       "type": "html",
-      "existingOutbound": 18,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 26
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base web art.md": {
       "title": "knowledge base web art",
       "type": "html",
-      "existingOutbound": 6,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 14
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base wikipedia articles.md": {
       "title": "knowledge base wikipedia articles",
       "type": "html",
-      "existingOutbound": 34,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 42
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base.md": {
       "title": "knowledge base",

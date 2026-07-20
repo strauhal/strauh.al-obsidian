@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: spatial
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: spatial
-- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: spatial
 - [[knowledge/wiki/images/Illustration Abstract Figures Within Glowing Spatial Sphere aa198dd9|Illustration Abstract Figures Within Glowing Spatial Sphere]] — shared language: spatial
+- [[knowledge/wiki/concepts/Curated Disorder|Curated Disorder]] — shared language: spatial
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: spatial
 <!-- vault-crosslinks:end -->

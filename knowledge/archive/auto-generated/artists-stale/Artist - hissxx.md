@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Multi Eyed Figure with Pink Lightning Pigtails and Rainbow 491e99aa|Illustration Multi Eyed Figure with Pink Lightning Pigtails and Rainbow]] — shared language: lightning, pigtails, eyed
 - [[knowledge/wiki/books/thomas-pynchon-gravity-s-rainbow-penguin-classics-deluxe-edition-penguin-classics|Gravity's Rainbow (Penguin Classics Deluxe Edition)-Penguin Classics]] — shared language: rainbow
 - [[knowledge/wiki/images/Illustration Highly Stylized Blue and Orange Figure with Pigtails 553eacba|Illustration Highly Stylized Blue and Orange Figure with Pigtails]] — shared language: pigtails
-- [[knowledge/wiki/images/Illustration Surreal DeepDream Image of Multi Eyed Dog Like Creatures in Space by Google DeepDream 69ecd0d8|Illustration Surreal DeepDream Image of Multi Eyed Dog Like Creatures in Space by Google DeepDream]] — shared language: eyed, multi
 - [[knowledge/wiki/images/Illustration Surreal Landscape with Figures, Mountains, Lightning, and Portrait Inset 21cdb91b|Illustration Surreal Landscape with Figures, Mountains, Lightning, and Portrait Inset]] — shared language: lightning
+- [[knowledge/wiki/images/Illustration Surreal DeepDream Image of Multi Eyed Dog Like Creatures in Space by Google DeepDream 69ecd0d8|Illustration Surreal DeepDream Image of Multi Eyed Dog Like Creatures in Space by Google DeepDream]] — shared language: eyed, multi
 - [[knowledge/wiki/images/Illustration Anime Girl With Green Pigtails And Sunflowers 5872a275|Illustration Anime Girl With Green Pigtails And Sunflowers]] — shared language: pigtails
 <!-- vault-crosslinks:end -->

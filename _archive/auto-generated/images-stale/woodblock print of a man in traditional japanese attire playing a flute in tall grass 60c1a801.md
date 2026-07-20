@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Japanese Man in Traditional Attire Playing Flute in Tall Grass 9ec3b211|Illustration Japanese Man in Traditional Attire Playing Flute in Tall Grass]] — shared language: flute, attire, grass
+- [[knowledge/wiki/images/Illustration Japanese Man in Traditional Attire Playing Flute in Tall Grass 9ec3b211|Illustration Japanese Man in Traditional Attire Playing Flute in Tall Grass]] — shared language: attire, flute, grass
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: woodblock, print
 - [[_archive/auto-generated/images-stale/blue tree woodblock print ce799c3e|blue tree woodblock print]] — shared language: woodblock, print
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese

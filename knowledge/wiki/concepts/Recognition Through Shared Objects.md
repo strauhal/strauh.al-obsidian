@@ -33,7 +33,7 @@ the approach and lets intimacy develop around shared attention.
 - [[knowledge/wiki/concepts/Interest-Dependent Persistence|Interest-Dependent Persistence]] — shared language: persistence, evidence, attention
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: recognition
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: recognition
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: attention, unnecessary, persistence
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: attention, unnecessary, confidant
 - [[knowledge/wiki/maps/Map - Claim Provenance|Map - Claim Provenance]] — shared language: evidence, confidence
 - [[knowledge/wiki/books/william-gibson-pattern-recognition-a-novel|Pattern Recognition - A Novel]] — shared language: recognition
 - [[knowledge/wiki/images/Illustration Monochromatic Still Life Painting of a House and Objects 81f5d538|Illustration Monochromatic Still Life Painting of a House and Objects]] — shared language: objects

@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/artists-noise/Artist - a human hand|Artist - a human hand]] — shared language: forearm, hand, human
+- [[_archive/auto-generated/artists-noise/Artist - a human hand|Artist - a human hand]] — shared language: hand, forearm, human
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human, like
 - [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: like, human
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: like, human

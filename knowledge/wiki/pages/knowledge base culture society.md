@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/culture_society.html"
 source_relpath: "knowledge_base/culture_society.html"
 compiled: "True"
-compiled_at: "2026-07-19T02:00:04"
+compiled_at: "2026-07-19T13:06:43"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base culture society
@@ -299,54 +299,15 @@ strauh.al/knowledge_base/culture_society
 
 - None yet
 
-<!-- kb-links:start -->
-## Connections
-
-*Every bookmark on this page wired to the ideas, people, and books it touches — 51 of 247 links connected (16 nodes).*
-
-**[[The Internet as Confidant]]** — [Man on Melbourne tram was labelled a 'lowlife creep' but 'is autistic and loves giving strangers high-fives / Daily Mail Online](https://www.dailymail.co.uk/news/article-3830176/Man-Melbourne-tram-labelled-lowlife-creep-autistic-loves-giving-strangers-high-fives.html) · [The love story between Unabomber Ted Kacynzski and teacher Joy Richards / Daily Mail Online](https://www.dailymail.co.uk/news/article-3418476/The-love-story-Unabomber-Ted-Kacynzski-teacher-Joy-Richards.html) · [Police draw guns on stormtrooper with a fake blaster : PublicFreakout](https://www.reddit.com/r/PublicFreakout/comments/q1cnvw/police_draw_guns_on_stormtrooper_with_a_fake/) · [Boy, 15, gets USB cable stuck in his penis during sexual experiment gone wrong / Daily Mail Online](https://www.dailymail.co.uk/health/article-9996959/Boy-15-gets-USB-cable-stuck-penis-sexual-experiment-gone-wrong.html) · [Emergency goon kit : redscarepod](https://www.reddit.com/r/redscarepod/comments/llm2br/emergency_goon_kit/) · [Book your Taco Bell Wedding Online / Taco Bell Wedding](https://www.tacobellwedding.com/) · [Cyberpunk 2077 glitch leads to penises, breasts poking through clothes - Polygon](https://www.polygon.com/2020/12/10/22167349/cyberpunk-2077-penis-glitch-breasts) · [4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1](https://www.vice.com/en/article/d7eddj/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1) · [Factbox: Stonks to the Moon: Deciphering Reddit's WallStreetBets Lingo / Top News / US News](https://www.usnews.com/news/top-news/articles/2021-01-28/factbox-stonks-to-the-moon-deciphering-reddits-wallstreetbets-lingo) · [My rant about burrito bowls... : Chipotle](https://www.reddit.com/r/Chipotle/comments/ddexd3/my_rant_about_burrito_bowls/) · [Tone Indicators and How to Use Them - The New York Times](https://www.nytimes.com/2020/12/09/style/tone-indicators-online.html) · [Ladies of Reddit - what is the most sexiest thing an overweight gamer has done that made you immediately want to have sex with him/be his girlfriend? : AskReddit](https://www.reddit.com/r/AskReddit/comments/eskc2n/ladies_of_reddit_what_is_the_most_sexiest_thing/?utm_medium=android_app&amp;utm_source=share) · [Robocop Remake - Scene 27. Extended scene with excessive point blank dick shooting. : videos](https://www.reddit.com/r/videos/comments/8yodfj/robocop_remake_scene_27_extended_scene_with/) · [(1) Pierce Brosnan has a project : 4chan](https://www.reddit.com/r/4chan/comments/b4j4cb/pierce_brosnan_has_a_project/) · [Reddit - Dive into anything](https://www.reddit.com/r/awfuleverything/comments/px41a3/a_normal_day_at_reddit/) · [Niche Internet Micro-Celebrity / Know Your Meme](https://knowyourmeme.com/memes/niche-internet-micro-celebrity) · [How Wikipedia survives while the rest of the internet breaks / The Verge](https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales) · [Opinion / Charlie Kirk’s Killing and Our Poisonous Internet - The New York Times](https://www.nytimes.com/2025/09/14/opinion/charlie-kirk-shooting-internet.html) · [Charlie Kirk’s death got complicated by “extremely online” culture / The Verge](https://www.theverge.com/column/778988/charlie-kirk-tyler-robinson-online-regulator) · [Frank O'Hara : poet among painters : Perloff, Marjorie : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/frankoharapoetam00perl/page/n5/mode/2up) · [Students defeat new 'Barnacle' parking clamp, skip fines and get free internet / Driving](https://driving.ca/auto-news/news/students-defeat-new-barnacle-parking-boot-skip-fines-and-get-free-internet) · [LiveLeak, the internet’s font of gore and violence, has shut down - The Verge](https://www.theverge.com/2021/5/7/22424356/liveleak-shock-site-shuts-down-itemfix) · [The Online Hell of Amazon's Mechanical Turk - The Atlantic](https://www.theatlantic.com/business/archive/2018/01/amazon-mechanical-turk/551192/) · [How China's most enduring meme has lasted a decade / Mashable](https://mashable.com/article/china-reaction-images-4chan) · [I Wish I Didn't Miss the '90s-00s Internet / rohan ganapavarapu](https://rohan.ga/blog/early-internet/?utm_source=tldrnewsletter)
-
-**[[Post-Irony]]** — [The Mythology of Karen - The Atlantic](https://www.theatlantic.com/international/archive/2020/08/karen-meme-coronavirus/615355/) · [Average Fan vs. Average Enjoyer: Image Gallery (Sorted by Oldest) / Know Your Meme](https://knowyourmeme.com/memes/average-fan-vs-average-enjoyer/photos/sort/oldest) · [Poljak / Le /pol/ Face / Know Your Meme](https://knowyourmeme.com/memes/poljak-le-pol-face) · [Get In The Fucking Robot Shinji / Know Your Meme](https://knowyourmeme.com/memes/get-in-the-fucking-robot-shinji) · [If Only You Knew How Bad Things Really Are / Know Your Meme](https://knowyourmeme.com/memes/if-only-you-knew-how-bad-things-really-are) · [Niche Internet Micro-Celebrity / Know Your Meme](https://knowyourmeme.com/memes/niche-internet-micro-celebrity) · [Charlie Kirk’s alleged killer scratched bullets with a Helldivers combo and a furry sex meme / The Verge](https://www.theverge.com/politics/777313/charlie-kirks-alleged-killer-scratched-bullets-with-a-helldivers-combo-and-a-furry-sex-meme) · [Rifle round that killed Charlie Kirk engraved with trans sex, furry meme: 'Notices bulge OwO what's this?'](https://nypost.com/2025/09/14/us-news/rifle-round-that-killed-charlie-kirk-engraved-with-trans-sex-furry-meme-notices-bulge-owo-whats-this/) · [How China's most enduring meme has lasted a decade / Mashable](https://mashable.com/article/china-reaction-images-4chan)
-
-**[[The Atlantic]]** — [The Life in The Simpsons Is No Longer Attainable - The Atlantic](https://www.theatlantic.com/ideas/archive/2020/12/life-simpsons-no-longer-attainable/617499/) · [The Mythology of Karen - The Atlantic](https://www.theatlantic.com/international/archive/2020/08/karen-meme-coronavirus/615355/) · [The Film Students Who Can No Longer Sit Through Films - The Atlantic](https://www.theatlantic.com/ideas/2026/01/college-students-movies-attention-span/685812/) · [Why So Many MIT Students Are Writing Poetry - The Atlantic](https://www.theatlantic.com/books/archive/2025/08/what-mit-students-are-learning-poetry/683856/?utm_campaign=the-atlantic&amp;utm_content=edit-promo&amp;utm_medium=social&amp;utm_source=facebook) · [The End of Reading Is Here - The Atlantic](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/) · [The Online Hell of Amazon's Mechanical Turk - The Atlantic](https://www.theatlantic.com/business/archive/2018/01/amazon-mechanical-turk/551192/)
-
-**[[Marcel Proust]]** — [The Five Longest Proust Sentences – Nathan Brixius](https://nathanbrixius.wordpress.com/2013/10/30/the-five-longest-proust-sentences/) · [The Paris Review - Proust and the Joy of Suffering - The Paris Review](https://www.theparisreview.org/blog/2019/05/28/proust-and-the-joy-of-suffering/) · [182 Days of Marcel Proust: Day-by-Day Summary](https://proustproject.blogspot.com/p/day-by-day-summary.html)
-
-**[[The Attention Economy]]** — [The Film Students Who Can No Longer Sit Through Films - The Atlantic](https://www.theatlantic.com/ideas/2026/01/college-students-movies-attention-span/685812/) · [‘Bossware is coming for almost every worker’: the software you might not realize is watching you / Technology / The Guardian](https://www.theguardian.com/technology/2022/apr/27/remote-work-software-home-surveillance-computer-monitoring-pandemic?ref=disconnect.blog) · [The Costco Guys, explained / Vox](https://www.vox.com/culture/386361/costco-guys-rizzler-tiktok-aj-big-justice-jimmy-fallon)
-
-**[[Artist - Microsoft]]** — [#sm.00001sny3gs6vddyvum1cte74zje2](https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction/#sm.00001sny3gs6vddyvum1cte74zje2) · [Microsoft’s Bing is an emotionally manipulative liar, and people love it - The Verge](https://www.theverge.com/2023/2/15/23599072/microsoft-ai-bing-personality-conversations-spy-employees-webcams)
-
-**[[AI Slop]]** — [AI disdain takes the form of "clanker," a Star Wars-inspired slur](https://www.axios.com/2025/08/06/ai-chatgpt-star-wars-clankers)
-
-**[[Art Fills the God-Shaped Hole]]** — [Future Is the Patron Saint of Male Pettiness - DJBooth](https://djbooth.net/features/2019-01-22-future-patron-saint-male-pettiness-the-wizrd)
-
-**[[Artist - Marcel Proust]]** — [182 Days of Marcel Proust: Day-by-Day Summary](https://proustproject.blogspot.com/p/day-by-day-summary.html)
-
-**[[Artist - Security]]** — [Italy highway heist: Two arrested in Italy after armed highway robbery on security truck / CNN](https://www.cnn.com/2026/02/10/europe/two-arrested-highway-heist-italy-intl)
-
-**[[Atomization]]** — [The Goon Squad, by Daniel Kolitz](https://harpers.org/archive/2025/11/the-goon-squad-daniel-kolitz-porn-masturbation-loneliness/)
-
-**[[Autofiction]]** — [How a Character From Diary of a Wimpy Kid Became a Symbol of the Revolution / by Kristin Merrilees / The Startup / Medium](https://medium.com/swlh/how-a-character-from-diary-of-a-wimpy-kid-became-a-symbol-of-the-revolution-ded2ec064f74)
-
-**[[Memory and Preservation]]** — [The Mystery of S., the Man with an Impossible Memory / The New Yorker](https://www.newyorker.com/books/page-turner/the-mystery-of-s-the-man-with-an-impossible-memory)
-
-**[[Reading Like a Computer]]** — [cd-projekt-is-adjusting-cyberpunk-2077s-distracting-amo-1845881919](https://kotaku.com/cd-projekt-is-adjusting-cyberpunk-2077s-distracting-amo-1845881919)
-
-**[[The Goon Squad,]]** — [The Goon Squad, by Daniel Kolitz](https://harpers.org/archive/2025/11/the-goon-squad-daniel-kolitz-porn-masturbation-loneliness/)
-
-**[[To Render Myself Unnecessary]]** — [Best CA schools? Sacramento CA campus gets Blue Ribbon honors / Sacramento Bee](https://www.sacbee.com/news/local/education/article312858634.html)
-
-<!-- kb-links:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
 - [[knowledge/wiki/books/perloff-marjorie-frank-o-hara-poet-among-painters|Frank O'Hara poet among painters]] — named in this note
+- [[knowledge/wiki/books/daniel-kolitz-the-goon-squad|The Goon Squad,]] — named in this note
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
+- [[knowledge/wiki/books/the-end-of-reading-is-here-the-atlantic|The Atlantic]] — named in this note
 - [[knowledge/wiki/books/ai-dating|ai dating]] — named in this note
 - [[knowledge/wiki/books/augustine-of-hippo-confessions|Confessions]] — named in this note
-- [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
-- [[knowledge/wiki/anchors/california|california]] — named in this note
 <!-- vault-crosslinks:end -->

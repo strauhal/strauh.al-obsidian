@@ -31,8 +31,8 @@ This is an active book in Ernest's current cultural diet. Add dates, reactions, 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Comic Look Back by Tatsuki Fujimoto 5f04773b|Comic Look Back by Tatsuki Fujimoto]] — shared language: look, back, tatsuki
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: look, back
 - [[knowledge/wiki/artists/Artist - Tatsuki Fujimoto|Artist - Tatsuki Fujimoto]] — shared language: tatsuki, fujimoto, look
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: look, back
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: look
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: look
 - [[knowledge/wiki/culture/reading-the-dark-enlightenment|Reading - The Dark Enlightenment]] — shared language: current, stronger, develops

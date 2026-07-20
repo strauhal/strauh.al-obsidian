@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - marie helene vieira da silva|Artist - marie helene vieira da silva]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tuca vieira 2004|Artist - tuca vieira 2004]] — shared language: vieira
-- [[knowledge/wiki/images/the convalescent by helene schjerfbeck 1880 0d7b5dec|the convalescent by helene schjerfbeck 1880]] — shared language: helene
 - [[knowledge/wiki/artists/Artist - helene schjerfbeck|Artist - helene schjerfbeck]] — shared language: helene
 - [[knowledge/archive/auto-generated/artists-stale/Artist - helene schjerfbeck 1880|Artist - helene schjerfbeck 1880]] — shared language: helene
+- [[knowledge/wiki/images/the convalescent by helene schjerfbeck 1880 0d7b5dec|the convalescent by helene schjerfbeck 1880]] — shared language: helene
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tuca vieira|Artist - Tuca Vieira]] — shared language: vieira
 <!-- vault-crosslinks:end -->

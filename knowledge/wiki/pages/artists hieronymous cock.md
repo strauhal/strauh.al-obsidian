@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/artists/hieronymous_cock.html"
 source_relpath: "artists/hieronymous_cock.html"
 compiled: "True"
-compiled_at: "2026-07-19T02:00:03"
+compiled_at: "2026-07-19T13:06:43"
 tags: ["strauhal", "source/html"]
 ---
 # artists hieronymous cock

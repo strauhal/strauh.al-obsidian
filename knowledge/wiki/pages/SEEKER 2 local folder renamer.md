@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/seeker2.html"
 source_relpath: "seeker2.html"
 compiled: "True"
-compiled_at: "2026-07-19T02:00:04"
+compiled_at: "2026-07-19T13:06:44"
 tags: ["strauhal", "source/html"]
 ---
 # SEEKER 2 local folder renamer

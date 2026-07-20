@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Digital_Mind_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: graph, mind, view
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: nodes, graph
+- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: graph, mind, view
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: mind
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: mind
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: mind
